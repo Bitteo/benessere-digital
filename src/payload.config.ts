@@ -12,6 +12,9 @@ import { Categories } from './collections/Categories'
 import { Authors } from './collections/Authors'
 import { Articles } from './collections/Articles'
 import { Pages } from './collections/Pages'
+import { Apps } from './collections/Apps'
+import { Books } from './collections/Books'
+import { Creators } from './collections/Creators'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
@@ -25,7 +28,7 @@ export default buildConfig({
       baseDir: path.resolve(dirname),
     },
   },
-  collections: [Users, Media, Categories, Authors, Articles, Pages],
+  collections: [Users, Media, Categories, Authors, Articles, Pages, Apps, Books, Creators],
   editor: lexicalEditor(),
   secret: process.env.PAYLOAD_SECRET || 'fallback-secret-not-for-production',
   typescript: {

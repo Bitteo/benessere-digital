@@ -12,7 +12,8 @@
     "format:check": "prettier --check .",
     "payload": "payload",
     "generate:types": "payload generate:types",
-    "generate:importmap": "payload generate:importmap"
+    "generate:importmap": "payload generate:importmap",
+    "payload:seed": "tsx src/seed.ts"
   },
   "dependencies": {
     "@payloadcms/db-postgres": "^3.17.0",
