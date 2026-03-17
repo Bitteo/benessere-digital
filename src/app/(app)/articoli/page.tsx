@@ -1,7 +1,7 @@
 import { ArticleCard } from '@/components/ui/ArticleCard'
 import { getArticles, getCategories } from '@/lib/payload'
-import { CategoryTag } from '@/components/ui/CategoryTag'
 import type { Metadata } from 'next'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Articoli sul Benessere Digitale',
@@ -43,7 +43,7 @@ export default async function ArticoliPage({ searchParams }: Props) {
         {/* Category filter */}
         {categories.length > 0 && (
           <div className="flex flex-wrap gap-2 mb-10">
-            <a
+            <Link
               href="/articoli"
               className={`inline-block px-4 py-1.5 rounded-pill text-sm font-semibold transition-colors ${
                 !categoria
@@ -52,9 +52,9 @@ export default async function ArticoliPage({ searchParams }: Props) {
               }`}
             >
               Tutti
-            </a>
+            </Link>
             {categories.map((cat) => (
-              <a
+              <Link
                 key={cat.id}
                 href={`/articoli?categoria=${cat.slug}`}
                 className={`inline-block px-4 py-1.5 rounded-pill text-sm font-semibold transition-colors ${
@@ -64,7 +64,7 @@ export default async function ArticoliPage({ searchParams }: Props) {
                 }`}
               >
                 {cat.name}
-              </a>
+              </Link>
             ))}
           </div>
         )}
@@ -85,23 +85,23 @@ export default async function ArticoliPage({ searchParams }: Props) {
                 aria-label="Paginazione articoli"
               >
                 {page > 1 && (
-                  <a
+                  <Link
                     href={`/articoli?pagina=${page - 1}${categoria ? `&categoria=${categoria}` : ''}`}
                     className="btn-secondary px-5"
                   >
                     ← Precedente
-                  </a>
+                  </Link>
                 )}
                 <span className="flex items-center px-4 text-sm text-primary opacity-60">
                   {page} / {totalPages}
                 </span>
                 {page < totalPages && (
-                  <a
+                  <Link
                     href={`/articoli?pagina=${page + 1}${categoria ? `&categoria=${categoria}` : ''}`}
                     className="btn-secondary px-5"
                   >
                     Successivo →
-                  </a>
+                  </Link>
                 )}
               </nav>
             )}
