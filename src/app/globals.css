@@ -2,10 +2,36 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ==========================================================================
+   FONT DECLARATIONS
+   FuturaPT — proprietary Linotype font, self-hosted in /public/fonts/
+   NOTE: Verify commercial license covers benessere.digital domain before go-live.
+   CDN source reference: cdn.prod.website-files.com/66cc9c88f0b691dee7428cf1/
+   ========================================================================== */
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-Light.woff') format('woff'); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-LightObl.woff') format('woff'); font-weight: 300; font-style: italic; font-display: swap; }
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-Book.woff') format('woff'); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-BookObl.woff') format('woff'); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-Medium.woff') format('woff'); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-MediumObl.woff') format('woff'); font-weight: 500; font-style: italic; font-display: swap; }
+@font-face { font-family: 'FuturaPT-Demi'; src: url('/fonts/FuturaPT-Demi.woff') format('woff'); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: 'FuturaPT-Demi'; src: url('/fonts/FuturaPT-DemiObl.woff') format('woff'); font-weight: 600; font-style: italic; font-display: swap; }
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-Bold.woff') format('woff'); font-weight: 700; font-style: normal; font-display: swap; }
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-BoldObl.woff') format('woff'); font-weight: 700; font-style: italic; font-display: swap; }
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-ExtraBold.woff') format('woff'); font-weight: 800; font-style: normal; font-display: swap; }
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-Heavy.woff') format('woff'); font-weight: 900; font-style: normal; font-display: swap; }
+
+/* Pixelify Sans — variable font for decorative accent text (e.g. "digitale" in hero) */
+@font-face { font-family: 'PixelifySans'; src: url('/fonts/PixelifySans-VariableFont_wght.ttf') format('truetype'); font-weight: 400 700; font-style: normal; font-display: swap; }
+
+/* ==========================================================================
+   BASE STYLES
+   ========================================================================== */
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    --primary: #19242e;
+    --border: #e1e4e8;
+    --surface-subtle: #fafbfc;
   }
 
   html {
@@ -13,6 +39,141 @@
   }
 
   body {
-    @apply bg-white text-gray-900 antialiased;
+    font-family: 'FuturaPT', 'Futura', 'Century Gothic', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #19242e;
+    background-color: #ffffff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
   }
+
+  ::selection {
+    background-color: #A3C4F3;
+    color: #19242E;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'FuturaPT-Demi', 'FuturaPT', 'Futura', 'Century Gothic', sans-serif;
+    font-weight: 700;
+    color: #19242e;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  img, video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  *:focus-visible {
+    outline: 2px solid #4d65ff;
+    outline-offset: 2px;
+  }
+}
+
+/* ==========================================================================
+   COMPONENT UTILITIES
+   ========================================================================== */
+@layer components {
+  /* Containers */
+  .container-xs  { @apply max-w-container-xs w-full mx-auto; }
+  .container-sm  { @apply max-w-container-sm w-full mx-auto; }
+  .container-md  { @apply max-w-container-md w-full mx-auto; }
+  .container-lg  { @apply max-w-container-lg w-full mx-auto; }
+  .container-nav { @apply max-w-container-nav w-full mx-auto; }
+
+  /* Global horizontal padding */
+  .padding-global { @apply px-10 md:px-5; }
+
+  /* Typography utilities */
+  .text-meta {
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 160%;
+  }
+
+  .text-meta-small {
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    line-height: 130%;
+  }
+
+  .text-pixel {
+    font-family: 'PixelifySans', monospace;
+    font-weight: 600;
+  }
+
+  /* Buttons */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 cursor-pointer;
+    font-family: 'FuturaPT-Demi', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-align: center;
+    border-radius: 0.5rem;
+    height: 3rem;
+    padding: 0.75rem 1.5rem;
+    transition: background-color 0.1s ease-out, color 0.1s ease-out, border-color 0.1s ease-out;
+    white-space: nowrap;
+  }
+
+  .btn-primary {
+    @apply btn;
+    background-color: #19242e;
+    color: #ffffff;
+  }
+  .btn-primary:hover { background-color: #2d3e4e; }
+
+  .btn-primary-lg {
+    @apply btn-primary;
+    height: auto;
+    padding: 1rem 2rem;
+  }
+
+  .btn-secondary {
+    @apply btn;
+    background-color: #fafbfc;
+    color: #24292e;
+    border: 1px solid #e1e4e8;
+    border-radius: 0.25rem;
+    font-family: 'FuturaPT', sans-serif;
+    font-size: 0.875rem;
+    letter-spacing: normal;
+  }
+  .btn-secondary:hover { background-color: #f6f8fa; }
+
+  .btn-cta {
+    @apply btn;
+    background-color: #0366d6;
+    color: #ffffff;
+    border-radius: 0.25rem;
+    font-family: 'FuturaPT', sans-serif;
+    font-size: 0.875rem;
+    letter-spacing: normal;
+    height: auto;
+  }
+  .btn-cta:hover { background-color: #1158c7; }
+
+  /* Hover lift effect (used on cards, tabs) */
+  .hover-lift {
+    transition: transform 0.2s cubic-bezier(.165, .84, .44, 1), box-shadow 0.2s cubic-bezier(.165, .84, .44, 1);
+  }
+  .hover-lift:hover {
+    transform: translateY(-0.25rem);
+    box-shadow: 0 4px 8px 0 #c2c2c233;
+  }
+
+  /* Section padding helpers */
+  .section-sm { @apply py-12 md:py-12 sm:py-8; }
+  .section-md { @apply py-20 md:py-16 sm:py-12; }
+  .section-lg { @apply py-32 md:py-24 sm:py-16; }
 }
