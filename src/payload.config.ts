@@ -39,6 +39,10 @@ export default buildConfig({
       // Support both DATABASE_URL (Neon/Vercel convention) and DATABASE_URI
       connectionString: process.env.DATABASE_URL || process.env.DATABASE_URI || '',
     },
+    // push: true syncs the schema directly to the DB without migration files.
+    // Safe for a fresh database. Switch to migration files once the project
+    // has real production data to protect.
+    push: true,
   }),
   sharp,
   plugins: [
