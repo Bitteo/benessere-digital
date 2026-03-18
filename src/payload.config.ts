@@ -1,5 +1,6 @@
 import { buildConfig } from 'payload'
 import { postgresAdapter } from '@payloadcms/db-postgres'
+import type { MigrateUpArgs, MigrateDownArgs } from '@payloadcms/db-postgres'
 import { lexicalEditor } from '@payloadcms/richtext-lexical'
 import { vercelBlobStorage } from '@payloadcms/storage-vercel-blob'
 import sharp from 'sharp'
@@ -39,10 +40,24 @@ export default buildConfig({
       // Support both DATABASE_URL (Neon/Vercel convention) and DATABASE_URI
       connectionString: process.env.DATABASE_URL || process.env.DATABASE_URI || '',
     },
-    // push: true syncs the schema directly to the DB without migration files.
-    // Safe for a fresh database. Switch to migration files once the project
-    // has real production data to protect.
-    push: true,
+    // prodMigrations: on first production boot, push the full schema to the
+    // empty Neon DB. pushDevSchema is tracked as a migration so it only runs
+    // once; subsequent boots skip it because it's already in payload_migrations.
+    prodMigrations: [
+      {
+        name: '0000_initial_schema_push',
+        // eslint-disable-next-line @typescript-eslint/no-unused-vars
+        up: async ({ payload }: MigrateUpArgs) => {
+          process.env.PAYLOAD_FORCE_DRIZZLE_PUSH = 'true'
+          const { pushDevSchema } = await import('@payloadcms/drizzle')
+          await pushDevSchema(payload.db as Parameters<typeof pushDevSchema>[0])
+          delete process.env.PAYLOAD_FORCE_DRIZZLE_PUSH
+        },
+        down: async (_args: MigrateDownArgs) => {
+          // No-op: we never roll back the initial schema in production
+        },
+      },
+    ],
   }),
   sharp,
   plugins: [
