@@ -9,11 +9,11 @@ const config: Config = {
   theme: {
     // benessere.digital breakpoints (max-width based, matching original)
     screens: {
-      sm: '480px',
-      md: '768px',
-      lg: '992px',
-      xl: '1280px',
-      '2xl': '1440px',
+      '2xl': { max: '1440px' },
+      xl: { max: '1280px' },
+      lg: { max: '992px' },
+      md: { max: '768px' },
+      sm: { max: '480px' },
     },
     extend: {
       colors: {

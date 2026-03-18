@@ -44,7 +44,7 @@ export function NewsletterForm({
   return (
     <form
       onSubmit={handleSubmit}
-      className={`flex ${layout === 'inline' ? 'flex-row gap-2' : 'flex-col gap-3'} w-full`}
+      className={`flex ${layout === 'inline' ? 'flex-col sm:flex-col md:flex-row gap-3 md:gap-2' : 'flex-col gap-3'} w-full`}
       aria-label="Iscriviti alla newsletter"
     >
       <div className={layout === 'inline' ? 'flex-1' : 'w-full'}>
@@ -54,6 +54,10 @@ export function NewsletterForm({
         <input
           id="newsletter-email"
           type="email"
+          inputMode="email"
+          autoComplete="email"
+          autoCapitalize="none"
+          autoCorrect="off"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           placeholder={placeholder}

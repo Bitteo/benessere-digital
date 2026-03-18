@@ -81,7 +81,7 @@ export function Footer() {
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label={s.label}
-                    className="text-primary hover:text-cta-blue-hover transition-colors hover:-translate-y-1 transition-transform duration-200"
+                    className="text-primary hover:text-cta-blue-hover transition-colors hover:-translate-y-1 transition-transform duration-200 p-2 -m-2"
                   >
                     {s.icon}
                   </a>
@@ -100,7 +100,7 @@ export function Footer() {
                       <li key={l.href}>
                         <Link
                           href={l.href}
-                          className="text-sm font-medium text-primary underline hover:text-cta-blue-hover transition-colors"
+                          className="text-base font-medium text-primary underline hover:text-cta-blue-hover transition-colors inline-block py-2"
                         >
                           {l.label}
                         </Link>
@@ -116,7 +116,7 @@ export function Footer() {
                       <li key={l.href}>
                         <Link
                           href={l.href}
-                          className="text-sm font-medium text-primary underline hover:text-cta-blue-hover transition-colors"
+                          className="text-base font-medium text-primary underline hover:text-cta-blue-hover transition-colors inline-block py-2"
                         >
                           {l.label}
                         </Link>
@@ -133,7 +133,7 @@ export function Footer() {
                     <li key={l.href}>
                       <Link
                         href={l.href}
-                        className="text-sm font-medium text-primary underline hover:text-cta-blue-hover transition-colors"
+                        className="text-base font-medium text-primary underline hover:text-cta-blue-hover transition-colors inline-block py-2"
                       >
                         {l.label}
                       </Link>

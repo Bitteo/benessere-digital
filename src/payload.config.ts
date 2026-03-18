@@ -46,9 +46,9 @@ export default buildConfig({
     prodMigrations: [
       {
         name: '0000_initial_schema_push',
-        // eslint-disable-next-line @typescript-eslint/no-unused-vars
         up: async ({ payload }: MigrateUpArgs) => {
           process.env.PAYLOAD_FORCE_DRIZZLE_PUSH = 'true'
+          // @ts-expect-error - @payloadcms/drizzle is an internal dependency of @payloadcms/db-postgres
           const { pushDevSchema } = await import('@payloadcms/drizzle')
           await pushDevSchema(payload.db as Parameters<typeof pushDevSchema>[0])
           delete process.env.PAYLOAD_FORCE_DRIZZLE_PUSH
