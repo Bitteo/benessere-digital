@@ -46,6 +46,7 @@ export default buildConfig({
     prodMigrations: [
       {
         name: '0000_initial_schema_push',
+        // eslint-disable-next-line
         up: async ({ payload }: MigrateUpArgs) => {
           process.env.PAYLOAD_FORCE_DRIZZLE_PUSH = 'true'
           // @ts-expect-error - @payloadcms/drizzle is an internal dependency of @payloadcms/db-postgres
