@@ -4,11 +4,6 @@
   "devCommand": "pnpm dev",
   "installCommand": "pnpm install",
   "outputDirectory": ".next",
-  "functions": {
-    "src/app/(payload)/api/[...slug]/route.ts": {
-      "maxDuration": 60
-    }
-  },
   "headers": [
     {
       "source": "/(.*)",

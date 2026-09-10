@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import type { AppItem, BookItem, CreatorItem } from '@/lib/payload'
-import { getImageUrl } from '@/lib/payload'
+import type { AppItem, BookItem, CreatorItem } from '@/lib/content'
+import { getImageUrl } from '@/lib/content'
 
 const videos = [
   { title: 'Che cosa è il digital detox secondo Fedez ft. Willwoosh', id: 'Xus4ihr2O0s' },

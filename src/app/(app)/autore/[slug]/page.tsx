@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation'
-import { getAuthorBySlug, getArticles } from '@/lib/payload'
+import { getAuthorBySlug, getArticles } from '@/lib/content'
 import { AuthorBio } from '@/components/ui/AuthorBio'
 import { ArticleCard } from '@/components/ui/ArticleCard'
 import { NewsletterBanner } from '@/components/sections/NewsletterBanner'
@@ -7,6 +7,10 @@ import type { Metadata } from 'next'
 
 type Props = {
   params: Promise<{ slug: string }>
+}
+
+export async function generateStaticParams() {
+  return [{ slug: 'matteo-foroni' }]
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -25,10 +29,7 @@ export default async function AutorePage({ params }: Props) {
   const author = await getAuthorBySlug(slug)
   if (!author) notFound()
 
-  const { docs: articles } = await getArticles({ limit: 12 })
-  const byAuthor = articles.filter((article) =>
-    article.authors?.some((item) => item.slug === author.slug),
-  )
+  const { docs: byAuthor } = await getArticles({ limit: 24, author: author.slug })
 
   return (
     <main>

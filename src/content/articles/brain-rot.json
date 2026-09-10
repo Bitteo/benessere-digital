@@ -1,0 +1,205 @@
+{
+  "slug": "brain-rot",
+  "title": "Brain Rot: La parola dell'anno che sta cambiando il modo di pensare ai contenuti digitali",
+  "excerpt": "Il \"brain rot\" descrive il deterioramento cognitivo causato dal consumo eccessivo di contenuti digitali di bassa qualità. Oxford lo ha eletto parola dell'anno 2024.",
+  "cover": "/images/covers/brain-rot.png",
+  "coverAlt": "Copertina: Brain Rot: La parola dell'anno che sta cambiando il modo di pensare ai contenuti digitali",
+  "publishedAt": "2025-01-08T14:38:25.581Z",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "benessere-digitale",
+    "schermo-e-tempo"
+  ],
+  "readingTime": 5,
+  "status": "published",
+  "seo": {
+    "metaTitle": "Brain Rot: comprendere la parola dell’anno 2024",
+    "metaDescription": "Scopri cosa significa 'brain rot', la parola dell'anno 2024, e il suo impatto sui consumatori digitali e la salute mentale."
+  },
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cos’è il Brain Rot?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "'Brain rot' è una locuzione che descrive un fenomeno sempre più comune nella nostra era digitale: il deterioramento mentale percepito come conseguenza del consumo eccessivo di contenuti banali e superficiali, specialmente attraverso i social media. In un momento storico in cui siamo inondati di informazioni, il termine solleva interrogativi significativi sulla qualità degli stimoli cognitivi a cui ci esponiamo quotidianamente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le origini del termine",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sebbene di recente coniazione come parola dell’anno, l'espressione 'brain rot' ha radici profonde. Fu utilizzata per la prima volta nel 1854 da Henry David Thoreau nel suo celebre libro \"Walden\". Thoreau utilizzò la locuzione per criticare ciò che percepiva come una tendenza della società a svalutare i pensieri complessi e a lasciarsi trascinare dal banale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La crescita della popolarità del Brain Rot",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L'uso del termine 'brain rot' è salito alla ribalta negli ultimi tempi, con un aumento del 230% tra il 2023 e il 2024. Tra i principali fautori di questa diffusione ci sono le generazioni più giovani, come la Gen Z e la Gen Alpha. Sui social media, queste generazioni hanno reso virale il termine, riflettendo un irrequieto senso di insoddisfazione per la qualità dei contenuti digitali cui sono esposte.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Impatto sulla salute mentale",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non sorprende che il 'brain rot' sia associato a vari effetti negativi sulla salute mentale. Lo stato di affaticamento mentale che acuisce, la riduzione dell'attenzione e le difficoltà nel prendere decisioni sono solo alcune delle manifestazioni di questo fenomeno. L'accesso continuo a contenuti non stimolanti erode progressivamente la nostra capacità di riflessione critica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Comportamenti associati al Brain Rot",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tra i comportamenti più comuni legati al brain rot emergono pratiche come il 'doomscrolling', che significa scorrere continuamente attraverso notizie spesso negative, e lo 'zombie scrolling', ovvero navigare senza uno scopo preciso. Questi comportamenti creano un'esperienza di sovraccarico cognitivo, che contribuisce significativamente all'impressione di stasi mentale e stanchezza.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Riflessione culturale e bisogno di Digital Detox",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "'Brain rot' non è solo un fenomeno isolato, ma una critica culturale incisiva del nostro tempo. Illustra le ansie che permeano la società riguardo all'impatto che i contenuti digitali esercitano sulla nostra capacità di elaborare pensieri complessi. Come reazione a queste preoccupazioni, molte persone stanno optando per un digital detox, ovvero la disconnessione temporanea dai dispositivi digitali per rigenerarsi mentalmente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Conclusione",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La nomina di 'brain rot' come parola dell’anno 2024 è più che mai significativa. Mette in luce una preoccupazione crescente per la nostra salute mentale e la qualità dei contenuti digitali che scegliamo di consumare. Esplora la tua relazione con il digitale e considera di fare una pausa ogni tanto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Hai notato sintomi di brain rot nella tua vita quotidiana? Raccontaci la tua esperienza per discutere di più su come una strategia di digital detox possa fare la differenza per te.",
+              "version": 1,
+              "format": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  }
+}

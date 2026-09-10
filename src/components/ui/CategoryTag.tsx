@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import type { Category } from '@/lib/payload'
+import type { Category } from '@/lib/content'
 
 type Props = {
   category: Category

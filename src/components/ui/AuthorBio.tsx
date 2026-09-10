@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import type { Author } from '@/lib/payload'
-import { getImageUrl } from '@/lib/payload'
+import type { Author } from '@/lib/content'
+import { getImageUrl } from '@/lib/content'
 
 type Props = {
   author: Author
