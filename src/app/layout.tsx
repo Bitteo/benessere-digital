@@ -16,13 +16,24 @@ export const metadata: Metadata = {
   description:
     "La principale piattaforma italiana sul benessere digitale: gestione dello schermo, salute mentale digitale, sicurezza online per giovani, genitori ed educatori.",
   metadataBase: new URL(process.env.NEXT_PUBLIC_SERVER_URL || 'https://benessere.digital'),
+  icons: {
+    icon: '/images/benessere.digital-favicon.png',
+    apple: '/images/benessere.digital-webclip.png',
+  },
   openGraph: {
     type: 'website',
     locale: 'it_IT',
     siteName: 'benessere.digital',
+    images: [
+      {
+        url: '/images/og-image.png',
+        alt: 'benessere.digital',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
+    images: ['/images/og-image.png'],
   },
   robots: {
     index: true,

@@ -6,6 +6,7 @@ import { CategoryTag } from '@/components/ui/CategoryTag'
 import { AuthorBio } from '@/components/ui/AuthorBio'
 import { ArticleCard } from '@/components/ui/ArticleCard'
 import { NewsletterBanner } from '@/components/sections/NewsletterBanner'
+import { LexicalContent } from '@/components/ui/LexicalContent'
 import type { Metadata } from 'next'
 
 type Props = {
@@ -138,11 +139,8 @@ export default async function ArticleDetailPage({ params }: Props) {
 
       {/* Article body */}
       <article className="container-md padding-global section-md">
-        {/* Rich text content — TODO: integrate Lexical renderer when available */}
-        <div className="prose prose-lg max-w-none text-primary">
-          {!article.content && (
-            <p className="text-primary opacity-50 italic">Contenuto in fase di pubblicazione…</p>
-          )}
+        <div className="article-body max-w-none text-primary flex flex-col gap-5 text-base leading-relaxed">
+          <LexicalContent content={article.content} />
         </div>
       </article>
 

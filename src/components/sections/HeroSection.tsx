@@ -64,7 +64,7 @@ export function HeroSection() {
           >
             <Image
               src="/images/hero-benessere-digital.png"
-              alt="Illustrazione benessere digitale"
+              alt="Una persona che medita, in pieno controllo della sua mente, fa fluttuare dispositivi elettronici intorno a lui."
               fill
               className="object-cover"
               style={{ borderRadius: '0.25rem 0 0 0.25rem' }}

@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { getCategories } from '@/lib/payload'
+import { mergeCategories } from '@/lib/categories'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -9,7 +10,7 @@ export const metadata: Metadata = {
 }
 
 export default async function CategoriesPage() {
-  const categories = await getCategories()
+  const categories = mergeCategories(await getCategories().catch(() => []))
 
   return (
     <main>

@@ -1,6 +1,7 @@
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
-import { getCategoryBySlug, getArticles, getCategories } from '@/lib/payload'
+import { getCategoryBySlug, getArticles } from '@/lib/payload'
+import { fallbackCategory, KNOWN_CATEGORIES } from '@/lib/categories'
 import { ArticleCard } from '@/components/ui/ArticleCard'
 import { NewsletterBanner } from '@/components/sections/NewsletterBanner'
 import type { Metadata } from 'next'
@@ -10,9 +11,12 @@ type Props = {
   searchParams: Promise<{ pagina?: string }>
 }
 
+export const dynamicParams = true
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params
-  const category = await getCategoryBySlug(slug)
+  // Never hit Payload here: a 5xx from /api/categories fails the whole page as HTTP 500.
+  const category = fallbackCategory(slug)
   if (!category) return {}
 
   return {
@@ -23,8 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export async function generateStaticParams() {
-  const categories = await getCategories()
-  return categories.map((c) => ({ slug: c.slug }))
+  return KNOWN_CATEGORIES.map((category) => ({ slug: category.slug }))
 }
 
 export default async function CategoriaPage({ params, searchParams }: Props) {
@@ -32,17 +35,23 @@ export default async function CategoriaPage({ params, searchParams }: Props) {
   const { pagina } = await searchParams
   const page = Number(pagina) || 1
 
-  const [category, { docs: articles, totalPages }] = await Promise.all([
-    getCategoryBySlug(slug),
-    getArticles({ page, limit: 12, category: slug }),
-  ])
+  const category = fallbackCategory(slug) ?? (await getCategoryBySlug(slug).catch(() => null))
+  let articles: Awaited<ReturnType<typeof getArticles>>['docs'] = []
+  let totalPages = 0
+
+  try {
+    const list = await getArticles({ page, limit: 12, category: slug })
+    articles = Array.isArray(list.docs) ? list.docs : []
+    totalPages = list.totalPages || 0
+  } catch {
+    // CMS down or invalid filter: still render the known tab, never 500
+  }
 
   if (!category) notFound()
 
   return (
     <main>
       <div className="container-lg padding-global section-md">
-        {/* Breadcrumb */}
         <nav className="flex items-center gap-2 text-tiny text-primary opacity-50 mb-8" aria-label="Breadcrumb">
           <Link href="/" className="hover:opacity-80">Home</Link>
           <span>/</span>
@@ -51,7 +60,6 @@ export default async function CategoriaPage({ params, searchParams }: Props) {
           <span className="opacity-100">{category.name}</span>
         </nav>
 
-        {/* Page header */}
         <div className="mb-10 pb-10 border-b border-border">
           <p className="text-meta text-primary opacity-50 mb-2">Categoria</p>
           <h1
@@ -65,7 +73,6 @@ export default async function CategoriaPage({ params, searchParams }: Props) {
           )}
         </div>
 
-        {/* Articles grid */}
         {articles.length > 0 ? (
           <>
             <div className="grid grid-cols-3 lg:grid-cols-2 sm:grid-cols-1 gap-4">
@@ -74,7 +81,6 @@ export default async function CategoriaPage({ params, searchParams }: Props) {
               ))}
             </div>
 
-            {/* Pagination */}
             {totalPages > 1 && (
               <nav
                 className="flex justify-center gap-2 mt-12"
