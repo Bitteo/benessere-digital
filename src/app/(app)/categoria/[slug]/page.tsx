@@ -15,7 +15,8 @@ export const dynamicParams = true
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params
-  const category = (await getCategoryBySlug(slug)) ?? fallbackCategory(slug)
+  // Never hit Payload here: a 5xx from /api/categories fails the whole page as HTTP 500.
+  const category = fallbackCategory(slug)
   if (!category) return {}
 
   return {
@@ -34,18 +35,14 @@ export default async function CategoriaPage({ params, searchParams }: Props) {
   const { pagina } = await searchParams
   const page = Number(pagina) || 1
 
-  let category = fallbackCategory(slug)
+  const category = fallbackCategory(slug) ?? (await getCategoryBySlug(slug).catch(() => null))
   let articles: Awaited<ReturnType<typeof getArticles>>['docs'] = []
   let totalPages = 0
 
   try {
-    const [fromCms, list] = await Promise.all([
-      getCategoryBySlug(slug),
-      getArticles({ page, limit: 12, category: slug }),
-    ])
-    category = fromCms ?? category
-    articles = list.docs
-    totalPages = list.totalPages
+    const list = await getArticles({ page, limit: 12, category: slug })
+    articles = Array.isArray(list.docs) ? list.docs : []
+    totalPages = list.totalPages || 0
   } catch {
     // CMS down or invalid filter: still render the known tab, never 500
   }

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 }
 
 export default async function CategoriesPage() {
-  const categories = mergeCategories(await getCategories())
+  const categories = mergeCategories(await getCategories().catch(() => []))
 
   return (
     <main>
