@@ -31,7 +31,7 @@ Percorsi locali = filename attesi da `globals.css` e dai componenti Next.
 
 FuturaPT ExtraBoldObl e HeavyObl sono nel CSS Webflow; aggiunti per parità completa. FuturaPT è Linotype: verificare la licenza sul dominio.
 
-## CMS (copertine seed)
+## Copertine articoli
 
 | Destinazione | Sorgente CDN |
 |---|---|

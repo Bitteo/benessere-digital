@@ -9,23 +9,12 @@
     "start": "next start",
     "lint": "next lint",
     "format": "prettier --write .",
-    "format:check": "prettier --check .",
-    "payload": "payload",
-    "generate:types": "payload generate:types",
-    "generate:importmap": "payload generate:importmap",
-    "payload:seed": "tsx src/seed.ts"
+    "format:check": "prettier --check ."
   },
   "dependencies": {
-    "@payloadcms/db-postgres": "^3.17.0",
-    "@payloadcms/next": "^3.17.0",
-    "@payloadcms/richtext-lexical": "^3.17.0",
-    "@payloadcms/storage-vercel-blob": "^3.17.0",
-    "graphql": "^16.8.1",
     "next": "^15.4.11",
-    "payload": "^3.17.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "sharp": "0.32.6"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@types/eslint": "^8",

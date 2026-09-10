@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getArticleBySlug, getArticles, getImageUrl, formatDate } from '@/lib/payload'
+import { getArticleBySlug, getArticles, getImageUrl, formatDate } from '@/lib/content'
 import { CategoryTag } from '@/components/ui/CategoryTag'
 import { AuthorBio } from '@/components/ui/AuthorBio'
 import { ArticleCard } from '@/components/ui/ArticleCard'

@@ -1,5 +1,5 @@
 import { ArticleCard } from '@/components/ui/ArticleCard'
-import { getArticles, getCategories } from '@/lib/payload'
+import { getArticles, getCategories } from '@/lib/content'
 import type { Metadata } from 'next'
 import Link from 'next/link'
 

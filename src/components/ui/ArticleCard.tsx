@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import type { Article } from '@/lib/payload'
-import { getImageUrl, formatDate } from '@/lib/payload'
+import type { Article } from '@/lib/content'
+import { getImageUrl, formatDate } from '@/lib/content'
 import { CategoryTag } from './CategoryTag'
 
 type Props = {

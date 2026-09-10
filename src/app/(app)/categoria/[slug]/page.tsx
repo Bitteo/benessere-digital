@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
-import { getCategoryBySlug, getArticles } from '@/lib/payload'
+import { getCategoryBySlug, getArticles } from '@/lib/content'
 import { fallbackCategory, KNOWN_CATEGORIES } from '@/lib/categories'
 import { ArticleCard } from '@/components/ui/ArticleCard'
 import { NewsletterBanner } from '@/components/sections/NewsletterBanner'
@@ -15,8 +15,7 @@ export const dynamicParams = true
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params
-  // Never hit Payload here: a 5xx from /api/categories fails the whole page as HTTP 500.
-  const category = fallbackCategory(slug)
+  const category = fallbackCategory(slug) ?? (await getCategoryBySlug(slug))
   if (!category) return {}
 
   return {
@@ -35,19 +34,12 @@ export default async function CategoriaPage({ params, searchParams }: Props) {
   const { pagina } = await searchParams
   const page = Number(pagina) || 1
 
-  const category = fallbackCategory(slug) ?? (await getCategoryBySlug(slug).catch(() => null))
-  let articles: Awaited<ReturnType<typeof getArticles>>['docs'] = []
-  let totalPages = 0
-
-  try {
-    const list = await getArticles({ page, limit: 12, category: slug })
-    articles = Array.isArray(list.docs) ? list.docs : []
-    totalPages = list.totalPages || 0
-  } catch {
-    // CMS down or invalid filter: still render the known tab, never 500
-  }
-
+  const category = fallbackCategory(slug) ?? (await getCategoryBySlug(slug))
   if (!category) notFound()
+
+  const list = await getArticles({ page, limit: 12, category: slug })
+  const articles = list.docs
+  const totalPages = list.totalPages
 
   return (
     <main>

@@ -14,7 +14,7 @@ import {
 import { FaqSection } from '@/components/sections/FaqSection'
 import { ContactSection } from '@/components/sections/ContactSection'
 import { ArticleCard } from '@/components/ui/ArticleCard'
-import { getArticles, getApps, getBooks, getCreators } from '@/lib/payload'
+import { getArticles, getApps, getBooks, getCreators } from '@/lib/content'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
