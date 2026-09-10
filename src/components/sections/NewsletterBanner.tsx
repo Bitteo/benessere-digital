@@ -9,7 +9,7 @@ export function NewsletterBanner() {
     >
       <div className="container-lg padding-global">
         <div
-          className="rounded-xl p-8 md:p-6 grid grid-cols-[3fr_0.75fr] md:grid-cols-1 gap-8 items-center overflow-hidden"
+          className="rounded-xl p-8 md:p-6 grid grid-cols-[1.4fr_1fr] md:grid-cols-1 gap-8 items-center overflow-hidden"
           style={{ backgroundColor: '#19242e' }}
         >
           <div className="flex flex-col gap-4">
@@ -27,13 +27,13 @@ export function NewsletterBanner() {
               <NewsletterForm layout="inline" placeholder="La tua email" />
             </div>
           </div>
-          <div className="relative md:hidden min-h-[12rem] self-stretch">
+          <div className="relative md:hidden min-h-[18rem] self-stretch rounded-lg overflow-hidden bg-white">
             <Image
               src="/images/newsletter-banner.png"
               alt="Illustrazione newsletter benessere digitale"
               fill
-              className="object-contain object-center"
-              sizes="25vw"
+              className="object-cover object-top"
+              sizes="(max-width: 768px) 0px, 40vw"
             />
           </div>
         </div>
