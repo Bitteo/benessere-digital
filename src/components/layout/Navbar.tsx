@@ -1,5 +1,6 @@
 'use client'
 
+import Image from 'next/image'
 import Link from 'next/link'
 import { useState } from 'react'
 
@@ -20,14 +21,15 @@ export function Navbar() {
       <div className="container-nav padding-global">
         <div className="flex items-center justify-between h-[4.5rem] md:h-16">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 flex-shrink-0">
-            {/* SVG logo — replace src when /public/images/logo.svg is available */}
-            <span
-              className="text-primary font-bold tracking-tight"
-              style={{ fontFamily: 'FuturaPT-Demi, sans-serif', fontSize: '1.125rem' }}
-            >
-              benessere.digital
-            </span>
+          <Link href="/" className="flex items-center gap-2 flex-shrink-0" aria-label="benessere.digital — homepage">
+            <Image
+              src="/images/benessere.digital.svg"
+              alt="benessere.digital"
+              width={210}
+              height={25}
+              priority
+              className="h-6 w-auto sm:h-5"
+            />
           </Link>
 
           {/* Desktop nav links */}

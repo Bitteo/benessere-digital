@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useEffect, useId, useState } from 'react'
 
 type Props = {
   layout?: 'inline' | 'stacked'
@@ -11,21 +11,52 @@ export function NewsletterForm({
   layout = 'stacked',
   placeholder = 'La tua email',
 }: Props) {
+  const inputId = useId()
   const [email, setEmail] = useState('')
-  const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle')
+  const [status, setStatus] = useState<'checking' | 'disabled' | 'idle' | 'loading' | 'success' | 'error'>('checking')
+  const [message, setMessage] = useState('')
+
+  useEffect(() => {
+    let cancelled = false
+    fetch('/api/newsletter')
+      .then((res) => res.json())
+      .then((data: { enabled?: boolean }) => {
+        if (cancelled) return
+        setStatus(data.enabled ? 'idle' : 'disabled')
+      })
+      .catch(() => {
+        if (!cancelled) setStatus('disabled')
+      })
+    return () => {
+      cancelled = true
+    }
+  }, [])
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
-    if (!email) return
+    if (!email || status === 'disabled' || status === 'checking') return
 
     setStatus('loading')
+    setMessage('')
     try {
-      // TODO: wire up to newsletter provider (Mailchimp / Brevo / ConvertKit)
-      await new Promise((r) => setTimeout(r, 600))
+      const res = await fetch('/api/newsletter', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      })
+      const data = (await res.json().catch(() => ({}))) as { error?: string }
+
+      if (!res.ok) {
+        setStatus(res.status === 503 ? 'disabled' : 'error')
+        setMessage(data.error || 'Qualcosa è andato storto. Riprova.')
+        return
+      }
+
       setStatus('success')
       setEmail('')
     } catch {
       setStatus('error')
+      setMessage('Qualcosa è andato storto. Riprova.')
     }
   }
 
@@ -41,6 +72,8 @@ export function NewsletterForm({
     )
   }
 
+  const disabled = status === 'disabled' || status === 'checking' || status === 'loading'
+
   return (
     <form
       onSubmit={handleSubmit}
@@ -48,11 +81,11 @@ export function NewsletterForm({
       aria-label="Iscriviti alla newsletter"
     >
       <div className={layout === 'inline' ? 'flex-1' : 'w-full'}>
-        <label htmlFor="newsletter-email" className="sr-only">
+        <label htmlFor={inputId} className="sr-only">
           Indirizzo email
         </label>
         <input
-          id="newsletter-email"
+          id={inputId}
           type="email"
           inputMode="email"
           autoComplete="email"
@@ -62,22 +95,28 @@ export function NewsletterForm({
           onChange={(e) => setEmail(e.target.value)}
           placeholder={placeholder}
           required
-          disabled={status === 'loading'}
+          disabled={disabled}
           className="w-full px-4 py-2.5 border-[1.5px] border-border rounded-md text-lg text-primary
             placeholder:text-placeholder placeholder:text-base
             focus:outline-none focus:border-placeholder
-            disabled:opacity-50 transition-colors"
+            disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
           style={{ fontSize: '1.125rem' }}
         />
       </div>
 
       <button
         type="submit"
-        disabled={status === 'loading'}
-        className="btn-primary-lg flex-shrink-0 disabled:opacity-50"
+        disabled={disabled}
+        className="btn-primary-lg flex-shrink-0 disabled:opacity-50 disabled:cursor-not-allowed"
       >
         {status === 'loading' ? 'Invio…' : 'Iscriviti'}
       </button>
+
+      {status === 'disabled' && (
+        <p className="text-sm text-primary opacity-70" role="status">
+          Iscrizioni temporaneamente non disponibili. Torna a trovarci a breve.
+        </p>
+      )}
 
       {status === 'error' && (
         <p
@@ -85,7 +124,7 @@ export function NewsletterForm({
           style={{ backgroundColor: '#f8e4e4', color: '#3b0b0b' }}
           role="alert"
         >
-          Qualcosa è andato storto. Riprova.
+          {message || 'Qualcosa è andato storto. Riprova.'}
         </p>
       )}
     </form>

@@ -68,6 +68,40 @@ export type Page = {
   }
 }
 
+export type AppItem = {
+  id: string
+  name: string
+  slug: string
+  description: string
+  useCase?: string
+  appStoreUrl?: string
+  playStoreUrl?: string
+  icon?: MediaItem | null
+  featured?: boolean
+}
+
+export type BookItem = {
+  id: string
+  title: string
+  slug: string
+  author: string
+  description?: string
+  buyUrl?: string
+  coverImage?: MediaItem | null
+  featured?: boolean
+}
+
+export type CreatorItem = {
+  id: string
+  handle: string
+  slug: string
+  name?: string
+  bio?: string
+  platforms?: Array<{ platform: string; url?: string }>
+  avatar?: MediaItem | null
+  featured?: boolean
+}
+
 // ---------------------------------------------------------------------------
 // Fetcher
 // ---------------------------------------------------------------------------
@@ -112,7 +146,12 @@ export async function getArticles(params?: {
   })
 
   if (category) {
-    qs.set('where[categories.slug][equals]', category)
+    const categoryDoc = await getCategoryBySlug(category)
+    if (categoryDoc) {
+      qs.set('where[categories][in]', categoryDoc.id)
+    } else {
+      qs.set('where[categories.slug][equals]', category)
+    }
   }
 
   const result = await payloadFetch<Article>(`/articles?${qs}`, {
@@ -165,6 +204,38 @@ export async function getCategoryBySlug(slug: string): Promise<Category | null> 
 // Pages
 // ---------------------------------------------------------------------------
 
+export async function getAuthorBySlug(slug: string): Promise<Author | null> {
+  const qs = new URLSearchParams({ 'where[slug][equals]': slug, limit: '1', depth: '1' })
+  const result = await payloadFetch<Author>(`/authors?${qs}`, {
+    next: { tags: [`author-${slug}`], revalidate: 3600 },
+  })
+  return (result as { docs: Author[] })?.docs?.[0] ?? null
+}
+
+export async function getApps(): Promise<AppItem[]> {
+  const qs = new URLSearchParams({ limit: '20', depth: '1', sort: 'name' })
+  const result = await payloadFetch<AppItem>(`/apps?${qs}`, {
+    next: { tags: ['apps'], revalidate: 300 },
+  })
+  return (result as { docs: AppItem[] })?.docs ?? []
+}
+
+export async function getBooks(): Promise<BookItem[]> {
+  const qs = new URLSearchParams({ limit: '20', depth: '1', sort: 'title' })
+  const result = await payloadFetch<BookItem>(`/books?${qs}`, {
+    next: { tags: ['books'], revalidate: 300 },
+  })
+  return (result as { docs: BookItem[] })?.docs ?? []
+}
+
+export async function getCreators(): Promise<CreatorItem[]> {
+  const qs = new URLSearchParams({ limit: '20', depth: '1', sort: 'handle' })
+  const result = await payloadFetch<CreatorItem>(`/creators?${qs}`, {
+    next: { tags: ['creators'], revalidate: 300 },
+  })
+  return (result as { docs: CreatorItem[] })?.docs ?? []
+}
+
 export async function getPageBySlug(slug: string): Promise<Page | null> {
   const qs = new URLSearchParams({ 'where[slug][equals]': slug, limit: '1', depth: '2' })
   const result = await payloadFetch<Page>(`/pages?${qs}`, {
@@ -178,7 +249,7 @@ export async function getPageBySlug(slug: string): Promise<Page | null> {
 // ---------------------------------------------------------------------------
 
 export function getImageUrl(media: MediaItem | null | undefined): string {
-  if (!media) return '/images/placeholder.jpg'
+  if (!media?.url) return '/images/placeholder.jpg'
   if (media.url.startsWith('http')) return media.url
   return `${API_BASE}${media.url}`
 }

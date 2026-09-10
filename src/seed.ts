@@ -9,8 +9,42 @@
  */
 
 import 'dotenv/config'
+import fs from 'fs'
+import path from 'path'
 import { getPayload } from 'payload'
 import config from './payload.config'
+
+const publicDir = path.resolve(process.cwd(), 'public')
+
+async function ensureMedia(
+  payload: Awaited<ReturnType<typeof getPayload>>,
+  relativePath: string,
+  alt: string,
+): Promise<string | null> {
+  const filePath = path.join(publicDir, relativePath)
+  if (!fs.existsSync(filePath)) {
+    console.warn(`  ! Missing media file: ${relativePath}`)
+    return null
+  }
+
+  const filename = path.basename(relativePath)
+  const existing = await payload.find({
+    collection: 'media',
+    where: { filename: { equals: filename } },
+    limit: 1,
+  })
+  if (existing.docs.length > 0) {
+    return existing.docs[0].id as string
+  }
+
+  const created = await payload.create({
+    collection: 'media',
+    data: { alt },
+    filePath,
+  })
+  console.log(`  ✓ Uploaded media: ${filename}`)
+  return created.id as string
+}
 
 async function seed() {
   const payload = await getPayload({ config })
@@ -51,6 +85,31 @@ async function seed() {
       name: 'Social Media',
       slug: 'social-media',
       description: 'Come i social media influenzano il benessere e strategie per un uso consapevole.',
+    },
+    {
+      name: 'Schermo e tempo',
+      slug: 'schermo-e-tempo',
+      description: 'Gestione del tempo sullo schermo per giovani e famiglie.',
+    },
+    {
+      name: 'Salute mentale',
+      slug: 'salute-mentale',
+      description: 'Impatto del digitale sul benessere psicologico.',
+    },
+    {
+      name: 'Sicurezza online',
+      slug: 'sicurezza-online',
+      description: 'Privacy, cyberbullismo e sicurezza per i giovani.',
+    },
+    {
+      name: 'Genitori e scuola',
+      slug: 'genitori-e-scuola',
+      description: 'Risorse per genitori ed educatori.',
+    },
+    {
+      name: 'App e strumenti',
+      slug: 'app-e-strumenti',
+      description: 'Le migliori app per il benessere digitale.',
     },
   ]
 
@@ -652,15 +711,61 @@ async function seed() {
     },
   ]
 
+  const articleMeta: Record<
+    string,
+    { cover: string; publishedAt: string; categorySlugs: string[] }
+  > = {
+    'brain-rot': {
+      cover: 'images/covers/brain-rot.png',
+      publishedAt: '2025-01-08T14:38:25.581Z',
+      categorySlugs: ['benessere-digitale', 'schermo-e-tempo'],
+    },
+    'dopamina-la-guida-completa': {
+      cover: 'images/covers/dopamina.png',
+      publishedAt: '2024-12-20T17:27:13.817Z',
+      categorySlugs: ['benessere-digitale', 'salute-mentale'],
+    },
+    '10-semplici-strategie-per-un-digital-detox-quotidiano': {
+      cover: 'images/covers/digital-detox-quotidiano.jpg',
+      publishedAt: '2024-12-20T17:27:13.817Z',
+      categorySlugs: ['digital-detox', 'schermo-e-tempo'],
+    },
+    'il-minimalismo-digitale-come-vivere-meglio-con-meno-tecnologia': {
+      cover: 'images/covers/minimalismo.jpg',
+      publishedAt: '2024-09-03T00:00:00.000Z',
+      categorySlugs: ['digital-wellness', 'app-e-strumenti'],
+    },
+    'come-il-benessere-digitale-influisce-sulla-salute-mentale-e-fisica': {
+      cover: 'images/covers/salute-mentale.jpg',
+      publishedAt: '2024-09-03T00:00:00.000Z',
+      categorySlugs: ['mental-health', 'salute-mentale'],
+    },
+    'digital-detox-in-famiglia-consigli-per-ridurre-luso-della-tecnologia-a-casa': {
+      cover: 'images/covers/detox-famiglia.jpg',
+      publishedAt: '2024-09-03T00:00:00.000Z',
+      categorySlugs: ['famiglia-tecnologia', 'genitori-e-scuola'],
+    },
+    'limpatto-dei-social-media-sul-benessere-e-come-gestirlo-in-modo-consapevole': {
+      cover: 'images/covers/social-media.jpg',
+      publishedAt: '2024-12-20T17:27:13.817Z',
+      categorySlugs: ['social-media'],
+    },
+  }
+
   for (const article of articlesData) {
+    const meta = articleMeta[article.slug]
+    const featuredImage = meta
+      ? await ensureMedia(payload, meta.cover, `Copertina: ${article.title}`)
+      : null
+    const categorySlugs = meta?.categorySlugs ?? (article.categorySlug ? [article.categorySlug] : [])
+    const categories = categorySlugs
+      .map((slug) => categoryIds[slug])
+      .filter((id): id is string => Boolean(id))
+
     const existing = await payload.find({
       collection: 'articles',
       where: { slug: { equals: article.slug } },
     })
-    if (existing.docs.length > 0) {
-      console.log(`  ↩ Article exists: ${article.title.substring(0, 50)}...`)
-      continue
-    }
 
     const data: Record<string, unknown> = {
       title: article.title,
@@ -671,11 +776,26 @@ async function seed() {
       seo: article.seo,
     }
 
-    if (article.categorySlug && categoryIds[article.categorySlug]) {
-      data.categories = [categoryIds[article.categorySlug]]
-    }
+    if (categories.length > 0) data.categories = categories
     if (article.authorSlug && authorIds[article.authorSlug]) {
       data.authors = [authorIds[article.authorSlug]]
+    }
+    if (featuredImage) data.featuredImage = featuredImage
+    if (meta?.publishedAt) data.publishedAt = meta.publishedAt
+
+    if (existing.docs.length > 0) {
+      await payload.update({
+        collection: 'articles',
+        id: existing.docs[0].id,
+        data: {
+          ...(featuredImage ? { featuredImage } : {}),
+          publishedAt: meta?.publishedAt,
+          categories,
+          status: article.status,
+        },
+      })
+      console.log(`  ↻ Updated article: ${article.title.substring(0, 50)}...`)
+      continue
     }
 
     await payload.create({ collection: 'articles', data })
@@ -690,9 +810,11 @@ async function seed() {
     {
       name: 'BePresent',
       slug: 'bepresent',
-      description: 'App per ridurre il tempo sullo schermo e migliorare la presenza nel momento.',
+      description:
+        'BePresent blocca le app e monitora il tuo tempo di utilizzo con carattere, arrivando ad arrabbiarsi e deriderti se passi troppo tempo al telefono.',
       useCase: 'Focus / Wellbeing',
       appStoreUrl: 'https://apps.apple.com/it/app/bepresent-lower-screen-time/id1644737181',
+      icon: 'images/apps/bepresent.webp',
       featured: true,
     },
     {
@@ -701,6 +823,8 @@ async function seed() {
       description: 'Planner visivo progettato per persone con ADHD e neurodivergenza.',
       useCase: 'Produttività / ADHD',
       appStoreUrl: 'https://apps.apple.com/it/app/tiimo-planner-per-ladhd/id1480220328',
+      playStoreUrl: 'https://play.google.com/store/apps/details?id=com.tiimoapp.androidapp',
+      icon: 'images/apps/tiimo.webp',
       featured: true,
     },
     {
@@ -709,6 +833,7 @@ async function seed() {
       description: 'Timer focus e studio che blocca le distrazioni digitali.',
       useCase: 'Studio / Focus',
       appStoreUrl: 'https://apps.apple.com/us/app/flipd-focus-study-timer/id1071708905',
+      icon: 'images/apps/flipd.webp',
       featured: true,
     },
     {
@@ -717,6 +842,8 @@ async function seed() {
       description: 'Aggiunge un secondo di riflessione consapevole prima di aprire app distraenti.',
       useCase: 'Screen time / Mindfulness',
       appStoreUrl: 'https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441',
+      playStoreUrl: 'https://play.google.com/store/apps/details?id=wtf.riedel.onesec',
+      icon: 'images/apps/one-sec.webp',
       featured: true,
     },
     {
@@ -725,19 +852,34 @@ async function seed() {
       description: 'Gamifica la produttività: pianta alberi virtuali mentre resti concentrato.',
       useCase: 'Produttività',
       appStoreUrl: 'https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515',
+      playStoreUrl: 'https://play.google.com/store/apps/details?id=cc.forestapp',
+      icon: 'images/apps/forest.webp',
       featured: true,
     },
   ]
 
   for (const app of appsData) {
+    const iconId = await ensureMedia(payload, app.icon, `Icona ${app.name}`)
+    const data = {
+      name: app.name,
+      slug: app.slug,
+      description: app.description,
+      useCase: app.useCase,
+      appStoreUrl: app.appStoreUrl,
+      playStoreUrl: 'playStoreUrl' in app ? app.playStoreUrl : undefined,
+      featured: app.featured,
+      ...(iconId ? { icon: iconId } : {}),
+    }
+
     const existing = await payload.find({
       collection: 'apps',
       where: { slug: { equals: app.slug } },
     })
     if (existing.docs.length > 0) {
-      console.log(`  ↩ App exists: ${app.name}`)
+      await payload.update({ collection: 'apps', id: existing.docs[0].id, data })
+      console.log(`  ↻ Updated app: ${app.name}`)
     } else {
-      await payload.create({ collection: 'apps', data: app })
+      await payload.create({ collection: 'apps', data })
       console.log(`  ✓ Created app: ${app.name}`)
     }
   }
@@ -751,28 +893,36 @@ async function seed() {
       title: 'Wellbeing. Il futuro umano e digitale',
       slug: 'wellbeing-futuro-umano-digitale',
       author: 'Alessio Carciofi',
+      description: '21 consigli per vivere con serenità il digitale.',
       buyUrl: 'https://amzn.eu/d/960jwQc',
+      cover: 'images/books/wellbeing.jpg',
       featured: true,
     },
     {
       title: 'Digital detox per tutta la famiglia',
       slug: 'digital-detox-per-tutta-la-famiglia',
       author: 'Tanya Goodin',
+      description: 'Guida pratica per un uso consapevole di tv, smartphone e computer.',
       buyUrl: 'https://amzn.eu/d/3pE7Tm0',
+      cover: 'images/books/digital-detox-famiglia.jpg',
       featured: true,
     },
     {
       title: "L'era della dopamina",
       slug: 'era-della-dopamina',
       author: 'Anna Lembke',
+      description: 'Come mantenere l\'equilibrio nella società del "tutto e subito".',
       buyUrl: 'https://amzn.eu/d/iEhci2P',
+      cover: 'images/books/era-della-dopamina.jpg',
       featured: true,
     },
     {
       title: 'Come disintossicarti dal tuo cellulare',
       slug: 'come-disintossicarti-dal-tuo-cellulare',
       author: 'Catherine Price',
+      description: 'Programma detox in 4 settimane.',
       buyUrl: 'https://amzn.eu/d/gBrKegX',
+      cover: 'images/books/disintossicarti-cellulare.jpg',
       featured: true,
     },
     {
@@ -780,19 +930,32 @@ async function seed() {
       slug: 'il-benessere-digitale',
       author: 'Marco Fasoli',
       buyUrl: 'https://amzn.eu/d/4TvsJ2j',
+      cover: 'images/books/benessere-digitale-fasoli.jpg',
       featured: true,
     },
   ]
 
   for (const book of booksData) {
+    const coverId = await ensureMedia(payload, book.cover, `Copertina ${book.title}`)
+    const data = {
+      title: book.title,
+      slug: book.slug,
+      author: book.author,
+      description: 'description' in book ? book.description : undefined,
+      buyUrl: book.buyUrl,
+      featured: book.featured,
+      ...(coverId ? { coverImage: coverId } : {}),
+    }
+
     const existing = await payload.find({
       collection: 'books',
       where: { slug: { equals: book.slug } },
     })
     if (existing.docs.length > 0) {
-      console.log(`  ↩ Book exists: ${book.title}`)
+      await payload.update({ collection: 'books', id: existing.docs[0].id, data })
+      console.log(`  ↻ Updated book: ${book.title}`)
     } else {
-      await payload.create({ collection: 'books', data: book })
+      await payload.create({ collection: 'books', data })
       console.log(`  ✓ Created book: ${book.title}`)
     }
   }
@@ -805,22 +968,31 @@ async function seed() {
     {
       handle: '@virginia.gambardella',
       slug: 'virginia-gambardella',
+      name: 'Virginia Gambardella',
+      bio: 'Parlo di benessere a 360°: crescita personale, relazioni, emozioni.',
       platforms: [
         { platform: 'instagram' as const, url: 'https://www.instagram.com/virginia.gambardella/' },
-        { platform: 'tiktok' as const, url: '' },
+        { platform: 'tiktok' as const, url: 'https://www.tiktok.com/@virginia.gambardella' },
+        { platform: 'youtube' as const, url: 'https://www.youtube.com/@virginia.gambardella' },
       ],
       featured: true,
     },
     {
       handle: '@theoxcatalano',
       slug: 'theoxcatalano',
-      platforms: [{ platform: 'tiktok' as const, url: '' }],
+      name: 'theoxcatalano',
+      platforms: [{ platform: 'tiktok' as const, url: 'https://www.tiktok.com/@theoxcatalano' }],
       featured: true,
     },
     {
       handle: '@poci.tv',
       slug: 'poci-tv',
-      platforms: [{ platform: 'tiktok' as const, url: '' }],
+      name: 'Poci.tv',
+      bio: 'Cerco di migliorare la mia vita :)',
+      platforms: [
+        { platform: 'tiktok' as const, url: 'https://www.tiktok.com/@poci.tv' },
+        { platform: 'youtube' as const, url: 'https://www.youtube.com/@pocitv' },
+      ],
       featured: true,
     },
   ]
@@ -831,7 +1003,8 @@ async function seed() {
       where: { slug: { equals: creator.slug } },
     })
     if (existing.docs.length > 0) {
-      console.log(`  ↩ Creator exists: ${creator.handle}`)
+      await payload.update({ collection: 'creators', id: existing.docs[0].id, data: creator })
+      console.log(`  ↻ Updated creator: ${creator.handle}`)
     } else {
       await payload.create({ collection: 'creators', data: creator })
       console.log(`  ✓ Created creator: ${creator.handle}`)
@@ -849,9 +1022,8 @@ async function seed() {
   console.log(`  Books: ${booksData.length}`)
   console.log(`  Creators: ${creatorsData.length}`)
   console.log('\nNext steps:')
-  console.log('  • Upload blog featured images from Webflow CDN to Payload media library')
-  console.log('  • Assign publication dates to all articles (retrieve from Webflow CMS API)')
-  console.log('  • Attribute 5 articles currently missing author field')
+  console.log('  • Attribute remaining articles missing an author field')
+  console.log('  • Import extra unpublished Webflow posts if needed')
   console.log('  • Verify content parity with https://benesseredigital.webflow.io/')
 
   process.exit(0)

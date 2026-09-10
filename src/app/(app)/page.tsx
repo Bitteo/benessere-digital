@@ -1,9 +1,20 @@
 import Link from 'next/link'
 import { HeroSection } from '@/components/sections/HeroSection'
+import { FormatChooser } from '@/components/sections/FormatChooser'
 import { SectionNavTabs } from '@/components/sections/SectionNavTabs'
 import { NewsletterBanner } from '@/components/sections/NewsletterBanner'
+import { GoogleWellbeingBanner } from '@/components/sections/GoogleWellbeingBanner'
+import {
+  AppsStrip,
+  BooksStrip,
+  CreatorsStrip,
+  PodcastsStrip,
+  VideosStrip,
+} from '@/components/sections/HubStrips'
+import { FaqSection } from '@/components/sections/FaqSection'
+import { ContactSection } from '@/components/sections/ContactSection'
 import { ArticleCard } from '@/components/ui/ArticleCard'
-import { getArticles } from '@/lib/payload'
+import { getArticles, getApps, getBooks, getCreators } from '@/lib/payload'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -14,88 +25,74 @@ export const metadata: Metadata = {
 }
 
 export default async function HomePage() {
-  const { docs: latestArticles } = await getArticles({ limit: 6 })
+  const [{ docs: latestArticles }, apps, books, creators] = await Promise.all([
+    getArticles({ limit: 6 }),
+    getApps(),
+    getBooks(),
+    getCreators(),
+  ])
   const featuredArticle = latestArticles[0]
   const gridArticles = latestArticles.slice(1)
 
   return (
     <main>
-      {/* Hero */}
       <HeroSection />
-
-      {/* Category nav tabs */}
+      <FormatChooser />
       <SectionNavTabs />
 
-      {/* Featured article */}
-      {featuredArticle && (
-        <section className="section-md border-b border-border" aria-label="Articolo in evidenza">
-          <div className="container-lg padding-global">
-            <div className="mb-8 flex items-end justify-between gap-4 sm:flex-col sm:items-start">
-              <div>
-                <p className="text-meta text-primary opacity-50 mb-2">In evidenza</p>
-                <h2
-                  className="text-h2 sm:text-h3"
-                  style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-                >
-                  L&apos;articolo della settimana
-                </h2>
-              </div>
-            </div>
-            <ArticleCard article={featuredArticle} variant="featured" />
+      <section id="blog" className="section-md border-b border-border scroll-mt-24" aria-label="Consigli dal nostro blog">
+        <div className="container-lg padding-global">
+          <div className="mb-8 flex items-end justify-between gap-4 sm:flex-col sm:items-start">
+            <h2 className="text-h2 sm:text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
+              Consigli dal nostro <span className="text-pixel">blog</span>
+            </h2>
+            <Link
+              href="/articoli"
+              className="text-sm font-semibold text-primary hover:text-cta-blue transition-colors whitespace-nowrap"
+            >
+              Tutti gli articoli →
+            </Link>
           </div>
-        </section>
-      )}
 
-      {/* Latest articles grid */}
-      {gridArticles.length > 0 && (
-        <section className="section-md border-b border-border" aria-label="Ultimi articoli">
-          <div className="container-lg padding-global">
-            <div className="mb-8 flex items-end justify-between gap-4 sm:flex-col sm:items-start">
-              <div>
-                <p className="text-meta text-primary opacity-50 mb-2">Ultime pubblicazioni</p>
-                <h2
-                  className="text-h2 sm:text-h3"
-                  style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-                >
-                  Articoli recenti
-                </h2>
-              </div>
-              <Link
-                href="/articoli"
-                className="text-sm font-semibold text-primary hover:text-cta-blue transition-colors whitespace-nowrap"
-              >
-                Tutti gli articoli →
-              </Link>
+          {featuredArticle && (
+            <div className="mb-8">
+              <ArticleCard article={featuredArticle} variant="featured" />
             </div>
+          )}
 
+          {gridArticles.length > 0 && (
             <div className="grid grid-cols-3 lg:grid-cols-2 sm:grid-cols-1 gap-4">
               {gridArticles.map((article) => (
                 <ArticleCard key={article.id} article={article} variant="grid" />
               ))}
             </div>
-          </div>
-        </section>
-      )}
+          )}
 
-      {/* Empty state when no articles are published yet */}
-      {latestArticles.length === 0 && (
-        <section className="section-lg" aria-label="Prossimamente">
-          <div className="container-md padding-global text-center">
-            <p className="text-meta text-primary opacity-40 mb-4">In arrivo</p>
-            <h2
-              className="text-h2 sm:text-h3 mb-4"
-              style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-            >
-              I contenuti stanno arrivando
-            </h2>
-            <p className="text-md text-primary opacity-60">
-              Stiamo pubblicando i nostri primi articoli. Iscriviti alla newsletter per essere il primo a leggerli.
-            </p>
-          </div>
-        </section>
-      )}
+          {latestArticles.length === 0 && (
+            <div className="text-center py-16">
+              <p className="text-meta text-primary opacity-40 mb-4">In arrivo</p>
+              <h3
+                className="text-h3 mb-4"
+                style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
+              >
+                I contenuti stanno arrivando
+              </h3>
+              <p className="text-md text-primary opacity-60">
+                Stiamo pubblicando i nostri primi articoli. Iscriviti alla newsletter per essere il primo a leggerli.
+              </p>
+            </div>
+          )}
+        </div>
+      </section>
 
-      {/* Newsletter CTA */}
+      <GoogleWellbeingBanner />
+      <CreatorsStrip creators={creators} />
+      <VideosStrip />
+      <PodcastsStrip />
+      <AppsStrip apps={apps} />
+      <BooksStrip books={books} />
+      <ContactSection />
+      <FaqSection />
       <NewsletterBanner />
     </main>
   )

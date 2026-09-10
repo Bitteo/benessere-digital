@@ -1,0 +1,1 @@
+FuturaPT files in this folder are proprietary Linotype fonts mirrored from the Webflow staging CDN so production stops 404ing. Confirm the commercial license covers benessere.digital before public redistribution.

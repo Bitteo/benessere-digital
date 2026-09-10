@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { NewsletterForm } from '../ui/NewsletterForm'
 
 export function NewsletterBanner() {
@@ -8,7 +9,7 @@ export function NewsletterBanner() {
     >
       <div className="container-lg padding-global">
         <div
-          className="rounded-xl p-8 md:p-6 grid grid-cols-[3fr_0.75fr] md:grid-cols-1 gap-8 items-center"
+          className="rounded-xl p-8 md:p-6 grid grid-cols-[3fr_0.75fr] md:grid-cols-1 gap-8 items-center overflow-hidden"
           style={{ backgroundColor: '#19242e' }}
         >
           <div className="flex flex-col gap-4">
@@ -26,8 +27,15 @@ export function NewsletterBanner() {
               <NewsletterForm layout="inline" placeholder="La tua email" />
             </div>
           </div>
-          {/* Decorative image column — hidden on mobile */}
-          <div className="md:hidden" />
+          <div className="relative md:hidden min-h-[12rem] self-stretch">
+            <Image
+              src="/images/newsletter-banner.png"
+              alt="Illustrazione newsletter benessere digitale"
+              fill
+              className="object-contain object-center"
+              sizes="25vw"
+            />
+          </div>
         </div>
       </div>
     </section>

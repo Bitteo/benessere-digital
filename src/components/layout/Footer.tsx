@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import Link from 'next/link'
 
 const footerLinks = {
@@ -62,12 +63,13 @@ export function Footer() {
             {/* Brand column */}
             <div className="flex flex-col gap-6">
               <Link href="/" aria-label="Torna alla homepage">
-                <span
-                  className="text-primary font-bold text-lg"
-                  style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-                >
-                  benessere.digital
-                </span>
+                <Image
+                  src="/images/benessere.digital.svg"
+                  alt="benessere.digital"
+                  width={220}
+                  height={26}
+                  className="h-6 w-auto"
+                />
               </Link>
               <p className="text-sm text-primary opacity-70 leading-relaxed max-w-xs">
                 La principale piattaforma italiana sul benessere digitale per le nuove generazioni.
@@ -153,15 +155,22 @@ export function Footer() {
             <p className="text-white text-sm opacity-70">
               © {new Date().getFullYear()} benessere.digital. Tutti i diritti riservati.
             </p>
-            <p className="text-white text-sm opacity-50">
+            <p className="text-white text-sm opacity-50 flex items-center gap-2 sm:justify-center">
               Un progetto{' '}
               <a
                 href="https://jigo.it"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="underline hover:opacity-80 transition-opacity"
+                className="underline hover:opacity-80 transition-opacity inline-flex items-center"
+                aria-label="Jigo"
               >
-                Jigo
+                <Image
+                  src="/images/jigo-logo.svg"
+                  alt="Jigo"
+                  width={48}
+                  height={16}
+                  className="h-4 w-auto brightness-0 invert opacity-80"
+                />
               </a>
             </p>
           </div>
