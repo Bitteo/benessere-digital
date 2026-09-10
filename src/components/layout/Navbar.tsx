@@ -23,12 +23,20 @@ export function Navbar() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 flex-shrink-0" aria-label="benessere.digital — homepage">
             <Image
+              src="/images/b.d-logo.svg"
+              alt=""
+              width={43}
+              height={24}
+              priority
+              className="h-6 w-auto hidden sm:block"
+            />
+            <Image
               src="/images/benessere.digital.svg"
               alt="benessere.digital"
               width={210}
               height={25}
               priority
-              className="h-6 w-auto sm:h-5"
+              className="h-6 w-auto sm:hidden"
             />
           </Link>
 

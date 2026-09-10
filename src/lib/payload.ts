@@ -147,11 +147,12 @@ export async function getArticles(params?: {
 
   if (category) {
     const categoryDoc = await getCategoryBySlug(category)
-    if (categoryDoc) {
-      qs.set('where[categories][in]', categoryDoc.id)
-    } else {
-      qs.set('where[categories.slug][equals]', category)
+    // Nested `categories.slug` filters 500 on Payload 3 hasMany relationships.
+    // Skip the articles query until the category exists in CMS.
+    if (!categoryDoc) {
+      return { docs: [], totalDocs: 0, totalPages: 0, page: 1 }
     }
+    qs.set('where[categories][in]', categoryDoc.id)
   }
 
   const result = await payloadFetch<Article>(`/articles?${qs}`, {

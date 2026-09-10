@@ -19,7 +19,9 @@
 @font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-Bold.woff') format('woff'); font-weight: 700; font-style: normal; font-display: swap; }
 @font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-BoldObl.woff') format('woff'); font-weight: 700; font-style: italic; font-display: swap; }
 @font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-ExtraBold.woff') format('woff'); font-weight: 800; font-style: normal; font-display: swap; }
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-ExtraBoldObl.woff') format('woff'); font-weight: 800; font-style: italic; font-display: swap; }
 @font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-Heavy.woff') format('woff'); font-weight: 900; font-style: normal; font-display: swap; }
+@font-face { font-family: 'FuturaPT'; src: url('/fonts/FuturaPT-HeavyObl.woff') format('woff'); font-weight: 900; font-style: italic; font-display: swap; }
 
 /* Pixelify Sans — variable font for decorative accent text (e.g. "digitale" in hero) */
 @font-face { font-family: 'PixelifySans'; src: url('/fonts/PixelifySans-VariableFont_wght.ttf') format('truetype'); font-weight: 400 700; font-style: normal; font-display: swap; }
