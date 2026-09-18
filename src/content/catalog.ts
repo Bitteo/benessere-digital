@@ -12,26 +12,6 @@ export const categories: CategorySource[] = [
     description: "Strategie e guide per ridurre l'uso della tecnologia e ritrovare l'equilibrio.",
   },
   {
-    name: 'Digital Wellness',
-    slug: 'digital-wellness',
-    description: 'Approcci e pratiche per un uso consapevole e sano della tecnologia.',
-  },
-  {
-    name: 'Mental Health',
-    slug: 'mental-health',
-    description: "L'impatto della tecnologia sulla salute mentale e come gestirlo.",
-  },
-  {
-    name: 'Famiglia e Tecnologia',
-    slug: 'famiglia-tecnologia',
-    description: "Consigli per gestire l'uso della tecnologia in famiglia e con i figli.",
-  },
-  {
-    name: 'Social Media',
-    slug: 'social-media',
-    description: 'Come i social media influenzano il benessere e strategie per un uso consapevole.',
-  },
-  {
     name: 'Schermo e tempo',
     slug: 'schermo-e-tempo',
     description: 'Gestione del tempo sullo schermo per giovani e famiglie.',
@@ -42,19 +22,24 @@ export const categories: CategorySource[] = [
     description: 'Impatto del digitale sul benessere psicologico.',
   },
   {
+    name: 'Social Media',
+    slug: 'social-media',
+    description: 'Come i social media influenzano il benessere e strategie per un uso consapevole.',
+  },
+  {
     name: 'Sicurezza online',
     slug: 'sicurezza-online',
     description: 'Privacy, cyberbullismo e sicurezza per i giovani.',
   },
   {
-    name: 'Genitori e scuola',
-    slug: 'genitori-e-scuola',
-    description: 'Risorse per genitori ed educatori.',
-  },
-  {
     name: 'App e strumenti',
     slug: 'app-e-strumenti',
     description: 'Le migliori app per il benessere digitale.',
+  },
+  {
+    name: 'Genitori e scuola',
+    slug: 'genitori-e-scuola',
+    description: 'Risorse per genitori, famiglie ed educatori.',
   },
 ]
 
