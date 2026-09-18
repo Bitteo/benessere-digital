@@ -89,8 +89,8 @@ function SpotifyEmbed({ podcast }: { podcast: PodcastEmbed }) {
   const iframeTitle = `Player Spotify: ${podcast.title}`
 
   return (
-    <figure className="flex flex-col gap-3">
-      <div className="overflow-hidden rounded-xl border border-border bg-white">
+    <figure className="flex min-w-0 max-w-full flex-col gap-3">
+      <div className="w-full min-w-0 overflow-hidden rounded-xl border border-border bg-white">
         <iframe
           title={iframeTitle}
           src={podcast.embedUrl}
@@ -99,8 +99,8 @@ function SpotifyEmbed({ podcast }: { podcast: PodcastEmbed }) {
           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
           allowFullScreen
           loading="lazy"
-          className="block w-full border-0"
-          style={{ borderRadius: 12 }}
+          className="block w-full max-w-full border-0"
+          style={{ borderRadius: 12, maxWidth: '100%' }}
         />
       </div>
       <figcaption className="flex flex-col gap-1">
@@ -125,8 +125,11 @@ function SpotifyEmbed({ podcast }: { podcast: PodcastEmbed }) {
 
 export function PodcastsStrip() {
   return (
-    <section id="podcast" className="section-md scroll-mt-24 border-b border-border">
-      <div className="container-lg padding-global">
+    <section
+      id="podcast"
+      className="section-md scroll-mt-24 overflow-x-hidden border-b border-border"
+    >
+      <div className="container-lg padding-global min-w-0">
         <h2 className="mb-4 text-h2 sm:text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
           Podcast sul benessere <span className="text-pixel">digitale</span>
         </h2>
@@ -139,7 +142,7 @@ export function PodcastsStrip() {
           <SpotifyEmbed podcast={podcastShow} />
         </div>
 
-        <div className="grid grid-cols-3 gap-6 lg:grid-cols-2 sm:grid-cols-1">
+        <div className="grid min-w-0 grid-cols-3 gap-6 lg:grid-cols-2 sm:grid-cols-1">
           {podcastEpisodes.map((episode) => (
             <SpotifyEmbed key={episode.id} podcast={episode} />
           ))}

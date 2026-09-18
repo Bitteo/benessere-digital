@@ -96,7 +96,7 @@ export function HeroVisual() {
     <div ref={rootRef} className="flex flex-1 items-center justify-center self-stretch md:w-full">
       <div
         ref={layerRef}
-        className="relative aspect-square w-full max-w-[min(100%,60vh)] will-change-transform"
+        className="relative aspect-square w-full max-w-[min(100%,60vh)] will-change-transform sm:max-w-[min(100%,46vh)]"
       >
         <Image
           src="/images/hero-benessere-digital.png"
