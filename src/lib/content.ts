@@ -3,7 +3,13 @@
  * Published inventory lives in src/content — no CMS, no database.
  */
 
-import { apps as appSources, authors as authorSources, books as bookSources, categories as categorySources, creators as creatorSources } from '@/content/catalog'
+import {
+  apps as appSources,
+  authors as authorSources,
+  books as bookSources,
+  categories as categorySources,
+  creators as creatorSources,
+} from '@/content/catalog'
 import { articles as articleSources } from '@/content/articles'
 import type { ArticleSource } from '@/content/types'
 
@@ -123,7 +129,9 @@ function hydrateArticle(source: ArticleSource): Article {
     excerpt: source.excerpt,
     featuredImage,
     content: source.content,
-    authors: source.authorSlugs.map((slug) => authorBySlug.get(slug)).filter((item): item is Author => Boolean(item)),
+    authors: source.authorSlugs
+      .map((slug) => authorBySlug.get(slug))
+      .filter((item): item is Author => Boolean(item)),
     categories: source.categorySlugs
       .map((slug) => categoryBySlug.get(slug))
       .filter((item): item is Category => Boolean(item)),
@@ -226,6 +234,10 @@ export async function getCategoryBySlug(slug: string): Promise<Category | null> 
 
 export async function getAuthorBySlug(slug: string): Promise<Author | null> {
   return authorBySlug.get(slug) ?? null
+}
+
+export async function getAuthors(): Promise<Author[]> {
+  return authors
 }
 
 export async function getApps(): Promise<AppItem[]> {
