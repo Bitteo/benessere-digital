@@ -8,7 +8,7 @@ Lingua di lavoro e di prodotto: **solo italiano**. Nessun EN, hreflang, locale p
 
 - Niente publish di articoli (`status: "published"`), merge di PR di contenuto live, deploy o email **senza OK esplicito di Matteo**.
 - Niente claim medici inventati; citazioni solo se verificabili.
-- Non toccare piattaforme client JIGO, Medeo, Fatture in Cloud, ecc.
+- Non toccare: Fatture in Cloud (JIGO ADMIN), piattaforme client (PM4EU, Rasi, GeometrApp, Cinequill), brand personale Medeo (medeomedei), social aziendali JIGO (Jigohertz), life admin (Ambrogio).
 
 ## Host canonico (P0)
 
@@ -60,7 +60,7 @@ SoT esteso: [`docs/seo-llm-agent-contract.md`](./seo-llm-agent-contract.md).
 
 ## Voice
 
-Italiano chiaro, evidence-based, niente “wellness woo”. Audience mix: giovani, genitori, educatori. Cadenza target: 1 articolo/settimana (mercoledì), salvo diversa indicazione.
+Italiano chiaro, evidence-based, niente “wellness woo”. Audience mix: giovani, genitori, educatori. Cadenza target: 1 articolo/settimana il **mercoledì** (Wednesday), salvo diversa indicazione.
 
 ## Done quando (baseline discovery)
 
