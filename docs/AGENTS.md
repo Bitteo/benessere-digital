@@ -58,6 +58,15 @@ SoT esteso: [`docs/seo-llm-agent-contract.md`](./seo-llm-agent-contract.md).
 - SoftwareApplication schema SaaS (qui: Organization + WebSite + Article)
 - Keyword stuffing; claim wellness non evidence-based
 
+## Analytics (GA4)
+
+- Measurement ID: `G-SF9NZWHZFZ` (stream `www.benessere.digital`). Override preview/local con `NEXT_PUBLIC_GA_MEASUREMENT_ID` (fallback in codice: `G-SF9NZWHZFZ`).
+- Gate consenso: `localStorage` `benessere-cookie-consent` = `accept`. Solo allora si carica gtag. Su `reject` non si carica nulla. Se già accettato al page load, GA parte.
+- Eventi custom (`gtag event`):
+  - `course_cta_click` (param `link_url`) — CTA Skillshop in `GoogleWellbeingBanner`
+  - `newsletter_submit` — submit newsletter riuscito (`NewsletterForm`)
+  - `article_engaged` — una volta per page view su `/articoli/[slug]` a ~90% scroll **o** ~60s
+
 ## Voice
 
 Italiano chiaro, evidence-based, niente “wellness woo”. Audience mix: giovani, genitori, educatori. Cadenza target: 1 articolo/settimana il **mercoledì** (Wednesday), salvo diversa indicazione.

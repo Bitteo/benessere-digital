@@ -1,5 +1,7 @@
 import Image from 'next/image'
-import Link from 'next/link'
+import { CourseCtaLink } from '@/components/analytics/CourseCtaLink'
+
+const COURSE_URL = 'https://skillshop.exceedlms.com/student/path/690424-benessere-digitale'
 
 export function GoogleWellbeingBanner() {
   return (
@@ -23,14 +25,9 @@ export function GoogleWellbeingBanner() {
             </p>
             <p className="text-sm text-white opacity-50">Durata: 19min</p>
             <div>
-              <Link
-                href="https://skillshop.exceedlms.com/student/path/690424-benessere-digitale"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="btn-secondary"
-              >
+              <CourseCtaLink href={COURSE_URL} className="btn-secondary">
                 Vai al corso
-              </Link>
+              </CourseCtaLink>
             </div>
           </div>
           <div className="relative md:hidden min-h-[18rem] self-stretch rounded-lg overflow-hidden bg-white">
