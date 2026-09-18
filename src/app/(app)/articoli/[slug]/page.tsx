@@ -63,13 +63,20 @@ export default async function ArticleDetailPage({ params }: Props) {
     <main>
       <ArticleEngagement />
       {/* Article header */}
-      <header className="section-md border-b border-border">
+      <header className="section-md border-b border-border sm:py-8">
         <div className="container-md padding-global">
           {/* Breadcrumb */}
-          <nav className="flex items-center gap-2 text-tiny text-primary opacity-50 mb-6" aria-label="Breadcrumb">
-            <Link href="/" className="hover:opacity-80">Home</Link>
+          <nav
+            className="mb-6 flex items-center gap-2 text-tiny text-primary opacity-50 sm:mb-3"
+            aria-label="Breadcrumb"
+          >
+            <Link href="/" className="hover:opacity-80">
+              Home
+            </Link>
             <span>/</span>
-            <Link href="/articoli" className="hover:opacity-80">Articoli</Link>
+            <Link href="/articoli" className="hover:opacity-80">
+              Articoli
+            </Link>
             {primaryCategory && (
               <>
                 <span>/</span>
@@ -82,7 +89,7 @@ export default async function ArticleDetailPage({ params }: Props) {
 
           {/* Categories */}
           {article.categories && article.categories.length > 0 && (
-            <div className="flex flex-wrap gap-2 mb-4">
+            <div className="mb-4 flex flex-wrap gap-2 sm:mb-2">
               {article.categories.map((cat) => (
                 <CategoryTag key={cat.id} category={cat} />
               ))}
@@ -91,7 +98,7 @@ export default async function ArticleDetailPage({ params }: Props) {
 
           {/* Title */}
           <h1
-            className="text-h1 sm:text-h2 mb-6 leading-tight"
+            className="mb-6 text-h1 leading-tight md:mb-4 md:text-h3 sm:mb-3 sm:text-[1.75rem] sm:leading-[1.2]"
             style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
           >
             {article.title}
@@ -99,13 +106,13 @@ export default async function ArticleDetailPage({ params }: Props) {
 
           {/* Excerpt */}
           {article.excerpt && (
-            <p className="text-md text-primary opacity-70 leading-relaxed mb-6 max-w-2xl">
+            <p className="mb-6 max-w-2xl text-md leading-relaxed text-primary opacity-70 md:mb-4 sm:mb-3 sm:text-base">
               {article.excerpt}
             </p>
           )}
 
           {/* Meta */}
-          <div className="flex items-center gap-6 flex-wrap border-t border-border pt-6">
+          <div className="flex flex-wrap items-center gap-6 border-t border-border pt-6 md:pt-4 sm:pt-3">
             {article.authors && article.authors.length > 0 && (
               <div className="flex items-center gap-4">
                 {article.authors.map((author) => (
@@ -114,10 +121,7 @@ export default async function ArticleDetailPage({ params }: Props) {
               </div>
             )}
             {publishDate && (
-              <time
-                dateTime={article.publishedAt}
-                className="text-sm text-primary opacity-60"
-              >
+              <time dateTime={article.publishedAt} className="text-sm text-primary opacity-60">
                 {publishDate}
               </time>
             )}
@@ -127,12 +131,12 @@ export default async function ArticleDetailPage({ params }: Props) {
 
       {/* Featured image */}
       {article.featuredImage && (
-        <div className="relative w-full" style={{ height: '30rem' }}>
+        <div className="relative h-[30rem] w-full bg-surface-subtle md:aspect-video md:h-auto">
           <Image
             src={imageUrl}
             alt={article.featuredImage.alt ?? article.title}
             fill
-            className="object-cover"
+            className="object-cover md:object-contain"
             sizes="100vw"
             priority
           />
@@ -141,7 +145,7 @@ export default async function ArticleDetailPage({ params }: Props) {
 
       {/* Article body */}
       <article className="container-md padding-global section-md">
-        <div className="article-body max-w-none text-primary flex flex-col gap-5 text-base leading-relaxed">
+        <div className="article-body flex max-w-none flex-col gap-5 text-base leading-relaxed text-primary">
           <LexicalContent content={article.content} />
         </div>
       </article>
@@ -162,13 +166,10 @@ export default async function ArticleDetailPage({ params }: Props) {
       {filteredRelated.length > 0 && (
         <section className="section-md border-t border-border" aria-label="Articoli correlati">
           <div className="container-lg padding-global">
-            <h2
-              className="text-h3 mb-8"
-              style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-            >
+            <h2 className="mb-8 text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
               Articoli correlati
             </h2>
-            <div className="grid grid-cols-3 lg:grid-cols-2 sm:grid-cols-1 gap-4">
+            <div className="grid grid-cols-3 gap-4 lg:grid-cols-2 sm:grid-cols-1">
               {filteredRelated.map((a) => (
                 <ArticleCard key={a.id} article={a} variant="grid" />
               ))}

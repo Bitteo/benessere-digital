@@ -40,28 +40,32 @@ export default async function HomePage() {
       <FormatChooser />
       <SectionNavTabs />
 
-      <section id="blog" className="section-md border-b border-border scroll-mt-24" aria-label="Consigli dal nostro blog">
+      <section
+        id="blog"
+        className="section-md scroll-mt-24 border-b border-border sm:py-8"
+        aria-label="Consigli dal nostro blog"
+      >
         <div className="container-lg padding-global">
-          <div className="mb-8 flex items-end justify-between gap-4 sm:flex-col sm:items-start">
+          <div className="mb-8 flex items-end justify-between gap-4 sm:mb-5 sm:flex-col sm:items-start">
             <h2 className="text-h2 sm:text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
               Consigli dal nostro <span className="text-pixel">blog</span>
             </h2>
             <Link
               href="/articoli"
-              className="text-sm font-semibold text-primary hover:text-cta-blue transition-colors whitespace-nowrap"
+              className="whitespace-nowrap text-sm font-semibold text-primary transition-colors hover:text-cta-blue"
             >
               Tutti gli articoli →
             </Link>
           </div>
 
           {featuredArticle && (
-            <div className="mb-8">
+            <div className="mb-8 sm:mb-5">
               <ArticleCard article={featuredArticle} variant="featured" />
             </div>
           )}
 
           {gridArticles.length > 0 && (
-            <div className="grid grid-cols-3 lg:grid-cols-2 sm:grid-cols-1 gap-4">
+            <div className="grid grid-cols-3 gap-4 lg:grid-cols-2 sm:grid-cols-1">
               {gridArticles.map((article) => (
                 <ArticleCard key={article.id} article={article} variant="grid" />
               ))}
@@ -69,16 +73,14 @@ export default async function HomePage() {
           )}
 
           {latestArticles.length === 0 && (
-            <div className="text-center py-16">
-              <p className="text-meta text-primary opacity-40 mb-4">In arrivo</p>
-              <h3
-                className="text-h3 mb-4"
-                style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-              >
+            <div className="py-16 text-center">
+              <p className="text-meta mb-4 text-primary opacity-40">In arrivo</p>
+              <h3 className="mb-4 text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
                 I contenuti stanno arrivando
               </h3>
               <p className="text-md text-primary opacity-60">
-                Stiamo pubblicando i nostri primi articoli. Iscriviti alla newsletter per essere il primo a leggerli.
+                Stiamo pubblicando i nostri primi articoli. Iscriviti alla newsletter per essere il
+                primo a leggerli.
               </p>
             </div>
           )}

@@ -76,6 +76,16 @@
     outline: 2px solid #4d65ff;
     outline-offset: 2px;
   }
+
+  /* Reserve space so sticky cookie bar does not cover last content / embeds */
+  body.has-cookie-banner {
+    padding-bottom: 8.5rem;
+  }
+  @media (max-width: 768px) {
+    body.has-cookie-banner {
+      padding-bottom: 7.5rem;
+    }
+  }
 }
 
 /* ==========================================================================
