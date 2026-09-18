@@ -1,0 +1,401 @@
+{
+  "slug": "telefono-in-camera-notifiche-e-sonno",
+  "title": "Telefono in camera: non sono (solo) le notifiche a rovinarti il sonno",
+  "excerpt": "Studi con misure oggettive sui teenager mostrano che a pesare di più sono minuti di schermo e sblocchi notturni, non il semplice conteggio delle notifiche. Sintesi evidence-based e mosse pratiche, senza moralismo.",
+  "cover": "/images/placeholder.jpg",
+  "coverAlt": "Telefono spento su un comodino in una camera soft light — bozza cover in attesa di Midjourney",
+  "publishedAt": "2026-09-23T09:00:00.000Z",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "schermo-e-tempo",
+    "salute-mentale"
+  ],
+  "readingTime": 6,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Telefono in camera e sonno: cosa dicono gli studi sui teenager",
+    "metaDescription": "Screen time e sblocchi notturni pesano più del conteggio notifiche. Sintesi evidence-based e 4 mosse pratiche per giovani e famiglie.",
+    "noIndex": true
+  },
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il comodino e la storia sbagliata",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se dormi male e il telefono è sul comodino, la storia che senti più spesso è: «Sono le notifiche». È una metà vera — e una metà fuorviante.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Negli ultimi anni alcuni studi hanno smesso di chiedere ai ragazzi «quanto usi il telefono?» e hanno iniziato a misurarlo: screen time, sblocchi (pickups), notifiche, più indossabili per il sonno. Il quadro che esce è più preciso del panico da «digitale cattivo».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cosa dicono i dati (con i limiti giusti)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In uno studio giornaliero su adolescenti negli Stati Uniti, nei giorni con più uso notturno dello smartphone rispetto alla propria media, l’addormentamento risultava più tardi e la qualità del sonno auto-riferita peggiore. L’uso diurno, nello stesso disegno, non mostrava lo stesso legame con il sonno di quella notte (Burnell et al., Journal of Adolescence, 2024; dati Fitbit e metriche iOS).",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un secondo lavoro, a livello orario, collega minuti di schermo e pickups durante la finestra di sonno a risvegli più lunghi. Il numero di notifiche nella stessa ora, invece, non risultava associato alla durata dei risvegli — plausibile se molte sono silenziose o filtrate da Focus / Non disturbare (studio su uso orario oggettivo e wake events, Journal of Clinical Child & Adolescent Psychology, 2023/2024).",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quindi: non è che le notifiche «non contino mai». Contano se ti fanno alzare lo sguardo, sbloccare, rispondere, scorrere. Il problema centrale è l’engagement attivo e il tempo che sposta l’addormentamento, non il badge rosso in sé.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una coorte svizzera (HERMES) aveva già osservato che chi riportava risvegli notturni legati al telefono aveva più probabilità di sviluppare sonno agitato e difficoltà di addormentamento nel follow-up — segnale longitudinale utile, con i limiti tipici dell’auto-report (Foerster et al., IJERPH, 2019).",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Revisioni recenti sul media use in adolescenza e giovane età adulta convergono: l’uso serale/notturno di device interattivi si associa a sonno peggiore; la qualità metodologica degli studi è ancora mista, quindi meglio parlare di rischio e meccanismi, non di condanna assoluta (Brautsch et al., Sleep Medicine Reviews, 2023).",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre meccanismi, in ordine di importanza pratica",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Spostamento del sonno — resti a scrollare e inizi più tardi. Spesso è il canale principale.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Activation — messaggio, chat di gruppo, contenuto emotivo: il cervello si riaccende.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Luce / melatonina — esiste, ma da sola spiega meno del «ancora cinque minuti» sul feed.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cosa fare (senza diventare monaci)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Carica il telefono fuori dalla portata del letto (altra stanza o cassetto lontano). Sveglia separata se serve.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Di notte: Focus / Sonno con lista bianca strettissima (solo contatti emergenza).",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Se ti svegli: regola anti-pickup — «guardo l’ora sull’orologio, non sblocco».",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Per genitori: un accordo chiaro su dove dorme il telefono batte il divieto vago «stai meno online».",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cosa non promettiamo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Niente detox miracolosi, niente «le notifiche ti distruggono il cervello». L’obiettivo è un sonno più prevedibile, con scelte piccole e ripetibili.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fonti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Burnell et al., 2024 — Daily links between objective smartphone use and sleep among adolescents (Journal of Adolescence / PMC).",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Objectively-measured hourly smartphone use and adolescent wake events (Journal of Clinical Child & Adolescent Psychology, 2023/2024).",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Foerster et al., 2019 — HERMES: nocturnal mobile phone-related awakenings (IJERPH).",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "paragraph",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Brautsch et al., 2023 — Digital media use and sleep in late adolescence and young adulthood (Sleep Medicine Reviews).",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
