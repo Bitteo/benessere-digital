@@ -6,14 +6,15 @@ Non c’è un CMS. Il sito legge file versionati nel repo e li pubblica al pross
 
 ## Dove sta cosa
 
-| Contenuto | File |
-|---|---|
+| Contenuto                                   | File                                                                       |
+| ------------------------------------------- | -------------------------------------------------------------------------- |
 | Articoli (testo, SEO, copertina, categorie) | `src/content/articles/<slug>.json` + registro in `src/content/articles.ts` |
-| Categorie, autori, app, libri, creator | `src/content/catalog.ts` |
-| Tipi sorgente | `src/content/types.ts` |
-| Data layer usato dalle pagine | `src/lib/content.ts` |
-| Pagine legali / chi siamo / contatti | route Next in `src/app/(app)/…` |
-| Immagini | `public/images/` |
+| Categorie, autori, app, libri, creator      | `src/content/catalog.ts`                                                   |
+| Podcast (show + episodi Spotify)            | `src/content/podcasts.ts`                                                  |
+| Tipi sorgente                               | `src/content/types.ts`                                                     |
+| Data layer usato dalle pagine               | `src/lib/content.ts`                                                       |
+| Pagine legali / chi siamo / contatti        | route Next in `src/app/(app)/…`                                            |
+| Immagini                                    | `public/images/`                                                           |
 
 Il body degli articoli è JSON compatibile con il renderer `LexicalContent` (stesso albero usato in precedenza da Payload).
 
@@ -30,6 +31,10 @@ Il body degli articoli è JSON compatibile con il renderer `LexicalContent` (ste
 ## Categorie, app, libri, creator
 
 Modifica l’array corrispondente in `src/content/catalog.ts`. Gli slug categoria devono coincidere con quelli usati negli articoli e con le tab di `/categoria/<slug>`.
+
+## Podcast
+
+Show ed episodi Spotify stanno in `src/content/podcasts.ts` (id, titolo, URL embed e link `open.spotify.com`). La home li rende come iframe lazy, con titolo accessibile e fallback testuale.
 
 ## Perché non Payload / Neon
 

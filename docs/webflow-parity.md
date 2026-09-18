@@ -16,13 +16,13 @@ pnpm dev
 
 Controllare:
 
-- `/` — FuturaPT, PixelifySans, hero, logo navbar, hub formati, blog con articoli, app, libri, creator
+- `/` — FuturaPT, PixelifySans, hero, logo navbar, hub formati, blog con articoli, podcast Spotify, app, libri, creator
 - `/articoli` e un dettaglio (corpo articolo, copertina)
 - tab categorie (`/categoria/schermo-e-tempo`, `salute-mentale`, …)
 - `/api/articles` e `/api/categories` (JSON dal catalogo file, 200)
 - footer: `/newsletter`, `/contatti`, `/collabora`, `/privacy`, `/cookie`, `/termini`
 - redirect `/post/brain-rot` → `/articoli/brain-rot`
-- form newsletter **disabilitato** se `NEWSLETTER_WEBHOOK_URL` è assente (niente falso successo)
+- form newsletter **disabilitato** se `RESEND_API_KEY` è assente (niente falso successo)
 
 ## Font (Linotype)
 
@@ -42,9 +42,19 @@ Articoli:
 
 I body sono il testo ricco dello staging, non i riassunti dello seed Payload. I draft/unpublished Webflow restano fuori.
 
+## Newsletter (Resend)
+
+Le iscrizioni vanno su Resend Contacts, segmento `benessere.digital`.
+
+| Env                      | Ruolo                                                                               |
+| ------------------------ | ----------------------------------------------------------------------------------- |
+| `RESEND_API_KEY`         | Obbligatoria per `GET /api/newsletter` → `{ enabled: true }` e per il POST          |
+| `RESEND_SEGMENT_ID`      | Segmento destinazione. Fallback documentato: `0275e55f-100d-49be-8f47-cfa2452b1263` |
+| `NEWSLETTER_WEBHOOK_URL` | Opzionale: notify secondario dopo un’iscrizione Resend riuscita                     |
+
+Il contatto esistente è trattato come successo (aggiunta al segmento se manca). Non committare secret.
+
 ## Follow-up
 
-- Provider newsletter reale (`NEWSLETTER_WEBHOOK_URL`)
 - Testi legal da validare con un legale (le route `/privacy` `/cookie` `/termini` restano bozze Next; su Webflow la privacy è soprattutto un’immagine)
 - Embed TikTok nativi per i creator
-- Sezione podcast (oggi stub)
