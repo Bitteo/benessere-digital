@@ -4,6 +4,7 @@ import Script from 'next/script'
 import { useEffect, useState } from 'react'
 import {
   COOKIE_CONSENT_CHANGE_EVENT,
+  flushQueuedAnalyticsEvents,
   getGaMeasurementId,
   hasAnalyticsConsent,
 } from '@/lib/analytics'
@@ -31,7 +32,7 @@ export function Analytics() {
         src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}
         strategy="afterInteractive"
       />
-      <Script id="ga4-init" strategy="afterInteractive">
+      <Script id="ga4-init" strategy="afterInteractive" onReady={flushQueuedAnalyticsEvents}>
         {`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}

@@ -39,11 +39,26 @@ export function persistCookieConsent(value: CookieConsentValue) {
   window.dispatchEvent(new CustomEvent(COOKIE_CONSENT_CHANGE_EVENT, { detail: value }))
 }
 
+const pendingEvents: Array<{ name: string; params?: Record<string, unknown> }> = []
+
 export function trackEvent(name: string, params?: Record<string, unknown>) {
   if (typeof window === 'undefined') return
   if (!hasAnalyticsConsent()) return
+  if (typeof window.gtag === 'function') {
+    window.gtag('event', name, params)
+    return
+  }
+  pendingEvents.push({ name, params })
+}
+
+export function flushQueuedAnalyticsEvents() {
+  if (typeof window === 'undefined') return
   if (typeof window.gtag !== 'function') return
-  window.gtag('event', name, params)
+  while (pendingEvents.length > 0) {
+    const event = pendingEvents.shift()
+    if (!event) break
+    window.gtag('event', event.name, event.params)
+  }
 }
 
 declare global {
