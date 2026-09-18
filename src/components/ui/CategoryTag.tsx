@@ -10,12 +10,7 @@ export function CategoryTag({ category, size = 'md' }: Props) {
   return (
     <Link
       href={`/categoria/${category.slug}`}
-      className={`
-        inline-block border border-text-dark text-primary font-semibold rounded-pill
-        hover:bg-primary hover:text-white hover:border-primary
-        transition-colors duration-100
-        ${size === 'sm' ? 'text-tiny px-2 py-0.5' : 'text-sm px-3 py-1'}
-      `}
+      className={`inline-block w-fit rounded-pill border border-text-dark font-semibold text-primary transition-colors duration-100 hover:border-primary hover:bg-primary hover:text-white ${size === 'sm' ? 'px-2 py-0.5 text-tiny' : 'px-3 py-1 text-sm'} `}
     >
       {category.name}
     </Link>
@@ -26,10 +21,7 @@ export function CategoryTag({ category, size = 'md' }: Props) {
 export function CategoryPill({ name, size = 'md' }: { name: string; size?: 'sm' | 'md' }) {
   return (
     <span
-      className={`
-        inline-block border border-text-dark text-primary font-semibold rounded-pill
-        ${size === 'sm' ? 'text-tiny px-2 py-0.5' : 'text-sm px-3 py-1'}
-      `}
+      className={`inline-block w-fit rounded-pill border border-text-dark font-semibold text-primary ${size === 'sm' ? 'px-2 py-0.5 text-tiny' : 'px-3 py-1 text-sm'} `}
     >
       {name}
     </span>
