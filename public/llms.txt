@@ -16,14 +16,12 @@ benessere.digital è la piattaforma italiana di informazione evidence-based sul 
 
 - [Benessere digitale](https://www.benessere.digital/categoria/benessere-digitale)
 - [Digital detox](https://www.benessere.digital/categoria/digital-detox)
-- [Digital wellness](https://www.benessere.digital/categoria/digital-wellness)
-- [Salute mentale](https://www.benessere.digital/categoria/salute-mentale)
-- [Mental health](https://www.benessere.digital/categoria/mental-health)
-- [Famiglia e tecnologia](https://www.benessere.digital/categoria/famiglia-tecnologia)
-- [Social media](https://www.benessere.digital/categoria/social-media)
 - [Schermo e tempo](https://www.benessere.digital/categoria/schermo-e-tempo)
-- [Genitori e scuola](https://www.benessere.digital/categoria/genitori-e-scuola)
+- [Salute mentale](https://www.benessere.digital/categoria/salute-mentale)
+- [Social media](https://www.benessere.digital/categoria/social-media)
+- [Sicurezza online](https://www.benessere.digital/categoria/sicurezza-online)
 - [App e strumenti](https://www.benessere.digital/categoria/app-e-strumenti)
+- [Genitori e scuola](https://www.benessere.digital/categoria/genitori-e-scuola)
 
 ## Articoli pubblicati
 

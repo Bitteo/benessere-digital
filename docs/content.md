@@ -30,7 +30,7 @@ Il body degli articoli è JSON compatibile con il renderer `LexicalContent` (ste
 
 ## Categorie, app, libri, creator
 
-Modifica l’array corrispondente in `src/content/catalog.ts`. Gli slug categoria devono coincidere con quelli usati negli articoli e con le tab di `/categoria/<slug>`.
+Modifica l’array corrispondente in `src/content/catalog.ts`. Gli slug categoria devono coincidere con quelli usati negli articoli e con le tab di `/categoria/<slug>`. Tassonomia pubblicata (solo IT): `benessere-digitale`, `digital-detox`, `schermo-e-tempo`, `salute-mentale`, `social-media`, `sicurezza-online`, `app-e-strumenti`, `genitori-e-scuola`.
 
 ## Podcast
 

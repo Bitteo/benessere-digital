@@ -46,6 +46,21 @@ const nextConfig: NextConfig = {
     ]
 
     return [
+      {
+        source: '/categoria/digital-wellness',
+        destination: '/categoria/benessere-digitale',
+        permanent: true,
+      },
+      {
+        source: '/categoria/mental-health',
+        destination: '/categoria/salute-mentale',
+        permanent: true,
+      },
+      {
+        source: '/categoria/famiglia-tecnologia',
+        destination: '/categoria/genitori-e-scuola',
+        permanent: true,
+      },
       ...webflowOrphans.flatMap(({ from, to }) => [
         { source: `/post/${from}`, destination: `/articoli/${to}`, permanent: true },
         { source: `/articoli/${from}`, destination: `/articoli/${to}`, permanent: true },
