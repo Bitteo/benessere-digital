@@ -6,6 +6,7 @@ import minimalismo from './articles/il-minimalismo-digitale-come-vivere-meglio-c
 import saluteMentale from './articles/come-il-benessere-digitale-influisce-sulla-salute-mentale-e-fisica.json'
 import detoxFamiglia from './articles/digital-detox-in-famiglia-consigli-per-ridurre-luso-della-tecnologia-a-casa.json'
 import socialMedia from './articles/limpatto-dei-social-media-sul-benessere-e-come-gestirlo-in-modo-consapevole.json'
+import telefonoInCamera from './articles/telefono-in-camera-notifiche-e-sonno.json'
 
 export const articles = [
   brainRot,
@@ -15,4 +16,5 @@ export const articles = [
   saluteMentale,
   detoxFamiglia,
   socialMedia,
+  telefonoInCamera,
 ] as ArticleSource[]
