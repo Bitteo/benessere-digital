@@ -20,12 +20,13 @@ Lingua di lavoro e di prodotto: **solo italiano**. Nessun EN, hreflang, locale p
 
 Guida editoriale: [`docs/content.md`](./content.md).
 
-| Path | Ruolo |
-|------|--------|
-| `src/content/articles/*.json` + `src/content/articles.ts` | Articoli (`status: draft \| published`) |
-| `src/content/catalog.ts` | Hub categorie / autori / app / libri / creator |
-| `docs/content.md` | Guida editoriale file-based |
-| `docs/seo-llm-agent-contract.md` | Contratto SEO/LLM esteso (SoT tecnico) |
+| Path                                                      | Ruolo                                          |
+| --------------------------------------------------------- | ---------------------------------------------- |
+| `src/content/articles/*.json` + `src/content/articles.ts` | Articoli (`status: draft \| published`)        |
+| `src/content/catalog.ts`                                  | Hub categorie / autori / app / libri / creator |
+| `src/content/podcasts.ts`                                 | Embed Spotify (show + episodi hub)             |
+| `docs/content.md`                                         | Guida editoriale file-based                    |
+| `docs/seo-llm-agent-contract.md`                          | Contratto SEO/LLM esteso (SoT tecnico)         |
 
 Bozze: `status: "draft"`, `noIndex` dove previsto. Non entrano in sitemap né in inventari live.
 
@@ -35,13 +36,13 @@ SoT esteso: [`docs/seo-llm-agent-contract.md`](./seo-llm-agent-contract.md).
 
 ### Deliverable tecnici
 
-| File | Ruolo |
-|------|--------|
-| `src/lib/seo/site.ts` | `CANONICAL_ORIGIN`, `absoluteUrl()`, path pubblici |
-| `src/app/robots.ts` | allow `/`, disallow `/api/`, Sitemap www |
-| `src/app/sitemap.ts` | solo URL indexabili (published + statiche + hub reali) |
-| `public/llms.txt` | indice markdown per crawler LLM (IT), solo www |
-| `src/app/layout.tsx` | `metadataBase` su www; `lang="it"`; OG `locale: it_IT` |
+| File                  | Ruolo                                                  |
+| --------------------- | ------------------------------------------------------ |
+| `src/lib/seo/site.ts` | `CANONICAL_ORIGIN`, `absoluteUrl()`, path pubblici     |
+| `src/app/robots.ts`   | allow `/`, disallow `/api/`, Sitemap www               |
+| `src/app/sitemap.ts`  | solo URL indexabili (published + statiche + hub reali) |
+| `public/llms.txt`     | indice markdown per crawler LLM (IT), solo www         |
+| `src/app/layout.tsx`  | `metadataBase` su www; `lang="it"`; OG `locale: it_IT` |
 
 ### Checklist PR SEO
 

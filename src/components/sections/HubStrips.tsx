@@ -1,7 +1,7 @@
 import Image from 'next/image'
-import Link from 'next/link'
 import type { AppItem, BookItem, CreatorItem } from '@/lib/content'
 import { getImageUrl } from '@/lib/content'
+import { podcastEpisodes, podcastShow, type PodcastEmbed } from '@/content/podcasts'
 
 const videos = [
   { title: 'Che cosa è il digital detox secondo Fedez ft. Willwoosh', id: 'Xus4ihr2O0s' },
@@ -16,12 +16,12 @@ export function CreatorsStrip({ creators }: { creators: CreatorItem[] }) {
   if (creators.length === 0) return null
 
   return (
-    <section id="profili" className="section-md border-b border-border scroll-mt-24">
+    <section id="profili" className="section-md scroll-mt-24 border-b border-border">
       <div className="container-lg padding-global">
-        <h2 className="text-h2 sm:text-h3 mb-8" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
+        <h2 className="mb-8 text-h2 sm:text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
           <span className="text-pixel">Creators</span> del benessere
         </h2>
-        <div className="grid grid-cols-3 lg:grid-cols-2 sm:grid-cols-1 gap-4">
+        <div className="grid grid-cols-3 gap-4 lg:grid-cols-2 sm:grid-cols-1">
           {creators.map((creator) => {
             const primary = creator.platforms?.find((p) => p.url) ?? creator.platforms?.[0]
             const href = primary?.url || '#'
@@ -31,16 +31,14 @@ export function CreatorsStrip({ creators }: { creators: CreatorItem[] }) {
                 href={href}
                 target={href.startsWith('http') ? '_blank' : undefined}
                 rel={href.startsWith('http') ? 'noopener noreferrer' : undefined}
-                className="flex flex-col gap-3 p-6 border border-border rounded-xl hover-lift"
+                className="hover-lift flex flex-col gap-3 rounded-xl border border-border p-6"
               >
                 <p className="text-h5" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
                   {creator.handle}
                 </p>
-                {creator.name && (
-                  <p className="text-sm text-primary opacity-70">{creator.name}</p>
-                )}
+                {creator.name && <p className="text-sm text-primary opacity-70">{creator.name}</p>}
                 {creator.bio && (
-                  <p className="text-sm text-primary opacity-60 leading-relaxed">{creator.bio}</p>
+                  <p className="text-sm leading-relaxed text-primary opacity-60">{creator.bio}</p>
                 )}
               </a>
             )
@@ -53,19 +51,19 @@ export function CreatorsStrip({ creators }: { creators: CreatorItem[] }) {
 
 export function VideosStrip() {
   return (
-    <section id="video" className="section-md border-b border-border scroll-mt-24">
+    <section id="video" className="section-md scroll-mt-24 border-b border-border">
       <div className="container-lg padding-global">
-        <h2 className="text-h2 sm:text-h3 mb-8" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
+        <h2 className="mb-8 text-h2 sm:text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
           <span className="text-pixel">Video</span> per ispirarti
         </h2>
-        <div className="grid grid-cols-3 lg:grid-cols-2 sm:grid-cols-1 gap-4">
+        <div className="grid grid-cols-3 gap-4 lg:grid-cols-2 sm:grid-cols-1">
           {videos.map((video) => (
             <a
               key={video.id}
               href={`https://www.youtube.com/watch?v=${video.id}`}
               target="_blank"
               rel="noopener noreferrer"
-              className="group flex flex-col border border-border rounded-xl overflow-hidden hover-lift bg-white"
+              className="hover-lift group flex flex-col overflow-hidden rounded-xl border border-border bg-white"
             >
               <div className="relative aspect-video bg-surface-subtle">
                 <Image
@@ -87,19 +85,65 @@ export function VideosStrip() {
   )
 }
 
+function SpotifyEmbed({ podcast }: { podcast: PodcastEmbed }) {
+  const iframeTitle = `Player Spotify: ${podcast.title}`
+
+  return (
+    <figure className="flex flex-col gap-3">
+      <div className="overflow-hidden rounded-xl border border-border bg-white">
+        <iframe
+          title={iframeTitle}
+          src={podcast.embedUrl}
+          width="100%"
+          height={podcast.height}
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          allowFullScreen
+          loading="lazy"
+          className="block w-full border-0"
+          style={{ borderRadius: 12 }}
+        />
+      </div>
+      <figcaption className="flex flex-col gap-1">
+        <p
+          className="text-sm font-semibold leading-snug"
+          style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
+        >
+          {podcast.title}
+        </p>
+        <a
+          href={podcast.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="w-fit text-sm text-cta-blue hover:underline"
+        >
+          Apri su Spotify
+        </a>
+      </figcaption>
+    </figure>
+  )
+}
+
 export function PodcastsStrip() {
   return (
-    <section id="podcast" className="section-md border-b border-border scroll-mt-24">
+    <section id="podcast" className="section-md scroll-mt-24 border-b border-border">
       <div className="container-lg padding-global">
-        <h2 className="text-h2 sm:text-h3 mb-4" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
+        <h2 className="mb-4 text-h2 sm:text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
           Podcast sul benessere <span className="text-pixel">digitale</span>
         </h2>
-        <p className="text-md text-primary opacity-60 max-w-2xl mb-6">
-          Episodi in arrivo. Iscriviti alla newsletter per ricevere i prossimi approfondimenti da ascoltare.
+        <p className="mb-8 max-w-2xl text-md text-primary opacity-60">
+          Una selezione di episodi da ascoltare su Spotify: riflessioni e strategie per un rapporto
+          più consapevole con la tecnologia.
         </p>
-        <Link href="/newsletter" className="btn-primary inline-flex">
-          Iscriviti alla newsletter
-        </Link>
+
+        <div className="mb-10">
+          <SpotifyEmbed podcast={podcastShow} />
+        </div>
+
+        <div className="grid grid-cols-3 gap-6 lg:grid-cols-2 sm:grid-cols-1">
+          {podcastEpisodes.map((episode) => (
+            <SpotifyEmbed key={episode.id} podcast={episode} />
+          ))}
+        </div>
       </div>
     </section>
   )
@@ -109,12 +153,12 @@ export function AppsStrip({ apps }: { apps: AppItem[] }) {
   if (apps.length === 0) return null
 
   return (
-    <section id="app" className="section-md border-b border-border scroll-mt-24">
+    <section id="app" className="section-md scroll-mt-24 border-b border-border">
       <div className="container-lg padding-global">
-        <h2 className="text-h2 sm:text-h3 mb-8" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
+        <h2 className="mb-8 text-h2 sm:text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
           App per <span className="text-pixel">disconnetterti</span>
         </h2>
-        <div className="grid grid-cols-5 lg:grid-cols-3 sm:grid-cols-1 gap-4">
+        <div className="grid grid-cols-5 gap-4 lg:grid-cols-3 sm:grid-cols-1">
           {apps.map((app) => {
             const href = app.appStoreUrl || app.playStoreUrl || '#'
             const icon = getImageUrl(app.icon)
@@ -124,18 +168,20 @@ export function AppsStrip({ apps }: { apps: AppItem[] }) {
                 href={href}
                 target={href.startsWith('http') ? '_blank' : undefined}
                 rel={href.startsWith('http') ? 'noopener noreferrer' : undefined}
-                className="flex flex-col items-start gap-3 p-5 border border-border rounded-xl hover-lift"
+                className="hover-lift flex flex-col items-start gap-3 rounded-xl border border-border p-5"
               >
-                <div className="relative w-14 h-14 rounded-md overflow-hidden bg-surface-subtle">
+                <div className="relative h-14 w-14 overflow-hidden rounded-md bg-surface-subtle">
                   <Image src={icon} alt={app.name} fill className="object-cover" sizes="56px" />
                 </div>
                 <p className="font-semibold" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
                   {app.name}
                 </p>
                 {app.useCase && (
-                  <p className="text-tiny text-primary opacity-50 uppercase tracking-wide">{app.useCase}</p>
+                  <p className="text-tiny uppercase tracking-wide text-primary opacity-50">
+                    {app.useCase}
+                  </p>
                 )}
-                <p className="text-sm text-primary opacity-60 leading-relaxed line-clamp-3">
+                <p className="line-clamp-3 text-sm leading-relaxed text-primary opacity-60">
                   {app.description}
                 </p>
               </a>
@@ -151,12 +197,12 @@ export function BooksStrip({ books }: { books: BookItem[] }) {
   if (books.length === 0) return null
 
   return (
-    <section id="libri" className="section-md border-b border-border scroll-mt-24">
+    <section id="libri" className="section-md scroll-mt-24 border-b border-border">
       <div className="container-lg padding-global">
-        <h2 className="text-h2 sm:text-h3 mb-8" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
+        <h2 className="mb-8 text-h2 sm:text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
           Libri per il benessere <span className="text-pixel">digitale</span>
         </h2>
-        <div className="grid grid-cols-5 lg:grid-cols-3 sm:grid-cols-1 gap-4">
+        <div className="grid grid-cols-5 gap-4 lg:grid-cols-3 sm:grid-cols-1">
           {books.map((book) => {
             const href = book.buyUrl || '#'
             const cover = getImageUrl(book.coverImage)
@@ -166,12 +212,15 @@ export function BooksStrip({ books }: { books: BookItem[] }) {
                 href={href}
                 target={href.startsWith('http') ? '_blank' : undefined}
                 rel={href.startsWith('http') ? 'noopener noreferrer' : undefined}
-                className="flex flex-col gap-3 hover-lift"
+                className="hover-lift flex flex-col gap-3"
               >
-                <div className="relative aspect-[3/4] border border-border rounded-md overflow-hidden bg-surface-subtle">
+                <div className="relative aspect-[3/4] overflow-hidden rounded-md border border-border bg-surface-subtle">
                   <Image src={cover} alt={book.title} fill className="object-cover" sizes="20vw" />
                 </div>
-                <p className="font-semibold leading-snug" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
+                <p
+                  className="font-semibold leading-snug"
+                  style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
+                >
                   {book.title}
                 </p>
                 <p className="text-sm text-primary opacity-60">{book.author}</p>
