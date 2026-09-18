@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from 'next'
+import { CANONICAL_ORIGIN } from '@/lib/seo/site'
 import './globals.css'
 
 export const viewport: Viewport = {
@@ -14,8 +15,9 @@ export const metadata: Metadata = {
     template: '%s | benessere.digital',
   },
   description:
-    "La principale piattaforma italiana sul benessere digitale: gestione dello schermo, salute mentale digitale, sicurezza online per giovani, genitori ed educatori.",
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SERVER_URL || 'https://benessere.digital'),
+    'La principale piattaforma italiana sul benessere digitale: gestione dello schermo, salute mentale digitale, sicurezza online per giovani, genitori ed educatori.',
+  // Preview/local: honor NEXT_PUBLIC_SERVER_URL. Production fallback: canonical www host.
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SERVER_URL || CANONICAL_ORIGIN),
   icons: {
     icon: '/images/benessere.digital-favicon.png',
     apple: '/images/benessere.digital-webclip.png',
