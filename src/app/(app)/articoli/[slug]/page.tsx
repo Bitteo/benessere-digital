@@ -6,6 +6,7 @@ import { CategoryTag } from '@/components/ui/CategoryTag'
 import { AuthorBio } from '@/components/ui/AuthorBio'
 import { ArticleCard } from '@/components/ui/ArticleCard'
 import { NewsletterBanner } from '@/components/sections/NewsletterBanner'
+import { ArticleEngagement } from '@/components/analytics/ArticleEngagement'
 import { LexicalContent } from '@/components/ui/LexicalContent'
 import type { Metadata } from 'next'
 
@@ -60,6 +61,7 @@ export default async function ArticleDetailPage({ params }: Props) {
 
   return (
     <main>
+      <ArticleEngagement />
       {/* Article header */}
       <header className="section-md border-b border-border">
         <div className="container-md padding-global">

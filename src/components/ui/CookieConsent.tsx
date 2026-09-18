@@ -2,27 +2,28 @@
 
 import Link from 'next/link'
 import { useEffect, useState } from 'react'
-
-const STORAGE_KEY = 'benessere-cookie-consent'
+import {
+  COOKIE_CONSENT_ACCEPT,
+  COOKIE_CONSENT_REJECT,
+  COOKIE_CONSENT_STORAGE_KEY,
+  persistCookieConsent,
+  type CookieConsentValue,
+} from '@/lib/analytics'
 
 export function CookieConsent() {
   const [visible, setVisible] = useState(false)
 
   useEffect(() => {
     try {
-      const stored = window.localStorage.getItem(STORAGE_KEY)
-      setVisible(stored !== 'accept' && stored !== 'reject')
+      const stored = window.localStorage.getItem(COOKIE_CONSENT_STORAGE_KEY)
+      setVisible(stored !== COOKIE_CONSENT_ACCEPT && stored !== COOKIE_CONSENT_REJECT)
     } catch {
       setVisible(true)
     }
   }, [])
 
-  const choose = (value: 'accept' | 'reject') => {
-    try {
-      window.localStorage.setItem(STORAGE_KEY, value)
-    } catch {
-      // ignore storage errors
-    }
+  const choose = (value: CookieConsentValue) => {
+    persistCookieConsent(value)
     setVisible(false)
   }
 

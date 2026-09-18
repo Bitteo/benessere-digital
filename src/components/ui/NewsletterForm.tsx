@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useId, useState } from 'react'
+import { ANALYTICS_EVENTS, trackEvent } from '@/lib/analytics'
 
 type Props = {
   layout?: 'inline' | 'stacked'
@@ -54,6 +55,7 @@ export function NewsletterForm({
 
       setStatus('success')
       setEmail('')
+      trackEvent(ANALYTICS_EVENTS.newsletterSubmit)
     } catch {
       setStatus('error')
       setMessage('Qualcosa è andato storto. Riprova.')
