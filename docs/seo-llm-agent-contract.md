@@ -2,9 +2,11 @@
 
 Adattato dal contratto CineQuill (`docs/agent-guides/i18n-seo-agent-contract.md` + `docs/seo-e-contenuti-ai.md`), semplificato per un sito **solo italiano**, Next.js App Router, contenuti file-based.
 
+Entrypoint agent (scope IT-only + gate publish/merge/deploy): [`docs/AGENTS.md`](./AGENTS.md).
+
 ## Principi
 
-1. **Canonical host**: `https://www.benessere.digital` (apex `benessere.digital` fa già 307 → www). Sitemap, robots, canonical, OG e `llms.txt` usano solo www.
+1. **Canonical host**: `https://www.benessere.digital` (apex `benessere.digital` fa già **301** → www). Sitemap, robots, canonical, OG e `llms.txt` usano solo www.
 2. **JSON-LD = contenuto visibile** (o equivalente `sr-only`). Niente schema che descrive copy assente.
 3. **Un solo `<h1>` per pagina**.
 4. **Sitemap** solo URL indexabili: home, pagine statiche pubbliche, articoli `status: "published"`, categorie/autori che esistono davvero. **Mai** draft, API, 404.

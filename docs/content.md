@@ -1,5 +1,7 @@
 # Come si editano i contenuti
 
+Entrypoint per gli agent (scope IT-only + gate publish): [`AGENTS.md`](./AGENTS.md).
+
 Non c’è un CMS. Il sito legge file versionati nel repo e li pubblica al prossimo deploy.
 
 ## Dove sta cosa
