@@ -137,7 +137,7 @@ function hydrateArticle(source: ArticleSource): Article {
       .filter((item): item is Category => Boolean(item)),
     status: source.status,
     publishedAt: source.publishedAt,
-    updatedAt: source.publishedAt,
+    updatedAt: source.publishedAt ?? '',
     seo: {
       metaTitle: source.seo?.metaTitle,
       metaDescription: source.seo?.metaDescription,
