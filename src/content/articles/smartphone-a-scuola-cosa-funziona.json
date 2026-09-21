@@ -1,0 +1,584 @@
+{
+  "slug": "smartphone-a-scuola-cosa-funziona",
+  "title": "Smartphone a scuola: oltre il divieto, cosa funziona davvero",
+  "excerpt": "Politiche smartphone a scuola in Italia: oltre il divieto totale. Un quadro pratico per docenti e istituti — istituto, classe, emergenza — senza teatralità.",
+  "cover": "/images/covers/smartphone-a-scuola-cosa-funziona.png",
+  "coverAlt": "Illustrazione editoriale a linee: corridoio di scuola con zaini e un contenitore chiuso per i telefoni, senza scene di sequestro.",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "genitori-e-scuola",
+    "benessere-digitale"
+  ],
+  "readingTime": 7,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Smartphone a scuola: cosa funziona oltre il divieto",
+    "metaDescription": "Smartphone a scuola in Italia: oltre il divieto totale. Cosa può funzionare per docenti e istituti, tra regolamento, classe e emergenze.",
+    "noIndex": true
+  },
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fine dell’intervallo. In cattedra un cassetto di telefoni, due litigate e un alunno che «lo doveva avere per la madre che finisce tardi». Il regolamento dice divieto. Il bagno dice il contrario. Se insegni, non ti manca un’opinione sullo smartphone a scuola: ti manca una regola che non ti trasformi in addetto alla dogana.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è un manifesto pro o contro. È un quadro operativo per scuole italiane: cosa tiene, cosa scivola, come non scaricare tutto sul singolo docente. Il dibattito ama i divieti netti. La giornata è fatta di eccezioni e classi che non si assomigliano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il divieto totale risolve (e cosa non risolve)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un divieto chiaro riduce il pezzo più visibile: lo schermo sul banco, le storie girate in classe, la notifica che spezza una spiegazione. Su questo il consenso pratico di molti istituti è allineato. Meno rumore in aula è un obiettivo legittimo, non «tecnofobia».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quello che il divieto da solo non fa è educare all’uso. Fuori dal cancello il feed riparte. Dentro, se la regola è solo «se lo vedo lo prendo», ottenete nascondigli e un carico disciplinare che non era nel contratto dei docenti. La ricerca sulle ban scolastiche è mista: guadagni modestissimi in alcuni studi, quasi nulla in altri. Chiarezza, coerenza e alternative pesano più dello slogan. Un divieto nudo non copre emergenze vere, accessibilità, né foto non autorizzate: vietare lo schermo in aula non è la stessa politica di proteggere la privacy di chi sta in classe.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cosa sta succedendo in Italia (senza fare i giuristi)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Italia il quadro non è un unico interruttore. Negli ultimi anni le indicazioni ministeriali hanno ristretto l’uso in primaria e nella secondaria di primo grado, anche quando qualcuno lo giustificava «per didattica». Le superiori restano più autonome: regolamenti di istituto e patti di corresponsabilità. Il dettaglio normativo si muove: non è questo l’articolo in cui aggiornare una circolare. La domanda utile non è «è vietato sì o no?». È quale comportamento chiediamo, in quale plesso, e chi fa rispettare la regola alle 11:40. Senza protocollo locale diventa geometria variabile: severi in terza A, elastici in terza C. La scuola non risolve il conflitto domestico (chi vuole il telefono «per la strada» e chi il divieto totale). Può dire cosa succede tra ingresso e uscita, e cosa non è compito suo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre livelli: istituto, classe, emergenza",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le politiche che tengono separano i piani. Se tutto è «decisione del docente in quella ora», avete lotterie. Se tutto è «regolamento da 12 pagine», nessuno lo applica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Livello istituto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una regola unica per plesso, scritta in dieci righe, visibile a famiglie e studenti. Esempio per un primo grado: «Lo smartphone resta spento nello zaino o in un contenitore di classe per tutta la giornata. Si usa solo se un docente lo chiede per un’attività prevista, o in emergenza autorizzata.» Niente paragrafi su ogni app. Un posto fisico (zaino, cassetta, armadietto) batte un divieto astratto. Chi custodisce, chi apre, cosa succede in gita: ditelo prima, non dopo il primo caso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Livello classe",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il docente non rinegozia la regola. Applica, e ha due o tre gesti sempre uguali: richiamo, ritiro fino a fine ora o fine giornata, comunicazione se si ripete. La teatralità del «lo porto in presidenza al terzo secondo» brucia autorità. La prevedibilità la costruisce. Se una materia ha bisogno dello schermo (foto di un esperimento, app di accessibilità), sta nel piano della lezione, non in un «oggi sì, ieri no» detto a voce.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Livello emergenza",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Definite cosa è emergenza: un familiare che deve raggiungere lo studente, un problema di salute, un ritardo del trasporto. Non è emergenza il gruppo WhatsApp, il voto uscito, o «mamma ha detto di scriverle a ricreazione» se esiste già un canale scuola-famiglia. I collaboratori e la segreteria devono sapere come si passa una chiamata. Se l’unico canale è il telefono in tasca dell’alunno, il divieto è finto e lo sapete tutti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cosa funziona più del «se lo vedo lo prendo»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è una lista di innovazione pedagogica. È ciò che, in molte scuole, riduce il conflitto senza fingere che il telefono non esista.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un contenitore di classe, non un sequestro. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Alla prima ora i telefoni in una cassetta visibile, spenti. Fine giornata si riprendono. Meno inseguimenti in bagno. Due minuti, non un discorso.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Stessa regola tra colleghi. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Se in matematica è guerra e in arte si scrolla, imparano il docente, non la norma. Il coordinamento è noioso e batte qualsiasi circolare.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un’alternativa per il rientro. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Orari chiari, recapiti, chi chiama chi. Toglie la scusa più usata senza umiliare chi ha un rientro complicato.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Privacy come regola, non predica. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Foto in classe, negli spogliatoi, durante una crisi: qui il fondamento è diverso dall’attenzione. Gli studenti distinguono «non ti distrarre» da «non riprendere gli altri».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Didattica digitale senza telefonino personale. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Laboratorio, carrello, computer di classe. «Prendete il vostro smartphone» riammette il feed. È il dispositivo sbagliato per un’aula di venticinque.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’equità conta. Non tutti hanno lo stesso telefono o la stessa casa a cui tornare. Una politica che assume «iPhone e genitore libero alle 13:30» lascia indietro qualcuno. Eccezioni per accessibilità o cura: poche, scritte, non favori.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cosa chiedere a famiglie e studenti (senza scaricare i docenti)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il patto di corresponsabilità tiene tre promesse, non quindici. Alle famiglie: in orario scolastico si passa dalla scuola, non dal telefono del figlio. Agli studenti: spento e fuori mano, salvo eccezione detta. Alla scuola: un recapito che risponde e la stessa regola in tutte le sezioni. Se i genitori scrivono in classe, il divieto è teatro. Una circolare a settembre vale più di un dibattito a maggio. Con gli studenti, niente crociata: «Qui lo schermo non compete con la lezione. Fuori potete usarlo.» Il rispetto arriva dalla prevedibilità, non da un discorso sulla dopamina in assemblea.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un protocollo minimo per una scuola",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se dovete partire da zero, dieci giorni bastano per questo, non per una riforma:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Dieci righe di regola, differenziate per ordine di scuola se avete un istituto comprensivo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un posto fisico per i telefoni in ogni classe (o zaino chiuso, se i contenitori non ci sono).",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Due conseguenze, sempre quelle: ritiro fino a fine giornata la prima volta che si usa; comunicazione alla famiglia se si ripete. Niente scale da codice penale.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un canale emergenze noto a famiglie e collaboratori.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un quarto d’ora in collegio per allineare i colleghi. Senza allineamento, il resto è carta.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Poi osservate due settimane. Dove si rompe — ricreazione, bagno, cambio ora, supplenza — intervenite lì, non sul regolamento intero. Le supplenze sono il buco classico: la regola deve funzionare anche con un docente che entra per la prima volta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il divieto in primaria e media è sufficiente?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Come segnale, spesso sì. Come educazione digitale, no: i social li incontrano comunque. La scuola può tenere il bordo in aula e, se ha tempo, fare pezzi corti su privacy. Non deve diventare un corso di wellness.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Alle superiori il telefono può restare «per studio»?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Può, se è scelta di istituto e lo studio non è un alibi. Documento, timer, schermo visibile. «Usatelo per cercare» senza vincoli è il feed. Molte superiori tengono lo spento in zaino e aprono eccezioni. È legittimo se è uguale in tutta la scuola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Confiscare il telefono è opportuno?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il ritiro temporaneo in orario scolastico, previsto dal regolamento e restituito in giornata (o ai genitori), è la pratica più comune. Trattenere per giorni o usare il telefono come riscatto sproporziona il conflitto. Su dubbi giuridici, la scuola ha i suoi riferimenti: non si improvvisa in corridoio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "E i docenti con il telefono in cattedra?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gli studenti vedono. Registro elettronico o emergenza è un conto; scrollare è un altro. Non è moralismo: è coerenza della regola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chiudere senza teatralità",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una politica smartphone a scuola che funziona è poco photogenica: contenitore, stessa regola tra classi, un canale per le emergenze, conseguenze corte. Il divieto può essere il bordo. Non è il programma. Il programma è: in quest’edificio, per queste ore, l’attenzione non si negozia a ogni campanella.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se lunedì l’unico cambiamento è una cassetta in fondo all’aula e dieci righe uguali per tutte le sezioni, è già più di un dibattito. Non dovete risolvere i social. Dovete fare in modo che, a metà novembre, la regola sia ancora la stessa.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

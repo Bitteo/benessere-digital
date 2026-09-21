@@ -1,0 +1,568 @@
+{
+  "slug": "fomo-jomo-social-senza-sparire",
+  "title": "FOMO e JOMO: come uscire dal loop senza sparire dai social",
+  "excerpt": "FOMO e JOMO sui social: cosa sono, perché il loop tiene, e abitudini concrete per stare meglio senza cancellare Instagram o «scomparire».",
+  "cover": "/images/covers/fomo-jomo-social-senza-sparire.png",
+  "coverAlt": "Illustrazione editoriale a linee: un giovane sul divano con il telefono a faccia in giù, una chat in sottofondo e una finestra aperta.",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "social-media",
+    "salute-mentale"
+  ],
+  "readingTime": 6,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "FOMO e JOMO: uscire dal loop senza sparire",
+    "metaDescription": "FOMO e JOMO sui social: perché il loop tiene e abitudini concrete per uscirne senza cancellare Instagram o sparire dagli amici.",
+    "noIndex": true
+  },
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sono le 23:40. Non stai organizzando niente. Stai solo aprendo le storie: un piano a cui non sei stato invitato, una storia «last minute», tre persone che sembrano già uscite. Non è che tu volessi uscire. È che adesso il divano è diventato il posto sbagliato. Chiudi Instagram. Lo riapri. Il loop non è la serata. Sei tu che resti in ascolto di una serata che non è la tua.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se ti riconosci, non sei «dipendente» e non devi sparire dai social per dimostrare di stare bene. La FOMO è un meccanismo frequente, non un difetto di carattere. La JOMO — la gioia di perdersi qualcosa — non è diventare un eremita. È restare nei social senza stare in appostamento.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cos’è la FOMO (senza psicologismi da reel)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "FOMO è la sigla di fear of missing out: la paura di perdersi esperienze, informazioni o connessioni che altri stanno avendo. Nella ricerca di psicologia sociale, da più di un decennio, la si descrive come una forma di ansia sociale legata al confronto e al «dovrei essere altrove». Non è una diagnosi. È un nome corto per un’allerta che i feed tengono accesa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sui social ha una forma precisa: le storie scadono, le chat si muovono, i like arrivano adesso. Il contenuto è fatto per sembrare incompleto. Il consenso è cauto: l’associazione tra social, confronto e malessere c’è in molta letteratura, ma non è «Instagram causa ansia». Contano sonno, ansia sociale già presente, quanto ti misuri, e a che ora. Tre segnali, più utili di un test online: apri senza scopo e chiudi peggio; controlli «tanto per»; dopo il feed la tua serata sembra un residuo. Non etichettarti. Nota quando il feed è diventato un radar.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cos’è la JOMO (e perché non è «divento un eremita»)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "JOMO, joy of missing out, è soprattutto una formula pop: il sollievo di non essere in ogni posto e di lasciare una storia non vista. C’è meno ricerca solida su questa etichetta che sulla FOMO. Trattala come obiettivo pratico, non come filosofia. Non è «cancello Instagram e vado nel bosco». È sapere che esiste una serata e non entrarci, senza ricostruirla per mezz’ora. Tieni le chat che ti restituiscono qualcosa; perdi il radar — storie di chi non senti, «chi è uscito con chi», refresh a vuoto. Non stai scomparendo: smetti di fare la sentinella. «Da lunedì non esisto più online» è un altro loop. Meglio un grado in meno di disponibilità, ripetuto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Perché il loop tiene: feed, storie, chat",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il loop non è magia e non è (solo) «mancanza di volontà». È un ambiente con tre ganci che si rinforzano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Le storie. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Hanno una scadenza. Il cervello legge «adesso o mai più». Non è un’emergenza. È un timer grafico. Se le apri in fila, hai accettato il gioco del «completo il giro».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Le chat di gruppo. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Il badge rosso dice che il gruppo è andato avanti senza di te. A volte è vero. A volte sono meme e «chi c’è stasera» che tra un’ora non contano. Il corpo, però, legge il badge come esclusione.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il confronto a pezzi. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Vedi l’uscita, non il viaggio in bus. Vedi la foto, non l’attesa. Il feed è un highlight. Confrontarlo con la tua stanza alle 23:40 è una partita truccata. Lo sai. Il dito, a volte, no.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Di sera il loop si incastra col sonno: luce, letto come postazione social, «controllo solo una storia». Non è un altro articolo sul telefono in camera, ma è lo stesso meccanismo. Se la FOMO arriva soprattutto a letto, il problema non è solo «i social»: è dove li hai messi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Abitudini concrete (non «cancella l’app»)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’obiettivo non è una versione migliore di te. È ridurre i momenti in cui sei in ascolto di una vita che non stai vivendo. Scegline due, non otto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Silenzia le storie, non le persone. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Puoi silenziare le storie di chi ti fa sentire indietro e tenere i messaggi. Non è un gesto passivo-aggressivo se lo fai per te. È togliere il radar, tenere il canale.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Due finestre al giorno, non il refresh. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Esempio: 13:15 e 19:40. Fuori da lì, l’app può restare. Le notifiche no. Se «succede qualcosa», quasi sempre aspetta. Le chiamate e i messaggi diretti restano un altro canale.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Togli il badge. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Su iOS e Android puoi spegnere i numerini rossi. Il gruppo continuerà a scrivere. Tu smetti di sentirlo come un debito. Sembra niente. È uno dei pochi interventi che costa zero discorsi.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un atterraggio senza storie. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Ultimi 30–40 minuti: niente storie, niente «chi è online». Un messaggio a una persona, se serve. Il giro storie è il contrario di chiudere la giornata.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se un’app è solo il posto in cui stai peggio, puoi toglierla dal telefono e lasciarla nel browser. Non è sparire: è un passaggio in più. Molti loop muoiono lì, non in un addio solenne.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un protocollo di 7 giorni, non un addio",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sette giorni bastano per vedere se il radar si abbassa. Non è una cura e non è un challenge da postare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 1: spegni le notifiche dei social. Nota a che ora apri «senza motivo».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 2–3: silenzia le storie di tre profili-radar, non una lista di nemici.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 4–5: due finestre di check, badge spenti. Se cedi, torni alla finestra dopo: non azzeri la settimana.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 6: una serata senza giro storie. Puoi scrivere a qualcuno; non ispezionare gli altri.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 7: decidi cosa tieni. Quasi sempre: meno storie, stesse chat utili.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se stai solo un po’ meno in appostamento, è un risultato. La JOMO arriva come noia breve, poi come una serata che non deve essere giustificata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quando non è solo FOMO",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A volte il loop è abitudine, a volte un segnale. Se da settimane dormi poco perché controlli, se il confronto ti svuota ogni sera, se eviti uscite vere «tanto vedo dalle storie», o se l’ansia non scende a app chiusa, non serve un altro trucco di notifica. Chiedi a qualcuno di fiducia — un adulto, un amico, un servizio scolastico — senza etichettare. Questo non è un pezzo clinico: la FOMO non è depressione. Possono però stare nello stesso periodo. Se il feed è l’unico posto in cui ti senti «dentro», tieni le abitudini piccole e parla con qualcuno che non è un profilo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Devo cancellare Instagram per togliermi la FOMO?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Di solito no. Cancellare senza cambiare orari sposta il loop altrove. Se Instagram è solo radar, puoi toglierlo. Se è anche messaggi e gruppi, silenzia e rimpicciolisci: non sparire.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La JOMO non è solo un modo per sentirsi superiori?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Può, se la usi per raccontare quanto sei «disconnesso». Come pratica privata — meno storie, due check — è un grado in meno di allerta. Non va postata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "E se gli amici si offendono se non rispondo subito?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un messaggio chiaro vale più di una scomparsa: «Rispondo la sera, non a ogni giro di storie.» Chi ti cerca per te aspetta un’ora. Non è un motivo per restare di guardia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Controllare le storie a letto è già un problema?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È un segnale, non una condanna. Se è tre minuti e dormi, guardala. Se «l’ultimo video» diventa mezz’ora, il pezzo da muovere è la stanza, non la volontà a mezzanotte.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chiudere senza sparire",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Uscire dal loop della FOMO non è diventare invisibili. È smettere di usare i social come un radar della vita degli altri. Tieni le chat che ti tengono. Togli le storie che ti svuotano. Due finestre al giorno. Un atterraggio senza ispezione. Niente giuramenti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se stasera l’unico cambiamento è silenziare tre storie e lasciare il telefono a faccia in giù dopo l’ultimo messaggio vero, è già JOMO abbastanza. Domani non dovrai essere qualcuno che «non usa i social». Dovrai solo essere un po’ meno in ascolto.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
