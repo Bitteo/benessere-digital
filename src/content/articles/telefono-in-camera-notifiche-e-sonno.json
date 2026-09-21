@@ -3,7 +3,8 @@
   "title": "Telefono in camera: non sono (solo) le notifiche a rovinarti il sonno",
   "excerpt": "Dormire col telefono in camera non è solo questione di ping. Luce, abitudini a letto, FOMO e sonno spezzato: cosa dice il consenso sul sonno e un protocollo concreto, senza colpe.",
   "cover": "/images/covers/telefono-in-camera-notifiche-e-sonno.png",
-  "coverAlt": "Camera da letto raccolta di notte, comodino senza telefono e una luce calda bassa: scena calma di benessere digitale.",
+  "coverAlt": "Illustrazione editoriale a linee: una persona dorme nel letto, telefono sul comodino e pianta accanto.",
+  "publishedAt": "2026-09-23T09:00:00.000+02:00",
   "authorSlugs": [
     "matteo-foroni"
   ],
@@ -12,11 +13,10 @@
     "salute-mentale"
   ],
   "readingTime": 7,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Telefono in camera e sonno: non sono solo le notifiche",
-    "metaDescription": "Perché il telefono in camera rovina il sonno anche in Non disturbare: luce, letto come segnale, FOMO e un protocollo pratico per giovani, senza colpe.",
-    "noIndex": true
+    "metaDescription": "Perché il telefono in camera rovina il sonno anche in Non disturbare: luce, letto come segnale, FOMO e un protocollo pratico per giovani, senza colpe."
   },
   "content": {
     "root": {
