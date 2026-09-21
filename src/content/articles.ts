@@ -7,6 +7,9 @@ import saluteMentale from './articles/come-il-benessere-digitale-influisce-sulla
 import detoxFamiglia from './articles/digital-detox-in-famiglia-consigli-per-ridurre-luso-della-tecnologia-a-casa.json'
 import socialMedia from './articles/limpatto-dei-social-media-sul-benessere-e-come-gestirlo-in-modo-consapevole.json'
 import telefonoInCamera from './articles/telefono-in-camera-notifiche-e-sonno.json'
+import accordiDiSchermo from './articles/accordi-di-schermo-ragazzi-8-14.json'
+import smartphoneAScuola from './articles/smartphone-a-scuola-cosa-funziona.json'
+import fomoJomo from './articles/fomo-jomo-social-senza-sparire.json'
 
 export const articles = [
   brainRot,
@@ -17,4 +20,7 @@ export const articles = [
   detoxFamiglia,
   socialMedia,
   telefonoInCamera,
+  accordiDiSchermo,
+  smartphoneAScuola,
+  fomoJomo,
 ] as ArticleSource[]
