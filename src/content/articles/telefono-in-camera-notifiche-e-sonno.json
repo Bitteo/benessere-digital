@@ -1,0 +1,578 @@
+{
+  "slug": "telefono-in-camera-notifiche-e-sonno",
+  "title": "Telefono in camera: non sono (solo) le notifiche a rovinarti il sonno",
+  "excerpt": "Dormire col telefono in camera non è solo questione di ping. Luce, abitudini a letto, FOMO e sonno spezzato: cosa dice il consenso sul sonno e un protocollo concreto, senza colpe.",
+  "cover": "/images/covers/telefono-in-camera-notifiche-e-sonno.png",
+  "coverAlt": "Illustrazione editoriale a linee: una persona dorme nel letto, telefono sul comodino e pianta accanto.",
+  "publishedAt": "2026-09-23T09:00:00.000+02:00",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "schermo-e-tempo",
+    "salute-mentale"
+  ],
+  "readingTime": 7,
+  "status": "published",
+  "seo": {
+    "metaTitle": "Telefono in camera e sonno: non sono solo le notifiche",
+    "metaDescription": "Perché il telefono in camera rovina il sonno anche in Non disturbare: luce, letto come segnale, FOMO e un protocollo pratico per giovani, senza colpe."
+  },
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È tardi. Hai già detto «ultimo video» due volte. La stanza è buia, il caricatore è sul comodino e il telefono illumina il soffitto. Non stai aspettando un messaggio urgente. Stai scorrendo: una chat che non richiede risposta, un reel che «tanto è corto», un profilo che non ti interessa davvero. Poi torni a letto e, senza una decisione vera, riapri. Quando lo schermo si spegne, tu no. Il cervello è ancora in modalità «c’è altro?».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se ti riconosci, non sei «rotto» e non sei l’unico. Tenere il telefono in camera non è solo un vizio da correggere con la forza di volontà. È un ambiente che rende il sonno più difficile: la stanza in cui dovresti staccare è anche il posto in cui controlli, confronti e resti raggiungibile.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cosa dice, con calma, il consenso sul sonno",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il consenso sull’igiene del sonno — quello condiviso da società scientifiche del sonno come l’American Academy of Sleep Medicine e da enti di salute pubblica come i CDC — è sobrio: la camera da letto funziona meglio se è per dormire, non per lo schermo. Per adolescenti e giovani adulti il punto è concreto. Il fabbisogno è alto (per i teenager i CDC parlano di circa 8–10 ore a notte) e gli orari di scuola o università non perdono. Ogni ritardo all’addormentamento si paga al mattino.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non serve uno studio «shock». Quello che sappiamo con ragionevole certezza, da decenni di ricerca sul sonno e dalla pratica clinica — in particolare i principi della terapia cognitivo-comportamentale per l’insonnia (CBT-I) — è che il telefono in camera agisce su più canali. Le notifiche sono solo il più rumoroso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Luce e ritmo circadiano",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La luce serale, soprattutto quella ricca di lunghezze d’onda corte tipiche degli schermi, è un segnale di «è ancora giorno» per il sistema che regola veglia e sonno. Harvard Health e la letteratura sulla melatonina lo descrivono da anni: l’esposizione alla luce artificiale di sera può ritardare il segnale di sonnolenza. Non è magia blu-contro-giallo. È un cue ambientale. Anche a luminosità bassa, uno schermo a venti centimetri dal viso resta una stimolazione: luce, movimento, contenuto che chiede una risposta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il letto come segnale condizionato",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In CBT-I si usa il controllo dello stimolo: il letto dovrebbe predire sonno, non scrolling. Se ogni sera il materasso è il posto in cui apri TikTok, Instagram o WhatsApp, il cervello impara un’associazione: letto = ancora un po’ di input. Quando poi «vuoi solo dormire», il corpo è a letto ma il sistema di veglia è ancora acceso. Non è mancanza di disciplina. È condizionamento.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Loop di controllo e FOMO",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il telefono a portata di mano non deve suonare per interromperti. Basta sapere che potrebbe esserci un messaggio, una storia, un voto. Il controllo «veloce» è un’abitudine, non un’emergenza. Per molti giovani è anche sociale: se tutti sono online, uscire dal feed sembra perdere qualcosa. La FOMO non è un difetto di carattere. È il costo di un canale sempre aperto, messo dove cerchi di chiudere la giornata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Frammentazione, non solo «non dormo»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Anche senza notifiche, un telefono sul comodino facilita i micro-risvegli: controllo dell’ora, «solo un’occhiata», luce in faccia, rientro nel sonno più lento. Non è sempre insonnia conclamata. È sonno più spezzato, e al mattino lo senti come stanchezza o meno pazienza a scuola. Puoi aver «dormito sette ore» e averle comunque interrotte.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questi meccanismi si sommano. Per questo spegnere le notifiche aiuta, ma spesso non basta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Notifiche contro gli altri meccanismi",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il mito più comune è: «Se metto Non disturbare, il telefono in camera non è un problema.»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le notifiche sono la parte visibile. Un ping alle 2:14 può svegliarti, sì. Ma Non disturbare (o Focus) toglie i suoni, non toglie lo schermo, l’abitudine di sbloccare, né il fatto che il letto è anche la postazione social. Se il dito sa già dove sta l’icona, il silenzio del telefono è solo un volume più basso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Altri miti vicini:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Night Shift o filtro blu = problema risolto. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Ridurre un po’ di luce blu può rendere lo schermo meno aggressivo. Non cancella il contenuto, l’interazione, né il fatto che stai ancora decidendo «ancora uno».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "«Uso il telefono solo per la sveglia.» ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Spesso la sveglia è la giustificazione. Il dito, a letto, sa già dove sta il feed. L’allarme delle 7:00 non è il pezzo che ti tiene sveglio alle 00:40.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "«Tanto dormo lo stesso.» ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Puoi addormentarti. La domanda è quanto è continuo quel sonno, a che ora inizia e come stai dopo. Dormire «comunque» non è la stessa cosa di dormire bene.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Separare i meccanismi serve a scegliere l’intervento. Se il problema sono i ping, Non disturbare e le eccezioni (solo chiamate di un contatto) bastano. Se il problema è lo scrolling a letto, il silenzio da solo è un cerotto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un protocollo di stanza, non di colpa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non serve una settimana di digital detox eroico. Serve un confine di stanza, ripetuto. L’obiettivo non è «usare meno il telefono» in astratto: è togliere al letto il ruolo di hub.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "1. Stazione di ricarica fuori dalla camera",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il gesto più efficace è banale: il telefono si carica in cucina, in salotto o nel corridoio. Non sul comodino. Se condividi la casa, una ciabatta comune riduce la negoziazione ogni sera («stasera lo lascio qui, tanto…»). Fuori dalla stanza il controllo notturno costa un’alzata. Quel costo è il confine.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "2. Una sveglia che non è il feed",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una sveglia da comodino costa poco. In alternativa: un vecchio telefono in modalità aereo, o la sveglia di un dispositivo che non usi per i social. Se l’unica sveglia è lo smartphone, mettilo lontano dal letto, schermo in giù, e alzati per spegnerla.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "3. Non disturbare su orario, non a sentimento",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Esempio concreto: dalle 22:30 alle 7:30, ogni giorno. Eccezioni: chiamate ripetute di un genitore o di una persona di fiducia. Non «muto quando mi ricordo». L’orario toglie la decisione serale, che è il momento in cui cedi. Su iOS è Focus; su Android è Non disturbare o Modalità riposo. Il nome cambia, la regola no.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "4. Scala di grigi, se ti aiuta (opzionale)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su iOS e Android puoi mettere lo schermo in bianco e nero la sera. Non è scienza miracolosa: riduce l’attrattiva visiva del feed. Se ti irrita e lo disattivi dopo due minuti, non è il tuo strumento. Il confine di stanza vale di più di qualsiasi filtro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "5. Se non puoi uscire dalla stanza",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non tutti hanno un corridoio sicuro o un coinquilino rispettoso. Allora: cassetto chiuso, zaino, un’altra stanza, almeno non il comodino. L’obiettivo è aumentare i passaggi tra «è lì» e «lo apro». Ogni secondo in più è un punto in cui puoi scegliere di non farlo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "6. Un atterraggio di 20–40 minuti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Luce più calda, niente contenuto che chiede risposta (chat di gruppo, commenti, news in loop). Un libro, una serie già vista, una playlist, una doccia. Non deve essere «wellness»: deve essere meno interattivo del feed. I primi giorni il corpo protesta: «e se succede qualcosa?». Quasi sempre non succede. Se succede, le chiamate ripetute passano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il telefono come sveglia è un disastro?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. È una scusa frequente, non una condanna. Se è l’unico orologio che hai, tieni il telefono fuori portata e usa solo l’app orologio. Meglio una sveglia separata. Il problema non è l’allarme delle 7:00: è quello che succede alle 00:40, quando «controllo solo l’ora» diventa un reel.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Night Shift, Dark Mode e occhiali «anti luce blu» bastano?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Da soli, quasi mai. Possono rendere lo schermo meno fastidioso. Non spezzano l’abitudine di controllare, né l’associazione letto-scroll. Se ti fanno stare meglio, usali. Non confonderli con il confine di stanza.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una settimana «andata male» rovina il sonno?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Il sonno è plastico: una notte corta si recupera, soprattutto se hai un ritmo abbastanza stabile. Non serve punirti il giorno dopo. Serve tornare alla stazione di ricarica stasera, senza bilancio morale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chiudere senza vergogna",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non si tratta di diventare una persona che «non usa il telefono». Si tratta di non far dormire il feed nella stessa stanza in cui cerchi di spegnerti. Le notifiche sono solo il pezzo rumoroso. Luce, abitudine, FOMO e frammentazione fanno il resto — in silenzio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se stasera l’unico cambiamento è spostare il caricatore fuori dalla porta, è già un esperimento. Domani mattina non dovrai essere una versione migliore di te. Dovrai solo essere un po’ meno interrotto.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

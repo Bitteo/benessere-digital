@@ -6,7 +6,8 @@ export type ArticleSource = {
   excerpt: string
   cover: string
   coverAlt: string
-  publishedAt: string
+  /** Omit or leave unset on drafts; public listings only use published dates. */
+  publishedAt?: string
   authorSlugs: string[]
   categorySlugs: string[]
   readingTime?: number
