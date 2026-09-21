@@ -3,7 +3,8 @@
   "title": "Accordi di schermo per ragazzi 8–14: regole che reggono",
   "excerpt": "Come scrivere accordi di schermo con ragazzi di 8–14 anni: orari, camera e conseguenze senza vergogna. Co-progettare, non imporre un regolamento da frigo.",
   "cover": "/images/covers/accordi-di-schermo-ragazzi-8-14.png",
-  "coverAlt": "Illustrazione editoriale a linee: tavolo da cucina con un foglio scritto a mano, due adulti e un ragazzo, telefoni accostati di lato.",
+  "coverAlt": "Illustrazione editoriale a linee: riunione di famiglia al tavolo con bambini, foglietti adesivi e telefono spento.",
+  "publishedAt": "2026-09-30T09:00:00.000+02:00",
   "authorSlugs": [
     "matteo-foroni"
   ],
@@ -12,11 +13,10 @@
     "schermo-e-tempo"
   ],
   "readingTime": 7,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Accordi di schermo 8–14: regole che reggono",
-    "metaDescription": "Accordi di schermo per ragazzi 8–14 anni: orari, camera e conseguenze senza vergogna. Un metodo da co-progettare, non da imporre.",
-    "noIndex": true
+    "metaDescription": "Accordi di schermo per ragazzi 8–14 anni: orari, camera e conseguenze senza vergogna. Un metodo da co-progettare, non da imporre."
   },
   "content": {
     "root": {
@@ -183,7 +183,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Un accordo di schermo non è un contratto e non è un detox eroico. È un foglio corto, riscrivibile: quando, dove, con chi, cosa succede se si sfora. Il resto nessuno lo rilegge.",
+              "text": "Un accordo di schermo non è un contratto e non è un detox eroico. È un foglio corto, riscrivibile: quando, dove, con chi, cosa succede se si sfora. Il resto nessuno lo rilegge. Per il clima di casa, non solo per i minuti, serve lo stesso sguardo del ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/digital-detox-in-famiglia-consigli-per-ridurre-luso-della-tecnologia-a-casa",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "detox digitale in famiglia",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
@@ -343,7 +360,24 @@
                 },
                 {
                   "type": "text",
-                  "text": "Il pezzo che più spesso tiene. Ricarica fuori, sveglia che non è il feed. Non è una punizione: è un confine di ambiente, lo stesso del sonno e del telefono in camera.",
+                  "text": "Il pezzo che più spesso tiene. Ricarica fuori, sveglia che non è il feed. Non è una punizione: è un confine di ambiente, lo stesso del sonno e del ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "telefono in camera",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ".",
                   "version": 1
                 }
               ]
