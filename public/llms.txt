@@ -34,6 +34,7 @@ benessere.digital è la piattaforma italiana di informazione evidence-based sul 
 - [L'impatto dei social media sul benessere e come gestirlo in modo consapevole](https://www.benessere.digital/articoli/limpatto-dei-social-media-sul-benessere-e-come-gestirlo-in-modo-consapevole)
 - [Telefono in camera: non sono (solo) le notifiche a rovinarti il sonno](https://www.benessere.digital/articoli/telefono-in-camera-notifiche-e-sonno)
 - [Accordi di schermo per ragazzi 8–14: regole che reggono](https://www.benessere.digital/articoli/accordi-di-schermo-ragazzi-8-14)
+- [Smartphone a scuola: oltre il divieto, cosa funziona davvero](https://www.benessere.digital/articoli/smartphone-a-scuola-cosa-funziona)
 
 ## Crawl
 

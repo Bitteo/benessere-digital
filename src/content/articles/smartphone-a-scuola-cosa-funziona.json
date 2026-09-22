@@ -3,7 +3,8 @@
   "title": "Smartphone a scuola: oltre il divieto, cosa funziona davvero",
   "excerpt": "Politiche smartphone a scuola in Italia: oltre il divieto totale. Un quadro pratico per docenti e istituti — istituto, classe, emergenza — senza teatralità.",
   "cover": "/images/covers/smartphone-a-scuola-cosa-funziona.png",
-  "coverAlt": "Illustrazione editoriale a linee: corridoio di scuola con zaini e un contenitore chiuso per i telefoni, senza scene di sequestro.",
+  "coverAlt": "Illustrazione editoriale a linee: ingresso di una scuola con zaini e organizer per telefoni, tono calmo, senza sequestro teatrale.",
+  "publishedAt": "2026-10-07T09:00:00.000+02:00",
   "authorSlugs": [
     "matteo-foroni"
   ],
@@ -12,11 +13,10 @@
     "benessere-digitale"
   ],
   "readingTime": 7,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Smartphone a scuola: cosa funziona oltre il divieto",
-    "metaDescription": "Smartphone a scuola in Italia: oltre il divieto totale. Cosa può funzionare per docenti e istituti, tra regolamento, classe e emergenze.",
-    "noIndex": true
+    "metaDescription": "Smartphone a scuola in Italia: oltre il divieto totale. Cosa può funzionare per docenti e istituti, tra regolamento, classe e emergenze."
   },
   "content": {
     "root": {
@@ -96,7 +96,24 @@
           "children": [
             {
               "type": "text",
-              "text": "In Italia il quadro non è un unico interruttore. Negli ultimi anni le indicazioni ministeriali hanno ristretto l’uso in primaria e nella secondaria di primo grado, anche quando qualcuno lo giustificava «per didattica». Le superiori restano più autonome: regolamenti di istituto e patti di corresponsabilità. Il dettaglio normativo si muove: non è questo l’articolo in cui aggiornare una circolare. La domanda utile non è «è vietato sì o no?». È quale comportamento chiediamo, in quale plesso, e chi fa rispettare la regola alle 11:40. Senza protocollo locale diventa geometria variabile: severi in terza A, elastici in terza C. La scuola non risolve il conflitto domestico (chi vuole il telefono «per la strada» e chi il divieto totale). Può dire cosa succede tra ingresso e uscita, e cosa non è compito suo.",
+              "text": "In Italia il quadro non è un unico interruttore. Negli ultimi anni le indicazioni ministeriali hanno ristretto l’uso in primaria e nella secondaria di primo grado, anche quando qualcuno lo giustificava «per didattica». Le superiori restano più autonome: regolamenti di istituto e patti di corresponsabilità. Il dettaglio normativo si muove: non è questo l’articolo in cui aggiornare una circolare. La domanda utile non è «è vietato sì o no?». È quale comportamento chiediamo, in quale plesso, e chi fa rispettare la regola alle 11:40. Senza protocollo locale diventa geometria variabile: severi in terza A, elastici in terza C. La scuola non risolve il conflitto domestico (chi vuole il telefono «per la strada» e chi il divieto totale): a casa servono ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", non una riedizione del regolamento scolastico. La scuola può dire cosa succede tra ingresso e uscita, e cosa non è compito suo.",
               "version": 1
             }
           ]
@@ -338,7 +355,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Il patto di corresponsabilità tiene tre promesse, non quindici. Alle famiglie: in orario scolastico si passa dalla scuola, non dal telefono del figlio. Agli studenti: spento e fuori mano, salvo eccezione detta. Alla scuola: un recapito che risponde e la stessa regola in tutte le sezioni. Se i genitori scrivono in classe, il divieto è teatro. Una circolare a settembre vale più di un dibattito a maggio. Con gli studenti, niente crociata: «Qui lo schermo non compete con la lezione. Fuori potete usarlo.» Il rispetto arriva dalla prevedibilità, non da un discorso sulla dopamina in assemblea.",
+              "text": "Il patto di corresponsabilità tiene tre promesse, non quindici. Alle famiglie: in orario scolastico si passa dalla scuola, non dal telefono del figlio. Agli studenti: spento e fuori mano, salvo eccezione detta. Alla scuola: un recapito che risponde e la stessa regola in tutte le sezioni. Se i genitori scrivono in classe, il divieto è teatro. Una circolare a settembre vale più di un dibattito a maggio. Con gli studenti, niente crociata: «Qui lo schermo non compete con la lezione. Fuori potete usarlo.» Il rispetto arriva dalla prevedibilità, non da un discorso sulla dopamina in assemblea. A casa, sul sonno, il confine più utile resta spesso il ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
