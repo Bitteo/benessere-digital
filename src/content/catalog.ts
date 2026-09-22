@@ -294,7 +294,7 @@ export const creators: CreatorSource[] = [
     handle: '@alessiocarciofi',
     slug: 'alessio-carciofi',
     name: 'Alessio Carciofi',
-    bio: 'Docente e autore su Digital Detox e benessere digitale per persone e aziende.',
+    bio: 'Docente e autore sul digital detox e benessere digitale; tra i pionieri del tema in Italia.',
     avatar: '/images/creators/alessio-carciofi.jpg',
     platforms: [
       { platform: 'instagram', url: 'https://www.instagram.com/alessiocarciofi/' },
@@ -307,7 +307,7 @@ export const creators: CreatorSource[] = [
     handle: '@monicabormetti',
     slug: 'monica-bormetti',
     name: 'Monica Bormetti',
-    bio: 'Psicologa e formatrice sul benessere digitale; fondatrice di Smart Break.',
+    bio: 'Psicologa e fondatrice di Smart Break; lavora su benessere digitale e uso consapevole della tecnologia.',
     avatar: '/images/creators/monica-bormetti.jpg',
     platforms: [
       { platform: 'instagram', url: 'https://www.instagram.com/monicabormetti/' },
