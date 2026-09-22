@@ -31,43 +31,6 @@ export function HeroSection() {
             <div className="mt-2 sm:mt-0">
               <NewsletterForm layout="inline" />
             </div>
-
-            {/* Social proof / stats */}
-            <div className="flex gap-8 pt-2 sm:gap-3">
-              <div className="min-w-0 flex-1">
-                <p
-                  className="text-h4 font-bold text-primary sm:text-xl"
-                  style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-                >
-                  10K+
-                </p>
-                <p className="text-sm leading-snug text-primary opacity-60 sm:text-tiny">
-                  Lettori al mese
-                </p>
-              </div>
-              <div className="min-w-0 flex-1">
-                <p
-                  className="text-h4 font-bold text-primary sm:text-xl"
-                  style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-                >
-                  200+
-                </p>
-                <p className="text-sm leading-snug text-primary opacity-60 sm:text-tiny">
-                  Articoli pubblicati
-                </p>
-              </div>
-              <div className="min-w-0 flex-1">
-                <p
-                  className="text-h4 font-bold text-primary sm:text-xl"
-                  style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-                >
-                  100%
-                </p>
-                <p className="text-sm leading-snug text-primary opacity-60 sm:text-tiny">
-                  Evidence-based
-                </p>
-              </div>
-            </div>
           </div>
 
           <HeroVisual />
