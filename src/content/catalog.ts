@@ -209,7 +209,7 @@ export const books: BookSource[] = [
     author: 'Jonathan Haidt',
     description:
       'Analisi basata su dati e ricerche su smartphone, social e benessere psicologico dei giovani: una lettura utile per genitori ed educatori che vogliono capire cosa è cambiato.',
-    buyUrl: 'https://www.amazon.it/generazione-ansiosa-social-rovinato-nostri/dp/8817189766',
+    buyUrl: 'https://amzn.eu/d/0etXJnEG',
     cover: '/images/books/la-generazione-ansiosa.jpg',
     featured: true,
   },
@@ -219,7 +219,7 @@ export const books: BookSource[] = [
     author: 'Cal Newport',
     description:
       'Una proposta pratica per ripensare il rapporto con le tecnologie: meno rumore di fondo, più spazio a ciò che ha valore nella vita quotidiana.',
-    buyUrl: 'https://www.amazon.it/Minimalismo-digitale-Rimettere-propria-distrazioni/dp/8885493599',
+    buyUrl: 'https://amzn.eu/d/07CuLOxR',
     cover: '/images/books/minimalismo-digitale.jpg',
     featured: true,
   },
@@ -229,7 +229,7 @@ export const books: BookSource[] = [
     author: 'Johann Hari',
     description:
       'Indagine su come ambienti digitali e pressioni esterne frammentano la concentrazione, e su cosa possono fare individui e società per recuperare focus.',
-    buyUrl: 'https://www.amazon.it/Stolen-Focus-Attention-Think-Deeply/dp/0593138511',
+    buyUrl: 'https://amzn.eu/d/04p6J7cY',
     cover: '/images/books/il-furto-dell-attenzione.jpg',
     featured: true,
   },
@@ -239,7 +239,7 @@ export const books: BookSource[] = [
     author: 'Nir Eyal',
     description:
       'Metodo in quattro fasi per riconoscere trigger interni ed esterni e progettare abitudini che riducono le distrazioni, senza demonizzare la tecnologia.',
-    buyUrl: 'https://www.amazon.it/Indistractable-Control-Your-Attention-Choose/dp/1526610205',
+    buyUrl: 'https://amzn.eu/d/0eReRnMC',
     cover: '/images/books/indistraibili.jpg',
     featured: true,
   },
@@ -249,7 +249,7 @@ export const books: BookSource[] = [
     author: 'Jean M. Twenge',
     description:
       'Ritratto della generazione cresciuta con lo smartphone: dati su tempo online, relazioni e benessere, pensato per chi educa o lavora con adolescenti.',
-    buyUrl: 'https://www.amazon.it/iGen-Super-Connected-Rebellious-Happy-Adulthood/dp/1501151983',
+    buyUrl: 'https://amzn.eu/d/07bMfFlj',
     cover: '/images/books/igen.jpg',
     featured: true,
   },
