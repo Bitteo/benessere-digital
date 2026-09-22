@@ -9,9 +9,10 @@ export function HeroSection() {
       aria-labelledby="hero-heading"
     >
       <div className="container-lg padding-global h-full">
-        <div className="flex min-h-[60vh] items-center gap-12 py-12 md:min-h-0 md:flex-col md:gap-8 md:py-10 sm:gap-5 sm:py-6">
+        {/* Webflow .layout4_component: place-items center end — content left, image right */}
+        <div className="flex min-h-[60vh] items-stretch gap-12 py-12 md:min-h-0 md:flex-col md:items-center md:gap-8 md:py-10 sm:gap-5 sm:py-6">
           {/* Content */}
-          <div className="flex max-w-[37.5rem] flex-1 flex-col gap-6 sm:gap-4">
+          <div className="flex max-w-[37.5rem] flex-1 flex-col justify-center gap-6 sm:gap-4">
             <div>
               <h1
                 id="hero-heading"
