@@ -1,12 +1,16 @@
-# Calendario editoriale — mese 1 (bozze)
+# Calendario editoriale — mese 1
 
-Cadenza: 1 articolo / mercoledì. Autore: `matteo-foroni`. Stato attuale: `draft`, `seo.noIndex: true`, senza `publishedAt`. Non pubblicare e non togliere `noIndex` senza OK esplicito.
+Cadenza: 1 articolo / mercoledì. Autore: `matteo-foroni`.
 
-Le copertine Midjourney arrivano dopo; i JSON puntano già a `/images/covers/{slug}.png`.
+- **A** (30 set): published — cover D
+- **B** (7 ott): published — cover E
+- **C** (14 ott): published — cover C
+
+Le copertine Midjourney sono in `public/images/covers/{slug}.png`.
 
 ---
 
-## A — mercoledì 30 settembre 2026 — genitori
+## A — mercoledì 30 settembre 2026 — genitori — **published** (cover D)
 
 - **Slug:** `accordi-di-schermo-ragazzi-8-14`
 - **Title:** Accordi di schermo per ragazzi 8–14: regole che reggono
@@ -21,7 +25,7 @@ Le copertine Midjourney arrivano dopo; i JSON puntano già a `/images/covers/{sl
 
 ---
 
-## B — mercoledì 7 ottobre 2026 — educatori
+## B — mercoledì 7 ottobre 2026 — educatori — **published** (cover E)
 
 - **Slug:** `smartphone-a-scuola-cosa-funziona`
 - **Title:** Smartphone a scuola: oltre il divieto, cosa funziona davvero
@@ -37,16 +41,18 @@ Le copertine Midjourney arrivano dopo; i JSON puntano già a `/images/covers/{sl
 
 ---
 
-## C — mercoledì 14 ottobre 2026 — giovani (mix OK)
+## C — mercoledì 14 ottobre 2026 — giovani (mix OK) — **published** (cover C)
 
 - **Slug:** `fomo-jomo-social-senza-sparire`
 - **Title:** FOMO e JOMO: come uscire dal loop senza sparire dai social
 - **Keyword primaria:** FOMO JOMO
 - **Secondarie:** FOMO social, JOMO significato, uscire dal loop social
 - **Search intent:** informazionale + how-to. Giovane (o genitore che cerca per un figlio) che vuole capire FOMO/JOMO e abitudini, non «cancella Instagram».
-- **Internal link da inserire in publish:**
+- **publishedAt:** `2026-10-14T09:00:00.000+02:00`
+- **Cover:** Midjourney C (giovane + telefono, bolle corallo che si dissolvono)
+- **Internal link in publish:**
+  - `/articoli/telefono-in-camera-notifiche-e-sonno` (FOMO a letto) — inserito
   - `/articoli/limpatto-dei-social-media-sul-benessere-e-come-gestirlo-in-modo-consapevole`
-  - `/articoli/telefono-in-camera-notifiche-e-sonno` (FOMO a letto)
   - `/articoli/brain-rot`
   - `/articoli/dopamina-la-guida-completa`
 - **Categorie:** `social-media`, `salute-mentale`
