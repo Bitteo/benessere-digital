@@ -60,6 +60,8 @@ export type CreatorSource = {
   handle: string
   name?: string
   bio?: string
+  /** Optional avatar path/URL for non-TikTok fallback cards. */
+  avatar?: string
   platforms?: Array<{ platform: string; url?: string }>
   featured?: boolean
 }

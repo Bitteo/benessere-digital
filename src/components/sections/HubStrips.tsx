@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import type { AppItem, BookItem, CreatorItem } from '@/lib/content'
 import { getImageUrl } from '@/lib/content'
+import { CreatorsGrid } from '@/components/creators/CreatorsGrid'
 import { podcastEpisodes, podcastShow, type PodcastEmbed } from '@/content/podcasts'
 
 const videos = [
@@ -16,34 +17,12 @@ export function CreatorsStrip({ creators }: { creators: CreatorItem[] }) {
   if (creators.length === 0) return null
 
   return (
-    <section id="profili" className="section-md scroll-mt-24 border-b border-border">
-      <div className="container-lg padding-global">
+    <section id="profili" className="section-md scroll-mt-24 overflow-x-hidden border-b border-border">
+      <div className="container-lg padding-global min-w-0">
         <h2 className="mb-8 text-h2 sm:text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
           <span className="text-pixel">Creators</span> del benessere
         </h2>
-        <div className="grid grid-cols-3 gap-4 lg:grid-cols-2 sm:grid-cols-1">
-          {creators.map((creator) => {
-            const primary = creator.platforms?.find((p) => p.url) ?? creator.platforms?.[0]
-            const href = primary?.url || '#'
-            return (
-              <a
-                key={creator.id}
-                href={href}
-                target={href.startsWith('http') ? '_blank' : undefined}
-                rel={href.startsWith('http') ? 'noopener noreferrer' : undefined}
-                className="hover-lift flex flex-col gap-3 rounded-xl border border-border p-6"
-              >
-                <p className="text-h5" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
-                  {creator.handle}
-                </p>
-                {creator.name && <p className="text-sm text-primary opacity-70">{creator.name}</p>}
-                {creator.bio && (
-                  <p className="text-sm leading-relaxed text-primary opacity-60">{creator.bio}</p>
-                )}
-              </a>
-            )
-          })}
-        </div>
+        <CreatorsGrid creators={creators} />
       </div>
     </section>
   )

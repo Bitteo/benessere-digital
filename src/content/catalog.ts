@@ -272,6 +272,7 @@ export const creators: CreatorSource[] = [
     handle: '@theoxcatalano',
     slug: 'theoxcatalano',
     name: 'theoxcatalano',
+    bio: 'Creator TikTok su digital detox e abitudini digitali consapevoli.',
     platforms: [{ platform: 'tiktok', url: 'https://www.tiktok.com/@theoxcatalano' }],
     featured: true,
   },

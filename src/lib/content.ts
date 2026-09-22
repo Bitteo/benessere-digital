@@ -188,6 +188,9 @@ const creators: CreatorItem[] = creatorSources
     bio: item.bio,
     platforms: item.platforms,
     featured: item.featured,
+    avatar: item.avatar
+      ? media(`creator-${item.slug}`, item.avatar, item.name || item.handle)
+      : null,
   }))
   .sort((a, b) => a.handle.localeCompare(b.handle, 'it'))
 
