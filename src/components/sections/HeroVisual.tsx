@@ -6,12 +6,12 @@ import { useEffect, useRef } from 'react'
 const HERO_ALT =
   'Una persona che medita, in pieno controllo della sua mente, fa fluttuare dispositivi elettronici intorno a lui.'
 
-// Webflow "Mouse Hover Hero Img" travels 2% X / 4% Y. Use a few px so the
-// follow is visible without feeling floaty. Desktop only; no touch.
-const MAX_OFFSET_X = 14
-const MAX_OFFSET_Y = 18
+// Webflow IX2 "Mouse Hover Hero Img": MOUSE_X 0%→2%, MOUSE_Y 0%→4% (of layer size).
+// Desktop only; no touch. LERP ~0.12 ≈ 500ms settle feel.
+const MAX_OFFSET_X_PCT = 2
+const MAX_OFFSET_Y_PCT = 4
 const LERP = 0.12
-const SETTLE_PX = 0.08
+const SETTLE_PCT = 0.01
 
 export function HeroVisual() {
   const rootRef = useRef<HTMLDivElement>(null)
@@ -31,7 +31,7 @@ export function HeroVisual() {
     const canAnimate = () => !reduceMq.matches && desktopMq.matches
 
     const setTransform = (x: number, y: number) => {
-      layer.style.transform = `translate3d(${x}px, ${y}px, 0)`
+      layer.style.transform = `translate3d(${x}%, ${y}%, 0)`
     }
 
     const schedule = () => {
@@ -51,7 +51,7 @@ export function HeroVisual() {
       const cur = currentRef.current
       cur.x += (tx - cur.x) * LERP
       cur.y += (ty - cur.y) * LERP
-      if (Math.abs(tx - cur.x) < SETTLE_PX && Math.abs(ty - cur.y) < SETTLE_PX) {
+      if (Math.abs(tx - cur.x) < SETTLE_PCT && Math.abs(ty - cur.y) < SETTLE_PCT) {
         cur.x = tx
         cur.y = ty
       }
@@ -65,11 +65,12 @@ export function HeroVisual() {
       const section = root.closest('section') ?? root
       const rect = section.getBoundingClientRect()
       if (rect.width === 0 || rect.height === 0) return
-      const nx = (event.clientX - rect.left) / rect.width
-      const ny = (event.clientY - rect.top) / rect.height
+      const nx = Math.min(1, Math.max(0, (event.clientX - rect.left) / rect.width))
+      const ny = Math.min(1, Math.max(0, (event.clientY - rect.top) / rect.height))
+      // IX2 maps pointer 0→1 to translate 0%→2% / 0%→4% (not centered ±).
       targetRef.current = {
-        x: (nx - 0.5) * 2 * MAX_OFFSET_X,
-        y: (ny - 0.5) * 2 * MAX_OFFSET_Y,
+        x: nx * MAX_OFFSET_X_PCT,
+        y: ny * MAX_OFFSET_Y_PCT,
       }
       schedule()
     }
@@ -93,10 +94,17 @@ export function HeroVisual() {
   }, [])
 
   return (
-    <div ref={rootRef} className="flex flex-1 items-center justify-center self-stretch md:w-full">
+    <div
+      ref={rootRef}
+      className="flex h-full flex-1 items-center justify-end self-stretch overflow-hidden md:h-auto md:w-full md:justify-center"
+    >
+      {/*
+        Webflow .layout4_image-wrapper: height 100% of 60vh hero, aspect-ratio 1,
+        overflow hidden. Square fills the right column — no 46vh max-width cap.
+      */}
       <div
         ref={layerRef}
-        className="relative aspect-square w-full max-w-[min(100%,60vh)] will-change-transform sm:max-w-[min(100%,46vh)]"
+        className="relative aspect-square h-full w-auto max-w-full will-change-transform md:aspect-square md:h-auto md:w-full"
       >
         <Image
           src="/images/hero-benessere-digital.png"
@@ -104,7 +112,7 @@ export function HeroVisual() {
           fill
           className="object-contain object-center"
           priority
-          sizes="(max-width: 768px) 100vw, min(60vh, 50vw)"
+          sizes="(max-width: 768px) 100vw, 60vh"
         />
       </div>
     </div>
