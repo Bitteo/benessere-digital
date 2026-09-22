@@ -4,7 +4,7 @@ Cadenza: 1 articolo / mercoledì. Autore: `matteo-foroni`.
 
 - **A** (30 set): published — cover D
 - **B** (7 ott): published — cover E
-- **C** (14 ott): published — cover C
+- **C** (14 ott): published — cover B
 
 Le copertine Midjourney sono in `public/images/covers/{slug}.png`.
 
@@ -41,7 +41,7 @@ Le copertine Midjourney sono in `public/images/covers/{slug}.png`.
 
 ---
 
-## C — mercoledì 14 ottobre 2026 — giovani (mix OK) — **published** (cover C)
+## C — mercoledì 14 ottobre 2026 — giovani (mix OK) — **published** (cover B)
 
 - **Slug:** `fomo-jomo-social-senza-sparire`
 - **Title:** FOMO e JOMO: come uscire dal loop senza sparire dai social
@@ -49,7 +49,7 @@ Le copertine Midjourney sono in `public/images/covers/{slug}.png`.
 - **Secondarie:** FOMO social, JOMO significato, uscire dal loop social
 - **Search intent:** informazionale + how-to. Giovane (o genitore che cerca per un figlio) che vuole capire FOMO/JOMO e abitudini, non «cancella Instagram».
 - **publishedAt:** `2026-10-14T09:00:00.000+02:00`
-- **Cover:** Midjourney C (giovane + telefono, bolle corallo che si dissolvono)
+- **Cover:** Midjourney B (passeggiata al parco, sguardo in alto, telefono ignorato)
 - **Internal link in publish:**
   - `/articoli/telefono-in-camera-notifiche-e-sonno` (FOMO a letto) — inserito
   - `/articoli/limpatto-dei-social-media-sul-benessere-e-come-gestirlo-in-modo-consapevole`
