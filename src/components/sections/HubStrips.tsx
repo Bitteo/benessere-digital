@@ -205,7 +205,7 @@ export function BooksStrip({ books }: { books: BookItem[] }) {
         <h2 className="mb-8 text-h2 sm:text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
           Libri per il benessere <span className="text-pixel">digitale</span>
         </h2>
-        <div className="grid grid-cols-5 gap-4 lg:grid-cols-3 sm:grid-cols-1">
+        <div className="grid grid-cols-5 gap-4 lg:grid-cols-3 sm:grid-cols-2">
           {books.map((book) => {
             const href = book.buyUrl || '#'
             const cover = getImageUrl(book.coverImage)

@@ -118,30 +118,6 @@ export default function ChiSiamoPage() {
         </div>
       </section>
 
-      {/* Stats */}
-      <section className="section-md border-b border-border bg-surface-subtle" aria-label="I nostri numeri">
-        <div className="container-lg padding-global">
-          <div className="grid grid-cols-4 md:grid-cols-2 sm:grid-cols-2 gap-8 text-center">
-            {[
-              { value: '10K+', label: 'Lettori al mese' },
-              { value: '200+', label: 'Articoli pubblicati' },
-              { value: '50+', label: 'Fonti scientifiche' },
-              { value: '100%', label: 'Indipendente' },
-            ].map((s) => (
-              <div key={s.label}>
-                <p
-                  className="text-h1 sm:text-h2 text-primary mb-1"
-                  style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-                >
-                  {s.value}
-                </p>
-                <p className="text-sm text-primary opacity-60">{s.label}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
       <NewsletterBanner />
     </main>
   )
