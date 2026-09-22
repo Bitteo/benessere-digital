@@ -4,13 +4,12 @@ import { HeroVisual } from './HeroVisual'
 export function HeroSection() {
   return (
     <section
-      className="border-b border-border"
-      style={{ minHeight: '60vh' }}
+      className="h-[60vh] border-b border-border md:h-auto"
       aria-labelledby="hero-heading"
     >
-      <div className="container-lg padding-global h-full">
-        {/* Webflow .layout4_component: place-items center end — content left, image right */}
-        <div className="flex min-h-[60vh] items-stretch gap-12 py-12 md:min-h-0 md:flex-col md:items-center md:gap-8 md:py-10 sm:gap-5 sm:py-6">
+      <div className="container-lg padding-global h-full md:h-auto">
+        {/* Webflow .layout4_component: height 60vh, place-items center end */}
+        <div className="flex h-full items-stretch gap-12 md:h-auto md:flex-col md:items-center md:gap-8 md:py-10 sm:gap-5 sm:py-6">
           {/* Content */}
           <div className="flex max-w-[37.5rem] flex-1 flex-col justify-center gap-6 sm:gap-4">
             <div>

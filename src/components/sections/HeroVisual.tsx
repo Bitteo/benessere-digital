@@ -96,15 +96,15 @@ export function HeroVisual() {
   return (
     <div
       ref={rootRef}
-      className="flex flex-1 items-center justify-end self-stretch overflow-hidden md:w-full md:justify-center"
+      className="flex h-full flex-1 items-center justify-end self-stretch overflow-hidden md:h-auto md:w-full md:justify-center"
     >
       {/*
         Webflow .layout4_image-wrapper: height 100% of 60vh hero, aspect-ratio 1,
-        overflow hidden. Square fills the right column — no 46vh/60vh max-width cap.
+        overflow hidden. Square fills the right column — no 46vh max-width cap.
       */}
       <div
         ref={layerRef}
-        className="relative aspect-square h-full max-h-[60vh] w-auto max-w-full will-change-transform md:h-auto md:max-h-none md:w-full"
+        className="relative aspect-square h-full w-auto max-w-full will-change-transform md:aspect-square md:h-auto md:w-full"
       >
         <Image
           src="/images/hero-benessere-digital.png"
