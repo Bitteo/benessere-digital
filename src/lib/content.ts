@@ -88,7 +88,7 @@ export type CreatorItem = {
   slug: string
   name?: string
   bio?: string
-  platforms?: Array<{ platform: string; url?: string }>
+  platforms?: Array<{ platform: string; url: string }>
   avatar?: MediaItem | null
   featured?: boolean
 }

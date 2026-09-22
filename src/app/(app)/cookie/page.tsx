@@ -15,16 +15,9 @@ export default function CookiePage() {
         scelta sul banner di consenso). Questi cookie non richiedono un consenso aggiuntivo.
       </p>
       <p>
-        Eventuali cookie di misurazione o marketing (Google Analytics) vengono attivati solo se
-        scegli &quot;Accetto&quot; nel banner. Puoi cambiare idea cancellando i dati del browser o
-        rivisitando questa pagina dopo aver rimosso la chiave{' '}
-        <code>benessere-cookie-consent</code> dal localStorage.
-      </p>
-      <p>
-        Nella sezione Creators carichiamo, dopo il mount della pagina, lo script ufficiale TikTok
-        (<code>https://www.tiktok.com/embed.js</code>) per mostrare l&apos;embed creator. Come per
-        gli embed Spotify già presenti, non è dietro al banner di consenso analytics: il contenuto
-        è fornito da terzi e può impostare cookie propri di TikTok.
+        Eventuali cookie di misurazione o marketing vengono attivati solo se scegli &quot;Accetto&quot;
+        nel banner. Puoi cambiare idea cancellando i dati del browser o rivisitando questa pagina
+        dopo aver rimosso la chiave <code>benessere-cookie-consent</code> dal localStorage.
       </p>
       <p>
         Per i dettagli sul trattamento dei dati vedi la{' '}

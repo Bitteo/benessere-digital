@@ -55,13 +55,22 @@ export type BookSource = {
   featured?: boolean
 }
 
+export type CreatorPlatform =
+  | 'instagram'
+  | 'tiktok'
+  | 'linkedin'
+  | 'threads'
+  | 'x'
+  | 'youtube'
+  | 'website'
+
 export type CreatorSource = {
   slug: string
   handle: string
   name?: string
   bio?: string
-  /** Optional avatar path/URL for non-TikTok fallback cards. */
+  /** Path under /public, e.g. /images/creators/slug.jpg */
   avatar?: string
-  platforms?: Array<{ platform: string; url?: string }>
+  platforms?: Array<{ platform: CreatorPlatform; url: string }>
   featured?: boolean
 }
