@@ -15,7 +15,7 @@ export function HeroSection() {
             <div>
               <h1
                 id="hero-heading"
-                className="text-h1 leading-tight sm:text-3xl"
+                className="text-[4.5rem] leading-[1.1] sm:text-3xl"
                 style={{ fontFamily: 'FuturaPT-Demi, sans-serif', fontWeight: 700 }}
               >
                 Il benessere <span className="text-pixel">digitale</span> inizia qui
