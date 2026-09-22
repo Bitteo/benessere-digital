@@ -3,7 +3,8 @@
   "title": "FOMO e JOMO: come uscire dal loop senza sparire dai social",
   "excerpt": "FOMO e JOMO sui social: cosa sono, perché il loop tiene, e abitudini concrete per stare meglio senza cancellare Instagram o «scomparire».",
   "cover": "/images/covers/fomo-jomo-social-senza-sparire.png",
-  "coverAlt": "Illustrazione editoriale a linee: un giovane sul divano con il telefono a faccia in giù, una chat in sottofondo e una finestra aperta.",
+  "coverAlt": "Illustrazione editoriale a linee: giovane seduto con telefono, bolle di notifica corallo/pesca che si dissolvono dallo schermo, libri vicini, charcoal su off-white — senza testo leggibile.",
+  "publishedAt": "2026-10-14T09:00:00.000+02:00",
   "authorSlugs": [
     "matteo-foroni"
   ],
@@ -12,11 +13,10 @@
     "salute-mentale"
   ],
   "readingTime": 6,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "FOMO e JOMO: uscire dal loop senza sparire",
-    "metaDescription": "FOMO e JOMO sui social: perché il loop tiene e abitudini concrete per uscirne senza cancellare Instagram o sparire dagli amici.",
-    "noIndex": true
+    "metaDescription": "FOMO e JOMO sui social: perché il loop tiene e abitudini concrete per uscirne senza cancellare Instagram o sparire dagli amici."
   },
   "content": {
     "root": {
@@ -189,7 +189,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Di sera il loop si incastra col sonno: luce, letto come postazione social, «controllo solo una storia». Non è un altro articolo sul telefono in camera, ma è lo stesso meccanismo. Se la FOMO arriva soprattutto a letto, il problema non è solo «i social»: è dove li hai messi.",
+              "text": "Di sera il loop si incastra col sonno: luce, letto come postazione social, «controllo solo una storia». Non è un altro articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", ma è lo stesso meccanismo. Se la FOMO arriva soprattutto a letto, il problema non è solo «i social»: è dove li hai messi.",
               "version": 1
             }
           ]
