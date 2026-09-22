@@ -102,6 +102,60 @@ export const apps: AppSource[] = [
     icon: '/images/apps/forest.webp',
     featured: true,
   },
+  {
+    name: 'Opal',
+    slug: 'opal',
+    description:
+      'Limiti di screen time e blocchi programmati per ridurre le distrazioni e proteggere le fasce di concentrazione.',
+    useCase: 'Screen time / Focus',
+    appStoreUrl: 'https://apps.apple.com/us/app/opal-screen-time-control/id1497465230',
+    playStoreUrl: 'https://play.google.com/store/apps/details?id=com.withopal.opal',
+    icon: '/images/apps/opal.webp',
+    featured: true,
+  },
+  {
+    name: 'Freedom',
+    slug: 'freedom',
+    description:
+      'Blocco di siti e app su più dispositivi, utile per sessioni di lavoro o studio senza interruzioni digitali.',
+    useCase: 'Focus / Blocking',
+    appStoreUrl: 'https://apps.apple.com/us/app/freedom-screen-time-control/id1269788228',
+    playStoreUrl: 'https://play.google.com/store/apps/details?id=to.freedom.android2',
+    icon: '/images/apps/freedom.webp',
+    featured: true,
+  },
+  {
+    name: 'Clearspace',
+    slug: 'clearspace',
+    description:
+      'Introduce una pausa consapevole prima di aprire le app che tendono a rubare tempo, così l’apertura diventa una scelta e non un riflesso.',
+    useCase: 'Screen time / Mindfulness',
+    appStoreUrl: 'https://apps.apple.com/us/app/clearspace-reduce-screen-time/id1572515807',
+    playStoreUrl: 'https://play.google.com/store/apps/details?id=com.clearspace.app',
+    icon: '/images/apps/clearspace.webp',
+    featured: true,
+  },
+  {
+    name: 'Jomo',
+    slug: 'jomo',
+    description:
+      'Blocchi e routine di focus con tono leggero: aiuta a capire quanto usi il telefono e a proteggere le fasce della giornata che contano.',
+    useCase: 'Screen time / Focus',
+    appStoreUrl: 'https://apps.apple.com/us/app/jomo-screen-time-blocker/id1609960918',
+    icon: '/images/apps/jomo.webp',
+    featured: true,
+  },
+  {
+    name: 'AppBlock',
+    slug: 'appblock',
+    description:
+      'Blocchi di app e siti con orari e modalità rigorose; particolarmente solido su Android per ridurre le distrazioni ricorrenti.',
+    useCase: 'Screen time / Blocking',
+    appStoreUrl: 'https://apps.apple.com/us/app/appblock-block-apps-website/id1515753232',
+    playStoreUrl: 'https://play.google.com/store/apps/details?id=cz.mobilesoft.appblock',
+    icon: '/images/apps/appblock.webp',
+    featured: true,
+  },
 ]
 
 export const books: BookSource[] = [
@@ -147,6 +201,56 @@ export const books: BookSource[] = [
     author: 'Marco Fasoli',
     buyUrl: 'https://amzn.eu/d/4TvsJ2j',
     cover: '/images/books/benessere-digitale-fasoli.jpg',
+    featured: true,
+  },
+  {
+    title: 'La generazione ansiosa',
+    slug: 'la-generazione-ansiosa',
+    author: 'Jonathan Haidt',
+    description:
+      'Analisi basata su dati e ricerche su smartphone, social e benessere psicologico dei giovani: una lettura utile per genitori ed educatori che vogliono capire cosa è cambiato.',
+    buyUrl: 'https://www.amazon.it/generazione-ansiosa-social-rovinato-nostri/dp/8817189766',
+    cover: '/images/books/la-generazione-ansiosa.jpg',
+    featured: true,
+  },
+  {
+    title: 'Minimalismo digitale',
+    slug: 'minimalismo-digitale',
+    author: 'Cal Newport',
+    description:
+      'Una proposta pratica per ripensare il rapporto con le tecnologie: meno rumore di fondo, più spazio a ciò che ha valore nella vita quotidiana.',
+    buyUrl: 'https://www.amazon.it/Minimalismo-digitale-Rimettere-propria-distrazioni/dp/8885493599',
+    cover: '/images/books/minimalismo-digitale.jpg',
+    featured: true,
+  },
+  {
+    title: "Il furto dell'attenzione",
+    slug: 'il-furto-dell-attenzione',
+    author: 'Johann Hari',
+    description:
+      'Indagine su come ambienti digitali e pressioni esterne frammentano la concentrazione, e su cosa possono fare individui e società per recuperare focus.',
+    buyUrl: 'https://www.amazon.it/Stolen-Focus-Attention-Think-Deeply/dp/0593138511',
+    cover: '/images/books/il-furto-dell-attenzione.jpg',
+    featured: true,
+  },
+  {
+    title: 'Indistraibili',
+    slug: 'indistraibili',
+    author: 'Nir Eyal',
+    description:
+      'Metodo in quattro fasi per riconoscere trigger interni ed esterni e progettare abitudini che riducono le distrazioni, senza demonizzare la tecnologia.',
+    buyUrl: 'https://www.amazon.it/Indistractable-Control-Your-Attention-Choose/dp/1526610205',
+    cover: '/images/books/indistraibili.jpg',
+    featured: true,
+  },
+  {
+    title: 'iGen',
+    slug: 'igen',
+    author: 'Jean M. Twenge',
+    description:
+      'Ritratto della generazione cresciuta con lo smartphone: dati su tempo online, relazioni e benessere, pensato per chi educa o lavora con adolescenti.',
+    buyUrl: 'https://www.amazon.it/iGen-Super-Connected-Rebellious-Happy-Adulthood/dp/1501151983',
+    cover: '/images/books/igen.jpg',
     featured: true,
   },
 ]
