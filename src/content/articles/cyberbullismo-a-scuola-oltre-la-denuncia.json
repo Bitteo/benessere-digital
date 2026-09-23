@@ -1,0 +1,686 @@
+{
+  "slug": "cyberbullismo-a-scuola-oltre-la-denuncia",
+  "title": "Cyberbullismo a scuola: cosa fare oltre la denuncia",
+  "excerpt": "Cyberbullismo a scuola: come distinguere una lite da un caso, e che cosa fanno docenti e istituto oltre la denuncia, senza panico.",
+  "cover": "/images/covers/smartphone-a-scuola-cosa-funziona.png",
+  "coverAlt": "Illustrazione editoriale a linee: ingresso di una scuola con zaini e organizer per telefoni, tono calmo, senza sequestro teatrale.",
+  "publishedAt": "2026-11-04T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "sicurezza-online"],
+  "readingTime": 8,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Cyberbullismo a scuola: oltre la denuncia",
+    "metaDescription": "Cyberbullismo a scuola: che cosa fare oltre la denuncia. Una guida calma per docenti, dentro il regolamento, senza panico e senza norme improvvisate.",
+    "noIndex": true
+  },
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un ragazzo resta in classe a ricreazione con lo schermo girato. Non ride. Un compagno ha inoltrato una foto, o un vocale, o un nome messo in un gruppo che lui non ha scelto. Tu sei il docente. In corridoio qualcuno dice già «denuncia». Qualcun altro dice «sono ragazzi, passa». Nessuna delle due frasi è un metodo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il cyberbullismo non è «internet fa male» e non è ogni lite in chat. È un comportamento che fa danno, con un’intenzione, con una sproporzione di potere, e con una durata: si ripete, oppure un singolo contenuto resta, si inoltra, non scade con la campanella. Online si aggiungono tre cose che in cortile pesavano meno. Il pubblico può essere largo. Il contenuto resta. La giornata scolastica non chiude il caso alle 14.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non ogni cattiveria è bullismo. Un insulto isolato, una lite tra pari, una battuta caduta male vanno visti per quello che sono: conflitti, a volte gravi, non automaticamente un’etichetta. Gonfiare tutto a «cyberbullismo» produce panico e procedure storte. Minimizzare — «è solo un gruppo» — lascia solo chi sta subendo. Il lavoro dell’adulto è distinguere, in fretta e senza teatro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il telefono in classe è un tema vicino, ma distinto: ne parliamo in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/smartphone-a-scuola-cosa-funziona",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "smartphone a scuola",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui non si tratta del divieto. Si tratta di che cosa fa la scuola quando un contenuto fa danno a una persona che il giorno dopo deve tornare in quell’aula.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Oltre la denuncia: che cosa fa la scuola per primo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La denuncia alle autorità non è il primo riflesso e non è l’unico. In molti casi il danno continua nel corridoio mentre gli adulti discutono di querele. Le prime mosse sono più sobrie, e si possono fare prima ancora di sapere come si chiamerà l’episodio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Ascolta senza platea.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Non chiedere di raccontare davanti alla classe. Non prendere il telefono come un trofeo. La persona che ha subito deve poter parlare senza diventare «quello che ha fatto la spia» prima ancora che tu abbia capito i fatti.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Metti in sicurezza l’ora successiva.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Non rimandarlo nel gruppo, nel lavoro di squadra o nello spogliatoio come se nulla fosse, «così non si nota». Si nota. Chiedi che cosa gli serve per arrivare a fine giornata.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Conserva, non amplificare.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Uno screenshot in una cartella della scuola, con data, serve. Lo stesso screenshot nel gruppo dei docenti, con un commento, è già un altro pubblico. Chi inoltra «per far vedere» allarga il danno.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Non leggere ad alta voce.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Il contenuto offensivo non è materiale didattico. Ripeterlo in classe, anche per condannarlo, è un secondo giro di diffusione.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Non forzare un incontro subito.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " La mediazione può arrivare. Il primo giorno, se chi ha subito non è al sicuro, l’incontro è un’altra esposizione. Non è codardia. È ordine.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il quadro, senza fingere di essere il regolamento",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Italia la prevenzione e il contrasto di bullismo e cyberbullismo stanno in una legge del 2017, la n. 71, aggiornata nel 2024 dalla legge n. 70. L’impostazione dichiarata privilegia azioni formative ed educative, non solo la sanzione. Le norme chiedono alle scuole di integrare il regolamento e di individuare un docente referente che coordini. Nei casi più gravi, o quando le condotte si ripetono e gli interventi educativi non bastano, il dirigente si rivolge alle autorità competenti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo articolo non è una circolare e non sostituisce gli atti del tuo istituto. Non ti dice in quante ore, con quale modulo, né se «questo» caso va in questura. Quei passaggi stanno nelle linee di orientamento del ministero e nel regolamento della scuola. Se un testo online ti dà un minutaggio legale, sta indovinando. Tu apri il testo dell’istituto e parli con il referente e con il dirigente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Due errori simmetrici. Trattare ogni episodio come un fascicolo penale, e paralizzarsi. Trattare ogni episodio come «roba da ragazzi», e non aprire nemmeno la procedura interna. La via di mezzo è noiosa ed è quella giusta: fatti, tutela di chi ha subito, intervento educativo su chi ha agito, famiglie informate con misura, autorità quando il caso è grave o non si ferma. La calma è il tono. Non è un rinvio di una settimana «per vedere se si calma da solo», mentre un contenuto continua a girare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chi ha subito, chi ha agito, chi ha inoltrato",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre ruoli, tre lavori. Mescolarli in un «parliamone tutti insieme» è il modo più rapido per non proteggere nessuno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chi ha subito ha bisogno di essere creduto quanto basta per agire, senza un interrogatorio. Non chiedere «ma tu che cosa hai fatto per provocarli» come apertura. Non promettere «lo faccio sparire da internet entro oggi»: non è una promessa che un docente controlla. Prometti il prossimo passo vero: referente, famiglia, che cosa non dovrà affrontare da solo a ricreazione. Chiedi anche che cosa non vuole che tu faccia. A volte la paura più grande è il modo in cui gli adulti rilanciano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chi ha agito non è un mostro da esibire e non è un dettaglio. L’intervento educativo — capire che cosa ha fatto, che pubblico ha creato, che cosa deve smettere subito — è parte del contrasto, non un optional buonista. La sanzione disciplinare, se il regolamento la prevede e se è proporzionata, può stare nel quadro. Il teatro della gogna no: non educa, e spesso sposta l’aggressione dove non vedi, su un altro account, in un altro gruppo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chi ha inoltrato ha fatto volume. Una foto che gira non è «solo un inoltro». In classe, senza nomi se il caso è aperto, si può dire una cosa concreta: inoltrare è partecipare. Serve una regola corta, ripetuta, e adulti che non inoltrano a loro volta «nel gruppo dei prof, così lo vedete».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le famiglie si avvisano con i fatti che la scuola può dire, non con la ricostruzione del corridoio. La famiglia di chi ha subito non deve scoprirlo dai social. La famiglia di chi ha agito non deve scoprirlo da un’umiliazione pubblica. Il dirigente, o chi il regolamento indica, tiene questo passaggio. Il singolo docente non apre un processo parallelo su una chat tra colleghi. Tre versioni della stessa ora producono tre famiglie che non si fidano della quarta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa non fare, anche se sembra deciso",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il panico ha un repertorio. Conviene riconoscerlo prima di usarlo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il sequestro spettacolo.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Segui la policy della scuola sui telefoni. Improvvisare un sequestro in mezzo all’aula, con il contenuto ancora aperto sullo schermo, mostra il danno a tutti. Sembra fermezza. È diffusione.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il post della scuola.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Una storia sull’account dell’istituto che allude al caso, anche «senza nomi», spesso rende identificabile chi non voleva esserlo. La condanna pubblica non è tutela.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La punizione di tutta la classe",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " perché «nessuno parla». Produce omertà, non responsabilità. Chi sa qualcosa impara a non dirla a te.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il «sono entrambe le parti»",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " quando c’è un bersaglio chiaro e un contenuto che continua a girare. I conflitti tra pari esistono. Non tutti gli episodi sono simmetrici. Guardare i fatti non è schierarsi per tifo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "L’invito a ignorare come unica mossa.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Ignorare un gruppo può essere una tattica del ragazzo, non un piano della scuola. La scuola ha altro da fare: fermare la diffusione nel suo perimetro, sostenere, attivare chi è previsto dagli atti interni.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "C’è un caso in cui la prudenza diventa più stretta. Se il contenuto riguarda immagini intime di un minore, non aprirlo «per verificare» in un giro di colleghi, non salvarlo sul telefono personale, non chiedere di «rivederlo». Segnala subito a chi è tenuto a gestire il caso. La curiosità adulta non è diligenza. È un altro rischio, e va chiuso per primo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un ordine per le prossime due ore",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è il regolamento. È la sequenza, in attesa del referente, per non peggiorare l’ora.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ol",
+          "listType": "number",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Porta la conversazione fuori dal pubblico. Una frase: «Non ne parliamo qui. Vieni con me, lo vediamo con calma».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chiedi che cosa è online adesso e chi altro lo ha. Non chiedere di umiliarsi. Chiedi i fatti che ti servono per fermare il giro in classe.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Fai conservare una copia in un canale scolastico, non personale. Se non sai quale, il referente lo sa. Nel dubbio, non moltiplicare i tuoi invii.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Avvisa il referente e il dirigente nello stesso giorno, non «se ricapita».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Accordati su chi chiama la famiglia. Uno solo. Non tre versioni della stessa storia.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il giorno dopo, in classe, una regola sull’inoltro. Senza nomi. Poi si torna al programma: il caso non diventa lo spettacolo della settimana.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se hai visto il giro senza essere il docente di quella classe, il lavoro non cambia: non rilanciare, non interrogare in pubblico, un passaggio solo a chi coordina. Lo stesso vale per chi educa fuori dall’aula. Il gruppo degli altri genitori non è un canale scolastico. È un feed con i nomi veri.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Devo sporgere denuncia io, subito?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non ogni episodio parte dalla questura, e non spetta a un articolo dirti se questo è un reato. La legge distingue la via educativa da quella in cui il dirigente informa le autorità, in particolare nei casi gravi o reiterati. Se c’è un pericolo immediato, la tutela della persona viene prima del dibattito. Per il resto: regolamento, referente, dirigente. Non un gruppo di chat che «decide di denunciare» al posto della scuola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sequestrare i telefoni risolve?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Può servire, dentro le regole dell’istituto, a interrompere un giro in quel momento. Non spegne un contenuto già inoltrato e non sostituisce l’ascolto. Uno spettacolo di sequestri sposta l’attenzione su di te e lascia il contenuto dove già sta: sui telefoni degli altri.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una sola storia crudele è già cyberbullismo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Può esserne l’inizio, soprattutto se resta online e se c’è uno squilibrio. Può anche essere un episodio grave che va fermato senza l’etichetta completa. Non gonfiare per sembrare rigoroso. Non minimizzare perché è «una storia sola». Guarda intenzione, potere, diffusione, e come sta la persona il giorno dopo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa dico alla classe?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una regola, senza il riassunto del fatto. Non si inoltra un contenuto che ferisce. Chi lo riceve lo dice a un adulto invece di farlo girare. Poi si lavora. I discorsi lunghi sul «fenomeno», senza una regola concreta, lasciano l’aula più ansiosa e non più capace.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fare meno rumore, fare il passo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Oltre la denuncia c’è il lavoro che la scuola sa fare se non va in panico: ascoltare fuori dalla platea, non rilanciare il contenuto, aprire la procedura che esiste già, tenere distinti chi ha subito e chi ha agito, dire alle famiglie una versione sola, educare chi inoltra.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se oggi sei il docente in classe, il passo non è un post e non è una sentenza. È una frase a bassa voce, un referente avvisato, uno screenshot che non viaggia nel tuo telefono personale. Il resto sta nel regolamento e nelle linee dell’istituto. Aprili. Non improvvisarli, e non aspettare che il corridoio decida al posto tuo.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

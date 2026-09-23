@@ -1,0 +1,719 @@
+{
+  "slug": "doomscrolling-perche-il-pollice-non-si-ferma",
+  "title": "Doomscrolling: perché il pollice non si ferma (e cosa interrompe il loop)",
+  "excerpt": "Doomscrolling: perché il pollice continua a scorrere le cattive notizie, e quali attriti concreti interrompono il loop senza cancellare le app.",
+  "cover": "/images/covers/fomo-jomo-social-senza-sparire.png",
+  "coverAlt": "Illustrazione editoriale a linee: giovane in passeggiata al parco che guarda in alto, telefono ignorato o fuori fuoco, accenti corallo, charcoal su off-white — senza testo leggibile.",
+  "publishedAt": "2026-10-21T09:00:00.000+02:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["social-media", "salute-mentale"],
+  "readingTime": 8,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Doomscrolling: perché il pollice non si ferma",
+    "metaDescription": "Doomscrolling: perché il feed di cattive notizie non si chiude da solo e quali attriti interrompono il loop, senza cancellare le app.",
+    "noIndex": true
+  },
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sono le 00:17. Non stai «informandoti». Stai scorrendo. Un titolo su una guerra, un video di un incendio, un thread di commenti che si insultano sotto una notizia che avevi già capito al terzo rigo. Il pollice sale. Prometti che questo è l’ultimo. Non lo è. Non perché tu sia rotto. Perché il feed non ha un fondo, e la notizia brutta non ha un punto in cui si chiude.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il doomscrolling è questo gesto: restare su contenuti che ti agitano, più a lungo di quanto avessi deciso, spesso di sera, spesso senza una domanda a cui serviva una risposta. La parola si è diffusa intorno al 2020, quando un’emergenza lunga e i feed infiniti hanno reso il gesto riconoscibile. Non è una diagnosi. Non è la prova che «sei dipendente». È il nome di un loop: contenuto negativo, nessun fine pagina, un dito che cerca una conclusione che non arriva.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Informarsi non è scorrere",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Informarsi ha una domanda e uno stop. «È chiusa la linea domani?» Apri, leggi, chiudi. Il doomscrolling ha una sensazione — inquietudine, rabbia, il bisogno di non essere colto di sorpresa — e nessuno stop. Esci peggio di come sei entrato, e non sapresti dire che cosa hai imparato. Sapresti dire solo che era brutto, e che forse c’era ancora un pezzo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre segnali, più utili di un test online. Apri «solo per vedere» e chiudi più teso. Non ricordi un fatto, ricordi un tono. Il pezzo successivo sembra quello che finalmente metterà ordine. Se ti riconosci, non etichettarti. Nota l’orario. Il loop ama la notte, quando il giudizio è stanco e il letto è già un posto da cui è faticoso alzarsi a posare il telefono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è lo stesso di «mi interessa il mondo». Interessarsi è una cosa che puoi fare in venti minuti, con una fonte, e poi vivere la serata. Scorrere è un modo per restare in allerta senza agire. Sembra responsabilità.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Perché il pollice non si ferma",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il loop non è magia e non è, da solo, «mancanza di volontà». È un ambiente con tre ganci che si rinforzano. Toglierne uno basta più che giurare di diventare un’altra persona.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il negativo pesa di più",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Da decenni la psicologia descrive un bias di negatività: minacce, perdite e notizie brutte catturano l’attenzione più degli aggiornamenti neutri. Non è un difetto morale. È un sistema antico, utile quando ignorare un pericolo costava caro. Un feed che tiene in cima ciò che ti ferma non resterà sul meteo. Tu non sei «morboso» se non riesci a staccarti da un titolo grave. Stai usando un’attenzione fatta per non perdere il pericolo, dentro un’interfaccia che non dice mai «basta, per stasera hai visto».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo non significa che le notizie brutte siano un’invenzione del telefono. Sono vere, e alcune vanno sapute. Il telefono, però, non distingue «devo saperlo» da «sto usando il dolore degli altri come un rubinetto di attivazione». Quella distinzione la fai tu, e solo se c’è un punto in cui ti fermi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nessun fondo, ricompensa incerta",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo scroll infinito toglie il fine pagina. A volte la card dopo è peggio. A volte è una pausa. A volte è una faccia che conosci. Quell’incertezza — non un premio ogni volta — tiene in vita il gesto. È la stessa famiglia di design delle storie che scadono e dei badge che dicono «il gruppo è andato avanti», di cui parliamo in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FOMO e JOMO",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Lì l’emozione è l’esclusione. Qui è il timore, o l’incapacità di lasciare una cosa brutta a metà. Manca lo stesso oggetto: uno stop.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se «ancora uno» è la frase che dici da venti minuti, non stai cercando informazione. Stai cercando la card che ti autorizzi a chiudere. Quella card non è nel feed. Il feed è costruito per non essere l’ultima.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il corpo chiede un altro pezzo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dopo un contenuto che agita, il corpo è già acceso. Il pollice cerca o un sollievo o «ancora un dato, così mi preparo». Spesso il pezzo dopo alza di nuovo l’attivazione. Non stai risolvendo la notizia. Stai provando a calmarti con la cosa che ti agita. Di notte si incastra col sonno: luce, letto come redazione, «smetto quando ho capito». Capire una crisi del mondo alle 00:17 non è un compito realistico. È un modo per non posare il telefono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il loop vive soprattutto a letto, il pezzo da spostare non è la tua forza di volontà a mezzanotte. È dove dorme l’apparecchio. Una presa in un’altra stanza batte un discorso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Doomscrolling, FOMO e brain rot",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre nomi finiscono nella stessa serata e non sono la stessa cosa. Confonderli produce il rimedio sbagliato: cancellare tutto, per tre giorni, e poi ricominciare peggio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La FOMO è la paura di perdersi la vita degli altri. Il doomscrolling è la paura di perdersi la cosa brutta, o il non riuscire a lasciarla. Il ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/brain-rot",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "brain rot",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — espressione che Oxford ha eletto parola dell’anno 2024 — nomina la sensazione di una testa consumata da contenuti veloci e di bassa qualità. È un’etichetta culturale, non una diagnosi clinica. Non «ti marcisce il cervello» in senso letterale. Descrive un dopo: ti alzi dal feed e non resta niente, solo stanchezza.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Possono stare in fila. Storie (FOMO), un buco di notizie (doomscrolling), poi una pila di clip che ti lascia vuoto. Stasera chiediti quale dei tre è acceso. Se è il radar sugli amici, silenziare le storie serve. Se è la notizia, serve una finestra e una fonte. Se è il vuoto dopo i clip, serve uno stop prima del «tanto sono già qui». Un solo divieto per tutti e tre è un manifesto, non un intervento.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cosa interrompe il loop",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’obiettivo non è una versione di te che «non guarda le notizie». È ridurre i minuti in cui sei in allerta senza una domanda. Scegline due. Otto regole insieme durano un martedì.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Una finestra, non un fiume.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Esempio: dopo colazione, e non dopo le 21. Fuori da lì le app possono restare. Le notifiche delle news no. Se succede qualcosa che ti riguarda davvero, quasi sempre arriva anche da un’altra parte: una persona, un messaggio, il giorno dopo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Una domanda prima di aprire.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Scrivila, anche in una nota. «Che cosa è cambiato su questo». Se non sai formularla, non ti stai informando. Stai entrando nel tubo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Una fonte, non dieci tab.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Dieci aperture della stessa notizia non la rendono più vera. La rendono più lunga. Scegli un posto che corregge gli errori e che ha un orario. Poi chiudi.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il telefono che dorme altrove.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Non come punizione. Come attrito. Il loop di notte muore più spesso per una presa lontana che per un’app di benessere.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Niente thread «per capire».",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " I commenti sotto una notizia sono un secondo scroll infinito vestito da dovere civile. Se vuoi un contesto, è un articolo. Se vuoi avere ragione, è un’altra serata persa.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un finale già deciso.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Gli ultimi venti minuti sono il punto debole. Un finale noioso e fisso — lavarsi, una pagina di carta, una puntata che conosci già — batte «smetto quando si calma». Non si calma.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se le notizie ti servono per lavoro o per lo studio, la finestra è lo strumento. L’astinenza solenne, no: di solito il loop torna dal browser, con più fretta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se cedi, non azzeri la settimana. Torni alla finestra successiva. Il senso di colpa è un altro feed: ti tiene acceso e non ti informa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cinque giorni, non un voto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cinque giorni bastano per vedere se l’allerta scende. Non è una cura e non è un challenge da postare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 1: non cambiare nulla. Segna quante volte apri senza una domanda.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 2: spegni le notifiche delle app di notizie e dei social che te le spingono.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 3: due finestre. Fuori, il telefono può stare in tasca. Non in mano «nel frattempo».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 4: la ricarica non è sul cuscino. Un’altra stanza, o almeno non nel letto.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 5: una frase, «che cosa mi serviva sapere». Se è vuota, il loop non era informazione.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se al giorno 5 sei solo un po’ meno in tubo, è un risultato. Non serve un prima-e-dopo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quando non è solo un’abitudine",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A volte il loop è un’abitudine agganciata al design. A volte è un segnale che il resto della giornata non tiene. Se da settimane non dormi perché controlli, se il panico resta anche con il telefono in un’altra stanza, se le notizie sono l’unico posto in cui ti senti «dentro» qualcosa, gli attriti servono ancora, ma non sono tutta la risposta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Parlane con una persona, non con un feed: un amico, un adulto di fiducia, un servizio scolastico o, se serve, un professionista. Questo pezzo non è clinico. Il doomscrolling non è depressione e non è un disturbo d’ansia. Possono però occupare lo stesso mese. Nessun trucco di notifiche sostituisce quel passaggio, e nessun articolo deve convincerti che «è solo il telefono». Se invece il loop è solo sera e solo un’app, parti dagli attriti. Non trasformare un’abitudine in un’identità.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Leggere le notizie ogni giorno è già doomscrolling?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. La differenza è lo stop e come ne esci. Venti minuti con una domanda, e poi la giornata, non sono un loop. Un’ora senza ricordare che cosa hai letto, sì. Non misurare la virtù. Misura se chiudi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Devo cancellare le app di notizie o i social?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Di solito no, non come primo gesto. Cancellare senza una finestra sposta il loop nel browser. Se un’app è solo il tubo, puoi toglierla dal telefono e lasciarla dove serve un passo in più. Non è sparire. È attrito.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il doomscrolling rovina l’attenzione per sempre?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non c’è un buon motivo per dirlo così. Lo slogan del danno permanente è più forte delle prove. Il punto solido è più piccolo, e basta: il loop tiene l’attivazione alta, ruba sonno e ruba la sera. Ridurlo migliora quelle ore. Non devi credere a una sentenza sul cervello per posare il telefono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mi serve restare informato per lavoro o per lo studio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Allora è un compito, e i compiti hanno un orario. Una lista corta di fonti, una finestra, un appunto con che cosa è cambiato. «Restare informati» senza fine non è più professionale. È lo stesso tubo con una giustificazione migliore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chiudere il giro",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Interrompere il doomscrolling non è diventare qualcuno che non sa che cosa succede. È smettere di usare le cattive notizie come un rubinetto che non chiude. Una domanda prima di aprire. Una finestra. Una presa che non è nel letto. Niente thread come dovere. Niente giuramenti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se stasera l’unico cambiamento è spegnere le notifiche di un’app di notizie e scrivere su un foglietto che cosa volevi sapere prima di sbloccare lo schermo, il pollice ha già trovato un ostacolo. Domani non dovrai essere una persona «disconnessa». Dovrai solo arrivare in fondo a una domanda, e poi fare altro.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
