@@ -1,0 +1,577 @@
+{
+  "slug": "multitasking-digitale-scuola-e-compiti",
+  "title": "Multitasking digitale a scuola e compiti: perché costa e come ridurlo",
+  "excerpt": "Multitasking digitale su scuola e compiti: perché cambiare schermo costa tempo e attenzione, e come ridurre il costo con un blocco solo.",
+  "cover": "/images/covers/telefono-in-camera-notifiche-e-sonno.png",
+  "coverAlt": "Illustrazione editoriale a linee: una persona dorme nel letto, telefono sul comodino e pianta accanto.",
+  "publishedAt": "2026-11-11T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["schermo-e-tempo", "genitori-e-scuola"],
+  "readingTime": 8,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Multitasking digitale a scuola e compiti",
+    "metaDescription": "Multitasking digitale a scuola e sui compiti: perché non è fare due cose insieme, quanto costa e come ridurlo con un blocco e meno schede.",
+    "noIndex": true
+  },
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il compito è aperto da quaranta minuti. Anche il video «in sottofondo». Anche la chat di classe, perché «potrebbe servire un dato». L’esercizio è a metà di una riga. Non stai facendo tre cose. Stai ricominciando la stessa cosa ogni due minuti, e la chiami multitasking perché suona meglio di interruzione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A scuola e sui compiti il costo è concreto: più tempo, più errori, una sensazione di aver studiato che non coincide con quello che resta il giorno dopo. Non è pigrizia con un nome nuovo. È un modo di usare l’attenzione che il compito non perdona, e che la campanella non aspetta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non stai facendo due cose insieme",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per i lavori che chiedono attenzione — leggere, scrivere, risolvere, seguire una spiegazione — non tieni due fili nello stesso istante. Passi dall’uno all’altro. Ogni passaggio ha un costo: devi riprendere il filo, ricordare a che punto eri, scartare quello che l’altro schermo ti ha appena messo davanti. La ricerca sul cambio di compito, in psicologia cognitiva, descrive questo costo da anni. Non serve un numero magico («perdi il 40%») per prenderlo sul serio. Quei numeri, quando girano nei post, sono quasi sempre più tondi delle prove. Il fatto solido è più semplice: cambiare compito richiede tempo e produce errori. Sui compiti, quel tempo lo paghi tu. In classe, lo paga anche chi sta spiegando nel vuoto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il «sottofondo» non è gratis se ha parole. Un video parlato e un testo da leggere competono per lo stesso canale. La musica senza testo, per qualcuno, è un rumore neutro; per qualcun altro è un altro gancio. Non è una legge valida per tutti. È una prova di una settimana: un blocco con la voce, un blocco senza, e si guarda quanta riga hai chiuso. Lo stesso equivoco, a scuola, si traveste da diligenza: registro, chat, scheda e libro aperti insieme «perché è didattica». Lo schermo sul compito non è il problema. Sono gli altri ingressi, lasciati accesi «nel caso».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quello che le ricerche possono dire (e quello che no)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sul media multitasking — usare più media insieme, o passare di continuo da uno schermo all’altro — gli studi trovano spesso un’associazione con risultati scolastici più deboli e con più distrazione. Sono, in larga parte, studi che osservano una convivenza, non che dimostrano «questo telefono ha causato quel voto». Chi è già in difficoltà può cercare più interruzioni. Chi viene interrotto può rendere di meno. Le due cose possono essere vere insieme. Trattare l’associazione come una condanna generazionale è un salto che i dati non ti chiedono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Uno studio molto citato del 2009, di Ophir, Nass e Wagner, suggeriva che chi fa molto multitasking mediale filtra peggio le distrazioni. Lavori successivi hanno dato esiti misti. Non è una base per dire che una generazione ha l’attenzione «rotta», né per promettere il contrario con uno slogan. È una base per non organizzare i compiti dentro un flusso di notifiche e poi stupirsi del tempo che ci vuole.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il punto pratico, quello che regge anche se lasci da parte le etichette, è questo: studiare dentro un ruscello di avvisi costa la codifica. Ricordi di aver avuto il libro aperto. Ricordi meno il contenuto. La stanchezza è vera, e non è la prova che hai lavorato bene. Non ne segue che ogni pausa sia un danno, né che un’ora senza telefono fabbrichi la concentrazione. Sonno corto e una consegna confusa pesano quanto lo schermo, a volte di più. Togliere il telefono dal quaderno è un esperimento pulito, non la spiegazione unica di un voto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A scuola e a casa è lo stesso bilancio",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il telefono in classe e il telefono sul quaderno sono lo stesso conto, in due stanze. Ne abbiamo scritto dal lato dell’istituto in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/smartphone-a-scuola-cosa-funziona",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "smartphone a scuola",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": oltre il divieto teatrale, che cosa può funzionare tra regolamento, classe ed emergenze. Un divieto in aula che non ha un corrispondente sui compiti sposta solo l’orario del problema. Una libertà totale in aula, con cinque piattaforme aperte «per la didattica», lo anticipa alle 8:10.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per chi insegna, il multitasking non è solo un vizio degli studenti. È anche un disegno dell’ora. Se chiedi il registro elettronico, la chat di classe, una scheda, un video e il libro nello stesso quarto d’ora, hai assegnato cinque ingressi. Qualcuno li userà tutti, male. Una consegna, un canale per le domande, un momento in cui gli schermi stanno giù: non è nostalgia. È togliere passaggi inutili. Non serve predicare la concentrazione a chi hai appena messo tre notifiche istituzionali.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per chi sta a casa con un figlio sui compiti, il controllo nascosto non è la leva. La leva è un blocco visibile: telefono non sul tavolo, un tempo corto, una pausa vera. Se diventa un interrogatorio su ogni minuto, hai aggiunto ansia e non hai aggiunto attenzione. L’accordo si dice. Non si installa di nascosto. Tre ore con la chat aperta non sono tre ore di storia: sono pochi minuti diluiti. Accorciare il blocco fa vedere, in una sera, quanta pagina era davvero lavoro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Come ridurre il costo, senza un manifesto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Scegli due mosse. Il piano da dieci appuntamenti muore al secondo pomeriggio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un compito visibile.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " L’esercizio, non l’esercizio più la chat più il video «che c’entra». Le altre schede si chiudono. Se un dato serve, si cerca e si torna. Non si lascia il rubinetto aperto «nel caso».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il telefono in un’altra stanza per un blocco.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Venticinque o quaranta minuti, poi uno stop. Non un’ora eroica. Il blocco corto si può ripetere. L’ora eroica si rompe al primo badge, e poi ti senti già in difetto.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La pausa non è un feed.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Se la pausa è lo stesso gesto del loop, non hai interrotto nulla: hai solo cambiato il compito in un contenuto. Acqua, finestra, un giro al corridoio. Poi si rientra.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Le notifiche del blocco sono spente.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Non «silenziose ma sul tavolo». Il telefono a faccia in su è un secondo insegnante, e non è quello della materia.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Le parole in cuffia si provano, non si idolatrano.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Se leggi peggio con qualcuno che parla, togli la voce. Se senza musica non parti, tieni un sottofondo senza testo e verifica le righe, non la sensazione di essere nel mood.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un canale per la classe.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Se sei docente: domande in un posto, non in quattro. Se sei studente: la chat di gruppo non è un motore di ricerca. Si apre a uno stop, si legge, si chiude.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il blocco salta, non ricomincia la vita. Ricomincia il blocco dopo. Il senso di colpa è un’interruzione ulteriore: ti toglie i minuti che volevi restituire al compito.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per i compiti lunghi, scrivi in cima al foglio la prossima azione fisica, non l’obiettivo nobile. Non «studiare storia». «Fare i tre esercizi a pagina 40». Chi cambia compito di continuo ha bisogno di un punto di rientro ovvio. Una frase in cima al foglio è quel punto, quando la chat ti ha portato via. Senza quella frase, il ritorno al libro ricomincia dalla scelta, e la scelta è il momento in cui il telefono rivince.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una prova di quattro giorni",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quattro giorni bastano per vedere il costo, non per diventare un altro studente. Non è una sfida da pubblicare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 1: misura. Quanto dura un compito e quante volte esci verso un altro schermo. Non correggere ancora. Il numero, da solo, spesso basta a togliere l’alibi del «controllo solo un secondo».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 2: un blocco solo, telefono fuori dalla stanza. Il resto della giornata può restare com’è. Non riformare la vita: isola un’ora.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 3: stesso blocco, e la pausa senza feed. Se cedi, torni al blocco, non al discorso su come dovresti essere.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giorno 4: confronta le righe chiuse, non la virtù. Se sono di più, tieni il blocco. Se sono uguali, guarda che cos’altro ti interrompeva: sonno, consegna poco chiara, troppe materie nella stessa ora.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I docenti possono fare la versione in classe: un’attività, venti minuti, telefoni nel posto già previsto dal regolamento, poi un minuto di domande a voce. Non è un esperimento scientifico. È un modo per far sentire la differenza tra un filo solo e cinque. Il blocco sui compiti a casa non deve aspettare che la policy dell’istituto sia chiusa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chi ha già un carico di attenzione faticoso non va trattato come un caso di «mancanza di volontà digitale». Il blocco può aiutare come attrito. Non è una terapia e non sostituisce chi segue quel percorso. Questo pezzo non fa diagnosi. Aggiungere tre schermi a una fatica già alta è un costo in più, e si può togliere senza fare la predica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il multitasking non è una competenza richiesta dal mondo del lavoro?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Rispondere a più cose in un giorno, sì. Farle nello stesso minuto, quando entrambe chiedono lettura e decisione, no. Il lavoro le separa in blocchi più spesso di quanto i reel dicano. Allenarsi a non tenere la chat sopra il compito è più spendibile che allenarsi a non finire mai una riga.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La musica aiuta a concentrarsi?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A volte aiuta a partire, a volte ruba la lettura. Se ha un testo, compete con il testo che devi studiare. Provala su un blocco e guarda il risultato, non il sollievo. Il sollievo è immediato. Il compito si vede dopo, nelle righe che restano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mio figlio dice che senza telefono non studia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Può essere vero che il telefono è diventato il modo per tollerare un compito noioso. Non ne segue che il telefono migliori il compito. Un blocco corto, con il telefono fuori e uno stop concordato, è un esperimento, non una punizione. Se dopo quattro giorni le righe non si muovono, il problema può essere il compito, il sonno o la materia, non solo lo schermo. Allora si guarda quello, senza alzare la voce sul telefono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In classe il divieto basta?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il divieto, da solo, sposta. Serve un posto per l’emergenza, una regola chiara e un’ora che non chieda cinque schermi. Il dettaglio sta nelle scelte dell’istituto. Intanto, sui compiti, il blocco si può fare anche se a scuola la policy è ancora in discussione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una riga in più, un tab in meno",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Ridurre il multitasking non è diventare monastici. È smettere di pagare il costo del passaggio continuo e chiamarlo produttività. Un compito visibile. Il telefono non sul quaderno per mezz’ora. Una pausa che non è un feed. Una consegna scolastica che non apre cinque porte nello stesso minuto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se stasera chiudi le altre schede e sposti il telefono prima di finire i tre esercizi — non prima di «finire tutto il programma» — hai già misurato il costo. Domani il blocco può essere uguale. Non più lungo. Uguale, e ripetuto.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

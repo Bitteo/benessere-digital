@@ -10,6 +10,10 @@ import telefonoInCamera from './articles/telefono-in-camera-notifiche-e-sonno.js
 import accordiDiSchermo from './articles/accordi-di-schermo-ragazzi-8-14.json'
 import smartphoneAScuola from './articles/smartphone-a-scuola-cosa-funziona.json'
 import fomoJomo from './articles/fomo-jomo-social-senza-sparire.json'
+import doomscrolling from './articles/doomscrolling-perche-il-pollice-non-si-ferma.json'
+import controlloGenitori from './articles/controllo-genitori-smartphone-proteggere-senza-spiare.json'
+import cyberbullismo from './articles/cyberbullismo-a-scuola-oltre-la-denuncia.json'
+import multitaskingDigitale from './articles/multitasking-digitale-scuola-e-compiti.json'
 
 export const articles = [
   brainRot,
@@ -23,4 +27,8 @@ export const articles = [
   accordiDiSchermo,
   smartphoneAScuola,
   fomoJomo,
+  doomscrolling,
+  controlloGenitori,
+  cyberbullismo,
+  multitaskingDigitale,
 ] as ArticleSource[]

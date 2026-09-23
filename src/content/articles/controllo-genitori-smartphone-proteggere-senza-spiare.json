@@ -1,0 +1,669 @@
+{
+  "slug": "controllo-genitori-smartphone-proteggere-senza-spiare",
+  "title": "Controllo genitori sullo smartphone: proteggere senza spiare",
+  "excerpt": "Controlli genitori sullo smartphone: che cosa protegge davvero, che cosa è sorveglianza, e come dirlo prima di accendere un filtro.",
+  "cover": "/images/covers/accordi-di-schermo-ragazzi-8-14.png",
+  "coverAlt": "Illustrazione editoriale a linee: riunione di famiglia al tavolo con bambini, foglietti adesivi e telefono spento.",
+  "publishedAt": "2026-10-28T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "sicurezza-online"],
+  "readingTime": 8,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Controllo genitori sullo smartphone, senza spiare",
+    "metaDescription": "Controllo genitori sullo smartphone: filtri e orari visibili, non chat lette di nascosto. Come proteggere senza trasformare la fiducia in un software.",
+    "noIndex": true
+  },
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il figlio ha quattordici anni. Il telefono è suo, la bolletta no, e la paura nemmeno: quella è tua. Qualcuno ti ha detto di «controllare». Qualcun altro ti ha detto che controllare è spiare e che spiare rovina il rapporto. Intanto lui è in camera, tu sei in cucina, e nessuno dei due ha detto ad alta voce che cosa si può vedere.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Proteggere e spiare non sono lo stesso lavoro. Proteggere è rendere più difficile un danno prevedibile — acquisti, contatti con sconosciuti, un orario di notte che mangia il sonno — e farlo in modo che il ragazzo sappia che la rete c’è. Spiare è leggere di nascosto chat, foto, posizioni, per sentirti informato. Il primo può stare in un accordo. Il secondo, tenuto per mesi, insegna una cosa sola: in questa casa la fiducia è un software.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa i genitori possono davvero sapere",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In psicologia dello sviluppo, una linea di studi associata a Håkan Stattin e Margaret Kerr distingue tre vie. Il controllo: regole e limiti. La sollecitazione: chiedere. La disclosure: quello che il ragazzo racconta di sua iniziativa. Quello che i genitori sanno della vita dei figli adolescenti è associato più spesso a quello che i ragazzi scelgono di dire che allo spionaggio. Non è una licenza a disinteressarti. È un motivo per non confondere «ho letto tutto di nascosto» con «so come sta».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se l’unico canale è la lettura segreta, due cose si rompono insieme. Tu hai dati e non hai contesto. Lui, quando lo scopre — e lo scopre — smette di raccontare proprio le cose per cui avresti avuto bisogno di una frase detta in cucina. Il controllo che non si dichiara compra un’occhiata e vende il canale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo non vale allo stesso modo a otto anni e a sedici. Un bambino piccolo non negozia l’App Store come un quasi-adulto. Un ragazzo delle superiori non vive bene una sorveglianza da bambino. L’età non è una scusa per il vuoto, e non è una scusa per il sospetto permanente. È il motivo per cui la rete si riscrive.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa può fare uno strumento (e che cosa no)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I sistemi dei telefoni — e cambiano nome e menu a ogni aggiornamento, quindi qui non c’è un percorso di tap — fanno in genere quattro lavori utili, se sono visibili.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Tempo e orari.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Un tetto alla sera, un downtime, non un cronometro morale da sbandierare a cena. Serve a proteggere il sonno, non a vincere una gara di minuti.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Acquisti e installazioni.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Approvare un’app non è leggere la vita. È evitare che un gioco o un contatto entri senza un passaggio adulto, finché quel passaggio ha senso per l’età.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Filtri grossolani.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Riducono una parte dei contenuti. Non «rendono internet sicuro». Chi promette sicurezza totale sta vendendo una frase, non un risultato.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Posizione condivisa, detta ad alta voce.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Può servire per un rientro, un tragitto, un accordo. Diventa sorveglianza quando è un pedinamento che il ragazzo non sa di avere addosso.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nessuno di questi ti dice se è triste, se subisce pressioni, se una chat lo sta schiacciando. Quello, se arriva, arriva da una frase. Lo strumento tiene il bordo. Il rapporto tiene il centro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le app vendute come «controllo parentale invisibile» — quelle che promettono di leggere messaggi, accendere il microfono, vedere ogni foto senza che il figlio lo sappia — sono un altro prodotto. Mettono i dati di un minore in mano a un terzo. Insegnano che la protezione è un inganno. E, il giorno in cui la cosa viene fuori, non avrai un dialogo: avrai un incidente. Non è una guida tecnica. È una ragione per non costruirci sopra la genitorialità.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se temi un pericolo immediato — una persona che lo minaccia, un contenuto che lo espone, un male che non aspetta la cena — la priorità è lui, non il software. Un adulto di fiducia, la scuola, i servizi di emergenza se serve. Non è il caso d’uso di un’app spia lasciata accesa «tanto per» per un anno. Questo articolo non è un protocollo clinico e non sostituisce chi se ne occupa di professione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’accordo viene prima del lucchetto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un controllo senza accordo è un muro. L’accordo dice che cosa si vede, chi lo vede, fino a quando, e che cosa succede se si rompe una regola. Ne abbiamo scritto in modo operativo per la fascia 8–14 in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": orari, camera, conseguenze senza vergogna. Qui il punto è la differenza tra il patto e il pedinamento.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre righe, scritte e mostrate, battono un’impostazione nascosta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Che cosa posso vedere: orari di utilizzo, richieste di installazione, posizione negli orari del rientro.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Che cosa non leggo: chat, diari, foto private. Se un giorno dovesse servire per un rischio serio, te lo dico prima, non dopo un mese di lettura silenziosa.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Quando si rivede: una data, non «per sempre». A undici anni la rete è più stretta. A quattordici si allenta un bordo e se ne tiene un altro.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se lui ha un telefono «solo suo» e tu paghi e rispondi se succede un guaio, il patto non è un’invasione. È la condizione. Dillo così. Non come «questa casa è una caserma». Come «finché la responsabilità è anche mia, una parte della rete è visibile. Il resto è tuo, e me lo racconti tu».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I ragazzi aggirano i lucchetti. È una competenza, non una sorpresa. Per questo il lucchetto da solo è un piano fragile. L’accordo aggirato si può nominare. Lo spionaggio scoperto si può solo subire. E una regola che non sapresti leggere ad alta voce davanti a lui non è una regola: è un sospetto con un’icona. Senza una conseguenza detta prima, e applicata senza umiliazione, anche le tre righe diventano teatro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Età diverse, reti diverse",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non esiste un’età scientifica universale in cui «si può avere lo smartphone». Esistono capacità diverse e rischi diversi. Trattale come ipotesi da rivedere, non come una tabella morale stampata da un esperto che non vive in casa tua.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima della secondaria, ha senso che il bordo sia strutturale e detto: chi può scrivere, quali app entrano, dove dorme il telefono, niente acquisti in un tap. Il bambino deve sapere che quei bordi ci sono. La sorpresa non educa. Un filtro scoperto per caso non è autonomia: è un adulto che non ha spiegato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nella fascia in cui si negozia di più — quella degli accordi 8–14, e ancora dopo — il controllo utile è quello che si può spiegare in una frase. «La posizione è accesa fino a quando rientri, poi no.» «Le app nuove passano da me fino a giugno.» Le frasi vaghe («ti controllo se voglio») producono o ribellione o segretezza. Entrambe ti lasciano con meno informazioni vere, che è l’opposto di quello che cercavi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Verso la fine delle superiori, leggere la vita privata «perché sei ancora in casa mia» è un modo per arrivare al diploma senza un canale. I bordi che restano sensati sono quelli legati a soldi, sonno, legalità, sicurezza nel tragitto. Il resto è conversazione. Se non c’è mai stata, non si accende a diciassette anni con un software. Si accende, se si accende, con una frase che non è un controllo mascherato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa fare questa settimana",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non serve un nuovo telefono e non serve una predica. Serve una versione visibile della rete.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Dì che cosa è già attivo.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Se hai già un filtro o un orario e lui non lo sa, la prima mossa è dirlo. Il segreto, anche «a fin di bene», è già spiare.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Spegni quello che non sapresti difendere a voce alta.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Se non oseresti dire «leggo le tue chat», non leggerle. Se un’app fa proprio quello, non è uno strumento di questa casa.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Scrivi le tre righe",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " e mettile dove si vede, non in un cassetto. Rivedile a una data scritta, non «quando capita».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chiedi una cosa vera",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " che non sia un interrogatorio: con chi parla volentieri, che cosa lo stanca la sera, quale app toglierebbe se potesse. Poi stai zitto un minuto.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Allinea la casa.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Se gli adulti scrollano a tavola e chiedono disciplina solo a lui, il patto è teatro. Non serve il santo. Serve non predicare un digiuno che tu non tieni nemmeno a cena.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se c’è un conflitto acceso, non aprire il patto nel mezzo di una punizione. Aprilo quando nessuno deve vincere nei prossimi dieci minuti. Altrimenti ogni regola diventa una rappresaglia, e lui firmerà per chiudere la scena.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Controllare il tempo dello schermo la sera è una rete sul sonno. Leggere con chi parla è un’indagine. La prima si può mostrare. La seconda, salvo un rischio serio e detto, non è protezione: è il bisogno di non tollerare un angolo che non vedi. Il software non chiude quegli angoli. Sposta solo il momento in cui lo scopri.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Leggere WhatsApp è proteggerlo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quasi mai, se è di nascosto e per abitudine. È sorveglianza. Un’eccezione stretta — un rischio serio, detto, temporaneo — non è uno stile educativo. Se ti serve leggere tutto per stare tranquillo, la tranquillità non arriverà dal testo. Arriverà, se arriva, da un rapporto in cui le cose difficili hanno un posto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Qual è l’età giusta per il primo smartphone?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non c’è un numero che la ricerca possa firmare al posto tuo. Contano sonno, scuola, chi lo contatta, e se in casa esiste un accordo. Un telefono presto con regole visibili può essere più sano di un telefono tardi dato come resa. Il pezzo da non saltare è il patto, non il compleanno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I controlli di sistema bastano?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Bastano per i bordi: orari, acquisti, una parte dei contenuti, una posizione concordata. Non bastano per sapere se sta bene. Se un venditore ti dice il contrario, sta parlando del suo prodotto, non di tuo figlio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "E se lo aggira?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Succederà, in parte. Nominalo senza umiliarlo: «La regola era questa, l’hai spostata, la rivediamo». Poi decidi se il bordo era troppo stretto o se la conseguenza che avevate scritto vale ancora. Umiliare insegna a nascondere meglio. Rivedere la regola insegna che il patto è una cosa viva.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Proteggere è una cosa che si può dire",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Proteggere senza spiare è più faticoso dello spiare, perché non ti dà l’illusione di vedere tutto. Ti dà un bordo che puoi difendere e un figlio che può ancora raccontarti il centro. Tre righe. Una data in cui si rivedono. Niente microfoni. Niente chat lette di nascosto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se questa settimana fai una sola cosa, fai questa: digli che cosa puoi già vedere sul suo telefono. Se arrossisci mentre lo dici, quella è la parte da spegnere. Il resto si può scrivere insieme, con calma, senza un software che faccia il genitore al posto tuo.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
