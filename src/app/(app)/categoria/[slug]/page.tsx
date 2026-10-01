@@ -1,6 +1,5 @@
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
-import { PUBLIC_ARTICLE_REVALIDATE_SECONDS } from '@/lib/article-availability'
 import { getCategoryBySlug, getArticles } from '@/lib/content'
 import { fallbackCategory, KNOWN_CATEGORIES } from '@/lib/categories'
 import { ArticleCard } from '@/components/ui/ArticleCard'
@@ -13,7 +12,8 @@ type Props = {
 }
 
 export const dynamicParams = true
-export const revalidate = PUBLIC_ARTICLE_REVALIDATE_SECONDS
+// Literal: Next segment config cannot import this. Re-checks publishedAt after deploy.
+export const revalidate = 300
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params

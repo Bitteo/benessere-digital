@@ -1,5 +1,4 @@
 import type { MetadataRoute } from 'next'
-import { PUBLIC_ARTICLE_REVALIDATE_SECONDS } from '@/lib/article-availability'
 import { getArticles, getAuthors, getCategories } from '@/lib/content'
 import {
   STATIC_PUBLIC_PATHS,
@@ -10,7 +9,8 @@ import {
 
 const ARTICLE_PAGE_SIZE = 100
 
-export const revalidate = PUBLIC_ARTICLE_REVALIDATE_SECONDS
+// Literal: Next segment config cannot import this. Re-checks publishedAt after deploy.
+export const revalidate = 300
 
 async function getPublishedArticles() {
   const first = await getArticles({ page: 1, limit: ARTICLE_PAGE_SIZE, status: 'published' })
