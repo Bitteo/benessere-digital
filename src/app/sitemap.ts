@@ -9,6 +9,9 @@ import {
 
 const ARTICLE_PAGE_SIZE = 100
 
+// Literal: Next segment config cannot import this. Re-checks publishedAt after deploy.
+export const revalidate = 300
+
 async function getPublishedArticles() {
   const first = await getArticles({ page: 1, limit: ARTICLE_PAGE_SIZE, status: 'published' })
   const articles = [...first.docs]

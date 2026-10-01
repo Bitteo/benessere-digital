@@ -17,6 +17,9 @@ import { ArticleCard } from '@/components/ui/ArticleCard'
 import { getArticles, getApps, getBooks, getCreators } from '@/lib/content'
 import type { Metadata } from 'next'
 
+// Literal: Next segment config cannot import this. Re-checks publishedAt after deploy.
+export const revalidate = 300
+
 export const metadata: Metadata = {
   title: 'benessere.digital — Benessere Digitale per le Nuove Generazioni',
   alternates: {

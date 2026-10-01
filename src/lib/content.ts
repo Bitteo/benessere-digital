@@ -12,6 +12,9 @@ import {
 } from '@/content/catalog'
 import { articles as articleSources } from '@/content/articles'
 import type { ArticleSource } from '@/content/types'
+import { isPubliclyAvailable } from '@/lib/article-availability'
+
+export { isPubliclyAvailable }
 
 export type MediaItem = {
   id: string
@@ -147,10 +150,15 @@ function hydrateArticle(source: ArticleSource): Article {
   }
 }
 
-const publishedArticles = articleSources
+/** status === 'published', including a future publishedAt. The date gate runs at read time. */
+const publishedStatusArticles = articleSources
   .filter((item) => item.status === 'published')
   .map(hydrateArticle)
   .sort((a, b) => Date.parse(b.publishedAt ?? '') - Date.parse(a.publishedAt ?? ''))
+
+function publiclyAvailableArticles(): Article[] {
+  return publishedStatusArticles.filter((article) => isPubliclyAvailable(article))
+}
 
 const apps: AppItem[] = appSources
   .map((item) => ({
@@ -211,7 +219,7 @@ export async function getArticles(params?: {
   author?: string
 }): Promise<{ docs: Article[]; totalDocs: number; totalPages: number; page: number }> {
   const { page = 1, limit = 12, category, status = 'published', author } = params ?? {}
-  let docs = status === 'published' ? publishedArticles : []
+  let docs = status === 'published' ? publiclyAvailableArticles() : []
 
   if (category) {
     docs = docs.filter((article) => article.categories?.some((item) => item.slug === category))
@@ -224,7 +232,9 @@ export async function getArticles(params?: {
 }
 
 export async function getArticleBySlug(slug: string): Promise<Article | null> {
-  return publishedArticles.find((article) => article.slug === slug) ?? null
+  const article = publishedStatusArticles.find((item) => item.slug === slug)
+  if (!article || !isPubliclyAvailable(article)) return null
+  return article
 }
 
 export async function getCategories(): Promise<Category[]> {

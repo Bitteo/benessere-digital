@@ -12,6 +12,8 @@ type Props = {
 }
 
 export const dynamicParams = true
+// Literal: Next segment config cannot import this. Re-checks publishedAt after deploy.
+export const revalidate = 300
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params

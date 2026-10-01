@@ -26,7 +26,7 @@ Il body degli articoli è JSON compatibile con il renderer `LexicalContent` (ste
 4. Metti la copertina in `public/images/covers/`.
 5. `pnpm dev` e apri `/articoli/nuovo-slug`.
 
-`status: "draft"` resta fuori dal sito. Solo `published` viene servito.
+`status: "draft"` resta fuori dal sito. Un articolo è pubblico solo se `status` è `published` e `publishedAt` è già passato (o è questo istante). Una data futura, anche con status `published`, resta nascosta come una bozza fino a quell’orario.
 
 ## Categorie, app, libri, creator
 

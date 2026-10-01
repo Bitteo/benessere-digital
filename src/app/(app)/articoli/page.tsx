@@ -3,6 +3,9 @@ import { getArticles, getCategories } from '@/lib/content'
 import type { Metadata } from 'next'
 import Link from 'next/link'
 
+// Literal: Next segment config cannot import this. Re-checks publishedAt after deploy.
+export const revalidate = 300
+
 export const metadata: Metadata = {
   title: 'Articoli sul Benessere Digitale',
   description:

@@ -1,0 +1,62 @@
+import assert from 'node:assert/strict'
+import { readFileSync } from 'node:fs'
+import { test } from 'node:test'
+import { isPubliclyAvailable } from './article-availability.ts'
+
+const past = new Date('2026-09-30T07:00:00.000Z')
+const future = new Date('2026-10-20T07:00:00.000Z')
+
+test('drafts stay hidden even when publishedAt is in the past', () => {
+  assert.equal(
+    isPubliclyAvailable({ status: 'draft', publishedAt: '2026-09-01T09:00:00.000+02:00' }, future),
+    false,
+  )
+})
+
+test('published articles are public at publishedAt and after, hidden before', () => {
+  const article = { status: 'published' as const, publishedAt: '2026-10-07T09:00:00.000+02:00' }
+  const atInstant = new Date('2026-10-07T07:00:00.000Z')
+
+  assert.equal(isPubliclyAvailable(article, new Date(atInstant.getTime() - 1)), false)
+  assert.equal(isPubliclyAvailable(article, atInstant), true)
+  assert.equal(isPubliclyAvailable(article, future), true)
+})
+
+test('published articles without a parseable publishedAt stay hidden', () => {
+  assert.equal(isPubliclyAvailable({ status: 'published' }, past), false)
+  assert.equal(isPubliclyAvailable({ status: 'published', publishedAt: '' }, past), false)
+  assert.equal(isPubliclyAvailable({ status: 'published', publishedAt: 'not-a-date' }, past), false)
+})
+
+function loadArticle(slug: string) {
+  return JSON.parse(
+    readFileSync(new URL(`../content/articles/${slug}.json`, import.meta.url), 'utf8'),
+  ) as { status: 'draft' | 'published'; publishedAt?: string }
+}
+
+test('scheduled published articles stay hidden until their publishedAt instant', () => {
+  for (const slug of ['smartphone-a-scuola-cosa-funziona', 'fomo-jomo-social-senza-sparire']) {
+    const article = loadArticle(slug)
+    assert.equal(article.status, 'published')
+    const publishedAt = new Date(article.publishedAt ?? '')
+    assert.equal(Number.isNaN(publishedAt.getTime()), false)
+    assert.equal(isPubliclyAvailable(article, new Date(publishedAt.getTime() - 1)), false)
+    assert.equal(isPubliclyAvailable(article, publishedAt), true)
+  }
+})
+
+test('month-2 drafts stay hidden at and after their publishedAt', () => {
+  const article = loadArticle('doomscrolling-perche-il-pollice-non-si-ferma')
+  assert.equal(article.status, 'draft')
+  const publishedAt = new Date(article.publishedAt ?? '')
+  assert.equal(isPubliclyAvailable(article, publishedAt), false)
+  assert.equal(isPubliclyAvailable(article, future), false)
+})
+
+test('an already-due published article is public', () => {
+  const article = loadArticle('accordi-di-schermo-ragazzi-8-14')
+  assert.equal(article.status, 'published')
+  const publishedAt = new Date(article.publishedAt ?? '')
+  assert.equal(isPubliclyAvailable(article, publishedAt), true)
+  assert.equal(isPubliclyAvailable(article, past), true)
+})

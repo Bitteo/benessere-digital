@@ -10,6 +10,9 @@ import { ArticleEngagement } from '@/components/analytics/ArticleEngagement'
 import { LexicalContent } from '@/components/ui/LexicalContent'
 import type { Metadata } from 'next'
 
+// Per request, so a hit before publishedAt cannot cache a permanent 404.
+export const dynamic = 'force-dynamic'
+
 type Props = {
   params: Promise<{ slug: string }>
 }

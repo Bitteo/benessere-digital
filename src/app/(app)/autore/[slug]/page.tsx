@@ -9,6 +9,9 @@ type Props = {
   params: Promise<{ slug: string }>
 }
 
+// Literal: Next segment config cannot import this. Re-checks publishedAt after deploy.
+export const revalidate = 300
+
 export async function generateStaticParams() {
   return [{ slug: 'matteo-foroni' }]
 }
