@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
+import { PUBLIC_ARTICLE_REVALIDATE_SECONDS } from '@/lib/article-availability'
 import { getCategoryBySlug, getArticles } from '@/lib/content'
 import { fallbackCategory, KNOWN_CATEGORIES } from '@/lib/categories'
 import { ArticleCard } from '@/components/ui/ArticleCard'
@@ -12,6 +13,7 @@ type Props = {
 }
 
 export const dynamicParams = true
+export const revalidate = PUBLIC_ARTICLE_REVALIDATE_SECONDS
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params

@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next'
+import { PUBLIC_ARTICLE_REVALIDATE_SECONDS } from '@/lib/article-availability'
 import { getArticles, getAuthors, getCategories } from '@/lib/content'
 import {
   STATIC_PUBLIC_PATHS,
@@ -8,6 +9,8 @@ import {
 } from '@/lib/seo/site'
 
 const ARTICLE_PAGE_SIZE = 100
+
+export const revalidate = PUBLIC_ARTICLE_REVALIDATE_SECONDS
 
 async function getPublishedArticles() {
   const first = await getArticles({ page: 1, limit: ARTICLE_PAGE_SIZE, status: 'published' })

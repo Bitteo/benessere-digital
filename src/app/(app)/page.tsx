@@ -14,8 +14,11 @@ import {
 import { FaqSection } from '@/components/sections/FaqSection'
 import { ContactSection } from '@/components/sections/ContactSection'
 import { ArticleCard } from '@/components/ui/ArticleCard'
+import { PUBLIC_ARTICLE_REVALIDATE_SECONDS } from '@/lib/article-availability'
 import { getArticles, getApps, getBooks, getCreators } from '@/lib/content'
 import type { Metadata } from 'next'
+
+export const revalidate = PUBLIC_ARTICLE_REVALIDATE_SECONDS
 
 export const metadata: Metadata = {
   title: 'benessere.digital — Benessere Digitale per le Nuove Generazioni',

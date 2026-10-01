@@ -28,7 +28,7 @@ Guida editoriale: [`docs/content.md`](./content.md).
 | `docs/content.md`                                         | Guida editoriale file-based                    |
 | `docs/seo-llm-agent-contract.md`                          | Contratto SEO/LLM esteso (SoT tecnico)         |
 
-Bozze: `status: "draft"`, `noIndex` dove previsto. Non entrano in sitemap né in inventari live.
+Bozze: `status: "draft"`, `noIndex` dove previsto. Non entrano in sitemap né in inventari live. Anche `status: "published"` con `publishedAt` futuro resta fuori da listing, route articolo, sitemap e API fino a quell’istante.
 
 ## SEO + LLM (IT-only)
 

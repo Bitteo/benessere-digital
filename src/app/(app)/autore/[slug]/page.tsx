@@ -1,4 +1,5 @@
 import { notFound } from 'next/navigation'
+import { PUBLIC_ARTICLE_REVALIDATE_SECONDS } from '@/lib/article-availability'
 import { getAuthorBySlug, getArticles } from '@/lib/content'
 import { AuthorBio } from '@/components/ui/AuthorBio'
 import { ArticleCard } from '@/components/ui/ArticleCard'
@@ -8,6 +9,8 @@ import type { Metadata } from 'next'
 type Props = {
   params: Promise<{ slug: string }>
 }
+
+export const revalidate = PUBLIC_ARTICLE_REVALIDATE_SECONDS
 
 export async function generateStaticParams() {
   return [{ slug: 'matteo-foroni' }]

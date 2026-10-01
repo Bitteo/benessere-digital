@@ -9,7 +9,7 @@ Entrypoint agent (scope IT-only + gate publish/merge/deploy): [`docs/AGENTS.md`]
 1. **Canonical host**: `https://www.benessere.digital` (apex `benessere.digital` fa già **301** → www). Sitemap, robots, canonical, OG e `llms.txt` usano solo www.
 2. **JSON-LD = contenuto visibile** (o equivalente `sr-only`). Niente schema che descrive copy assente.
 3. **Un solo `<h1>` per pagina**.
-4. **Sitemap** solo URL indexabili: home, pagine statiche pubbliche, articoli `status: "published"`, categorie/autori che esistono davvero. **Mai** draft, API, 404.
+4. **Sitemap** solo URL indexabili: home, pagine statiche pubbliche, articoli `status: "published"` con `publishedAt` già trascorso, categorie/autori che esistono davvero. **Mai** draft, articoli con data futura, API, 404.
 5. **Evidence-based**: niente claim medici inventati; citazioni solo se verificabili.
 6. **LLM discovery**: mantenere `public/llms.txt` allineato alle pagine strategiche + puntatori a sitemap/robots.
 
@@ -19,13 +19,13 @@ Entrypoint agent (scope IT-only + gate publish/merge/deploy): [`docs/AGENTS.md`]
 |------|------|
 | `/` | Home |
 | `/articoli` | Indice articoli |
-| `/articoli/[slug]` | Solo `published` |
+| `/articoli/[slug]` | Solo `published` con `publishedAt` <= ora (altrimenti 404, come le bozze) |
 | `/categorie`, `/categoria/[slug]` | Solo slug presenti in catalog |
 | `/autore/[slug]` | Solo autori in catalog |
 | `/chi-siamo`, `/collabora`, `/contatti`, `/newsletter` | Marketing |
 | `/privacy`, `/termini`, `/cookie` | Legali (indexabili a bassa priorità) |
 
-Non indexare: `/api/*`, bozze (`status: "draft"`), preview interne.
+Non indexare: `/api/*`, bozze (`status: "draft"`), articoli con `publishedAt` futuro, preview interne.
 
 ## Deliverable tecnici obbligatori
 
@@ -33,7 +33,7 @@ Non indexare: `/api/*`, bozze (`status: "draft"`), preview interne.
 |------|--------|
 | `src/lib/seo/site.ts` | `CANONICAL_ORIGIN`, `absoluteUrl()`, liste path pubblici |
 | `src/app/robots.ts` | `MetadataRoute.Robots` → allow `/`, disallow `/api/`, sitemap URL |
-| `src/app/sitemap.ts` | `MetadataRoute.Sitemap` da path statici + articoli published + categorie/autori |
+| `src/app/sitemap.ts` | `MetadataRoute.Sitemap` da path statici + articoli published con data già trascorsa + categorie/autori |
 | `public/llms.txt` | Indice markdown per crawler LLM (IT), link www only |
 | Metadata root | `metadataBase` su www; title/description/OG già in `layout.tsx` |
 
@@ -42,7 +42,7 @@ Non indexare: `/api/*`, bozze (`status: "draft"`), preview interne.
 - [ ] `curl -sI https://www.benessere.digital/robots.txt` → 200, `Sitemap:` punta a www
 - [ ] `curl -sI https://www.benessere.digital/sitemap.xml` → 200, solo URL www, niente draft
 - [ ] `curl -sI https://www.benessere.digital/llms.txt` → 200
-- [ ] Nuovi articoli published entrano in sitemap al prossimo build
+- [ ] Nuovi articoli published entrano in sitemap solo quando `publishedAt` è già trascorso (build o revalidate)
 - [ ] Nessun hardcode di `benessere.digital` (apex) in canonical/sitemap/llms
 - [ ] Nessun merge/deploy senza OK esplicito di Matteo
 

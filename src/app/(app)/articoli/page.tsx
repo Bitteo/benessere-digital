@@ -1,7 +1,10 @@
 import { ArticleCard } from '@/components/ui/ArticleCard'
+import { PUBLIC_ARTICLE_REVALIDATE_SECONDS } from '@/lib/article-availability'
 import { getArticles, getCategories } from '@/lib/content'
 import type { Metadata } from 'next'
 import Link from 'next/link'
+
+export const revalidate = PUBLIC_ARTICLE_REVALIDATE_SECONDS
 
 export const metadata: Metadata = {
   title: 'Articoli sul Benessere Digitale',
