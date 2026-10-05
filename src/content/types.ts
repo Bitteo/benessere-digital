@@ -1,5 +1,17 @@
 export type ArticleStatus = 'draft' | 'published'
 
+/** External or institutional source shown in the Fonti box and available for citations. */
+export type ArticleSourceRef = {
+  title: string
+  url?: string
+  note?: string
+}
+
+export type ArticleFaqItem = {
+  question: string
+  answer: string
+}
+
 export type ArticleSource = {
   slug: string
   title: string
@@ -8,10 +20,16 @@ export type ArticleSource = {
   coverAlt: string
   /** ISO-8601 with offset or Z. Public surfaces require status published and this instant <= now. */
   publishedAt?: string
+  /** ISO-8601. When set, shown as "Aggiornato il" and used as sitemap lastModified. */
+  updatedAt?: string
   authorSlugs: string[]
   categorySlugs: string[]
   readingTime?: number
   status: ArticleStatus
+  /** Structured sources for the Fonti section. Optional; do not invent for legacy articles. */
+  sources?: ArticleSourceRef[]
+  /** Structured FAQ for visible Q&A + FAQPage JSON-LD. Optional. */
+  faq?: ArticleFaqItem[]
   seo?: {
     metaTitle?: string
     metaDescription?: string

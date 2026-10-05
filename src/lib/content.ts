@@ -11,7 +11,7 @@ import {
   creators as creatorSources,
 } from '@/content/catalog'
 import { articles as articleSources } from '@/content/articles'
-import type { ArticleSource } from '@/content/types'
+import type { ArticleFaqItem, ArticleSource, ArticleSourceRef } from '@/content/types'
 import { isPubliclyAvailable } from '@/lib/article-availability'
 
 export { isPubliclyAvailable }
@@ -42,6 +42,8 @@ export type Author = {
   socialLinks?: Array<{ platform: string; url: string }>
 }
 
+export type { ArticleFaqItem, ArticleSourceRef }
+
 export type Article = {
   id: string
   title: string
@@ -54,6 +56,8 @@ export type Article = {
   status: 'draft' | 'published'
   publishedAt?: string
   updatedAt: string
+  sources?: ArticleSourceRef[]
+  faq?: ArticleFaqItem[]
   seo?: {
     metaTitle?: string
     metaDescription?: string
@@ -140,7 +144,9 @@ function hydrateArticle(source: ArticleSource): Article {
       .filter((item): item is Category => Boolean(item)),
     status: source.status,
     publishedAt: source.publishedAt,
-    updatedAt: source.publishedAt ?? '',
+    updatedAt: source.updatedAt ?? source.publishedAt ?? '',
+    sources: source.sources,
+    faq: source.faq,
     seo: {
       metaTitle: source.seo?.metaTitle,
       metaDescription: source.seo?.metaDescription,

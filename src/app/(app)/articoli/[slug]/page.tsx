@@ -8,6 +8,14 @@ import { ArticleCard } from '@/components/ui/ArticleCard'
 import { NewsletterBanner } from '@/components/sections/NewsletterBanner'
 import { ArticleEngagement } from '@/components/analytics/ArticleEngagement'
 import { LexicalContent } from '@/components/ui/LexicalContent'
+import { ArticleSources } from '@/components/article/ArticleSources'
+import { JsonLd } from '@/components/article/JsonLd'
+import {
+  buildArticleJsonLd,
+  buildBreadcrumbJsonLd,
+  buildFaqJsonLd,
+} from '@/lib/seo/jsonld'
+import { absoluteUrl } from '@/lib/seo/site'
 import type { Metadata } from 'next'
 
 // Per request, so a hit before publishedAt cannot cache a permanent 404.
@@ -24,7 +32,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const title = article.seo?.metaTitle ?? article.title
   const description = article.seo?.metaDescription ?? article.excerpt ?? ''
-  const ogImageUrl = getImageUrl(article.seo?.ogImage ?? article.featuredImage)
+  const ogImagePath = getImageUrl(article.seo?.ogImage ?? article.featuredImage)
+  const ogImageUrl = absoluteUrl(ogImagePath)
+  const canonicalPath = `/articoli/${slug}`
 
   return {
     title,
@@ -32,13 +42,23 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title,
       description,
-      images: [{ url: ogImageUrl }],
+      url: absoluteUrl(canonicalPath),
+      images: [{ url: ogImageUrl, alt: article.featuredImage?.alt ?? article.title }],
       type: 'article',
       publishedTime: article.publishedAt,
+      modifiedTime: article.updatedAt || article.publishedAt,
       authors: article.authors?.map((a) => a.name),
+      locale: 'it_IT',
+      siteName: 'benessere.digital',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: [ogImageUrl],
     },
     robots: article.seo?.noIndex ? { index: false, follow: false } : undefined,
-    alternates: { canonical: `/articoli/${slug}` },
+    alternates: { canonical: canonicalPath },
   }
 }
 
@@ -54,6 +74,14 @@ export default async function ArticleDetailPage({ params }: Props) {
 
   const imageUrl = getImageUrl(article.featuredImage)
   const publishDate = article.publishedAt ? formatDate(article.publishedAt) : null
+  const updatedDate =
+    article.updatedAt &&
+    article.publishedAt &&
+    article.updatedAt !== article.publishedAt
+      ? formatDate(article.updatedAt)
+      : article.updatedAt && !article.publishedAt
+        ? formatDate(article.updatedAt)
+        : null
 
   // Related articles — same category, excluding current
   const primaryCategory = article.categories?.[0]
@@ -62,8 +90,22 @@ export default async function ArticleDetailPage({ params }: Props) {
     : { docs: [] }
   const filteredRelated = relatedArticles.filter((a) => a.id !== article.id).slice(0, 3)
 
+  const articleLd = buildArticleJsonLd({
+    article,
+    imageUrl,
+    sources: article.sources,
+  })
+  const breadcrumbLd = buildBreadcrumbJsonLd({
+    slug: article.slug,
+    title: article.title,
+    primaryCategory,
+  })
+  const faqLd = article.faq?.length ? buildFaqJsonLd(article.faq) : null
+  const jsonLdBlocks = [articleLd, breadcrumbLd, ...(faqLd ? [faqLd] : [])]
+
   return (
     <main>
+      <JsonLd data={jsonLdBlocks} />
       <ArticleEngagement />
       {/* Article header */}
       <header className="section-md border-b border-border sm:py-8">
@@ -128,6 +170,14 @@ export default async function ArticleDetailPage({ params }: Props) {
                 {publishDate}
               </time>
             )}
+            {updatedDate && (
+              <time
+                dateTime={article.updatedAt}
+                className="text-sm text-primary opacity-60"
+              >
+                Aggiornato il {updatedDate}
+              </time>
+            )}
           </div>
         </div>
       </header>
@@ -151,6 +201,9 @@ export default async function ArticleDetailPage({ params }: Props) {
         <div className="article-body flex max-w-none flex-col gap-5 text-base leading-relaxed text-primary">
           <LexicalContent content={article.content} />
         </div>
+        {article.sources && article.sources.length > 0 ? (
+          <ArticleSources sources={article.sources} />
+        ) : null}
       </article>
 
       {/* Author bios */}
