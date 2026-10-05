@@ -1,0 +1,808 @@
+{
+  "slug": "primo-smartphone-eta-e-regole",
+  "title": "Primo smartphone: a che età e con quali regole",
+  "excerpt": "Età, readiness e regole prima del regalo: cosa dicono SIP e AAP, alternative allo smartphone pieno, e come scrivere un accordo che regga.",
+  "cover": "/images/covers/primo-smartphone-eta-e-regole.png",
+  "coverAlt": "Illustrazione editoriale: famiglia che discute regole sul primo telefono (cover temporanea, da sostituire).",
+  "publishedAt": "2026-11-18T09:00:00.000+01:00",
+  "updatedAt": "2026-10-05T18:00:00.000+02:00",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "genitori-e-scuola",
+    "schermo-e-tempo"
+  ],
+  "readingTime": 9,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Primo smartphone: età e regole per genitori",
+    "metaDescription": "Guida pillar: SIP (non prima dei 13), readiness AAP, Family Media Plan, alternative e accordo prima del regalo.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "SIP — Digitale e bambini: le nuove raccomandazioni",
+      "url": "https://sip.it/2026/01/27/digitale-e-bambini-le-nuove-raccomandazioni-sip/",
+      "note": "Smartphone personale non prima dei 13; Internet non supervisionato; limiti di tempo schermo."
+    },
+    {
+      "title": "SIP — Il bambino digitale (raccomandazioni)",
+      "url": "https://sip.it/il-bambino-digitale/",
+      "note": "Sintesi istituzionale delle stesse indicazioni."
+    },
+    {
+      "title": "AAP / HealthyChildren — Your Child’s First Phone: Are They Ready?",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/Cell-Phones-Whats-the-Right-Age-to-Start.aspx",
+      "note": "Readiness, alternative, mentorship; nessun’età unica «sicura»."
+    },
+    {
+      "title": "AAP Family Media Plan (strumento)",
+      "url": "https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx",
+      "note": "Piano media personalizzabile per la famiglia."
+    },
+    {
+      "title": "HealthyChildren — How to Make a Family Media Plan",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Guida pratica al Family Media Plan."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Prima dei 13 anni non si può proprio dare uno smartphone?",
+      "answer": "La SIP invita a rinviare lo smartphone personale almeno fino ai 13 anni. Situazioni particolari possono giustificare un dispositivo ridotto prima, con regole strette: non è un lasciapassare al feed completo."
+    },
+    {
+      "question": "I controlli genitori bastano al posto di un accordo?",
+      "answer": "No. Aiutano sui più piccoli, ma dai 12–13 anni i bypass arrivano in fretta. Dichiarateli e usateli come supporto all’accordo, non come controllo nascosto."
+    },
+    {
+      "question": "Cosa fare se il ragazzo rifiuta di firmare l’accordo?",
+      "answer": "Il bordo su sonno, pasti, camera e store può restare dei genitori. Il come applicarlo può essere negoziato. Un rifiuto totale è spesso un tema di relazione, non di regolamento."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«A che età gli diamo il telefono?» è la domanda che arriva prima dei compiti e dopo il primo «tutti ce l’hanno». Non esiste un’età magica uguale per tutte le famiglie. Esistono però indicazioni chiare da società scientifiche, strumenti pratici (piani media, accordi) e una domanda migliore: ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "è pronto — e siamo pronti noi?",
+              "version": 1,
+              "format": 2
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questa guida è per genitori. Riassume cosa dicono SIP e AAP, come ragionare su età e alternative (feature phone, smartwatch), e come scrivere le regole ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "prima",
+              "version": 1,
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": " del regalo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cosa dicono SIP e AAP (senza slogan)",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "Società Italiana di Pediatria (SIP)",
+              "version": 1,
+              "format": 1
+            },
+            {
+              "type": "text",
+              "text": ", nelle raccomandazioni aggiornate sul digitale in età evolutiva (presentate nel 2025 e riprese a gennaio 2026), invita a:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "rinviare lo ",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": "smartphone personale almeno fino ai 13 anni",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": ";",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "evitare l’accesso a Internet ",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": "non supervisionato",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " prima dei 13 anni;",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "ritardare il più possibile i social, anche se la piattaforma li consente per legge;",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "evitare dispositivi a tavola e nell’ora prima di dormire;",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "confermare i limiti di tempo schermo già noti: niente sotto i 2 anni, meno di 1 ora tra 2 e 5, meno di 2 ore dopo i 5, sempre con supervisione adulta.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "American Academy of Pediatrics (AAP)",
+              "version": 1,
+              "format": 1
+            },
+            {
+              "type": "text",
+              "text": " non fissa un’unica età «sicura» per il primo smartphone. Dice che la ricerca non punta a un numero unico: contano alfabetizzazione digitale, onestà con gli adulti, capacità di gestire conflitti sociali e bisogno pratico. Propone il ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "https://www.healthychildren.org/English/fmp/Pages/MediaPlan.aspx",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Family Media Plan",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " e, per avviare la conversazione, strumenti come il PhoneReady Questionnaire. Per i più piccoli suggerisce spesso alternative a basso carico (feature phone, orologio con chiamate) invece dell’app store completo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In sintesi operativa per l’Italia: la SIP dà un’ancora temporale (non prima dei 13 per lo smartphone personale). L’AAP ricorda che età ≠ readiness. Le due letture si completano: usa 13 come default sobrio, e verifica readiness anche dopo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Età, readiness e «tutti ce l’hanno»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il gruppo conta. Tra gli 11 e i 14 anni WhatsApp di classe e uscite autonomi spingono verso un dispositivo. Non significa regalare TikTok il giorno della comunione. Significa distinguere:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Comunicare con casa. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Spesso basta un telefono base o un orologio con SIM.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Essere nel gruppo. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Messaggi e mappe possono stare su un tablet di casa o su un telefono con store chiuso.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Avere un feed. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "È un altro contratto: social, DM, contenuti infinitivi. Qui SIP e buon senso dicono: più tardi.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande utili (ispirate alla guida AAP / HealthyChildren sul primo telefono): ha pensato a come lo userebbe, oltre a «ce l’hanno tutti»? Sa gestire un conflitto senza sparare messaggi a caldo? Accetta limiti trasparenti? Avete un momento fisso per parlarne (pasto, macchina) senza processo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima del regalo: regole che reggono",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il giorno del unpackaging è tardi per inventare le regole. Scrivetele prima, in poche righe, come negli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo per ragazzi 8–14",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Minimo utile:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Dove si ricarica. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Fuori dalla camera. Stesso confine del ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "telefono in camera e sonno",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ".",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Pasti e compiti. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Cesto a tavola; una sola finestra durante i compiti.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Orario di spegnimento. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Legato alla sveglia, non a un reel.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "App e store. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Lista corta all’inizio; installazioni solo insieme per i primi mesi.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Conseguenze corte. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Prevedibili, proporzionate, private — non «due settimane senza telefono» a caldo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Eccezioni degli adulti. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Se mamma o papà devono rispondere per lavoro, stia scritto. L’ipocrisia non detta fa crollare l’accordo.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Potete basarvi anche sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Family Media Plan AAP",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": priorità di famiglia, zone senza schermo, tempi realistici.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Alternative allo smartphone «pieno»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Feature phone / tastiera. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Chiamate e SMS, poca o nessuna app store.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Smartwatch con SIM. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Utile per rientri e sport; attenzione a chat e tracking continuo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Smartphone con store bloccato. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Solo telefonate, mappe, eventuali app scuola; account familiare e controlli dichiarati (non spiati in silenzio).",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Tablet di casa. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Videochiamate e messaggi in soggiorno, non in tasca a letto.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Trattate il primo dispositivo come un ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "esperimento",
+              "version": 1,
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": " a tempo: tre mesi, poi si rivede insieme. Se regge sonno, scuola e tono in casa, si può aprire qualcosa. Se no, si stringe senza vergogna pubblica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Social, età legale e buon senso",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Molte piattaforme indicano 13+ (a volte 14+ o 16+ a seconda di paese e servizio). «Consentito» non significa «consigliato». La SIP invita a ritardare i social il più possibile. Se arrivano, partite da account privati, liste di contatti corti, niente DM a sconosciuti, e un patto su cosa si pubblica del corpo e della scuola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima dei 13 anni non si può proprio?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La SIP indica di rinviare lo smartphone personale almeno fino ai 13. Situazioni particolari (due case, percorsi lunghi, bisogni di salute) possono giustificare un dispositivo ridotto prima, con regole strette. Non è un lasciapassare al feed completo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I controlli genitori bastano?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Aiutano sui più piccoli. Dai 12–13 i bypass arrivano in fretta. Dite sempre che ci sono; usateli come supporto all’accordo, non come polizia nascosta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "E se rifiuta di firmare l’accordo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il bordo (sonno, pasti, camera, store) può restare vostro. Il «come» può essere negoziato. Se rifiuta tutto, è un tema di relazione, non di PDF.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chiudere senza panico",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non dovete vincere il confronto con la classe di seconda media. Dovete una regola che mercoledì prossimo è ancora vera: ricarica fuori camera, pasti senza telefono, store chiuso all’inizio, data di revisione. Se oggi l’unico passo è scrivere tre righe e scegliere un feature phone invece dello smartphone pieno, è già una scelta adulta.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  }
+}

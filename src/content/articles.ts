@@ -14,6 +14,7 @@ import doomscrolling from './articles/doomscrolling-perche-il-pollice-non-si-fer
 import controlloGenitori from './articles/controllo-genitori-smartphone-proteggere-senza-spiare.json'
 import cyberbullismo from './articles/cyberbullismo-a-scuola-oltre-la-denuncia.json'
 import multitaskingDigitale from './articles/multitasking-digitale-scuola-e-compiti.json'
+import primoSmartphone from './articles/primo-smartphone-eta-e-regole.json'
 
 export const articles = [
   brainRot,
@@ -31,4 +32,5 @@ export const articles = [
   controlloGenitori,
   cyberbullismo,
   multitaskingDigitale,
+  primoSmartphone,
 ] as ArticleSource[]
