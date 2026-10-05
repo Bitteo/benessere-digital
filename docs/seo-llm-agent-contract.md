@@ -52,9 +52,15 @@ Non indexare: `/api/*`, bozze (`status: "draft"`), articoli con `publishedAt` fu
 - Niente asset SEO bilingue, comparison hubs, resource indexes EN
 - Niente SoftareApplication schema prodotto SaaS (qui è portale editoriale → Organization + WebSite + Article)
 
+## Fatto (pagina articolo)
+
+- JSON-LD `Article` + `BreadcrumbList` (+ `FAQPage` se `faq[]` è valorizzato)
+- Sezione Fonti da `sources[]`
+- `updatedAt` → «Aggiornato il» + sitemap `lastModified`
+- `og:image` assoluto su `www` via `absoluteUrl()`
+
 ## Prossimi step (fuori da questa PR se non chiesti)
 
-- JSON-LD Organization/WebSite in layout + Article sulle pagine articolo
+- JSON-LD Organization/WebSite in layout
 - HTML sitemap `/mappa-del-sito`
-- OG image per articolo
 - Allineare `NEXT_PUBLIC_SERVER_URL` a `https://www.benessere.digital`

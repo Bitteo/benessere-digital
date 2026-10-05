@@ -26,6 +26,12 @@ Il body degli articoli è JSON compatibile con il renderer `LexicalContent` (ste
 4. Metti la copertina in `public/images/covers/`.
 5. `pnpm dev` e apri `/articoli/nuovo-slug`.
 
+Campi opzionali sullo schema articolo (`src/content/types.ts`):
+
+- `updatedAt` (ISO-8601): se diverso da `publishedAt`, la pagina mostra «Aggiornato il» e la sitemap usa questa data come `lastModified`.
+- `sources[]`: `{ title, url?, note? }` — sezione «Fonti» a fondo articolo. Non inventare fonti sugli articoli legacy senza refresh.
+- `faq[]`: `{ question, answer }` — se presente, alimenta anche lo schema FAQPage (solo se le FAQ sono visibili nel contenuto o in un box dedicato).
+
 `status: "draft"` resta fuori dal sito. Un articolo è pubblico solo se `status` è `published` e `publishedAt` è già passato (o è questo istante). Una data futura, anche con status `published`, resta nascosta come una bozza fino a quell’orario.
 
 ## Categorie, app, libri, creator
