@@ -15,6 +15,9 @@ import controlloGenitori from './articles/controllo-genitori-smartphone-protegge
 import cyberbullismo from './articles/cyberbullismo-a-scuola-oltre-la-denuncia.json'
 import multitaskingDigitale from './articles/multitasking-digitale-scuola-e-compiti.json'
 import primoSmartphone from './articles/primo-smartphone-eta-e-regole.json'
+import videogiochiRagazzi from './articles/videogiochi-e-ragazzi-quando-preoccuparsi.json'
+import compitiAi from './articles/compiti-e-ai-senza-delegare-il-pensiero.json'
+import sharenting from './articles/sharenting-foto-dei-figli-online.json'
 
 export const articles = [
   brainRot,
@@ -33,4 +36,7 @@ export const articles = [
   cyberbullismo,
   multitaskingDigitale,
   primoSmartphone,
+  videogiochiRagazzi,
+  compitiAi,
+  sharenting,
 ] as ArticleSource[]

@@ -1,0 +1,670 @@
+{
+  "slug": "sharenting-foto-dei-figli-online",
+  "title": "Sharenting: le foto dei figli online, cosa valutare prima di postarle",
+  "excerpt": "Prima di pubblicare una foto di tuo figlio: consenso, impronta digitale e una checklist pratica. Cosa dicono Garante Privacy, UNICEF e la Commissione europea.",
+  "cover": "/images/covers/social-media.jpg",
+  "coverAlt": "Copertina temporanea, da sostituire: immagine già usata per l’articolo sull’impatto dei social media.",
+  "publishedAt": "2026-10-26T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "sicurezza-online"],
+  "readingTime": 9,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Sharenting: foto dei figli online, cosa valutare",
+    "metaDescription": "Prima di postare una foto di tuo figlio: consenso, impronta digitale e una checklist. Fonti del Garante Privacy, di UNICEF e della Commissione europea.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Garante Privacy — Sharenting: suggerimenti ai genitori",
+      "url": "https://www.garanteprivacy.it/temi/minori/sharenting",
+      "note": "Definizione, identità digitale, metadati, accortezze pratiche e campagna «La sua privacy vale molto più di un like» (gennaio 2025)."
+    },
+    {
+      "title": "Garante Privacy — Provvedimento n. 681 del 13 novembre 2024 (doc. web 10076481)",
+      "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10076481",
+      "note": "Consenso di entrambi i genitori per le immagini di minori sui social; art. 2-quinquies, consenso del minore dai 14 anni per i servizi della società dell’informazione."
+    },
+    {
+      "title": "UNICEF Parenting — What you need to know about “sharenting”",
+      "url": "https://www.unicef.org/parenting/child-care/sharenting",
+      "note": "Intervista a Stacey Steinberg: consenso, immagini imbarazzanti o di minori non vestiti, pubblico, revisione dei post già pubblicati."
+    },
+    {
+      "title": "Commissione europea — Child safety online: Protecting and empowering minors in a digital world",
+      "url": "https://commission.europa.eu/document/download/4c5d55f1-9072-4bb9-a263-094461525ca6_en",
+      "note": "Rapporto dei co-presidenti dello Special Panel. Tra i consigli: evitare lo sharenting; foto e video possono restare online."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Se il profilo è privato, posso postare lo stesso?",
+      "answer": "Un profilo riservato riduce il pubblico, non chiude la questione. Il Garante invita a limitare la visibilità alle persone conosciute e affidabili. UNICEF ricorda che conta anche chi sono quei contatti, e che una condivisione non è mai sicura al cento per cento. Uno screenshot esce dal gruppo."
+    },
+    {
+      "question": "Dai 14 anni decide mio figlio?",
+      "answer": "In Italia, l’art. 2-quinquies del Codice privacy — richiamato dal Garante — riconosce al minore che ha compiuto 14 anni la facoltà di esprimere un consenso valido per i servizi della società dell’informazione. Sotto i 14 serve il consenso di chi esercita la responsabilità genitoriale. In più, il Garante ricorda che pubblicare immagini di minori sui social richiede il consenso preventivo di entrambi i genitori, anche con affidamento condiviso. L’età non sostituisce il chiedere al figlio se quella foto, per lui, va online."
+    },
+    {
+      "question": "E se a postare sono i nonni o la scuola?",
+      "answer": "UNICEF suggerisce di dirlo in modo chiaro a parenti e amici, senza dare per scontato che ci abbiano già pensato, e di chiedere alla scuola se esiste una regola sulla condivisione. Se non c’è, si può proporre di scriverne una. Il consenso non è solo un problema del tuo profilo."
+    },
+    {
+      "question": "Devo cancellare tutto quello che ho già pubblicato?",
+      "answer": "No, e non sei in ritardo morale. UNICEF invita a fare un respiro: la maggior parte dei genitori non pubblica per nuocere. Il passo utile è rivedere il passato, cancellare quello che si può, e — circa dai 9–10 anni — farlo insieme al figlio, poi ripeterlo ogni qualche mese."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La foto è venuta bene. La luce, la risata, la torta. Il dito è già sul pulsante. La domanda, se arriva, arriva tardi: chi altro vedrà questa immagine, e per quanto tempo? Non è una domanda da guastafeste. È la domanda che il gesto salta, perché pubblicare sembra solo un modo per far vedere un momento a chi non c’era.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si chiama sharenting: condividere online, in modo costante, contenuti sui propri figli. Foto, video, a volte ecografie. Il Garante per la protezione dei dati personali lo descrive così, e aggiunge che la gioia del momento è comprensibile. Il punto non è vergognarsi di essere fieri. È decidere prima che cosa di quella fierezza esce di casa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un nome per un gesto molto comune",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il termine, ricorda il Garante, nasce in inglese da share e parenting. Non è un reato inventato per i compleanni. È il nome di un’abitudine: il profilo che racconta la crescita, il gruppo di famiglia, la chat di classe dove passa il video del saggio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "UNICEF, in una guida per genitori, riporta la definizione di Stacey Steinberg: parlare dei figli fuori dalla cerchia familiare. Un post con una foto, un racconto su un blog, un video su una piattaforma di messaggi. La cerchia è il punto. Mostrare una stampa ai nonni in cucina non è la stessa cosa che metterla in un feed, anche se l’affetto è identico.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Garante segue il tema da tempo per i rischi sull’identità digitale del minore e sulla formazione della sua personalità. Segnala anche un effetto meno tecnico: la diffusione di immagini non condivisa può creare tensioni serie nel rapporto tra genitori e figli. Non è solo «internet». È una cosa che, anni dopo, si può rinfacciare in cucina.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Impronta, consenso, un controllo che esce di casa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Ogni foto pubblica è un mattone. Il Garante invita a riflettere sul fatto che immagini e video della vita dei minori, magari con nome, età o luogo, contribuiscono a costruire immagine e reputazione online. Quello che finisce su uno schermo può essere catturato e riusato da altri, per scopi impropri o illeciti. E spesso contiene più informazioni di quelle che si vedono: i dati di geolocalizzazione, per esempio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La domanda che il Garante mette in bocca ai genitori è semplice, e non nasce da un articolo di legge. I figli, in futuro, potrebbero non essere contenti di ritrovare quelle immagini a disposizione di tutti? Potrebbero non essere d’accordo con l’immagine che gli state costruendo? State dando dettagli sulla loro vita che possono pesare, più avanti, sulla personalità e sulle relazioni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il consenso, in Italia, ha anche un perimetro preciso. Nel provvedimento n. 681 del 13 novembre 2024 il Garante richiama l’art. 2-quinquies del Codice privacy: il minore che ha compiuto quattordici anni può esprimere un consenso valido per i servizi della società dell’informazione; sotto i quattordici serve il consenso di chi esercita la responsabilità genitoriale. Nello stesso provvedimento l’Autorità ricorda un orientamento ormai ripetuto: pubblicare immagini di minori sui social network richiede il consenso preventivo di entrambi i genitori, anche quando c’è l’affidamento condiviso. Non basta «è mio figlio». Non basta un profilo impostato su «amici».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Accanto al consenso tra adulti c’è quello del bambino, che non è una firma in calce. UNICEF sottolinea che condividere senza coinvolgerli è un’occasione persa: insegnare che il consenso esiste, e che la privacy si rispetta. I bambini piccoli non possono dare un consenso informato. Si può però immaginare come si sentirebbero se potessero dirlo, e lasciare spazio a un no che per un adulto sembra piccolo — la mano della nonna, il vestito, la faccia sporca di torta. Steinberg, nella stessa guida, nota che a tutti piace decidere della propria immagine, a quattro anni come a tredici.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "C’è un altro effetto, meno citato e concreto. Se mostri subito al bambino il video del momento, rischi di riscrivere il ricordo: la festa diventa il filmato della festa. UNICEF invita a stare fuori dai dispositivi mentre si è insieme, così il ricordo può formarsi anche senza il feed.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Rischi reali, senza la sirena accesa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Garante non edulcora. Scrive che l’esposizione in rete delle foto — tendenzialmente per sempre — può esporre i minori a usi pedopornografici, ritorsivi o comunque impropri da parte di terzi. È un rischio nominato da un’autorità, non una statistica. In quelle pagine non c’è una percentuale di foto che «finiscono male».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "UNICEF distingue due piani. Il primo è un danno tangibile: adulti che vogliono interagire con un bambino a partire da un contenuto; in alcuni Paesi, dossier digitali costruiti su ciò che i genitori condividono; immagini riusate in modo illecito o malevolo; un meme che mette il figlio in una luce che non ha scelto. Steinberg dice anche una frase che tiene basso il volume: per fortuna, al momento, queste cose non sembrano comunissime, ma non sappiamo come evolveranno, anche con l’intelligenza artificiale. Il secondo piano è educativo. Se non chiedi, insegni che l’immagine di una persona si può prendere.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Commissione europea, nel rapporto sulla sicurezza dei minori online curato dai co-presidenti dello Special Panel, mette tra i consigli alle famiglie una riga diretta: evita lo sharenting, e pensa bene prima di condividere foto o video di figli o adolescenti. Estranei e sistemi di intelligenza artificiale possono usare quelle informazioni in molti modi. Poco sopra, lo stesso testo ricorda una regola più generale: foto, video e commenti possono restare online; condividi oggi solo ciò che ti andrebbe di rivedere fra anni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nessuna di queste fonti chiede il panico, né promette che un profilo chiuso renda il gesto innocuo. UNICEF lo dice in chiaro: condividere non è mai sicuro al cento per cento. È un bilancio tra rischi e benefici che i genitori percepiscono. Aggiunge un altro limite onesto: i genitori non possono fare questo lavoro da soli. Una parte della protezione spetta a chi fa le regole e alle piattaforme. Pretendere che ogni madre e ogni padre capisca da sé come gira un social, mentre il prodotto cambia, è chiedere troppo. Non è però un motivo per non decidere la prossima foto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una checklist prima del pulsante",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se decidi di pubblicare, le accortezze stanno già scritte. Qui sono messe in ordine, con la fonte accanto, così si vede da dove arriva ogni riga.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Entrambi i genitori sono d’accordo. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "È il criterio richiamato dal Garante per le immagini sui social, anche in affidamento condiviso. Un sì di uno solo non chiude.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il figlio, per quanto può, ha voce. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "UNICEF: spiega come hai deciso, non solo il risultato. Un no si rispetta anche se la foto è «tenera».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il viso si può non riconoscere. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Il Garante suggerisce, se proprio pubblichi, di rendere il viso irriconoscibile — anche con strumenti gratuiti — oppure di coprirlo con un’emoticon.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Niente nome, età, scuola, luogo. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Il Garante cita nome, età e posto dello scatto come pezzi di reputazione. UNICEF aggiunge i dettagli identificabili, come il logo della scuola.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La posizione non viaggia con il file. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Il Garante ricorda la geolocalizzazione nascosta nelle immagini. Prima di caricare, controlla che la piattaforma non la pubblichi.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il pubblico è stretto, e lo conosci. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Visibilità limitata a persone note e affidabili, scrive il Garante. UNICEF chiede in più: quanto conosci chi ti segue, e se quelle persone a loro volta ricondividono.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Niente account «del bambino». ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Il Garante invita a non aprire un profilo social dedicato al minore. La sua vita non è un canale.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Niente nudità, niente figura imbarazzante. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "UNICEF: non foto di minori in qualsiasi stato di svestizione, e non storie o immagini che a te fanno ridere e a lui, più avanti, no.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Hai letto l’informativa, almeno nelle parti che contano. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Chi può vedere, chi può scaricare, per quanto resta online. Il Garante lo mette tra le accortezze minime.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il feed è già lungo, il rimedio non è sparire per espiazione. UNICEF invita a riguardare ciò che è stato pubblicato e a cancellare quello che si può. Circa dai nove o dieci anni si può fare insieme, e ripeterlo ogni qualche mese. Su alcune piattaforme, se non riesci a togliere un’immagine, si può chiedere la rimozione. È un lavoro noioso. È anche l’unico che agisce sul passato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Parentela e scuola vanno detti a voce. Non tutti hanno riflettuto allo stesso modo: UNICEF suggerisce di assumere che serva più comunicazione, non un rimprovero. A scuola si può chiedere se esiste una regola sulle foto. Se non esiste, offrirsi di aiutarne a scrivere una. Molti altri genitori vogliono la stessa cosa e non l’hanno ancora chiesta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo stesso rispetto, dall’altra parte del telefono",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Proteggere un ragazzo online non è solo decidere che cosa lui può aprire. È anche decidere che cosa tu pubblichi di lui. Nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "controllo genitori",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " la linea è tra proteggere e spiare: un filtro detto ad alta voce non è una lettura segreta delle chat. Qui la linea è speculare. Raccontare tuo figlio a una platea che non ha scelto non è «condivisione della famiglia». È un uso della sua immagine.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il tema sta nella categoria ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/categoria/sicurezza-online",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "sicurezza online",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " perché non è un fatto di stile del profilo. È privacy, consenso, e la possibilità concreta che un contenuto esca dal giro per cui lo avevi pensato. Il Garante, nella pagina sullo sharenting, ricorda anche la campagna del gennaio 2025, «La sua privacy vale molto più di un like». È il titolo della campagna, non un ordine. La decisione, prima del prossimo post, resta in casa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una foto, cinque secondi in più",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non serve chiudere i profili stasera per essere un genitore attento. Serve un passaggio che prima non c’era. Guardi la foto. Ti chiedi se fra dieci anni lui la vorrebbe ancora lì. Ti chiedi se l’altro genitore la firmerà. Togli il cognome, la divisa, la via. Se la risposta è incerta, la tieni in un album che non è un feed.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il momento resta. Non ha bisogno del pulsante per essere successo. Il pulsante è una seconda decisione, e si può prendere dopo, con più luce e meno fretta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il profilo è privato, posso postare lo stesso?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un profilo riservato riduce il pubblico, non chiude la questione. Il Garante invita a limitare la visibilità alle persone conosciute e affidabili. UNICEF ricorda che conta anche chi sono quei contatti, e che una condivisione non è mai sicura al cento per cento. Uno screenshot esce dal gruppo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dai 14 anni decide mio figlio?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Italia, l’art. 2-quinquies del Codice privacy — richiamato dal Garante — riconosce al minore che ha compiuto 14 anni la facoltà di esprimere un consenso valido per i servizi della società dell’informazione. Sotto i 14 serve il consenso di chi esercita la responsabilità genitoriale. In più, il Garante ricorda che pubblicare immagini di minori sui social richiede il consenso preventivo di entrambi i genitori, anche con affidamento condiviso. L’età non sostituisce il chiedere al figlio se quella foto, per lui, va online.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "E se a postare sono i nonni o la scuola?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "UNICEF suggerisce di dirlo in modo chiaro a parenti e amici, senza dare per scontato che ci abbiano già pensato, e di chiedere alla scuola se esiste una regola sulla condivisione. Se non c’è, si può proporre di scriverne una. Il consenso non è solo un problema del tuo profilo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Devo cancellare tutto quello che ho già pubblicato?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No, e non sei in ritardo morale. UNICEF invita a fare un respiro: la maggior parte dei genitori non pubblica per nuocere. Il passo utile è rivedere il passato, cancellare quello che si può, e — circa dai 9–10 anni — farlo insieme al figlio, poi ripeterlo ogni qualche mese.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  }
+}

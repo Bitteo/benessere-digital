@@ -1,0 +1,742 @@
+{
+  "slug": "videogiochi-e-ragazzi-quando-preoccuparsi",
+  "title": "Videogiochi e ragazzi: quando preoccuparsi davvero (e quando no)",
+  "excerpt": "Gaming disorder nell’ICD-11: i criteri dell’OMS, la differenza tra passione e problema, e cosa guardare in famiglia prima di togliere la console.",
+  "cover": "/images/covers/accordi-di-schermo-ragazzi-8-14.png",
+  "coverAlt": "Illustrazione editoriale a linee: riunione di famiglia al tavolo con bambini, foglietti adesivi e telefono spento (cover temporanea, da sostituire).",
+  "publishedAt": "2026-10-12T09:00:00.000+02:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "schermo-e-tempo"],
+  "readingTime": 9,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Videogiochi e ragazzi: quando preoccuparsi",
+    "metaDescription": "Gaming disorder nell’ICD-11: criteri OMS, differenza tra passione e problema, segnali concreti e cosa fare in famiglia senza allarmismo.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "OMS — Gaming disorder (FAQ sulle classificazioni)",
+      "url": "https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder",
+      "note": "Definizione ICD-11, compromissione del funzionamento, durata di norma di almeno 12 mesi, quota piccola di chi gioca."
+    },
+    {
+      "title": "OMS — Addictive behaviours: Gaming disorder (domande e risposte)",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/addictive-behaviours-gaming-disorder",
+      "note": "Stessa definizione, 22 ottobre 2020. Non indica una soglia di ore."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quante ore di gioco sono troppe?",
+      "answer": "Le pagine dell’OMS sul gaming disorder non fissano una soglia di ore. Descrivono un modo di giocare che toglie il controllo, passa davanti al resto della giornata e continua nonostante le conseguenze, con un danno chiaro al funzionamento. Un pomeriggio lungo, da solo, non è quel quadro."
+    },
+    {
+      "question": "Giocare tanto è già un gaming disorder?",
+      "answer": "No. L’OMS scrive che gli studi suggeriscono un disturbo solo in una quota piccola di chi gioca. La passione intensa, se lascia spazio a sonno, scuola e rapporti, non coincide con la definizione clinica. L’etichetta non si applica a tavola."
+    },
+    {
+      "question": "Devo togliere la console?",
+      "answer": "Un divieto secco, senza aver detto che cosa protegge, sposta spesso il conflitto. Prima conviene un bordo visibile: orario di stop, ricarica fuori dalla camera, una data in cui rivedere la regola. Il gioco si toglie se quel bordo non regge e il resto della vita si è già ristretto."
+    },
+    {
+      "question": "Quando ha senso parlarne con un pediatra?",
+      "answer": "Quando, per un periodo lungo, il gioco passa davanti a scuola, sonno o rapporti e i tentativi di fermarsi non tengono. Non è una diagnosi fatta in casa. È un motivo per chiedere a un professionista qualificato di guardare il quadro, non solo i minuti."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sono le undici passate. Dal corridoio arriva una voce che parla con qualcuno che non è in casa. Sullo schermo c’è una partita, non un compito. Tu conti i minuti. In camera qualcuno conta i punti, e la domanda che resta in cucina è sempre la stessa: è un hobby, o è un problema?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La risposta utile non sta nel tono della serata. Sta in che cosa il gioco sta spostando, da quanto tempo, e se la persona riesce ancora a fermarsi quando la vita lo chiede. Questo pezzo è per chi vive con un ragazzo che gioca, e per il ragazzo che vuole un criterio diverso da «smettila». Non è una diagnosi. È una mappa per non confondere una passione con un disturbo, e per non fare il contrario.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa chiama disturbo l’OMS",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’Organizzazione mondiale della sanità descrive il ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "gaming disorder",
+              "version": 1,
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": " nell’undicesima revisione della Classificazione internazionale delle malattie, l’ICD-11. Nelle pagine ufficiali di domande e risposte lo definisce come un modo di giocare — ai videogiochi, online o meno — caratterizzato da tre tratti insieme.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Controllo compromesso. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Il gioco parte, dura, si interrompe o cambia contesto in un modo che la persona non governa più. «Ancora una» non è una frase: è la serata.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Priorità che cresce. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Il gioco passa davanti ad altri interessi e alle attività della giornata. Non è «gli piace tanto». È «il resto aspetta».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Si continua nonostante le conseguenze. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Un voto, un litigio, un sonno rotto, un allenamento saltato non cambiano il ritmo. Il costo c’è, e il modo di giocare resta o aumenta.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per parlare di disturbo, l’OMS aggiunge due condizioni. Il quadro deve essere abbastanza grave da produrre una compromissione significativa del funzionamento: personale, familiare, sociale, scolastico, lavorativo o in un’altra area importante. E, di norma, deve essere evidente da almeno dodici mesi. Non è una brutta settimana dopo un torneo. È un quadro che resta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le stesse pagine dicono una cosa che in casa si perde spesso. Gli studi suggeriscono che il disturbo riguardi solo una quota piccola di chi gioca. In quelle risposte non c’è una percentuale, e non c’è un tetto di ore. Invita chi gioca a stare attento al tempo soprattutto quando esclude le altre attività della giornata, e ai cambiamenti di salute fisica, psicologica e di vita sociale che si possono ricondurre a quel modo di giocare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questa è una categoria clinica, pensata per chi ha gli strumenti per usarla. Un genitore che vede un sabato lungo non ha fatto una diagnosi. Un ragazzo che vince una stagione con la squadra non ha «un disturbo» perché ne parla a cena. La definizione serve a tenere stretto il criterio, non a distribuire etichette.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Passione e problema non si misurano con l’orologio",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una passione può essere rumorosa. Si parla di personaggi, di classifiche, di un compagno di squadra che abita in un’altra città. Si resta svegli un venerdì. Si rifiuta una passeggiata perché «siamo in finale». Vista da fuori, assomiglia a un problema. Vista da dentro i criteri dell’OMS, può essere ancora un hobby: intenso, stagionale, condiviso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La differenza pratica sta in quello che resta in piedi intorno al gioco. Il sonno, nella maggior parte delle sere, ha un orario. La scuola non è una voce facoltativa, da negoziare solo dopo la partita. Esiste almeno un pezzo di vita — uno sport, un amico, un pasto, un compito — che non deve chiedere permesso alla console. E quando si spegne, la casa non entra in ostaggio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il problema, nella descrizione dell’OMS, non è l’affetto per il gioco. È il restringimento. Il gioco prende il primo posto in modo stabile. Le altre cose escono di scena. I tentativi di ridurre non tengono. Le conseguenze negative ci sono, e non correggono la rotta. Se manca questo insieme, un pomeriggio lungo resta un pomeriggio lungo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Due trappole sono simmetriche. La prima è chiamare disturbo ogni ora che non approvi. La seconda è chiamare passione anche un anno in cui scuola, sonno e amicizie fuori dallo schermo si sono assottigliati, purché «almeno non è in strada». Il tempo da solo non decide. L’assenza di danno, da sola, non si dichiara: si guarda.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Segnali concreti, non un sospetto permanente",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I segnali utili sono osservabili. Non chiedono un test. Chiedono qualche settimana di attenzione, detta ad alta voce, non una lettura di nascosto delle chat di gioco.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il sonno si sposta e non torna. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Non un venerdì. Più sere di fila, con la sveglia che il giorno dopo non regge. Il gioco è l’ultima cosa accesa e la prima scusa.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La scuola scivola con una sola trattativa. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "I compiti esistono «dopo questa partita», e la partita non finisce. Non è un compito difficile. È un ordine del tempo che non si rinegozia.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lo stop non tiene. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "L’orario era chiaro. Alle dieci la console è ancora accesa, e la frase è sempre «solo il finale». Il finale è un genere, non un minuto.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Gli appuntamenti offline saltano per abitudine. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Un allenamento, una cena, un amico alla porta. Una volta è un imprevisto. Un mese è una priorità.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il costo non corregge. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Un voto, una lite, una notte persa. Il giorno dopo il ritmo è lo stesso, o più stretto. Qui la definizione dell’OMS parla di continuazione nonostante le conseguenze.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Spento, l’umore della casa è quello. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Irritazione, vuoto, o un ritorno immediato allo schermo come unica regolazione. Non un broncio di dieci minuti. Una chiave che manca.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Accanto, i segnali che invitano a non drammatizzare. Riesce a fermarsi per cena e per dormire, anche se borbotta. Parla del gioco e anche d’altro. Una settimana storta non diventa un trimestre. Gli amici stanno nel gioco e anche fuori. Chiede tempo, non lo prende di nascosto contro una regola già detta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nessuno di questi punti, da solo, è una diagnosi. Insieme, e per mesi, descrivono il territorio in cui la preoccupazione è ragionevole. Sparsi, e legati a una stagione o a un esame, descrivono un ragazzo che gioca.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa fare in famiglia",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il primo gesto non è il verdetto. È una frase su un fatto. «Da tre settimane i compiti slittano dopo mezzanotte e la sveglia non regge.» Non «sei dipendente». La seconda frase è un’accusa mascherata da cura. La prima si può discutere.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il bordo si scrive prima, come negli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo per gli 8–14 anni",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Poche righe: a che ora si spegne nei giorni di scuola, dove sta la console quando si dorme, che cosa succede se l’orario salta, quando si rivede la regola. Una lista di giochi proibiti per nome invecchia al primo aggiornamento. Un orario e un posto fisico invecchiano meno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La notte è il punto in cui il gioco morde di più il giorno dopo. Vale lo stesso criterio del ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": la ricarica sta fuori dalla stanza, detto prima, non scoperto alle undici. Non perché il gioco sia un veleno. Perché un dispositivo acceso accanto al cuscino rende lo stop una trattativa infinita, e il sonno non tratta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Con un ragazzo più grande il tono cambia, il bordo no. Può dire lui come organizza il pomeriggio. Non può decidere da solo che la scuola e il sonno sono facoltativi, se in quella casa non lo sono. Il controllo nascosto — leggere i messaggi di squadra, spegnere il router senza dirlo — compra un’occhiata e vende la conversazione. Se c’è un filtro sull’orario, si dice che c’è.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il quadro assomiglia a quello descritto dall’OMS, e i tentativi ordinari non tengono, il passo successivo non è una diagnosi pronunciata in cucina. È parlarne con il pediatra o con un professionista qualificato, portando i fatti: da quando, che cosa è uscito di scena, che cosa avete già provato. L’inclusione del disturbo nell’ICD-11 serve proprio a questo, scrive l’OMS: più attenzione di chi cura, prevenzione e trattamento quando servono. Non è un mandato a trattare ogni console come un caso clinico.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa il gioco può essere, quando non prende il posto del resto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se la quota descritta dall’OMS è piccola, il caso ordinario è un altro. Il gioco può essere un posto in cui una cosa difficile si riprova senza che l’errore sia definitivo. Può essere una lingua in comune con la classe. Può essere una squadra in cui si aspetta il compagno, si perde, si rifà la chiamata. Può essere una storia lunga, seguita con la stessa fedeltà con cui un altro segue un campionato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è una promessa clinica. È quello che si vede quando il gioco sta dentro la giornata invece di mangiarla. Un ragazzo che spiega una meccanica a tavola sta facendo una cosa sociale. Un ragazzo che non alza gli occhi da settimane sta facendo un’altra cosa, anche se il titolo è lo stesso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il lato vivo del gioco spiega anche perché il divieto come primo gesto spesso manca il bersaglio. Stai discutendo con una competenza e con una compagnia, non solo con un vizio. Se quelle due cose hanno un posto — un orario, amici anche fuori, un modo per fermarsi — la passione non ha bisogno di essere curata. Ha bisogno di un bordo. Se non hanno più un posto, il bordo da solo può non bastare, e dirlo presto è meglio che aspettare l’anno intero per avere ragione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre domande per questa settimana",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non serve chiudere il discorso per sempre stasera. Servono tre domande, a voce, quando nessuno sta già urlando.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Che cosa è uscito di scena nelle ultime settimane: sonno, compiti, una persona, un allenamento?",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Se si spegne all’ora detta, che cosa succede davvero, non che cosa temi che succeda?",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Quale bordo teniamo per sette giorni — orario, posto della ricarica, una sola eccezione — e che giorno lo rivediamo?",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se le risposte sono noiose, è una buona notizia. Un hobby noioso da descrivere è spesso un hobby che lascia spazio. Se le risposte sono tutte «dopo questa partita», avete già il fatto da portare in una conversazione più seria. In entrambi i casi il criterio è lo stesso: non quanti punti ha fatto. Che cosa, intorno a lui, è ancora in piedi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quante ore di gioco sono troppe?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le pagine dell’OMS sul gaming disorder non fissano una soglia di ore. Descrivono un modo di giocare che toglie il controllo, passa davanti al resto della giornata e continua nonostante le conseguenze, con un danno chiaro al funzionamento. Un pomeriggio lungo, da solo, non è quel quadro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Giocare tanto è già un gaming disorder?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. L’OMS scrive che gli studi suggeriscono un disturbo solo in una quota piccola di chi gioca. La passione intensa, se lascia spazio a sonno, scuola e rapporti, non coincide con la definizione clinica. L’etichetta non si applica a tavola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Devo togliere la console?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un divieto secco, senza aver detto che cosa protegge, sposta spesso il conflitto. Prima conviene un bordo visibile: orario di stop, ricarica fuori dalla camera, una data in cui rivedere la regola. Il gioco si toglie se quel bordo non regge e il resto della vita si è già ristretto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quando ha senso parlarne con un pediatra?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quando, per un periodo lungo, il gioco passa davanti a scuola, sonno o rapporti e i tentativi di fermarsi non tengono. Non è una diagnosi fatta in casa. È un motivo per chiedere a un professionista qualificato di guardare il quadro, non solo i minuti.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  }
+}
