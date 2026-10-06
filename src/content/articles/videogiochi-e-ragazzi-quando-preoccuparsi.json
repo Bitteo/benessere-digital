@@ -2,17 +2,17 @@
   "slug": "videogiochi-e-ragazzi-quando-preoccuparsi",
   "title": "Videogiochi e ragazzi: quando preoccuparsi davvero (e quando no)",
   "excerpt": "Gaming disorder nell’ICD-11: i criteri dell’OMS, la differenza tra passione e problema, e cosa guardare in famiglia prima di togliere la console.",
-  "cover": "/images/covers/accordi-di-schermo-ragazzi-8-14.png",
-  "coverAlt": "Illustrazione editoriale a linee: riunione di famiglia al tavolo con bambini, foglietti adesivi e telefono spento (cover temporanea, da sostituire).",
+  "cover": "/images/covers/videogiochi-e-ragazzi-quando-preoccuparsi.png",
+  "coverAlt": "Illustrazione editoriale a linee: ragazzo seduto sul pavimento con il controller, genitore tranquillo sulla porta, accenti corallo su fondo off-white — senza testo leggibile.",
   "publishedAt": "2026-10-12T09:00:00.000+02:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "schermo-e-tempo"],
   "readingTime": 9,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Videogiochi e ragazzi: quando preoccuparsi",
     "metaDescription": "Gaming disorder nell’ICD-11: criteri OMS, differenza tra passione e problema, segnali concreti e cosa fare in famiglia senza allarmismo.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {

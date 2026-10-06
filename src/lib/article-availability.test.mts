@@ -35,7 +35,13 @@ function loadArticle(slug: string) {
 }
 
 test('scheduled published articles stay hidden until their publishedAt instant', () => {
-  for (const slug of ['smartphone-a-scuola-cosa-funziona', 'fomo-jomo-social-senza-sparire']) {
+  for (const slug of [
+    'smartphone-a-scuola-cosa-funziona',
+    'fomo-jomo-social-senza-sparire',
+    'videogiochi-e-ragazzi-quando-preoccuparsi',
+    'compiti-e-ai-senza-delegare-il-pensiero',
+    'sharenting-foto-dei-figli-online',
+  ]) {
     const article = loadArticle(slug)
     assert.equal(article.status, 'published')
     const publishedAt = new Date(article.publishedAt ?? '')

@@ -2,17 +2,17 @@
   "slug": "compiti-e-ai-senza-delegare-il-pensiero",
   "title": "Compiti e AI: usare ChatGPT e i chatbot senza delegare il pensiero",
   "excerpt": "Spiegare, interrogare, rivedere: come usare un chatbot sui compiti senza consegnare un testo che non è il tuo. Cosa dicono UNESCO e le linee guida del MIM.",
-  "cover": "/images/covers/multitasking-digitale-scuola-e-compiti.png",
-  "coverAlt": "Illustrazione editoriale a linee: libro, laptop, notebook e smartphone — multitasking digitale (cover temporanea, da sostituire).",
+  "cover": "/images/covers/compiti-e-ai-senza-delegare-il-pensiero.png",
+  "coverAlt": "Illustrazione editoriale a linee: ragazzo alla scrivania che scrive a mano accanto al portatile, con un fumetto di chat, accenti corallo su fondo off-white — senza testo leggibile.",
   "publishedAt": "2026-10-19T09:00:00.000+02:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "app-e-strumenti"],
   "readingTime": 9,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Compiti e AI: chatbot senza delegare il pensiero",
     "metaDescription": "Usare ChatGPT per spiegare, interrogare e rivedere i compiti senza consegnare un testo non proprio. Cosa dicono la Guidance UNESCO 2023 e le linee guida MIM.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {
