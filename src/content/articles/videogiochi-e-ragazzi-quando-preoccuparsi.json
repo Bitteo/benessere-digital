@@ -5,13 +5,8 @@
   "cover": "/images/covers/accordi-di-schermo-ragazzi-8-14.png",
   "coverAlt": "Illustrazione editoriale a linee: riunione di famiglia al tavolo con bambini, foglietti adesivi e telefono spento (cover temporanea, da sostituire).",
   "publishedAt": "2026-10-12T09:00:00.000+02:00",
-  "authorSlugs": [
-    "matteo-foroni"
-  ],
-  "categorySlugs": [
-    "genitori-e-scuola",
-    "schermo-e-tempo"
-  ],
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "schermo-e-tempo"],
   "readingTime": 9,
   "status": "draft",
   "seo": {

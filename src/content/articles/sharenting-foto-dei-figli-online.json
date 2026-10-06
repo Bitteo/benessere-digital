@@ -5,13 +5,8 @@
   "cover": "/images/covers/social-media.jpg",
   "coverAlt": "Copertina temporanea, da sostituire: immagine già usata per l’articolo sull’impatto dei social media.",
   "publishedAt": "2026-10-26T09:00:00.000+01:00",
-  "authorSlugs": [
-    "matteo-foroni"
-  ],
-  "categorySlugs": [
-    "genitori-e-scuola",
-    "sicurezza-online"
-  ],
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "sicurezza-online"],
   "readingTime": 9,
   "status": "draft",
   "seo": {

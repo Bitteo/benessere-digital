@@ -5,13 +5,8 @@
   "cover": "/images/covers/multitasking-digitale-scuola-e-compiti.png",
   "coverAlt": "Illustrazione editoriale a linee: libro, laptop, notebook e smartphone — multitasking digitale (cover temporanea, da sostituire).",
   "publishedAt": "2026-10-19T09:00:00.000+02:00",
-  "authorSlugs": [
-    "matteo-foroni"
-  ],
-  "categorySlugs": [
-    "genitori-e-scuola",
-    "app-e-strumenti"
-  ],
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "app-e-strumenti"],
   "readingTime": 9,
   "status": "draft",
   "seo": {
