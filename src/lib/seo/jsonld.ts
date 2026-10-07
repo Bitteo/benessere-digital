@@ -1,5 +1,15 @@
 import type { Article, Author, Category } from '@/lib/content'
-import { absoluteUrl, CANONICAL_ORIGIN } from '@/lib/seo/site'
+import {
+  absoluteUrl,
+  CANONICAL_ORIGIN,
+  ORGANIZATION_LOGO_PATH,
+  ORGANIZATION_SAME_AS,
+  SITE_NAME,
+  SITE_TAGLINE,
+} from '@/lib/seo/site'
+
+export const ORGANIZATION_ID = `${CANONICAL_ORIGIN}/#organization`
+export const WEBSITE_ID = `${CANONICAL_ORIGIN}/#website`
 
 type FaqItem = { question: string; answer: string }
 
@@ -36,7 +46,7 @@ export function buildArticleJsonLd(params: {
     author: authors.length === 1 ? authors[0] : authors,
     publisher: {
       '@type': 'Organization',
-      name: 'benessere.digital',
+      name: SITE_NAME,
       url: CANONICAL_ORIGIN,
       logo: {
         '@type': 'ImageObject',
@@ -111,5 +121,33 @@ export function buildFaqJsonLd(faq: FaqItem[]): Record<string, unknown> | null {
         text: item.answer,
       },
     })),
+  }
+}
+
+export function buildOrganizationJsonLd(): Record<string, unknown> {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': ORGANIZATION_ID,
+    name: SITE_NAME,
+    url: CANONICAL_ORIGIN,
+    description: SITE_TAGLINE,
+    logo: {
+      '@type': 'ImageObject',
+      url: absoluteUrl(ORGANIZATION_LOGO_PATH),
+    },
+    sameAs: [...ORGANIZATION_SAME_AS],
+  }
+}
+
+export function buildWebSiteJsonLd(): Record<string, unknown> {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': WEBSITE_ID,
+    name: SITE_NAME,
+    url: CANONICAL_ORIGIN,
+    inLanguage: 'it-IT',
+    publisher: { '@id': ORGANIZATION_ID },
   }
 }

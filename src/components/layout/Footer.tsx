@@ -1,5 +1,11 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import {
+  ORGANIZATION_LOGO_PATH,
+  ORGANIZATION_SAME_AS,
+  SITE_NAME,
+  SITE_TAGLINE,
+} from '@/lib/seo/site'
 
 const footerLinks = {
   contenuti: [
@@ -22,7 +28,7 @@ const footerLinks = {
 const socialLinks = [
   {
     label: 'Instagram',
-    href: 'https://instagram.com/benessere.digital',
+    href: ORGANIZATION_SAME_AS[0],
     icon: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
         <rect x="2" y="2" width="20" height="20" rx="5" ry="5" stroke="currentColor" strokeWidth="2"/>
@@ -33,7 +39,7 @@ const socialLinks = [
   },
   {
     label: 'TikTok',
-    href: 'https://tiktok.com/@benessere.digital',
+    href: ORGANIZATION_SAME_AS[1],
     icon: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
         <path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.33 6.33 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V9.07a8.16 8.16 0 004.77 1.52V7.15a4.85 4.85 0 01-1-.46z" fill="currentColor"/>
@@ -42,7 +48,7 @@ const socialLinks = [
   },
   {
     label: 'LinkedIn',
-    href: 'https://linkedin.com/company/benessere-digital',
+    href: ORGANIZATION_SAME_AS[2],
     icon: (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
         <path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
@@ -64,15 +70,15 @@ export function Footer() {
             <div className="flex flex-col gap-6">
               <Link href="/" aria-label="Torna alla homepage">
                 <Image
-                  src="/images/benessere.digital.svg"
-                  alt="benessere.digital"
+                  src={ORGANIZATION_LOGO_PATH}
+                  alt={SITE_NAME}
                   width={220}
                   height={26}
                   className="h-6 w-auto"
                 />
               </Link>
               <p className="text-sm text-primary opacity-70 leading-relaxed max-w-xs">
-                La principale piattaforma italiana sul benessere digitale per le nuove generazioni.
+                {SITE_TAGLINE}
               </p>
               {/* Social icons */}
               <div className="flex gap-4">

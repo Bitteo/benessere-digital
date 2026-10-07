@@ -1,5 +1,21 @@
-/** Canonical production origin. Apex already 307-redirects to www. */
+/** Canonical production origin. Apex already 301-redirects to www. */
 export const CANONICAL_ORIGIN = 'https://www.benessere.digital'
+
+export const SITE_NAME = 'benessere.digital'
+
+/** Footer tagline. Organization JSON-LD must reuse this string unchanged. */
+export const SITE_TAGLINE =
+  'La principale piattaforma italiana sul benessere digitale per le nuove generazioni.'
+
+/** Wordmark shown in the navbar and footer. */
+export const ORGANIZATION_LOGO_PATH = '/images/benessere.digital.svg'
+
+/** Social profiles linked from the footer, in footer order. */
+export const ORGANIZATION_SAME_AS = [
+  'https://instagram.com/benessere.digital',
+  'https://tiktok.com/@benessere.digital',
+  'https://linkedin.com/company/benessere-digital',
+] as const
 
 /**
  * Public static routes under `src/app/(app)/`.

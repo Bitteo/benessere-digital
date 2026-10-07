@@ -41,7 +41,7 @@ SoT esteso: [`docs/seo-llm-agent-contract.md`](./seo-llm-agent-contract.md).
 | `src/lib/seo/site.ts` | `CANONICAL_ORIGIN`, `absoluteUrl()`, path pubblici     |
 | `src/app/robots.ts`   | allow `/`, disallow `/api/`, Sitemap www               |
 | `src/app/sitemap.ts`  | solo URL indexabili (published + statiche + hub reali) |
-| `public/llms.txt`     | indice markdown per crawler LLM (IT), solo www         |
+| `src/app/llms.txt/route.ts` | `llms.txt` generato (IT), stesso gate della sitemap, solo www |
 | `src/app/layout.tsx`  | `metadataBase` su www; `lang="it"`; OG `locale: it_IT` |
 
 ### Checklist PR SEO
