@@ -8,6 +8,7 @@ import { ArticleCard } from '@/components/ui/ArticleCard'
 import { NewsletterBanner } from '@/components/sections/NewsletterBanner'
 import { ArticleEngagement } from '@/components/analytics/ArticleEngagement'
 import { LexicalContent } from '@/components/ui/LexicalContent'
+import { ArticleFaq } from '@/components/article/ArticleFaq'
 import { ArticleSources } from '@/components/article/ArticleSources'
 import { JsonLd } from '@/components/article/JsonLd'
 import {
@@ -204,6 +205,7 @@ export default async function ArticleDetailPage({ params }: Props) {
         {article.sources && article.sources.length > 0 ? (
           <ArticleSources sources={article.sources} />
         ) : null}
+        {article.faq?.length ? <ArticleFaq faq={article.faq} /> : null}
       </article>
 
       {/* Author bios */}

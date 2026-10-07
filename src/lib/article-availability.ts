@@ -20,3 +20,12 @@ export function isPubliclyAvailable(article: PublishableArticle, now: Date = new
 
   return publishedAtMs <= now.getTime()
 }
+
+/** Sitemap, llms.txt and IndexNow: public and not marked noIndex. */
+export function isIndexableArticle(
+  article: PublishableArticle & { seo?: { noIndex?: boolean } | null },
+  now: Date = new Date(),
+): boolean {
+  if (article.seo?.noIndex) return false
+  return isPubliclyAvailable(article, now)
+}

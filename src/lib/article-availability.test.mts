@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import { test } from 'node:test'
-import { isPubliclyAvailable } from './article-availability.ts'
+import { isIndexableArticle, isPubliclyAvailable } from './article-availability.ts'
 
 const past = new Date('2026-09-30T07:00:00.000Z')
 const future = new Date('2026-10-20T07:00:00.000Z')
@@ -57,6 +57,17 @@ test('month-2 drafts stay hidden at and after their publishedAt', () => {
   const publishedAt = new Date(article.publishedAt ?? '')
   assert.equal(isPubliclyAvailable(article, publishedAt), false)
   assert.equal(isPubliclyAvailable(article, future), false)
+})
+
+test('noIndex keeps a published article out of sitemap and llms.txt', () => {
+  const article = {
+    status: 'published' as const,
+    publishedAt: '2026-09-01T09:00:00.000+02:00',
+    seo: { noIndex: true },
+  }
+  assert.equal(isPubliclyAvailable(article, future), true)
+  assert.equal(isIndexableArticle(article, future), false)
+  assert.equal(isIndexableArticle({ ...article, seo: { noIndex: false } }, future), true)
 })
 
 test('an already-due published article is public', () => {

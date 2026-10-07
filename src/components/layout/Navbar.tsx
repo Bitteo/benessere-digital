@@ -3,6 +3,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import { useEffect, useState } from 'react'
+import { ORGANIZATION_LOGO_PATH, SITE_NAME } from '@/lib/seo/site'
 
 const navLinks = [
   { label: 'Articoli', href: '/articoli' },
@@ -53,8 +54,8 @@ export function Navbar() {
               className="hidden h-6 w-auto sm:block"
             />
             <Image
-              src="/images/benessere.digital.svg"
-              alt="benessere.digital"
+              src={ORGANIZATION_LOGO_PATH}
+              alt={SITE_NAME}
               width={210}
               height={25}
               priority
