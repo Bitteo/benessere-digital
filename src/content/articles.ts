@@ -18,6 +18,8 @@ import primoSmartphone from './articles/primo-smartphone-eta-e-regole.json'
 import videogiochiRagazzi from './articles/videogiochi-e-ragazzi-quando-preoccuparsi.json'
 import compitiAi from './articles/compiti-e-ai-senza-delegare-il-pensiero.json'
 import sharenting from './articles/sharenting-foto-dei-figli-online.json'
+import chatbotAmici from './articles/chatbot-amici-compagni-ai-adolescenti.json'
+import chatDiClasse from './articles/chat-di-classe-whatsapp-regole-genitori-docenti.json'
 
 export const articles = [
   brainRot,
@@ -39,4 +41,6 @@ export const articles = [
   videogiochiRagazzi,
   compitiAi,
   sharenting,
+  chatbotAmici,
+  chatDiClasse,
 ] as ArticleSource[]

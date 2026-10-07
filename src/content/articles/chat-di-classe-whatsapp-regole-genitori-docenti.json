@@ -1,0 +1,714 @@
+{
+  "slug": "chat-di-classe-whatsapp-regole-genitori-docenti",
+  "title": "Chat di classe su WhatsApp: regole pratiche per genitori e docenti",
+  "excerpt": "Gruppi di classe: che cosa non è attività della scuola, che cosa non si invia, e una pagina di regole per genitori e docenti. Fonti del Garante, della legge 71/2017 e di WhatsApp.",
+  "cover": "/images/covers/smartphone-a-scuola-cosa-funziona.png",
+  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, ingresso di una scuola con zaini e organizer per telefoni.",
+  "publishedAt": "2026-11-09T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "sicurezza-online"],
+  "readingTime": 10,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Chat di classe WhatsApp: regole per genitori e docenti",
+    "metaDescription": "Regole pratiche per la chat di classe su WhatsApp: privacy, consenso, registro elettronico e cyberbullismo. Fonti del Garante, della legge 71/2017 e di WhatsApp.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Garante Privacy — Provvedimento del 27 febbraio 2025, doc. web n. 10126123",
+      "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10126123",
+      "note": "Le chat di classe o i gruppi WhatsApp creati da alunni, genitori o rappresentanti non sono attività istituzionale della scuola. Nello stesso fascicolo, uno screenshot dal registro finisce nel gruppo."
+    },
+    {
+      "title": "Garante Privacy — Vademecum «La scuola a prova di privacy» (2025)",
+      "url": "https://www.garanteprivacy.it/documents/10160/0/Vademecum+-+La+scuola+a+prova+di+privacy+2025.pdf/f1d98c71-9f9d-faaa-9126-478d4bb4f2ad?version=4.0",
+      "note": "Scheda «Chat di classe»: consenso per notizie, foto e video; limite alle chat per le comunicazioni ufficiali, a favore del registro elettronico. Schede su cyberbullismo, sharenting e immagini di recite e gite."
+    },
+    {
+      "title": "Garante Privacy — Scuola, domande frequenti",
+      "url": "https://www.garanteprivacy.it/temi/scuola",
+      "note": "Dati sulla salute non diffusi; niente dati identificativi su bullismo o sanzioni nelle comunicazioni non rivolte a destinatari specifici; raccomandazione sulle chat di classe."
+    },
+    {
+      "title": "Garante Privacy — Sharenting: suggerimenti ai genitori",
+      "url": "https://www.garanteprivacy.it/temi/minori/sharenting",
+      "note": "Ciò che si condivide in una chat di messaggistica può uscire dal controllo di chi lo invia; uno schermo si può catturare."
+    },
+    {
+      "title": "Normattiva — Legge 29 maggio 2017, n. 71",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-05-29;71",
+      "note": "Testo aggiornato (ultimo aggiornamento all’atto pubblicato il 24 aprile 2026). Finalità preventive ed educative, dovere dei genitori, definizioni di bullismo e cyberbullismo."
+    },
+    {
+      "title": "Piattaforma ELISA (Ministero) — Linee di orientamento bullismo e cyberbullismo",
+      "url": "https://www.piattaformaelisa.it/linee-di-orientamento-per-la-prevenzione-e-il-contrasto-del-bullismo-e-cyberbullismo/",
+      "note": "Linee 2021, decreto n. 18 del 13 gennaio 2021. Docente referente, team antibullismo, team per l’emergenza, protocolli che partono da chi subisce."
+    },
+    {
+      "title": "WhatsApp — Terms of Service, European Region",
+      "url": "https://www.whatsapp.com/legal/terms-of-service-eea",
+      "note": "Condizioni in vigore dal 17 agosto 2026. Età minima 13 anni o età superiore se richiesta dal Paese; sotto i 18, lettura con un genitore. Licenza limitata al funzionamento del servizio, messaggi non consegnati conservati fino a 30 giorni."
+    }
+  ],
+  "faq": [
+    {
+      "question": "La scuola risponde della chat dei genitori?",
+      "answer": "Il Garante, nel provvedimento del 27 febbraio 2025 e nel vademecum del 2025, dice di no: una chat creata da alunni, genitori o rappresentanti, con i genitori dentro, è un comportamento di privati, non un trattamento istituzionale dell’istituto. Chi scrive resta tenuto a non diffondere notizie, foto e video senza il consenso delle persone interessate. Le comunicazioni ufficiali stanno meglio sul registro elettronico."
+    },
+    {
+      "question": "Posso inviare la foto del compito?",
+      "answer": "Un foglio si può fotografare se non compaiono un volto, un nome, un voto o un dato di salute. La foto di un compagno, o di una verifica già corretta con il nome leggibile, è un’altra cosa: il Garante chiede il consenso di chi è ripreso e, per i minori, di chi esercita la responsabilità genitoriale. Uno screenshot, poi, vive anche fuori dal gruppo."
+    },
+    {
+      "question": "A che età si può usare WhatsApp?",
+      "answer": "Nelle condizioni per lo Spazio economico europeo in vigore dal 17 agosto 2026, l’uso in autonomia parte dai 13 anni, o da un’età più alta se il Paese la esige. Sotto quella soglia è previsto, dove disponibile, un account gestito da un genitore. Sotto i 18 anni le condizioni chiedono di leggerle con un genitore o tutore. Un gruppo di bambini sul telefono di un adulto è comunque un gruppo che tratta dati di minori."
+    },
+    {
+      "question": "Un insulto nel gruppo è cyberbullismo?",
+      "answer": "Non per forza. La legge n. 71 del 2017, nel testo aggiornato, chiede reiterazione, o una diffusione il cui scopo sia isolare, ridicolizzare o danneggiare un minore. Una frase sola può essere grave lo stesso, e va fermata, senza aspettare l’etichetta. Il passaggio successivo è il referente e il dirigente, non un secondo processo dentro la chat. La distinzione la approfondiamo nell’articolo sul cyberbullismo a scuola."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sono le 21:47. Nel gruppo dei genitori ci sono quarantotto messaggi: la foto di un foglio, un vocale che nomina «quel bambino», un orario di uscita, e uno screenshot che alle 21:52 è già su un altro telefono. Nessuno ha convocato una riunione. Il gruppo l’ha fatta da solo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La chat di classe è il corridoio dopo la campanella, con una differenza: il messaggio resta, si inoltra, e il numero di chi è nel gruppo è già un dato. Le regole qui sotto stanno su testi apribili: il Garante privacy, la legge sul bullismo e sul cyberbullismo, le linee del Ministero sulla piattaforma ELISA, le condizioni di WhatsApp per lo Spazio economico europeo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Due gruppi, due pubblici",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In una classe convivono spesso due fili. Uno è dei genitori, o dei rappresentanti, e parla di libri dimenticati, gite, materiale. L’altro è degli studenti, e vive dopo l’ultima campanella. Mischiarli mette nello stesso schermo un adulto che discute un voto e un ragazzo che doveva solo sapere a che ora si esce.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Garante, nel provvedimento del 27 febbraio 2025 (doc. web n. 10126123), scrive una frase che il vademecum «La scuola a prova di privacy», edizione 2025, riprende quasi alla lettera. La creazione, da parte di alunni, genitori o rappresentanti di classe, di chat di cui fanno parte i genitori, e l’uso di quegli strumenti per notizie sulla vita scolastica, non è un’attività istituzionale della scuola come titolare del trattamento. È un comportamento di privati. La scuola non è tenuta a risponderne.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La frase toglie all’istituto un ruolo che non ha. Chi scrive resta tenuto alla normativa sui dati: il vademecum e la pagina del Garante sulla scuola chiedono di non divulgare notizie, foto e video senza il consenso esplicito delle persone interessate, ragazzi compresi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per le comunicazioni ufficiali il vademecum indica un’altra strada. Sarebbe opportuno che le scuole limitassero l’uso delle chat e privilegiassero strumenti fatti per quello, per esempio il registro elettronico, oppure che sensibilizzassero a un uso corretto. Un messaggio letto alle 22 non è una circolare. Un messaggio non letto non è una circolare mancata. Il canale della scuola resta il registro, e il telefono in classe è un tema vicino ma distinto: ne parliamo in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/smartphone-a-scuola-cosa-funziona",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "smartphone a scuola",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa non entra nel gruppo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il provvedimento del febbraio 2025 nasce da un caso ordinario. Un piano educativo individualizzato diventa visibile, per errore, ai genitori della classe sul registro, e un genitore ne pubblica uno screenshot nel gruppo. Il Garante tratta la visibilità sul registro come comunicazione di dati, anche di salute, e tiene la chat fuori dall’attività dell’istituto. Il gruppo, intanto, ha già fatto da megafono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sulla pagina della scuola, il Garante ricorda due confini che in un gruppo saltano facilmente. I dati sulla salute non si diffondono: una circolare online con i nomi di studenti con disabilità, o di chi segue una mensa diversa per motivi di salute, non è consentita. E nelle comunicazioni che non sono rivolte a destinatari specifici non vanno inseriti dati che rendano identificabili gli alunni, per esempio quelli coinvolti in casi di bullismo o quelli cui è stata data una sanzione disciplinare. Il gruppo dei genitori è, per costruzione, una comunicazione a molti. Un nome, un voto, una diagnosi, un «ha fatto la spia» non sono un aggiornamento logistico.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per recite e gite il vademecum distingue la ripresa a uso familiare dalla diffusione: questa richiede di regola il consenso di chi esercita la responsabilità genitoriale e delle persone presenti. Nelle pagine sullo sharenting il Garante aggiunge che una chat di messaggistica può far uscire il contenuto dal controllo di chi lo invia, perché uno schermo si cattura. Il volto di un compagno nel gruppo è già quella diffusione. Ne parliamo anche in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/sharenting-foto-dei-figli-online",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "sharenting",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": la chat non è un’eccezione più morbida del profilo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "WhatsApp: età, numero, copia del messaggio",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le condizioni di WhatsApp per lo Spazio economico europeo, in vigore dal 17 agosto 2026, chiedono almeno 13 anni per l’uso in autonomia, o l’età più alta se il Paese la esige. Sotto quella soglia, dove la funzione c’è, un genitore può creare un account gestito. Sotto i 18 anni chiedono di leggere le condizioni insieme a un genitore o tutore. In quella frase non c’è un’età italiana diversa dal 13: c’è il 13, e la riserva per il Paese che chiede di più. Si leggono le condizioni aggiornate, non il ricordo di quando la soglia europea era 16.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’account è un numero di telefono: entrare nel gruppo lo mostra agli altri. Le condizioni descrivono anche il caricamento della rubrica, se la legge lo consente, e una licenza limitata a far funzionare il servizio, compresa la conservazione dei messaggi non ancora consegnati fino a 30 giorni. È il trasporto, non un permesso di inoltrare. Uno screenshot è un’altra copia, fatta da una persona, e vive in un secondo gruppo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una classe delle elementari spesso sta nel gruppo sul telefono del genitore. L’età delle condizioni non si aggira così: il filo contiene comunque dati di minori. Il gruppo degli studenti sta meglio su un’età in cui l’app prevede l’uso in autonomia, con un adulto che ha letto le condizioni insieme.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una pagina di regole, da incollare nel gruppo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quello che segue è un testo da fissare nel gruppo. Si cambia solo insieme.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Scopo. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Libri, orari, materiale, uscite. Il consiglio di classe, i voti e i caratteri restano fuori.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Due pubblici, due gruppi. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Genitori e studenti non condividono lo stesso filo, salvo un avviso logistico che non nomina un minore.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Orario. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Una fascia detta dal gruppo, per esempio niente fra le 20:30 e le 7:30, salvo l’uscita anticipata di quel giorno. È una regola vostra, non una norma del Garante.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Niente volti, niente nomi in un litigio. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Un foglio di esercizi si può fotografare se non si vede un volto e non si legge un nome. Un vocale che nomina un compagno no. Una pagella no. Un dato di salute no.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chi entra. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Il numero si dice a chi amministra, non si inoltra a catena. Uscire dal gruppo è lecito. Restare non è un dovere di genitore presente.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il docente non è il centralino. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Il registro è il canale ufficiale. Un insegnante che non è nel gruppo dei genitori è allineato all’indicazione del Garante di preferire quel canale. Il silenzio in chat non è una negligenza.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lo screenshot. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Se non lo appenderesti nel corridoio, non lo inoltri. Una battuta nel gruppo è già un pubblico.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il conflitto esce dal gruppo. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Si parla a due, o si scrive alla scuola. Il gruppo non vota una colpa e non organizza una risposta collettiva contro un nome.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quando il messaggio fa danno",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non ogni frase brusca è cyberbullismo. La legge 29 maggio 2017, n. 71, nel testo aggiornato su Normattiva, definisce il bullismo come aggressione o molestia reiterate, in danno di un minore, idonee a provocare sentimenti di ansia, di timore, di isolamento o di emarginazione. Il cyberbullismo, nello stesso articolo, comprende fra le altre la pressione, l’ingiuria, la denigrazione, la diffamazione, il furto d’identità e il trattamento illecito di dati per via telematica, e la diffusione di contenuti il cui scopo predominante sia isolare un minore, con un abuso, un attacco o la messa in ridicolo. Sono parole della legge. Descrivono condotte, non un’etichetta da assegnare nel gruppo alle 22.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La legge punta su azioni formative ed educative, e affida a chi ha la responsabilità genitoriale il compito di orientare i figli all’uso delle tecnologie e di presidiarne l’uso. Il gruppo dei genitori è uno di quei posti. Presidiare non è aprire un processo parallelo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A scuola, le Linee di orientamento del 2021, aggiornate con il decreto n. 18 del 13 gennaio 2021 e illustrate sulla piattaforma ELISA del Ministero, chiedono un docente referente, un team antibullismo (dirigente, referente, animatore digitale e altre figure della scuola) e un team per l’emergenza che possa coinvolgere, quando serve, i servizi del territorio. I protocolli indicati partono dall’intervento con chi subisce, poi con chi agisce, e solo dopo coinvolgono il gruppo classe. Partire dal gruppo WhatsApp, con il nome già scritto, inverte l’ordine. Ne parliamo in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/cyberbullismo-a-scuola-oltre-la-denuncia",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "cyberbullismo a scuola",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": distinguere una lite da un caso, e lasciare alla scuola il passaggio che le compete, evita sia il panico sia il «è solo un gruppo».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il vademecum del Garante cita WhatsApp fra i posti in cui si vedono comportamenti fastidiosi o commenti odiosi, e chiede di non aspettare che la situazione peggiori. Conservate quel che serve, smettete di inoltrare, ditelo a chi ha un ruolo: il genitore dell’interessato, il referente, il dirigente. Se c’è un pericolo immediato, la tutela della persona viene prima del dibattito nel gruppo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Docenti e genitori, due scrivanie",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un docente nel gruppo ci sta come privato, con un’ombra professionale. Un voto, un dato di salute o un «lo dico al dirigente» scritto nel filo dei genitori è la scrivania sbagliata. Nelle linee del Ministero la scrivania è il referente e il dirigente. Se la scuola parla a tutte le famiglie, lo fa dal registro, senza pubblicare la rubrica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Leggere tutto, ogni sera, è un altro lavoro: il controllo continuo del telefono. Il costo lo trattiamo in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "proteggere senza spiare",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Si può concordare che cosa arriva all’adulto: un messaggio che fa paura, la foto di una persona, una richiesta di soldi, un nome messo in mezzo. Non ogni adesivo. L’accordo si dice prima, si applica anche al telefono dell’adulto a tavola, e non si scopre come una perquisizione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Da lunedì, un messaggio fissato",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Aprite il gruppo. Fissate in alto le righe della pagina: scopo, orario, niente volti, niente nomi in un litigio, il registro per le cose ufficiali, si esce se si vuole, lo screenshot non si inoltra, il conflitto esce dal gruppo. Se il filo degli studenti non le ha ancora, le scrivete con loro. Chi amministra ricorda la pagina quando parte il vocale di troppo, e toglie un contenuto fuori scopo senza aprire un processo sul carattere di qualcuno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La chat serve a non perdere l’orario della gita. Smette di servire quando si discute un minore davanti a tutti i numeri del gruppo. Il Garante ha già separato quel filo dall’attività della scuola. A chi scrive resta il limite di un avviso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La scuola risponde della chat dei genitori?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Garante, nel provvedimento del 27 febbraio 2025 e nel vademecum del 2025, dice di no: una chat creata da alunni, genitori o rappresentanti, con i genitori dentro, è un comportamento di privati, non un trattamento istituzionale dell’istituto. Chi scrive resta tenuto a non diffondere notizie, foto e video senza il consenso delle persone interessate. Le comunicazioni ufficiali stanno meglio sul registro elettronico.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Posso inviare la foto del compito?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un foglio si può fotografare se non compaiono un volto, un nome, un voto o un dato di salute. La foto di un compagno, o di una verifica già corretta con il nome leggibile, è un’altra cosa: il Garante chiede il consenso di chi è ripreso e, per i minori, di chi esercita la responsabilità genitoriale. Uno screenshot, poi, vive anche fuori dal gruppo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A che età si può usare WhatsApp?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nelle condizioni per lo Spazio economico europeo in vigore dal 17 agosto 2026, l’uso in autonomia parte dai 13 anni, o da un’età più alta se il Paese la esige. Sotto quella soglia è previsto, dove disponibile, un account gestito da un genitore. Sotto i 18 anni le condizioni chiedono di leggerle con un genitore o tutore. Un gruppo di bambini sul telefono di un adulto è comunque un gruppo che tratta dati di minori.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un insulto nel gruppo è cyberbullismo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non per forza. La legge n. 71 del 2017, nel testo aggiornato, chiede reiterazione, o una diffusione il cui scopo sia isolare, ridicolizzare o danneggiare un minore. Una frase sola può essere grave lo stesso, e va fermata, senza aspettare l’etichetta. Il passaggio successivo è il referente e il dirigente, non un secondo processo dentro la chat. La distinzione la approfondiamo nell’articolo sul cyberbullismo a scuola.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  }
+}

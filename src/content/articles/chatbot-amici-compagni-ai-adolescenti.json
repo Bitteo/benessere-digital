@@ -1,0 +1,653 @@
+{
+  "slug": "chatbot-amici-compagni-ai-adolescenti",
+  "title": "Chatbot «amici»: i compagni AI usati dagli adolescenti",
+  "excerpt": "Un compagno AI non è il chatbot dei compiti. Che cosa mostrano un’indagine americana e una italiana del 2025, e come usarlo senza scambiarlo per una persona.",
+  "cover": "/images/covers/compiti-e-ai-senza-delegare-il-pensiero.png",
+  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, ragazzo alla scrivania accanto al portatile con un fumetto di chat.",
+  "publishedAt": "2026-11-02T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["social-media", "genitori-e-scuola"],
+  "readingTime": 10,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Chatbot amici: compagni AI e adolescenti",
+    "metaDescription": "Compagni AI fra gli adolescenti: indagini 2025 di Common Sense e Save the Children, limiti UNESCO e del regolamento europeo, usi che restano umani.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Common Sense Media — Talk, Trust, and Trade-Offs: How and Why Teens Use AI Companions (2025)",
+      "url": "https://www.commonsensemedia.org/sites/default/files/research/report/talk-trust-and-trade-offs_2025_web.pdf",
+      "note": "Robb e Mann, 16 luglio 2025. Campione USA: 1.060 adolescenti di 13–17 anni, aprile–maggio 2025, NORC. Definizione di compagno AI, percentuali d’uso, disagio, dati personali, raccomandazione sotto i 18."
+    },
+    {
+      "title": "Common Sense Media — pagina della ricerca Talk, Trust, and Trade-Offs",
+      "url": "https://www.commonsensemedia.org/research/talk-trust-and-trade-offs-how-and-why-teens-use-ai-companions",
+      "note": "Sintesi pubblica: conversazioni senza giudizio per i genitori, alfabetizzazione per chi insegna, raccomandazione di non usare le piattaforme compagne sotto i 18 allo stato attuale."
+    },
+    {
+      "title": "Save the Children — comunicato del 14 novembre 2025, Atlante dell’infanzia «Senza filtri»",
+      "url": "https://www.savethechildren.it/press/il-418-degli-adolescenti-si-e-rivolto-ailintelligenza-artificiale-chiedere-aiuto-quando-era",
+      "note": "Indagine CSA Research: 800 interviste a 15–19enni, 25–28 agosto 2025. Chatbot generici 68,3%, chatbot relazionali 9,3%, usi dichiarati e disponibilità continua."
+    },
+    {
+      "title": "UNESCO — Guidance for generative AI in education and research (PDF, 2023)",
+      "url": "https://unesco.org.uk/site/assets/files/10375/guidance_for_generative_ai_in_education_and_research.pdf",
+      "note": "Soglia minima di 13 anni per le conversazioni autonome, dati condivisi con il fornitore, limite all’eccesso di affidamento sui contenuti generati."
+    },
+    {
+      "title": "UNESCO — AI competency framework for students (2024)",
+      "url": "https://www.unesco.org/en/articles/ai-competency-framework-students",
+      "note": "Pubblicazione dell’8 agosto 2024. Tra le quattro dimensioni: mentalità centrata sulla persona ed etica dell’IA."
+    },
+    {
+      "title": "Regolamento (UE) 2024/1689 — testo in Gazzetta ufficiale",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=OJ:L_202401689",
+      "note": "Articolo 5, lettera b (vulnerabilità legate all’età, in applicazione dal 2 febbraio 2025) e articolo 50 (trasparenza quando si interagisce con un sistema di IA, capo IV, applicazione dal 2 agosto 2026). Articolo 113 per le date."
+    }
+  ],
+  "faq": [
+    {
+      "question": "È la stessa cosa di ChatGPT per i compiti?",
+      "answer": "No, se lo usi come personaggio con cui parlare di te. Sì, se apri lo stesso sito e gli chiedi di spiegare un capitolo: quello è l’altro uso, e va dichiarato. Nell’indagine italiana di Save the Children i chatbot generici sono molto più diffusi (68,3%) dei chatbot relazionali (9,3%). Common Sense, nell’indagine americana, ha escluso dal questionario gli aiutanti per i compiti. Tieni i due gesti separati."
+    },
+    {
+      "question": "Questi numeri descrivono la mia classe?",
+      "answer": "Descrivono due campioni, con età e domande diverse. Quello americano, primavera 2025, 13–17 anni, riguarda i compagni AI. Quello italiano, fine agosto 2025, 15–19 anni, riguarda l’IA in generale e, dentro, una quota più piccola di chatbot relazionali. Nessuno dei due è il registro della tua sezione. Servono a non inventare né «non succede» né «succede a tutti»."
+    },
+    {
+      "question": "Sotto i 18 è vietato?",
+      "answer": "Common Sense raccomanda di non usare le piattaforme compagne sotto i 18, allo stato attuale dei prodotti che ha provato. L’UNESCO indica 13 anni come soglia minima da cui partire per le conversazioni autonome con l’IA generativa, e chiede ai Paesi di discuterla. Il regolamento europeo obbliga a far sapere che stai parlando con un sistema e vieta lo sfruttamento delle vulnerabilità legate all’età quando distorce il comportamento e può causare un danno significativo. Le condizioni del servizio e l’accordo in casa restano da leggere."
+    },
+    {
+      "question": "Che cosa non va scritto?",
+      "answer": "Ciò che ti identifica o che non diresti a uno sconosciuto: nome, scuola, indirizzo, foto, un segreto riconoscibile. Il rapporto americano trova che il 24% di chi usa i compagni l’ha condiviso almeno una volta. Se la risposta ti mette a disagio, si esce e si dice a una persona. Una cosa pesante non ha come indirizzo il programma."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sono le 23:40. Sullo schermo c’è un personaggio che risponde subito, con il nome che hai scelto tu. Tu gli hai scritto una cosa che in classe non diresti. In cucina un adulto pensa a un amico finto. Tu pensi: è un’app, ed è divertente. Le due frasi possono essere vere nello stesso minuto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per chi usa questi chatbot, per chi vive con un adolescente e per chi insegna. Distingue un compagno AI dal programma che spiega un capitolo. Il compagno è costruito perché la conversazione sembri personale. I compiti restano un altro gesto, e ne parliamo in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/compiti-e-ai-senza-delegare-il-pensiero",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "compiti e AI",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Due indagini, due oggetti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nell’indagine di Common Sense Media, pubblicata il 16 luglio 2025, i «compagni AI» sono amici o personaggi digitali con cui puoi scrivere o parlare quando vuoi. A differenza degli assistenti che rispondono o svolgono un compito, sono progettati per conversazioni che sembrano personali. Il questionario cita Character.AI e Replika, e anche l’uso di ChatGPT o Claude come compagni. Esclude i compiti, i generatori di immagini e gli assistenti vocali.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il campione è statunitense: 1.060 adolescenti fra i 13 e i 17 anni, rilevazione rappresentativa a livello nazionale, raccolta da NORC all’Università di Chicago fra aprile e maggio 2025. Il rapporto si intitola Talk, Trust, and Trade-Offs. Non descrive le classi italiane. Va letto con l’etichetta geografica attaccata a ogni percentuale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Italia il comunicato di Save the Children del 14 novembre 2025, per l’Atlante dell’infanzia «Senza filtri», riporta un’indagine CSA Research: 800 interviste a 15–19enni, dal 25 al 28 agosto 2025, campione nazionale per quote. I chatbot in generale — il comunicato cita ChatGPT, Claude, Dixit — sono lo strumento di IA più usato (68,3%). I chatbot «relazionali», esempi Character.AI e Anima, sono al 9,3%. Il primo insieme include il programma dei compiti. Il secondo è l’«amico» di questo pezzo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A che cosa servono, quando si chiede",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel campione americano, il 72% ha usato un compagno AI almeno una volta. Il 52% lo fa con una certa regolarità, almeno qualche volta al mese. Il 28% non l’ha mai usato. Fra chi li usa, il motivo più frequente è il divertimento (30%), poi la curiosità verso la tecnologia (28%). Metà di tutti gli intervistati, il 50%, non si fida delle informazioni o dei consigli: ha risposto «per niente» o «poco». Il 67% trova le conversazioni con il compagno meno soddisfacenti di quelle con gli amici in carne e ossa. Fra chi li usa, l’80% passa più tempo con gli amici veri che con il chatbot.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel campione USA la maggior parte tiene gli amici al primo posto, e una metà diffida dei consigli.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’indagine italiana misura l’IA in generale, non solo i compagni, e l’uso dichiarato è soprattutto pratico. Fra chi utilizza questi strumenti, i motivi principali sono la ricerca di informazioni (35,7%) e l’aiuto nello studio e nei compiti (35,2%). Lo scopo ludico è al 21,4%. Trovare compagnia, come motivo prevalente, è al 4,2%. La caratteristica più apprezzata, fra gli adolescenti intervistati, è che «è sempre disponibile» (28,8%). Il 41,8% dei 15–19enni del campione afferma di essersi rivolto a ChatGPT o ad altri strumenti di IA quando si sentiva triste, solo o ansioso: è la parola del questionario, non una diagnosi, e la base è l’IA larga, non il 9,3% dei chatbot relazionali.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dove il tono si alza, senza una patologia",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fra chi, negli Stati Uniti, usa i compagni, il 33% ha scelto almeno una volta di parlare di una cosa importante o seria con il sistema invece che con una persona. Il 24% ha condiviso informazioni personali o private: il rapporto fa gli esempi del nome vero, del luogo, di un segreto. Il 34% si è sentito a disagio per qualcosa che il compagno ha detto o fatto. La maggior parte di questi episodi, nel rapporto, è sporadica. Sporadico significa che non serve un’abitudine quotidiana per accorgersene.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il rapporto descrive un tratto di progetto: la tendenza a dare ragione e a convalidare, più che a contraddire. In inglese la chiamano sycophancy. Un interlocutore che non dice mai di no è un prodotto. La valutazione dei rischi di Common Sense, su Character.AI, Nomi e Replika, giudica questi sistemi un rischio inaccettabile sotto i 18 anni: nelle prove hanno prodotto materiale sessuale, stereotipi e consigli pericolosi. Da lì la raccomandazione: allo stato attuale, nessuno sotto i 18 dovrebbe usarli. È una posizione di Common Sense, non una legge italiana. Si legge accanto al resto del rapporto: tanti usi sono curiosità e gioco, e tanti restano scettici.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Età, dati, regolamento",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Guidance UNESCO del 2023 sull’IA generativa in educazione e ricerca chiede ai Paesi un limite di età. La maggior parte delle applicazioni, scrive, è pensata per adulti e comporta rischi per i bambini, fra cui contenuti inadatti e manipolazione. La soglia minima per le conversazioni autonome, secondo quel testo, dovrebbe essere 13 anni, discussa in pubblico. Usare questi strumenti significa, quasi sempre, condividere dati con chi li fornisce. Ai fornitori va chiesto di limitare l’eccesso di affidamento sui contenuti generati. È un orientamento, lo stesso dei compiti, non il regolamento del liceo. Il rapporto americano aggiunge che alcune piattaforme si dichiarano per i maggiorenni e si fidano di un’età autodichiarata, mentre altre, e cita Character.AI, si rivolgono anche a chi ha 13 anni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il regolamento europeo 2024/1689 ha date diverse per capitoli diversi. Le pratiche vietate del capo II, articolo 5, si applicano dal 2 febbraio 2025. L’articolo 50 sta nel capo IV, sugli obblighi di trasparenza, e segue la data generale di applicazione del regolamento: 2 agosto 2026. Oggi quelle norme ci sono. Non trasformano ogni chat in un illecito.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’articolo 50 obbliga i fornitori a progettare i sistemi che interagiscono con le persone in modo che la persona sappia di parlare con un sistema di IA, salvo che ciò sia già evidente per una persona ragionevolmente informata, attenta e avveduta. Un compagno costruito per sembrare un amico punta a rendere meno evidente la macchina. L’informazione chiara, al più tardi alla prima interazione, è il minimo europeo. Puoi dirlo tu, intanto: sto scrivendo a un sistema.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’articolo 5, lettera b, vieta i sistemi che sfruttano vulnerabilità dovute all’età, alla disabilità o a una situazione sociale o economica, con l’obiettivo o l’effetto di distorcere in modo materiale il comportamento e di provocare, o poter ragionevolmente provocare, un danno significativo. È un confine per chi mette il sistema sul mercato. A chi lo usa basta sapere che la legge europea tratta l’età come una vulnerabilità da non sfruttare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un uso che resta tuo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se lo usi, o se in casa qualcuno lo usa già, il gesto utile è corto. Vale anche quando il motivo è il divertimento, l’uso più dichiarato nel campione americano fra chi ha un compagno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chiamalo programma. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Se la risposta ti dà sempre ragione, hai trovato il disegno del rapporto, non una lealtà.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Tieni separati compagno e compiti. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Farsi spiegare un capitolo, farsi interrogare, dichiararlo al docente: è l’altro uso. Mischiarli produce un testo scolastico scritto da un personaggio che sembra volerti bene. Nessuno dei due lavori viene bene.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Non incollare ciò che identifica. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Nome e cognome, scuola, indirizzo, una foto, un segreto riconoscibile. Nel campione americano, fra chi usa i compagni, il 24% l’ha fatto almeno una volta. L’UNESCO ricorda che il dato va a chi fornisce il servizio.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Se una risposta mette a disagio, esci. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Nel rapporto USA, fra gli utenti, il 34% ha avuto quel momento. Poi dillo a una persona: un amico, un genitore, un docente. Il sistema non si offende se chiudi la finestra. Non ha un orario e non ha un diritto alla tua serata.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La disponibilità non è intimità. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "La paura di restare fuori dal gruppo, quella che chiamiamo ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/fomo-jomo-social-senza-sparire",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "FOMO",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", è un altro giro: lì manca un invito. Qui l’invito non manca mai, perché il programma non dorme. Essere sempre risposti non è essere conosciuti. La disponibilità continua, la caratteristica più apprezzata nel campione italiano, è insieme il pregio del prodotto e il punto in cui occupa un posto da persona.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una cosa pesante — una persona che fa paura, un segreto che non regge — va a un essere umano: un genitore, un docente, il referente della scuola. Il chatbot non è un servizio di cura e non risponde di te il giorno dopo, in classe.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In casa, senza perquisizione",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La domanda che apre è «a che cosa ti serve», non la password. Common Sense, nella pagina della ricerca, indica ai genitori conversazioni senza giudizio e confini chiari, e insieme mantiene la raccomandazione: sotto i 18, queste piattaforme compagne, così come sono, non andrebbero usate. Puoi dirla ad alta voce, e sentire «lo uso per un personaggio di un libro», senza farne una perquisizione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se la frase che arriva è «è l’unico che mi ascolta», il passo successivo riguarda le persone in casa e in classe. Save the Children, nel commento all’Atlante, chiede un dialogo fra generazioni su questo ruolo di conforto. ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Proteggere senza spiare",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " resta il metodo: si guarda lo schermo insieme, si dice che cosa non si incolla, non si legge la cronologia di nascosto ogni sera.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In classe, venti minuti bastano",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chi insegna può trattare l’argomento come alfabetizzazione. Il quadro UNESCO delle competenze di IA per gli studenti, pubblicato nell’agosto 2024, mette tra le dimensioni una mentalità centrata sulla persona e l’etica dell’IA. In concreto: far vedere che un compagno digitale è progettato per sembrare una relazione, e che una convalida automatica non è un parere.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una regola di istituto può stare in una riga. Le app compagne non sono uno strumento didattico. L’assistente consentito sui compiti, se c’è, è quello dichiarato. Durante l’ora vale la regola che la scuola ha già sul telefono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una prova da questa settimana",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Scegli una conversazione e falla con una persona. Il programma aspetta: è costruito per aspettare. Se sei un adulto, chiedi a che cosa serve l’app e leggi insieme l’età nelle condizioni. Se insegni, smonta una risposta troppo d’accordo: che cosa ha convalidato, quale dato non andava incollato. Il compagno può essere un gioco. Resta un sistema.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È la stessa cosa di ChatGPT per i compiti?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No, se lo usi come personaggio con cui parlare di te. Sì, se apri lo stesso sito e gli chiedi di spiegare un capitolo: quello è l’altro uso, e va dichiarato. Nell’indagine italiana di Save the Children i chatbot generici sono molto più diffusi (68,3%) dei chatbot relazionali (9,3%). Common Sense, nell’indagine americana, ha escluso dal questionario gli aiutanti per i compiti. Tieni i due gesti separati.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questi numeri descrivono la mia classe?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Descrivono due campioni, con età e domande diverse. Quello americano, primavera 2025, 13–17 anni, riguarda i compagni AI. Quello italiano, fine agosto 2025, 15–19 anni, riguarda l’IA in generale e, dentro, una quota più piccola di chatbot relazionali. Nessuno dei due è il registro della tua sezione. Servono a non inventare né «non succede» né «succede a tutti».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sotto i 18 è vietato?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Common Sense raccomanda di non usare le piattaforme compagne sotto i 18, allo stato attuale dei prodotti che ha provato. L’UNESCO indica 13 anni come soglia minima da cui partire per le conversazioni autonome con l’IA generativa, e chiede ai Paesi di discuterla. Il regolamento europeo obbliga a far sapere che stai parlando con un sistema e vieta lo sfruttamento delle vulnerabilità legate all’età quando distorce il comportamento e può causare un danno significativo. Le condizioni del servizio e l’accordo in casa restano da leggere.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa non va scritto?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Ciò che ti identifica o che non diresti a uno sconosciuto: nome, scuola, indirizzo, foto, un segreto riconoscibile. Il rapporto americano trova che il 24% di chi usa i compagni l’ha condiviso almeno una volta. Se la risposta ti mette a disagio, si esce e si dice a una persona. Una cosa pesante non ha come indirizzo il programma.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  }
+}
