@@ -8,12 +8,52 @@
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["social-media", "salute-mentale"],
   "readingTime": 8,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Doomscrolling: perché il pollice non si ferma",
     "metaDescription": "Doomscrolling: perché il feed di cattive notizie non si chiude da solo e quali attriti interrompono il loop, senza cancellare le app.",
-    "noIndex": true
+    "noIndex": false
   },
+  "sources": [
+    {
+      "title": "Cambridge Dictionary — doomscrolling",
+      "url": "https://dictionary.cambridge.org/dictionary/english/doomscrolling",
+      "note": "Voce di dizionario: passare molto tempo al telefono o al computer a leggere notizie brutte o negative. Non è una diagnosi."
+    },
+    {
+      "title": "NPR — Your ‘Doomscrolling’ Breeds Anxiety (19 luglio 2020)",
+      "url": "https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle",
+      "note": "Pezzo del 19 luglio 2020. Racconta la diffusione della parola e un uso su Twitter già nell’ottobre 2018. Non è uno studio clinico e non misura un danno permanente."
+    },
+    {
+      "title": "Oxford University Press — ‘Brain rot’ Word of the Year 2024",
+      "url": "https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/",
+      "note": "2 dicembre 2024. Definizione: il presunto deterioramento dello stato mentale o intellettuale, soprattutto per eccesso di contenuti online banali. Etichetta culturale, non clinica."
+    },
+    {
+      "title": "Baumeister, Bratslavsky, Finkenauer e Vohs — Bad Is Stronger Than Good (2001)",
+      "url": "https://fbaum.unc.edu/teaching/articles/Baumeister_2001.pdf",
+      "note": "Review of General Psychology, 5(4), 323–370. Le informazioni negative sono elaborate di più; prestare attenzione alle minacce è descritto come adattivo. Non è uno studio sul feed."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Leggere le notizie ogni giorno è già doomscrolling?",
+      "answer": "No. La differenza è lo stop e come ne esci. Venti minuti con una domanda, e poi la giornata, non sono un loop. Un’ora senza ricordare che cosa hai letto, sì. Non misurare la virtù. Misura se chiudi."
+    },
+    {
+      "question": "Devo cancellare le app di notizie o i social?",
+      "answer": "Di solito no, non come primo gesto. Cancellare senza una finestra sposta il loop nel browser. Se un’app è solo il tubo, puoi toglierla dal telefono e lasciarla dove serve un passo in più. Non è sparire. È attrito."
+    },
+    {
+      "question": "Il doomscrolling rovina l’attenzione per sempre?",
+      "answer": "Non c’è un buon motivo per dirlo così. Lo slogan del danno permanente è più forte delle prove. Il punto solido è più piccolo, e basta: il loop tiene l’attivazione alta, ruba sonno e ruba la sera. Ridurlo migliora quelle ore. Non devi credere a una sentenza sul cervello per posare il telefono."
+    },
+    {
+      "question": "Mi serve restare informato per lavoro o per lo studio.",
+      "answer": "Allora è un compito, e i compiti hanno un orario. Una lista corta di fonti, una finestra, un appunto con che cosa è cambiato. «Restare informati» senza fine non è più professionale. È lo stesso tubo con una giustificazione migliore."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",

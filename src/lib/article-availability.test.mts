@@ -31,7 +31,7 @@ test('published articles without a parseable publishedAt stay hidden', () => {
 function loadArticle(slug: string) {
   return JSON.parse(
     readFileSync(new URL(`../content/articles/${slug}.json`, import.meta.url), 'utf8'),
-  ) as { status: 'draft' | 'published'; publishedAt?: string }
+  ) as { status: 'draft' | 'published'; publishedAt?: string; seo?: { noIndex?: boolean } }
 }
 
 test('scheduled published articles stay hidden until their publishedAt instant', () => {
@@ -51,12 +51,22 @@ test('scheduled published articles stay hidden until their publishedAt instant',
   }
 })
 
-test('month-2 drafts stay hidden at and after their publishedAt', () => {
-  const article = loadArticle('doomscrolling-perche-il-pollice-non-si-ferma')
-  assert.equal(article.status, 'draft')
-  const publishedAt = new Date(article.publishedAt ?? '')
-  assert.equal(isPubliclyAvailable(article, publishedAt), false)
-  assert.equal(isPubliclyAvailable(article, future), false)
+test('month-2 articles stay hidden until their publishedAt', () => {
+  for (const slug of [
+    'doomscrolling-perche-il-pollice-non-si-ferma',
+    'controllo-genitori-smartphone-proteggere-senza-spiare',
+    'cyberbullismo-a-scuola-oltre-la-denuncia',
+    'multitasking-digitale-scuola-e-compiti',
+  ]) {
+    const article = loadArticle(slug)
+    assert.equal(article.status, 'published')
+    assert.equal(article.seo?.noIndex, false)
+    const publishedAt = new Date(article.publishedAt ?? '')
+    assert.equal(Number.isNaN(publishedAt.getTime()), false)
+    assert.equal(isPubliclyAvailable(article, new Date(publishedAt.getTime() - 1)), false)
+    assert.equal(isPubliclyAvailable(article, publishedAt), true)
+    assert.equal(isPubliclyAvailable(article, future), false)
+  }
 })
 
 test('an already-due published article is public', () => {
