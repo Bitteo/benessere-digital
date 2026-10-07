@@ -8,12 +8,42 @@
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "sicurezza-online"],
   "readingTime": 8,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Cyberbullismo a scuola: oltre la denuncia",
     "metaDescription": "Cyberbullismo a scuola: che cosa fare oltre la denuncia. Una guida calma per docenti, dentro il regolamento, senza panico e senza norme improvvisate.",
-    "noIndex": true
+    "noIndex": false
   },
+  "sources": [
+    {
+      "title": "Gazzetta Ufficiale — Legge 17 maggio 2024, n. 70",
+      "url": "https://www.gazzettaufficiale.it/eli/gu/2024/05/30/125/sg/pdf",
+      "note": "GU n. 125 del 30 maggio 2024, in vigore dal 14 giugno. Riscrive parti della legge 29 maggio 2017, n. 71: azioni formative ed educative (art. 1 della 71), regolamento di istituto e referente fra i docenti (art. 4, comma 3, della 71). Il passaggio sulle autorità è l’art. 5 della 71, sostituito da questa legge: nei casi più gravi ovvero se le condotte sono reiterate e, comunque, quando le iniziative educative non hanno prodotto esito, il dirigente riferisce alle autorità."
+    },
+    {
+      "title": "Gazzetta Ufficiale — scheda della legge 17 maggio 2024, n. 70",
+      "url": "https://www.gazzettaufficiale.it/eli/id/2024/05/30/24G00086/sg",
+      "note": "Identificativo dell’atto (24G00086). Il testo degli articoli è nel PDF della stessa Gazzetta. Non è una circolare di istituto e non dice in quante ore denunciare."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Devo sporgere denuncia io, subito?",
+      "answer": "Non ogni episodio parte dalla questura, e non spetta a un articolo dirti se questo è un reato. La legge distingue la via educativa da quella in cui il dirigente informa le autorità, in particolare nei casi gravi o reiterati. Se c’è un pericolo immediato, la tutela della persona viene prima del dibattito. Per il resto: regolamento, referente, dirigente. Non un gruppo di chat che «decide di denunciare» al posto della scuola."
+    },
+    {
+      "question": "Sequestrare i telefoni risolve?",
+      "answer": "No. Può servire, dentro le regole dell’istituto, a interrompere un giro in quel momento. Non spegne un contenuto già inoltrato e non sostituisce l’ascolto. Uno spettacolo di sequestri sposta l’attenzione su di te e lascia il contenuto dove già sta: sui telefoni degli altri."
+    },
+    {
+      "question": "Una sola storia crudele è già cyberbullismo?",
+      "answer": "Può esserne l’inizio, soprattutto se resta online e se c’è uno squilibrio. Può anche essere un episodio grave che va fermato senza l’etichetta completa. Non gonfiare per sembrare rigoroso. Non minimizzare perché è «una storia sola». Guarda intenzione, potere, diffusione, e come sta la persona il giorno dopo."
+    },
+    {
+      "question": "Che cosa dico alla classe?",
+      "answer": "Una regola, senza il riassunto del fatto. Non si inoltra un contenuto che ferisce. Chi lo riceve lo dice a un adulto invece di farlo girare. Poi si lavora. I discorsi lunghi sul «fenomeno», senza una regola concreta, lasciano l’aula più ansiosa e non più capace."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",
@@ -213,7 +243,7 @@
           "children": [
             {
               "type": "text",
-              "text": "In Italia la prevenzione e il contrasto di bullismo e cyberbullismo stanno in una legge del 2017, la n. 71, aggiornata nel 2024 dalla legge n. 70. L’impostazione dichiarata privilegia azioni formative ed educative, non solo la sanzione. Le norme chiedono alle scuole di integrare il regolamento e di individuare un docente referente che coordini. Nei casi più gravi, o quando le condotte si ripetono e gli interventi educativi non bastano, il dirigente si rivolge alle autorità competenti.",
+              "text": "In Italia la prevenzione e il contrasto di bullismo e cyberbullismo stanno in una legge del 2017, la n. 71, aggiornata nel 2024 dalla legge n. 70. L’impostazione dichiarata privilegia azioni formative ed educative, non solo la sanzione. Le norme chiedono alle scuole di integrare il regolamento e di individuare un docente referente che coordini. Nei casi più gravi o se le condotte si ripetono, e comunque quando gli interventi educativi non hanno esito, il dirigente riferisce alle autorità competenti.",
               "version": 1
             }
           ]

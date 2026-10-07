@@ -8,12 +8,42 @@
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["schermo-e-tempo", "genitori-e-scuola"],
   "readingTime": 8,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Multitasking digitale a scuola e compiti",
     "metaDescription": "Multitasking digitale a scuola e sui compiti: perché non è fare due cose insieme, quanto costa e come ridurlo con un blocco e meno schede.",
-    "noIndex": true
+    "noIndex": false
   },
+  "sources": [
+    {
+      "title": "Ophir, Nass e Wagner — Cognitive control in media multitaskers (2009)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2747164/",
+      "note": "PNAS, 106(37), 15583–15587. Chi fa molto multitasking mediale, in questo studio, filtra peggio le distrazioni e va peggio in un test di cambio di compito. È un’associazione su un campione, non la prova che una generazione abbia l’attenzione rotta."
+    },
+    {
+      "title": "Uncapher e colleghi — Media multitasking and cognitive, psychological, neural, and learning differences (2017)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5658797/",
+      "note": "Review su Pediatrics. Il multitasking mediale durante lo studio può peggiorare gli esiti scolastici; la direzione causale non è stabilita. Sul cambio di compito i lavori successivi sono misti, e molti non trovano differenze. Nessuna soglia del tipo «perdi il 40%»."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Il multitasking non è una competenza richiesta dal mondo del lavoro?",
+      "answer": "Rispondere a più cose in un giorno, sì. Farle nello stesso minuto, quando entrambe chiedono lettura e decisione, no. Il lavoro le separa in blocchi più spesso di quanto i reel dicano. Allenarsi a non tenere la chat sopra il compito è più spendibile che allenarsi a non finire mai una riga."
+    },
+    {
+      "question": "La musica aiuta a concentrarsi?",
+      "answer": "A volte aiuta a partire, a volte ruba la lettura. Se ha un testo, compete con il testo che devi studiare. Provala su un blocco e guarda il risultato, non il sollievo. Il sollievo è immediato. Il compito si vede dopo, nelle righe che restano."
+    },
+    {
+      "question": "Mio figlio dice che senza telefono non studia.",
+      "answer": "Può essere vero che il telefono è diventato il modo per tollerare un compito noioso. Non ne segue che il telefono migliori il compito. Un blocco corto, con il telefono fuori e uno stop concordato, è un esperimento, non una punizione. Se dopo quattro giorni le righe non si muovono, il problema può essere il compito, il sonno o la materia, non solo lo schermo. Allora si guarda quello, senza alzare la voce sul telefono."
+    },
+    {
+      "question": "In classe il divieto basta?",
+      "answer": "Il divieto, da solo, sposta. Serve un posto per l’emergenza, una regola chiara e un’ora che non chieda cinque schermi. Il dettaglio sta nelle scelte dell’istituto. Intanto, sui compiti, il blocco si può fare anche se a scuola la policy è ancora in discussione."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",

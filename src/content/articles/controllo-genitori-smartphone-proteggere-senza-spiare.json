@@ -8,12 +8,42 @@
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "sicurezza-online"],
   "readingTime": 8,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Controllo genitori sullo smartphone, senza spiare",
     "metaDescription": "Controllo genitori sullo smartphone: filtri e orari visibili, non chat lette di nascosto. Come proteggere senza trasformare la fiducia in un software.",
-    "noIndex": true
+    "noIndex": false
   },
+  "sources": [
+    {
+      "title": "Stattin e Kerr — Parental monitoring: A reinterpretation (2000)",
+      "url": "https://eric.ed.gov/?id=EJ620380",
+      "note": "Child Development, 71(4), 1072–1085. Su quattordicenni svedesi, ciò che i genitori sanno arriva soprattutto da quello che i figli raccontano (child disclosure), non dal pedinamento. Tracking e sorveglianza non sono la prescrizione che gli autori raccomandano. La scheda non fissa un’età per lo smartphone."
+    },
+    {
+      "title": "Kiesner, Dishion, Poulin e Pastore — Temporal dynamics of parent monitoring (2010)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2788335/",
+      "note": "Riprende Stattin e Kerr (2000): controllo, sollecitazione e disclosure. In quel lavoro, considerate insieme, solo la disclosure dei ragazzi restava legata in modo affidabile alle condotte di rottura delle norme. Lo studio di Kiesner e colleghi, su 13–14enni italiani e franco-canadesi, non trova effetti a un anno di distanza. Non è una licenza a non chiedere."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Leggere WhatsApp è proteggerlo?",
+      "answer": "Quasi mai, se è di nascosto e per abitudine. È sorveglianza. Un’eccezione stretta — un rischio serio, detto, temporaneo — non è uno stile educativo. Se ti serve leggere tutto per stare tranquillo, la tranquillità non arriverà dal testo. Arriverà, se arriva, da un rapporto in cui le cose difficili hanno un posto."
+    },
+    {
+      "question": "Qual è l’età giusta per il primo smartphone?",
+      "answer": "Non c’è un numero che la ricerca possa firmare al posto tuo. Contano sonno, scuola, chi lo contatta, e se in casa esiste un accordo. Un telefono presto con regole visibili può essere più sano di un telefono tardi dato come resa. Il pezzo da non saltare è il patto, non il compleanno."
+    },
+    {
+      "question": "I controlli di sistema bastano?",
+      "answer": "Bastano per i bordi: orari, acquisti, una parte dei contenuti, una posizione concordata. Non bastano per sapere se sta bene. Se un venditore ti dice il contrario, sta parlando del suo prodotto, non di tuo figlio."
+    },
+    {
+      "question": "E se lo aggira?",
+      "answer": "Succederà, in parte. Nominalo senza umiliarlo: «La regola era questa, l’hai spostata, la rivediamo». Poi decidi se il bordo era troppo stretto o se la conseguenza che avevate scritto vale ancora. Umiliare insegna a nascondere meglio. Rivedere la regola insegna che il patto è una cosa viva."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",
