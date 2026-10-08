@@ -1,0 +1,588 @@
+{
+  "slug": "acquisti-in-app-microtransazioni-loot-box",
+  "title": "Acquisti in-app e loot box: monete, caso e limiti di spesa",
+  "excerpt": "Microtransazioni e loot box: che cosa sono, perché la valuta virtuale allontana il prezzo dall’euro, che cosa stanno verificando AGCM e rete CPC, e quali limiti attivare su store e console.",
+  "cover": "/images/covers/videogiochi-e-ragazzi-quando-preoccuparsi.png",
+  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata dall’articolo sui videogiochi, ragazzo seduto con il controller e un adulto sulla porta.",
+  "publishedAt": "2026-11-16T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "schermo-e-tempo"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Acquisti in-app e loot box: prezzi e limiti",
+    "metaDescription": "Microtransazioni e loot box nei giochi: valuta virtuale, istruttoria AGCM, principi CPC, etichette PEGI e limiti di spesa su store e console.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "AGCM — comunicato 16 gennaio 2026, istruttorie PS13020 e PS13039",
+      "url": "https://www.agcm.it/media/comunicati-stampa/2026/1/PS13020-PS13039",
+      "note": "Istruttorie aperte, non accertamenti, su Diablo Immortal e Call of Duty Mobile: urgenza, monete virtuali, bundle, parental control preimpostati."
+    },
+    {
+      "title": "Rete CPC — Key Principles on In-game Virtual Currencies (21 marzo 2025)",
+      "url": "https://commission.europa.eu/document/download/8af13e88-6540-436c-b137-9853e7fe866a_en?filename=Key%20principles%20on%20in-game%20virtual%20currencies.pdf",
+      "note": "Lettura del diritto UE vigente, non un regolamento nuovo. Prezzo in euro, pacchetti di valuta, recesso, divieto di esortazione diretta ai bambini."
+    },
+    {
+      "title": "Commissione europea — workshop CPC del 3 giugno 2025",
+      "url": "https://commission.europa.eu/news-and-media/news/european-commission-hosts-stakeholders-talks-application-cpc-networks-key-principles-games-virtual-2025-06-03_en",
+      "note": "I principi sono stati adottati nel marzo 2025, con guida di ACM (Paesi Bassi) e autorità norvegese."
+    },
+    {
+      "title": "BEUC — Game over: Consumers fight for fairer in-game purchases (12 settembre 2024)",
+      "url": "https://www.beuc.eu/reports/game-over-consumers-fight-fairer-game-purchases",
+      "note": "Reclamo alla Commissione e alla rete CPC, con 22 organizzazioni di 17 Paesi. È un esposto, non una decisione."
+    },
+    {
+      "title": "PEGI — What do the labels mean?",
+      "url": "https://pegi.info/what-do-the-labels-mean/",
+      "note": "Descrittore acquisti in-game; dal giugno 2026 oggetti casuali a pagamento, offerte a tempo e pressione a giocare."
+    },
+    {
+      "title": "PEGI — Code of Conduct, articolo 8",
+      "url": "https://pegi.info/pegi-code-of-conduct",
+      "note": "Codice contrattuale degli editori PEGI: probabilità prima dell’acquisto, pagamento non essenziale, costo della valuta chiaro."
+    },
+    {
+      "title": "Direttiva 2005/29/CE — allegato I, punto 28",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32005L0029",
+      "note": "È in ogni caso sleale l’esortazione diretta ai bambini a comprare o a convincere un adulto a comprare per loro."
+    },
+    {
+      "title": "Apple — Chiedi di acquistare",
+      "url": "https://support.apple.com/it-it/105055",
+      "note": "Richiesta per download e acquisti in-app. Codici di riscatto, aggiornamenti e nuovi download di acquisti già fatti non la generano."
+    },
+    {
+      "title": "Google For Families — Approvazioni degli acquisti su Google Play",
+      "url": "https://support.google.com/families/answer/7039872?hl=it",
+      "note": "Opzioni di approvazione nel gruppo Famiglia. Vale per la fatturazione di Google Play."
+    },
+    {
+      "title": "PlayStation — parental controls e limite di spesa",
+      "url": "https://www.playstation.com/en-us/support/account/ps5-parental-controls-spending-limits/",
+      "note": "Pagina in inglese. L’account bambino addebita il portafoglio di chi gestisce la famiglia. Limite mensile di default: 0."
+    },
+    {
+      "title": "Nintendo — How to Set Nintendo eShop Restrictions",
+      "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/22444",
+      "note": "Pagina di supporto in inglese. Spending Restrictions disattiva acquisti e rinnovi; Age-Based Content Restrictions filtra lo shop per età."
+    },
+    {
+      "title": "Microsoft — Spending limits in Family Safety",
+      "url": "https://support.microsoft.com/en-us/family-safety/spending-limits-in-family-safety",
+      "note": "Pagina in inglese. Il conto del bambino non va in rosso; l’approvazione scatta sopra il limite di età o a credito esaurito."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Una loot box è già gioco d’azzardo?",
+      "answer": "In questo pezzo no, e non è un’etichetta da mettere a una persona. È un acquisto in cui l’oggetto arriva a caso e si paga, in euro o con una valuta comprata in euro. Il PEGI la segnala come oggetto casuale a pagamento. In Italia, il 16 gennaio 2026, l’AGCM ha aperto due istruttorie per verificare se certe condotte di due giochi siano pratiche commerciali sleali. È un procedimento sul prezzo e sul disegno, non una diagnosi. Il criterio clinico dell’OMS sta nell’altro articolo, sui videogiochi."
+    },
+    {
+      "question": "Se il download costa zero, il gioco è gratis?",
+      "answer": "Il download a prezzo zero non chiude il conto. Se sulla scheda c’è il descrittore PEGI degli acquisti in-game, dentro si può pagare. «Free to play» è la formula che l’AGCM usa, nel comunicato del 16 gennaio 2026, per Diablo Immortal e Call of Duty Mobile: si scaricano senza un prezzo iniziale e prevedono acquisti interni. Il prezzo da leggere è quello dell’oggetto, in euro."
+    },
+    {
+      "question": "I controlli di store e console bastano?",
+      "answer": "Fermano o chiedono conferma sul pagamento dell’account giusto, se li attivi prima. Non coprono ogni pagamento aperto fuori dalla fatturazione dello store. Su Apple un codice di riscatto, un aggiornamento o un nuovo download di un acquisto già fatto non passano da Chiedi di acquistare. Su Google l’approvazione vale per la fatturazione di Google Play. Il controllo si dice. Il tetto di spesa, scritto, resta necessario."
+    },
+    {
+      "question": "Devo togliere il gioco se ci sono le casse?",
+      "answer": "Non per il solo fatto che una cassa esiste. Si chiude lo strumento di pagamento, o si mette il tetto a zero, se il prezzo in euro non si ricostruisce o se le richieste di acquisto sono continue. Se la domanda è se il gioco sta prendendo il posto di sonno, scuola e rapporti, il criterio è quello dell’articolo sui videogiochi, non lo scontrino di una sera."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sono le 21:10. La partita è in pausa su una cassa che gira. Accanto c’è un prezzo in gemme. In cucina qualcuno chiede se il gioco è gratis, perché l’icona dice zero. Le due frasi possono essere vere insieme: il download non costa, l’oggetto dentro sì.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è il seguito di ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/videogiochi-e-ragazzi-quando-preoccuparsi",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Videogiochi e ragazzi",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": là il criterio è se il gioco sposta sonno, scuola e rapporti; qui è il denaro. È per chi gioca, per chi paga la carta e per chi in classe vuole smontare un prezzo senza fare una diagnosi. Non c’è, in queste fonti, una percentuale su quanto spende un ragazzo italiano: senza campione, paese e anno, quel numero non si scrive.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre acquisti, non un solo bottone",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un acquisto in-app è un pagamento dentro un’app o un gioco, dopo l’installazione. Una microtransazione è lo stesso gesto spezzato in importi piccoli: una skin, un livello, un mese di abbonamento, un pacchetto di monete. Una loot box, nel vocabolario del PEGI, è un oggetto casuale a pagamento: non sai che cosa ottieni prima di pagare. Può essere una cassa, un mazzo di carte, una ruota. L’oggetto può essere solo estetico, oppure può cambiare come si gioca. Si compra in euro, oppure con una valuta del gioco che a sua volta si compra in euro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il descrittore PEGI «acquisti in-game» compare quando si possono comprare beni o servizi digitali con valuta reale: contenuti extra, upgrade per togliere la pubblicità, abbonamenti, monete virtuali. Dalla revisione entrata in uso nel giugno 2026, i giochi presentati a PEGI da quella data che includono oggetti casuali a pagamento sono PEGI 16, o PEGI 18 se sono social casino. Un titolo già in commercio da prima può avere l’avviso senza quel salto di età. L’etichetta dice che il meccanismo c’è. Non dice quanto spenderai tu.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il codice di condotta PEGI è un impegno degli editori che usano il sistema, non una legge. L’articolo 8 chiede la probabilità di ciascun oggetto prima dell’acquisto, che pagare gli oggetti casuali non sia essenziale per giocare, e che il costo della valuta sia chiaro. La regola che un’autorità può far valere è quella dei consumatori.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Perché il prezzo si allontana dall’euro",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non serve una diagnosi per descrivere il disegno. Il 21 marzo 2025 la rete europea di cooperazione per la tutela dei consumatori (CPC) ha pubblicato dei principi sulle valute virtuali nei giochi. Non sono un regolamento nuovo. Sono una lettura del diritto già in vigore — pratiche commerciali sleali, diritti dei consumatori, clausole nei contratti — preparata sotto la guida dell’autorità olandese ACM e di quella norvegese. La Commissione europea ne ha parlato con le imprese il 3 giugno 2025. Una nota del documento dice che il testo, da solo, non vincola giudici e autorità: la legalità di una pratica la decidono loro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il punto che conta in casa è concreto. La valuta di gioco aggiunge un passaggio fra l’euro e l’oggetto. Il principio 1 chiede che il prezzo in denaro reale sia visibile sia quando compri le monete, sia quando con quelle monete compri un oggetto, senza applicare al prezzo mostrato gli sconti quantità. Il principio 2 chiede di non impilare valute diverse nello stesso gioco: ogni cambio rende il conto meno leggibile. Il principio 3 chiede di non vendere le monete solo in pacchetti che non coincidono col prezzo dell’oggetto, e di non togliere la possibilità di scegliere la quantità. È il resto di gemme che resta sul conto e prepara un altro acquisto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La rete scrive che questo strato scollega la spesa dall’euro e può distorcere la decisione, in particolare dei minori. È la loro lettura della direttiva sulle pratiche sleali, non uno studio clinico e non un’etichetta su chi sta giocando.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’urgenza è un’altra leva, descritta dal PEGI come caratteristica di prodotto. Dalla revisione del giugno 2026, un’offerta disponibile solo per un tempo o una quantità limitati porta il gioco almeno a PEGI 12; se la spesa è disattivata di default nei controlli parentali, può restare PEGI 7. I premi per chi torna ogni giorno sono almeno PEGI 7; se chi non torna perde premi o progresso, PEGI 12. È un disegno, non un disturbo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’allegato I, punto 28, della direttiva 2005/29/CE considera in ogni caso sleale un messaggio pubblicitario che esorta direttamente i bambini ad acquistare, o a convincere i genitori o altri adulti ad acquistare per loro. I principi CPC ripetono quel divieto per le monete e i contenuti di gioco, e chiedono che la spesa in denaro reale sia disattivata di default nei giochi che non sono riservati a un pubblico adulto. «Compralo ora, se no il personaggio lo perde», detto a un minore, è il punto che quelle autorità mettono sulla lista nera. Non è un modo di dire.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Italia: un’istruttoria, non una sentenza",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 16 gennaio 2026 l’Autorità garante della concorrenza e del mercato ha avviato due istruttorie su Activision Blizzard, gruppo Microsoft, per Diablo Immortal e Call of Duty Mobile. Sono giochi presentati come free to play, con acquisti interni. L’Autorità ipotizza pratiche ingannevoli, aggressive e lesive dei diritti contrattuali, in un settore che definisce sensibile ai rischi di dipendenza dal gioco. Quella frase è il metro di diligenza con cui ha aperto il procedimento. Non è una diagnosi di chi ha la console in camera, e non chiude il fascicolo: l’istruttoria serve a verificare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gli esempi del comunicato sono precisi, e restano ipotesi fino all’esito. Sollecitazioni ripetute, in partita e fuori, anche con messaggi nell’app e notifiche, a non perdere contenuti premio e a comprare offerte a durata limitata prima che spariscano. Monete virtuali il cui valore in euro è poco comprensibile, vendute in quantità già confezionate, con il rischio di spendere più di quanto serva per procedere. Controlli parentali che, secondo l’Autorità, arrivano preimpostati sulle opzioni meno protettive: acquisti in-game consentiti, tempi di gioco illimitati, interazione con altri giocatori, senza una scelta attiva di chi ha la responsabilità genitoriale. Nel procedimento c’è anche l’informativa sui diritti, compreso il ripensamento. I principi CPC ricordano il recesso di 14 giorni e dicono che non andrebbe negato sulla valuta rimasta inutilizzata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 12 settembre 2024 il BEUC e 22 organizzazioni di 17 Paesi hanno depositato un reclamo alla Commissione e alla rete CPC su titoli come Fortnite, EA Sports FC 24, Minecraft e Clash of Clans, e sulle società che li distribuiscono, tra cui Activision Blizzard, Electronic Arts, Epic Games, Mojang, Roblox, Supercell e Ubisoft. L’analisi dice che il costo reale degli oggetti non si vede, che con le valute premium i diritti spesso non sono riconosciuti, e che i minori sono esposti a queste tattiche. È un esposto, non una decisione. La domanda «quanto costa, in euro» è già sul tavolo delle autorità.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima della prossima partita",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I controlli dello store non sostituiscono un accordo. Lo rendono eseguibile sul pagamento. Vanno detti, non scoperti dopo. Il confine è lo stesso del pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "controllo genitori",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": proteggere senza fare una perquisizione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Apple, con «In famiglia», Chiedi di acquistare manda una richiesta per scaricare un’app e per un acquisto in-app. A seconda dell’area, sotto i 18 anni è attiva di default e non si disattiva. Un nuovo download di un acquisto già fatto, un aggiornamento o un codice di riscatto non generano la richiesta: una carta regalo nel gioco non è il tap sullo store.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Google, un genitore del gruppo Famiglia può chiedere l’approvazione. Nella guida italiana le opzioni includono tutti i contenuti, gli acquisti con il metodo di pagamento della famiglia, solo gli acquisti in-app, oppure nessuna approvazione. Vale per la fatturazione di Google Play, non per un pagamento aperto nel browser.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su PlayStation, l’account bambino addebita il portafoglio di chi gestisce la famiglia. Il limite mensile, di default, è 0: si cambia da Family Management, voce Monthly Spending Limit, anche dall’app PlayStation Family. Se lo si alza senza una cifra decisa, il tetto diventa quello.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sull’account Nintendo supervisionato da un genitore, la voce Spending Restrictions disattiva acquisti e rinnovi automatici su Nintendo Switch, Nintendo Switch 2 e Nintendo Store, ordini fisici compresi. Age-Based Content Restrictions limita ciò che lo shop mostra in base all’età di chi gioca. Le due caselle vanno spuntate e salvate: non sono un effetto collaterale dell’aver regalato la console.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Microsoft Family Safety si aggiunge denaro all’account del bambino. Il conto non può andare in rosso. L’approvazione serve per gli acquisti sopra il limite di età e quando il credito caricato è finito. La richiesta arriva come notifica a chi organizza la famiglia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un tetto utile è una cifra detta prima, con una data in cui si rivede. Gli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " reggono se la conseguenza è corta: si chiude lo store, non la persona.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In casa, e in venti minuti di classe",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In casa la domanda è «quanto fa, in euro, questa cassa». Si apre lo shop insieme, si legge il prezzo in monete e l’equivalente in euro che i principi CPC chiedono di mostrare. Se l’euro non c’è, quello è il fatto, non il gusto di una skin. Si guarda il descrittore PEGI, si decide un tetto e chi approva. La carta dell’adulto non resta memorizzata sull’account di chi gioca.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In classe bastano venti minuti su uno screenshot, non su un account vero. Tre colonne: prezzo in monete, prezzo in euro se si ricostruisce dal pacchetto, che cosa non si sa prima di pagare. Poi il punto 28: c’è un’esortazione a comprare o a far comprare? Non si chiede a nessuno quanto ha speso e non si nomina un compagno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una prova da questa settimana",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Scegli un solo oggetto a pagamento, in un gioco che usi o che vedi usare. Scrivi tre numeri, se ci sono: costo in monete, costo in euro del pacchetto di monete più vicino, resto che avanzerebbe. Se il terzo numero è sopra zero, hai visto il pacchetto che non coincide con l’oggetto. Se l’euro non si ricostruisce, hai visto l’opacità di cui parlano le autorità. Se la carta è la tua, controlla che l’approvazione sia attiva prima della prossima partita, non dopo la notifica della banca.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una loot box è già gioco d’azzardo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In questo pezzo no, e non è un’etichetta da mettere a una persona. È un acquisto in cui l’oggetto arriva a caso e si paga, in euro o con una valuta comprata in euro. Il PEGI la segnala come oggetto casuale a pagamento. In Italia, il 16 gennaio 2026, l’AGCM ha aperto due istruttorie per verificare se certe condotte di due giochi siano pratiche commerciali sleali. È un procedimento sul prezzo e sul disegno, non una diagnosi. Il criterio clinico dell’OMS sta nell’altro articolo, sui videogiochi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il download costa zero, il gioco è gratis?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il download a prezzo zero non chiude il conto. Se sulla scheda c’è il descrittore PEGI degli acquisti in-game, dentro si può pagare. «Free to play» è la formula che l’AGCM usa, nel comunicato del 16 gennaio 2026, per Diablo Immortal e Call of Duty Mobile: si scaricano senza un prezzo iniziale e prevedono acquisti interni. Il prezzo da leggere è quello dell’oggetto, in euro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I controlli di store e console bastano?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fermano o chiedono conferma sul pagamento dell’account giusto, se li attivi prima. Non coprono ogni pagamento aperto fuori dalla fatturazione dello store. Su Apple un codice di riscatto, un aggiornamento o un nuovo download di un acquisto già fatto non passano da Chiedi di acquistare. Su Google l’approvazione vale per la fatturazione di Google Play. Il controllo si dice. Il tetto di spesa, scritto, resta necessario.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Devo togliere il gioco se ci sono le casse?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non per il solo fatto che una cassa esiste. Si chiude lo strumento di pagamento, o si mette il tetto a zero, se il prezzo in euro non si ricostruisce o se le richieste di acquisto sono continue. Se la domanda è se il gioco sta prendendo il posto di sonno, scuola e rapporti, il criterio è quello dell’articolo sui videogiochi, non lo scontrino di una sera.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  },
+  "readingTime": 10
+}

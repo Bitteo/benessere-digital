@@ -1,0 +1,769 @@
+{
+  "slug": "primo-regalo-tech-natale",
+  "title": "Primo regalo tech di Natale: console, tablet, smartwatch",
+  "excerpt": "Guida prima del pacco: che cosa valutare per età fra console, tablet e smartwatch, quali controlli attivare prima di incartare, e l’accordo di casa. Lo smartphone resta nella guida dedicata.",
+  "cover": "/images/covers/controllo-genitori-smartphone-proteggere-senza-spiare.png",
+  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, due adulti al tavolo che guardano insieme uno smartphone.",
+  "publishedAt": "2026-12-02T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "schermo-e-tempo"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Primo regalo tech: cosa attivare prima del pacco",
+    "metaDescription": "Console, tablet o smartwatch a Natale: età, PEGI, controlli di store e console prima di incartare, regole di casa e checklist.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "SIP — Digitale e bambini: le nuove raccomandazioni",
+      "url": "https://sip.it/2026/01/27/digitale-e-bambini-le-nuove-raccomandazioni-sip/",
+      "note": "Smartphone personale non prima dei 13 anni; tempi di schermo; supervisione; pasti e sonno senza dispositivi."
+    },
+    {
+      "title": "AAP / HealthyChildren — Your Child’s First Phone: Are They Ready?",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/Cell-Phones-Whats-the-Right-Age-to-Start.aspx",
+      "note": "Nessuna età unica. Il telefono è mobile. Alternative: telefono essenziale, orologio, tablet, gioco su invito."
+    },
+    {
+      "title": "AAP / HealthyChildren — How to Make a Family Media Plan",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Guida pratica al piano media di famiglia richiamato nella pagina sul primo telefono."
+    },
+    {
+      "title": "PEGI — What do the labels mean?",
+      "url": "https://pegi.info/what-do-the-labels-mean/",
+      "note": "Etichette 3, 7, 12, 16 e 18. Dal giugno 2026, oggetti casuali a pagamento e offerte a tempo pesano sull’età dei titoli presentati da allora."
+    },
+    {
+      "title": "Apple — Chiedi di acquistare",
+      "url": "https://support.apple.com/it-it/105055",
+      "note": "Conferma per app e acquisti in-app. I codici di riscatto non generano la richiesta."
+    },
+    {
+      "title": "Google For Families — Approvazioni degli acquisti su Google Play",
+      "url": "https://support.google.com/families/answer/7039872?hl=it",
+      "note": "Approvazione nel gruppo Famiglia, anche solo per gli acquisti in-app, sulla fatturazione Play."
+    },
+    {
+      "title": "PlayStation — parental controls e limite di spesa",
+      "url": "https://www.playstation.com/en-us/support/account/ps5-parental-controls-spending-limits/",
+      "note": "Limite mensile di default a 0 sull’account bambino. Addebito sul portafoglio di chi gestisce la famiglia."
+    },
+    {
+      "title": "Nintendo — How to Set Nintendo eShop Restrictions",
+      "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/22444",
+      "note": "Spending Restrictions e filtro dei contenuti per età sull’account supervisionato."
+    },
+    {
+      "title": "Microsoft — Spending limits in Family Safety",
+      "url": "https://support.microsoft.com/en-us/family-safety/spending-limits-in-family-safety",
+      "note": "Credito caricato, conto che non va in rosso, approvazione a credito esaurito o sopra il limite di età."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Una console è più sicura di uno smartphone?",
+      "answer": "È un oggetto diverso, non un lasciapassare. Lo smartphone personale, per la SIP, si rinvia almeno fino ai 13 anni perché sta in tasca ed è una porta su Internet e sui social. Una console sta in una stanza, ma può avere shop, chat e acquisti interni. Si giudica dal PEGI del gioco che accenderete, dall’account e dal tetto di spesa, non dalla marca della scatola."
+    },
+    {
+      "question": "I controlli si attivano dopo Natale, con calma?",
+      "answer": "No. Il giorno in cui si scarta è tardi per inventarli. Account di chi riceve, approvazione degli acquisti o tetto a zero, filtro di età e chat chiusa si provano prima del nastro. Su PlayStation il limite mensile dell’account bambino parte da 0: va lasciato così, o alzato a una cifra già decisa. Un codice regalo, su Apple, non passa da Chiedi di acquistare: va contato prima."
+    },
+    {
+      "question": "Lo smartwatch sostituisce il primo smartphone?",
+      "answer": "Può essere l’alternativa di cui parla la guida AAP: un modo per comunicare senza tutto il bagaglio del telefono pieno. Non è automaticamente più innocuo. Spesso chiama, localizza e, a volte, chatta, e il negozio sta sull’account a cui è legato. I limiti si mettono su quell’account, prima di incartare l’orologio. L’età dello smartphone personale resta la guida dedicata."
+    },
+    {
+      "question": "Che cosa scrivo se non c’è tempo per un regolamento lungo?",
+      "answer": "Tre righe bastano, se sono vere a gennaio: dove si ricarica, tetto di spesa o zero, data in cui si rivede. Il resto — lista di giochi, chat, pasti — si aggiunge se il minimo regge. Un accordo che mercoledì prossimo è ancora vero vale più di una pagina firmata il 24 e dimenticata il 26."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Che cosa gli regaliamo?» arriva a dicembre con tre scatole possibili: una console, un tablet, un orologio che chiama. Lo smartphone è una quarta scatola, e ha già una guida: ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/primo-smartphone-eta-e-regole",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "primo smartphone, età e regole",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Questa è per le altre, e per non incartare un account adulto. È per chi compra, e per chi scarterà: le regole si leggono in due.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cosa dicono SIP, AAP e PEGI",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Società italiana di pediatria, nella pagina «Digitale e bambini: le nuove raccomandazioni», invita a rinviare lo smartphone personale almeno fino ai 13 anni, a evitare l’accesso a Internet non supervisionato prima di quell’età, e a ritardare i social il più possibile anche quando la piattaforma li consente. Sui tempi, in continuità con le indicazioni del 2018: nessun dispositivo sotto i 2 anni, meno di un’ora al giorno tra i 2 e i 5, meno di due ore al giorno dopo i 5, sempre con un adulto. Pasti e momento prima di dormire senza dispositivi. Supervisione e dialogo in tutte le età. Non è l’età magica di una console. È un bordo sul dispositivo personale connesso, e sul tempo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’American Academy of Pediatrics, nella guida HealthyChildren sul primo telefono, non fissa un’età unica. Il telefono è diverso dagli altri schermi perché è mobile: a tavola, in macchina, sul comodino. Quando lo smartphone pieno è presto, indica un telefono essenziale, un orologio che comunica, la videochiamata su un tablet, il gioco con amici solo su invito. Il primo dispositivo è un esperimento: i controlli si spiegano insieme e si scrive un ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "piano media di famiglia",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il PEGI non classifica il regalo. Classifica il gioco: 3, 7, 12, 16 e 18, più i descrittori. Dalla revisione del giugno 2026, sui titoli presentati da allora, un’offerta d’acquisto a tempo o quantità limitati pesa sull’età, e gli oggetti casuali a pagamento portano almeno a PEGI 16. Una console può far girare un PEGI 3 e un PEGI 18. Si sceglie il gioco, poi si chiude il resto. Il denaro dentro il gioco è l’articolo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/acquisti-in-app-microtransazioni-loot-box",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "acquisti in-app e loot box",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quattro oggetti, non un’età sola",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Console.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Il criterio è il PEGI del gioco che accenderete il 25, non la marca. Account di chi riceve, non il vostro. Spesa a zero o a un tetto, prima del fiocco. Chat spenta finché non c’è una regola. Se la domanda diventa «gioca troppo», il criterio è l’articolo su ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/videogiochi-e-ragazzi-quando-preoccuparsi",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "videogiochi e ragazzi",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ", non la scheda tecnica.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Tablet.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Sta in una stanza, non in tasca a letto. Per la guida AAP è il modo di videochiamare senza dare subito lo smartphone. Si ricarica fuori dalla camera, come nel pezzo su ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "telefono e sonno",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ".",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Smartwatch.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " La guida AAP lo mette fra le alternative che comunicano senza il bagaglio del telefono pieno. Il negozio sta spesso sull’account a cui è legato: i limiti si mettono lì, prima di incartare. Non è automaticamente più innocuo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Smartphone.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Età e accordo stanno nell’altra guida. Il bordo SIP, qui, basta: personale non prima dei 13 anni. Non si riscrive quel testo sotto l’albero.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima di incartarlo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si crea l’account di chi riceve. Si entra da adulti, si imposta il pagamento, si esce. Il regalo non si accende la prima volta con l’account di un genitore «tanto per scaricare un gioco».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Apple, Chiedi di acquistare chiede conferma per app e acquisti in-app; a seconda dell’area, sotto i 18 è attivo e non si disattiva. Un codice di riscatto non genera la richiesta: i codici nel pacco si contano prima. Su Google Play l’approvazione, anche solo per gli acquisti in-app, vale per la fatturazione del gruppo Famiglia. Su PlayStation il limite mensile dell’account bambino parte da 0 e l’addebito esce dal portafoglio di chi gestisce la famiglia. Su Nintendo, Spending Restrictions disattiva acquisti e rinnovi su Switch, Switch 2 e Nintendo Store. In Microsoft Family Safety il conto non va in rosso: oltre il credito caricato, o sopra il limite di età, serve l’approvazione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il filtro di età dello shop si allinea al PEGI che avete scelto. La chat, il primo mese, resta chiusa o limitata ai contatti noti. Il ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "controllo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " si dichiara. Non è una sorpresa di gennaio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Regole di casa, prima del nastro",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Come negli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo per ragazzi 8–14",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", poche righe scritte prima del pacco:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Dove si ricarica.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Fuori dalla camera.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Pasti.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Il regalo resta sul mobile.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Tetto di spesa.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Una cifra, o zero, e chi approva.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Giochi e app.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Lista corta il primo mese. Il resto si chiede.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Conseguenza.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Corta, prevista, privata.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Revisione.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Una data a gennaio, non «per sempre».",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se a gennaio sonno, scuola e tono in casa reggono, si può aprire qualcosa. Se no, si stringe.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Checklist, la sera prima",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Account di chi riceve, non il vostro, già creato.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Approvazione degli acquisti, o tetto a zero, provata con un tentativo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Filtro di età dello shop allineato al PEGI scelto.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chat e messaggi da sconosciuti chiusi, finché non ne avete parlato.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Ricarica fuori dalla camera, scritta.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Data di revisione sul calendario.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Se il regalo è uno smartphone, la guida dedicata è stata letta prima dell’acquisto.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chiudere senza panico",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il pacco può essere una console con un gioco di cui avete visto il PEGI, lo store a zero e tre righe sul frigo. Non deve essere il modello «che hanno in classe», acceso con la vostra carta memorizzata. Se oggi manca il tempo per tutto, il minimo è l’account giusto e la spesa chiusa. Il nastro viene dopo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una console è più sicura di uno smartphone?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È un oggetto diverso, non un lasciapassare. Lo smartphone personale, per la SIP, si rinvia almeno fino ai 13 anni perché sta in tasca ed è una porta su Internet e sui social. Una console sta in una stanza, ma può avere shop, chat e acquisti interni. Si giudica dal PEGI del gioco che accenderete, dall’account e dal tetto di spesa, non dalla marca della scatola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I controlli si attivano dopo Natale, con calma?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Il giorno in cui si scarta è tardi per inventarli. Account di chi riceve, approvazione degli acquisti o tetto a zero, filtro di età e chat chiusa si provano prima del nastro. Su PlayStation il limite mensile dell’account bambino parte da 0: va lasciato così, o alzato a una cifra già decisa. Un codice regalo, su Apple, non passa da Chiedi di acquistare: va contato prima.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo smartwatch sostituisce il primo smartphone?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Può essere l’alternativa di cui parla la guida AAP: un modo per comunicare senza tutto il bagaglio del telefono pieno. Non è automaticamente più innocuo. Spesso chiama, localizza e, a volte, chatta, e il negozio sta sull’account a cui è legato. I limiti si mettono su quell’account, prima di incartare l’orologio. L’età dello smartphone personale resta la guida dedicata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa scrivo se non c’è tempo per un regolamento lungo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre righe bastano, se sono vere a gennaio: dove si ricarica, tetto di spesa o zero, data in cui si rivede. Il resto — lista di giochi, chat, pasti — si aggiunge se il minimo regge. Un accordo che mercoledì prossimo è ancora vero vale più di una pagina firmata il 24 e dimenticata il 26.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  },
+  "readingTime": 9
+}
