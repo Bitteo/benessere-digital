@@ -1,0 +1,547 @@
+{
+  "slug": "black-friday-influencer-pubblicita-ragazzi",
+  "title": "Black Friday e influencer: riconoscere la pubblicità rivolta ai ragazzi",
+  "excerpt": "Il 27 novembre 2026 è Black Friday. Come si riconosce un contenuto sponsorizzato, quando un timer è una pratica vietata, e due esercizi per casa e per la classe.",
+  "cover": "/images/covers/fomo-jomo-social-senza-sparire.png",
+  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, giovane in passeggiata al parco con il telefono fuori fuoco.",
+  "publishedAt": "2026-11-23T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["social-media", "genitori-e-scuola"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Black Friday e pubblicità degli influencer",
+    "metaDescription": "Contenuti sponsorizzati, urgenza artificiale e prezzi barrati: regole AGCOM, AGCM e direttiva UE, più due esercizi per genitori ed educatori.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "AGCOM — Influencer: linee guida, codice di condotta e FAQ",
+      "url": "https://www.agcom.it/influencer-linee-guida-codice-di-condotta-e-faq",
+      "note": "Disclosure immediata, soglie dell’influencer rilevante (500.000 follower o 1.000.000 di visualizzazioni medie mensili), tutela dei minori."
+    },
+    {
+      "title": "AGCOM — delibera 197/25/CONS",
+      "url": "https://www.agcom.it/provvedimenti/delibera-197-25-cons",
+      "note": "Modifiche alle linee guida della delibera 7/24/CONS e approvazione del codice di condotta. Pubblicata il 5 agosto 2025."
+    },
+    {
+      "title": "AGCM — comunicato 11 giugno 2025, influencer marketing",
+      "url": "https://www.agcm.it/media/comunicati-stampa/2025/6/PS12814-PS12815-PS12816-PS12817-PS12818-PS12826",
+      "note": "Sanzioni per 65.000 euro a due persone su comunicazioni di guadagni facili senza dicitura. Non riguarda prodotti per minori."
+    },
+    {
+      "title": "Direttiva 2005/29/CE — allegato I, punti 5, 7, 11 e 28",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32005L0029",
+      "note": "Pubblicità civetta, scarsità falsa, advertorial non dichiarato, esortazione diretta ai bambini: pratiche in ogni caso sleali."
+    },
+    {
+      "title": "Codice del consumo — articolo 17-bis, annunci di riduzione di prezzo",
+      "url": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=005G0232&art.dataPubblicazioneGazzetta=2005-10-08&art.flagTipoArticolo=0&art.idArticolo=17&art.idGruppo=5&art.idSottoArticolo=2&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1",
+      "note": "Prezzo precedente: il più basso applicato alla generalità dei consumatori nei trenta giorni. Inserito dal d.lgs. 7 marzo 2023, n. 26."
+    },
+    {
+      "title": "van Reijmersdal e van Dam — Journal of Youth and Adolescence (2020)",
+      "url": "https://doi.org/10.1007/s10964-019-01191-z",
+      "note": "Esperimento aperto, Paesi Bassi: 406 adolescenti di 12–16 anni, tre scuole. Effetto delle diciture sulla conoscenza della persuasione; intenzione d’acquisto invariata."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Un #adv in fondo alla didascalia basta?",
+      "answer": "No. Le FAQ AGCOM chiedono una dicitura chiara, subito, senza che chi guarda debba fare un altro tap. In didascalia va all’inizio, prima di «altro». Se usi hashtag, quello di disclosure sta entro i primi tre. «In collaborazione con», per un rapporto di committenza, non è considerata una dicitura idonea. Lo strumento della piattaforma non sostituisce la scritta «Pubblicità», «ADV» o «Sponsorizzato da…»."
+    },
+    {
+      "question": "Un conto alla rovescia è sempre vietato?",
+      "answer": "No. Il punto 7 dell’allegato I della direttiva 2005/29/CE vieta la dichiarazione falsa: dire che il prodotto ci sarà solo per un tempo molto limitato, o solo a condizioni particolari per quel tempo, per ottenere una decisione immediata e togliere il tempo di decidere. Una promozione che termina davvero non è quel punto. Se non puoi verificare scorte e orario, tratta l’urgenza come non verificata, non come un illecito già accertato."
+    },
+    {
+      "question": "Come si controlla lo sconto del Black Friday?",
+      "answer": "L’articolo 17-bis del Codice del consumo chiede che ogni annuncio di riduzione di prezzo indichi il prezzo precedente: il più basso applicato dal professionista alla generalità dei consumatori nei trenta giorni prima della riduzione. Il numero da cercare è quello, sulla comunicazione del venditore. La percentuale dentro una storia non lo sostituisce. Il 27 novembre 2026 non ha un’eccezione con il proprio nome."
+    },
+    {
+      "question": "I casi AGCM del 2025 riguardano i prodotti per i ragazzi?",
+      "answer": "No. I provvedimenti chiusi l’11 giugno 2025 riguardano comunicazioni su guadagni presentati come facili e sicuri, senza dicitura pubblicitaria e senza costi resi chiari. Due persone sono state sanzionate, per 60.000 e 5.000 euro; altri quattro procedimenti si sono chiusi con impegni. Mostrano come l’Autorità applica il dovere di trasparenza. Non misurano la pubblicità di zaini, giochi o telefoni."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Venerdì 27 novembre 2026 è Black Friday. In una storia c’è un numero che scende, un codice, e una frase del tipo «chiedilo». Sembra un consiglio di qualcuno che usi. Può essere un annuncio. La differenza non sta nel tono amichevole. Sta in chi paga la visibilità, e in se tu puoi accorgertene prima del tap.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per chi guarda quei contenuti, per chi vive con un ragazzo e per chi in classe ha venti minuti. Non è un invito a non comprare nulla. È un modo per separare un prezzo, una scadenza vera e una spinta a decidere subito. Lo stesso timer, dentro un gioco, è un’altra porta: ne parliamo negli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/acquisti-in-app-microtransazioni-loot-box",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "acquisti in-app e nelle loot box",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa rende un contenuto una pubblicità",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le FAQ dell’Autorità per le garanzie nelle comunicazioni, scritte per applicare le linee guida e il codice di condotta approvati con la delibera 197/25/CONS, partono da una regola corta. Se un contenuto ha finalità promozionale, chi guarda deve poterlo riconoscere subito come pubblicità.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È pubblicità quando c’è un pagamento o un beneficio, anche non in denaro: un accordo, un’affiliazione, un codice sconto, un vantaggio per chi pubblica o per un terzo in cambio di visibilità del marchio, del prodotto o del servizio. Non è prevista una soglia minima di valore. Un omaggio basta. Taggare il marchio, mettere un link o un codice non basta. Serve una dicitura chiara — «Pubblicità», «Advertising», «ADV», anche «ADV» più il marchio, «Sponsorizzato da…», o una formula equivalente, immediata e non ambigua — visibile senza un’azione di chi guarda.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«In collaborazione con», per un rapporto di committenza, non è considerata idonea: non dice che è pubblicità. Lo strumento della piattaforma («Paid partnership», contenuti brandizzati) non sostituisce la dicitura. Se non si vede, la scritta va in sovraimpressione o in apertura. In didascalia sta all’inizio, prima di «altro»; fra gli hashtag, entro i primi tre. Può essere testo, non per forza un hashtag. Nei video va nelle prime scene e in descrizione; nelle storie, su ogni clip; in diretta, in overlay, e si ripete se c’è un invito all’acquisto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un influencer «rilevante», per l’elenco AGCOM, ha almeno 500.000 follower oppure 1.000.000 di visualizzazioni medie mensili su almeno una piattaforma. Sotto soglia non scatta l’iscrizione. Trasparenza, correttezza e tutela dei minori restano il criterio, e i contenuti non devono ledere lo sviluppo psicofisico e morale dei minori. Per chi è rilevante, minori e diritti fondamentali valgono su ogni contenuto; la disclosure scatta quando il contenuto è promozionale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sui minori il testo è netto: non sfruttare inesperienza e credulità, non spingerli a persuadere i genitori, non mostrarli in situazioni pericolose senza un motivo. È la stessa linea dell’allegato I, punto 28, della direttiva 2005/29/CE. È in ogni caso sleale includere in un messaggio pubblicitario un’esortazione diretta ai bambini affinché acquistino, o convincano i genitori o altri adulti ad acquistare per loro i prodotti reclamizzati. «Dillo a casa, se no finisce» rivolto a un minore non è un consiglio amichevole. È quel punto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se la dicitura manca, le FAQ indicano indizi, non una condanna: tono elogiativo sistematico, inquadrature ripetute, claim, link o codici, senza una disclosure immediata. Servono a fermarsi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Urgenza vera e urgenza falsa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un conto alla rovescia non è vietato perché è un conto. È vietato, in ogni caso, se dichiara il falso. Il punto 7 dell’allegato I della stessa direttiva considera sleale dichiarare falsamente che il prodotto sarà disponibile solo per un periodo molto limitato, o solo a condizioni particolari per un tempo molto limitato, in modo da ottenere una decisione immediata e privare i consumatori del tempo sufficiente per decidere con consapevolezza. «Ultimi tre pezzi», quando il magazzino non è quello, o «solo per un’ora», quando il giorno dopo l’offerta è la stessa, è questo punto. Una promozione che finisce davvero venerdì sera no. La scadenza è un fatto, non uno stratagemma. Se non hai modo di verificare, la categoria giusta non è «truffa accertata». È «non verificabile da qui».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il punto 5 riguarda la pubblicità civetta: invitare a un prezzo quando si hanno già motivi ragionevoli per ritenere che non si potrà fornire il prodotto, o un equivalente, in quantità coerenti con la pubblicità. Non ogni «esaurito» è questo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Accanto alla scadenza c’è il prezzo barrato. L’articolo 17-bis del Codice del consumo — inserito dal decreto legislativo 7 marzo 2023, n. 26, che dà attuazione in Italia alla regola europea sugli annunci di riduzione — dice che ogni annuncio di riduzione di prezzo indica il prezzo precedente applicato dal professionista. Per prezzo precedente si intende il prezzo più basso applicato alla generalità dei consumatori nei trenta giorni prima della riduzione. Se il prodotto è sul mercato da meno di trenta giorni, va indicato il periodo a cui quel prezzo si riferisce. I prezzi di lancio, fatti di annunci successivi di aumento, restano fuori. Se la riduzione cresce dentro la stessa campagna, senza interruzioni, il riferimento dei trenta giorni vale per il primo ribasso; per i ribassi successivi il precedente è il prezzo senza la riduzione anteriore al primo taglio. I beni alimentari deperibili hanno un’eccezione propria. Il Black Friday non ne ha una con il proprio nome.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il punto 11 dell’allegato I colpisce un gesto diverso dal timer: impiegare contenuti redazionali nei media per promuovere un prodotto, quando i costi della promozione li ha sostenuti il professionista, senza che questo emerga in modo chiaro dal contenuto o da immagini o suoni riconoscibili. È l’advertorial, la pubblicità redazionale. Un video che sembra «l’ho comprato io», ed è invece pagato o compensato, senza dicitura, ci cade. In classe non serve recitare l’allegato. Ne bastano tre controlli: la dicitura c’è subito, la scarsità è vera o non verificabile, il prezzo precedente è quello dei trenta giorni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa ha già deciso l’AGCM, e su che cosa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’11 giugno 2025 l’AGCM ha chiuso istruttorie aperte nel luglio 2024 su influencer che pubblicavano, su social e siti, consigli a pagamento per ottenere «importanti guadagni facili e sicuri», senza dicitura di advertisement e senza evidenziare elementi rilevanti per l’acquisto, come il costo. Luca De Stefani, noto come Big Luca, è stato sanzionato per 60.000 euro su due pratiche: la promozione di quei guadagni, anche con endorsement non immediatamente verificabili, e una popolarità vantata con follower non autentici su Instagram, più testimonianze solo positive e non verificabili subito. Michele Leka è stato sanzionato per 5.000 euro, per foto e video su TikTok con indicazioni presentate come facili per ottenere risultati economici significativi. Il totale indicato dall’Autorità è 65.000 euro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Altri quattro procedimenti — Luca Marani, Alessandro Berton, Hamza Mourai e Davide Caiazzo — si sono chiusi con impegni, senza accertare l’infrazione: via le formule di guadagno facile, disclaimer pubblicitari, follower non autentici da rimuovere. A gennaio 2025 quattro moral suasion su altre persone si erano già chiuse in modo positivo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questi casi non parlano di zaini, console o skin. Dicono che la natura pubblicitaria si dichiara e che il costo utile a decidere non si nasconde. Non misurano quanto gli influencer convincano i minori: sono provvedimenti su persone e condotte nominate.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un esperimento olandese, non la tua classe",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Uno studio in aperto sul Journal of Youth and Adolescence, pubblicato il 18 gennaio 2020 da Eva A. van Reijmersdal e Sophia van Dam, ha misurato l’effetto delle diciture nei video di influencer. L’esperimento è olandese: 406 adolescenti di 12–16 anni, reclutati in tre scuole di aree urbane e suburbane, assegnati a caso. Il video era in neerlandese. Le condizioni confrontate sono una dicitura che il contenuto è pubblicità, una dicitura che dice anche l’intento persuasivo, e nessuna dicitura.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel campione, i più giovani (12–14 anni) avevano bisogno di entrambe le informazioni — che è pubblicità, e a che cosa mira — per attivare la conoscenza della persuasione su quei video. I 15–16 anni si attivavano anche con la sola dicitura che si tratta di pubblicità. Solo in questo secondo gruppo la dicitura si accompagnava ad atteggiamenti più negativi verso il marchio e verso l’influencer. L’intenzione di acquisto, per tutti gli adolescenti del campione, non risultava modificata dalla dicitura.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una scritta «ADV» aiuta a riconoscere l’annuncio. Ai più piccoli del campione olandese aiuta di più se dice anche che lo scopo è persuadere. Non spegne da sola la voglia di comprare e non descrive le classi italiane né il feed del 27 novembre 2026.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Due esercizi, senza processo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A casa, un contenuto solo. Lo sceglie chi guarda, non si pesca di nascosto dal telefono di un altro. Tre domande, scritte: la dicitura è all’inizio, senza tap? C’è un beneficio (codice, omaggio, invito, «solo oggi»)? Il prezzo barrato, se c’è, rimanda a un precedente che puoi controllare sulla scheda del venditore, non solo al numero dentro la storia? Se la prima risposta è no e il prodotto è il centro del video, non serve un’accusa. Si dice: per le FAQ AGCOM questo andava riconoscibile subito. Poi si decide se il prezzo, tolta l’urgenza, interessa ancora.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il senso di «lo stanno prendendo tutti» è un altro meccanismo, quello descritto nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FOMO e JOMO",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui il timer è del venditore. Là è il radar sul gruppo. Tenerli distinti evita di curare un codice sconto come se fosse un’esclusione, e il contrario.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In classe, venti minuti su un contenuto pubblico, non sul profilo di un compagno. Sul foglio: c’è la dicitura, si capisce il committente, l’urgenza è vera o non verificabile, c’è un’esortazione a comprare o a far comprare. Non si vota se la persona è «buona». Si guarda che cosa manca perché l’annuncio sia leggibile. Si aggancia al lavoro su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/smartphone-a-scuola-cosa-funziona",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "smartphone a scuola",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": è un criterio, non un divieto di guardare. La sera del 27, quando il codice arriva in chat, il criterio è lo stesso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una prova da questa settimana",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima di un acquisto nato da un contenuto di qualcuno che segui, fermati su due controlli. La dicitura c’è all’inizio? Sulla pagina del venditore, il prezzo di oggi è confrontato con il più basso dei trenta giorni, non solo con un numero barrato dentro la storia? Se uno dei due manca, l’acquisto può aspettare dopo il weekend. Se il prodotto ti serve, la scadenza di una storia non è l’unica data in cui esiste.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un #adv in fondo alla didascalia basta?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Le FAQ AGCOM chiedono una dicitura chiara, subito, senza che chi guarda debba fare un altro tap. In didascalia va all’inizio, prima di «altro». Se usi hashtag, quello di disclosure sta entro i primi tre. «In collaborazione con», per un rapporto di committenza, non è considerata una dicitura idonea. Lo strumento della piattaforma non sostituisce la scritta «Pubblicità», «ADV» o «Sponsorizzato da…».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un conto alla rovescia è sempre vietato?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Il punto 7 dell’allegato I della direttiva 2005/29/CE vieta la dichiarazione falsa: dire che il prodotto ci sarà solo per un tempo molto limitato, o solo a condizioni particolari per quel tempo, per ottenere una decisione immediata e togliere il tempo di decidere. Una promozione che termina davvero non è quel punto. Se non puoi verificare scorte e orario, tratta l’urgenza come non verificata, non come un illecito già accertato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Come si controlla lo sconto del Black Friday?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’articolo 17-bis del Codice del consumo chiede che ogni annuncio di riduzione di prezzo indichi il prezzo precedente: il più basso applicato dal professionista alla generalità dei consumatori nei trenta giorni prima della riduzione. Il numero da cercare è quello, sulla comunicazione del venditore. La percentuale dentro una storia non lo sostituisce. Il 27 novembre 2026 non ha un’eccezione con il proprio nome.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I casi AGCM del 2025 riguardano i prodotti per i ragazzi?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. I provvedimenti chiusi l’11 giugno 2025 riguardano comunicazioni su guadagni presentati come facili e sicuri, senza dicitura pubblicitaria e senza costi resi chiari. Due persone sono state sanzionate, per 60.000 e 5.000 euro; altri quattro procedimenti si sono chiusi con impegni. Mostrano come l’Autorità applica il dovere di trasparenza. Non misurano la pubblicità di zaini, giochi o telefoni.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  },
+  "readingTime": 10
+}

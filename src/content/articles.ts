@@ -20,6 +20,9 @@ import compitiAi from './articles/compiti-e-ai-senza-delegare-il-pensiero.json'
 import sharenting from './articles/sharenting-foto-dei-figli-online.json'
 import chatbotAmici from './articles/chatbot-amici-compagni-ai-adolescenti.json'
 import chatDiClasse from './articles/chat-di-classe-whatsapp-regole-genitori-docenti.json'
+import acquistiInApp from './articles/acquisti-in-app-microtransazioni-loot-box.json'
+import blackFridayInfluencer from './articles/black-friday-influencer-pubblicita-ragazzi.json'
+import primoRegaloTech from './articles/primo-regalo-tech-natale.json'
 
 export const articles = [
   brainRot,
@@ -43,4 +46,7 @@ export const articles = [
   sharenting,
   chatbotAmici,
   chatDiClasse,
+  acquistiInApp,
+  blackFridayInfluencer,
+  primoRegaloTech,
 ] as ArticleSource[]
