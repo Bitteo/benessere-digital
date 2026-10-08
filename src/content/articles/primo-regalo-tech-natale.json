@@ -1,7 +1,7 @@
 {
   "slug": "primo-regalo-tech-natale",
-  "title": "Primo regalo tech di Natale: console, tablet, smartwatch",
-  "excerpt": "Guida prima del pacco: che cosa valutare per età fra console, tablet e smartwatch, quali controlli attivare prima di incartare, e l’accordo di casa. Lo smartphone resta nella guida dedicata.",
+  "title": "Primo regalo tech di Natale: console, tablet, orologio, lettore",
+  "excerpt": "Guida prima del pacco: console, tablet, smartwatch, cuffie, e-reader e, se serve, il computer. Che cosa valutare per età, quali controlli attivare per ecosistema, l’accordo di casa e che cosa fare se il regalo arriva dai nonni. Lo smartphone resta nella guida dedicata.",
   "cover": "/images/covers/controllo-genitori-smartphone-proteggere-senza-spiare.png",
   "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, due adulti al tavolo che guardano insieme uno smartphone.",
   "publishedAt": "2026-12-02T09:00:00.000+01:00",
@@ -10,14 +10,14 @@
   "status": "draft",
   "seo": {
     "metaTitle": "Primo regalo tech: cosa attivare prima del pacco",
-    "metaDescription": "Console, tablet o smartwatch a Natale: età, PEGI, controlli di store e console prima di incartare, regole di casa e checklist.",
+    "metaDescription": "Console, tablet, orologio, cuffie o lettore a Natale: età, PEGI, controlli prima di incartare, regole di casa e checklist.",
     "noIndex": true
   },
   "sources": [
     {
       "title": "SIP — Digitale e bambini: le nuove raccomandazioni",
       "url": "https://sip.it/2026/01/27/digitale-e-bambini-le-nuove-raccomandazioni-sip/",
-      "note": "Smartphone personale non prima dei 13 anni; tempi di schermo; supervisione; pasti e sonno senza dispositivi."
+      "note": "Smartphone personale non prima dei 13 anni; niente Internet non supervisionato prima; tempi di schermo; pasti e sonno senza dispositivi."
     },
     {
       "title": "AAP / HealthyChildren — Your Child’s First Phone: Are They Ready?",
@@ -35,9 +35,34 @@
       "note": "Etichette 3, 7, 12, 16 e 18. Dal giugno 2026, oggetti casuali a pagamento e offerte a tempo pesano sull’età dei titoli presentati da allora."
     },
     {
+      "title": "Apple — Tempo di utilizzo per iPhone e iPad del bambino",
+      "url": "https://support.apple.com/it-it/108806",
+      "note": "Pagina in italiano, 25 settembre 2026. Impostazioni, Famiglia, Tempo di utilizzo; codice impostato dal dispositivo del genitore. Chiedi di navigare sotto i 13 anni e «Limita i siti web per adulti» sotto i 18, con età variabile per area."
+    },
+    {
       "title": "Apple — Chiedi di acquistare",
       "url": "https://support.apple.com/it-it/105055",
       "note": "Conferma per app e acquisti in-app. I codici di riscatto non generano la richiesta."
+    },
+    {
+      "title": "Apple — Apple Watch per un familiare",
+      "url": "https://support.apple.com/en-us/109036",
+      "note": "Pagina pubblicata il 14 settembre 2026: Apple Watch For Your Kids non è disponibile in Italia."
+    },
+    {
+      "title": "Apple — Notifiche delle cuffie",
+      "url": "https://support.apple.com/it-it/108968",
+      "note": "Pagina in italiano, 18 settembre 2026. Esempio: oltre 80 dB per 40 ore in 7 giorni sull’audio dei media. Le telefonate non contano. In alcuni Paesi la notifica non si disattiva."
+    },
+    {
+      "title": "Apple — Livello audio delle cuffie su iPhone",
+      "url": "https://support.apple.com/it-it/guide/iphone/iph0596a9152/ios",
+      "note": "Suoni e feedback aptico, Salute dell’udito, Riduci audio intenso. Con Tempo di utilizzo: Restrizioni contenuti e privacy, Riduci audio suoni intensi, Non consentire."
+    },
+    {
+      "title": "Google For Families — Iniziare a usare Family Link",
+      "url": "https://support.google.com/families/answer/7101025?hl=it",
+      "note": "Non supervisiona iPhone e iPad. Il limite giornaliero vale per ciascun dispositivo. Genitore almeno 18 anni, o l’età locale, stesso Paese."
     },
     {
       "title": "Google For Families — Approvazioni degli acquisti su Google Play",
@@ -45,37 +70,87 @@
       "note": "Approvazione nel gruppo Famiglia, anche solo per gli acquisti in-app, sulla fatturazione Play."
     },
     {
-      "title": "PlayStation — parental controls e limite di spesa",
+      "title": "Garante privacy — Smart toys",
+      "url": "https://garanteprivacy.it/temi/iot/smarttoys",
+      "note": "Informativa, dati minimi, geolocalizzazione disattivabile se non indispensabile, password, spegnere quando non si usa."
+    },
+    {
+      "title": "Decisione 2009/490/CE — requisiti di sicurezza per i lettori musicali personali",
+      "url": "https://www.legislation.gov.uk/eudn/2009/490",
+      "note": "Testo della decisione del 23 giugno 2009. Articolo 3: 80 dB(A) per 40 ore a settimana, 89 dB(A) per 5 ore. Considerando 6: parere SCENIHR del 13 ottobre 2008."
+    },
+    {
+      "title": "OMS — Safe listening devices and systems: a WHO-ITU standard",
+      "url": "https://www.who.int/publications/i/item/9789241515276",
+      "note": "Scheda del 18 settembre 2019. Modalità adulti 80 dB per 40 ore a settimana; modalità bambini 75 dB per 40 ore. Controllo del volume per i genitori, con password."
+    },
+    {
+      "title": "PlayStation — controlli parentali e limite di spesa",
       "url": "https://www.playstation.com/en-us/support/account/ps5-parental-controls-spending-limits/",
-      "note": "Limite mensile di default a 0 sull’account bambino. Addebito sul portafoglio di chi gestisce la famiglia."
+      "note": "Limite mensile di default a 0. Preset con comunicazione ristretta. VR e VR2 non per l’uso sotto i 12 anni, come avvertenza di prodotto sulla pagina."
     },
     {
-      "title": "Nintendo — How to Set Nintendo eShop Restrictions",
+      "title": "Nintendo — restrizioni dell’eShop",
       "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/22444",
-      "note": "Spending Restrictions e filtro dei contenuti per età sull’account supervisionato."
+      "note": "Spending Restrictions disattiva acquisti e rinnovi su Switch, Switch 2 e Nintendo Store, compresi gli ordini fisici. Filtro dei contenuti per età."
     },
     {
-      "title": "Microsoft — Spending limits in Family Safety",
+      "title": "Nintendo — impostare i controlli parentali su Switch",
+      "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/22447",
+      "note": "Comunicazione aperta su Restricted o meno, per tutti i software o per titolo. Limiti di tempo nell’app. Età dei giochi da console o app."
+    },
+    {
+      "title": "Microsoft — limiti di spesa in Family Safety",
       "url": "https://support.microsoft.com/en-us/family-safety/spending-limits-in-family-safety",
       "note": "Credito caricato, conto che non va in rosso, approvazione a credito esaurito o sopra il limite di età."
+    },
+    {
+      "title": "Microsoft — tempo di schermo su più dispositivi",
+      "url": "https://support.microsoft.com/en-us/family-safety/set-screen-time-limits-across-devices",
+      "note": "Windows, Xbox e, per il mobile, solo Android. Su Xbox il tempo conta finché l’account resta connesso."
+    },
+    {
+      "title": "Microsoft — filtri di app e giochi",
+      "url": "https://support.microsoft.com/en-us/family-safety/filter-apps-and-games-with-microsoft-edge",
+      "note": "I filtri di app e giochi valgono su Windows e Xbox."
+    },
+    {
+      "title": "Microsoft — filtri di siti e ricerche",
+      "url": "https://support.microsoft.com/en-us/family-safety/filter-websites-and-searches-using-microsoft-family-safety",
+      "note": "Funzionano nel browser supportato (Edge). Con il filtro acceso, gli altri browser sono bloccati. Siti per adulti bloccati di default in quella guida."
+    },
+    {
+      "title": "Amazon — profilo bambino su Kindle",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=G27XUUGLQ5TG84XC",
+      "note": "Percorso Menu, Controlli parentali, Amazon Kids. Kindle Scribe non supporta i profili bambino; resta il PIN su browser, negozi, cloud e Goodreads."
+    },
+    {
+      "title": "Amazon — che cosa sono i controlli parentali su Fire",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=G93XLZGRK98PQ9M4",
+      "note": "Pensati per un profilo adulto, 13 anni e oltre. Non rimuovono i contenuti maturi già sul dispositivo. Sotto i 13 anni: profilo bambino."
+    },
+    {
+      "title": "Amazon — impostare i controlli parentali su Fire",
+      "url": "https://www.amazon.com/gp/help/customer/display.html?nodeId=TM4ymHvtgq4vu11dcp",
+      "note": "Impostazioni, Profilo e controlli parentali. Password diversa da quella di blocco. Se si perde, ripristino di fabbrica."
     }
   ],
   "faq": [
     {
       "question": "Una console è più sicura di uno smartphone?",
-      "answer": "È un oggetto diverso, non un lasciapassare. Lo smartphone personale, per la SIP, si rinvia almeno fino ai 13 anni perché sta in tasca ed è una porta su Internet e sui social. Una console sta in una stanza, ma può avere shop, chat e acquisti interni. Si giudica dal PEGI del gioco che accenderete, dall’account e dal tetto di spesa, non dalla marca della scatola."
+      "answer": "È un oggetto diverso, non un lasciapassare. Lo smartphone personale, per la SIP, si rinvia almeno fino ai 13 anni perché sta in tasca ed è una porta su Internet e sui social. Una console sta in una stanza, ma ha shop, chat e acquisti. Sui preset PlayStation pubblicati, anche il livello più alto parte con la comunicazione ristretta e il tetto mensile a 0. Si giudica dal PEGI del gioco che accenderete, dall’account e da quel tetto, non dalla marca della scatola."
     },
     {
       "question": "I controlli si attivano dopo Natale, con calma?",
-      "answer": "No. Il giorno in cui si scarta è tardi per inventarli. Account di chi riceve, approvazione degli acquisti o tetto a zero, filtro di età e chat chiusa si provano prima del nastro. Su PlayStation il limite mensile dell’account bambino parte da 0: va lasciato così, o alzato a una cifra già decisa. Un codice regalo, su Apple, non passa da Chiedi di acquistare: va contato prima."
+      "answer": "No. Il giorno in cui si scarta è tardi per inventarli. Account di chi riceve, approvazione degli acquisti o tetto a zero, filtro di età e chat chiusa si provano prima del nastro. Su PlayStation il limite mensile parte da 0. Un codice regalo, su Apple, non passa da Chiedi di acquistare: va contato prima. Su Fire la password dei controlli non è quella della schermata di blocco: se si perde, la guida Amazon indica il ripristino di fabbrica."
     },
     {
       "question": "Lo smartwatch sostituisce il primo smartphone?",
-      "answer": "Può essere l’alternativa di cui parla la guida AAP: un modo per comunicare senza tutto il bagaglio del telefono pieno. Non è automaticamente più innocuo. Spesso chiama, localizza e, a volte, chatta, e il negozio sta sull’account a cui è legato. I limiti si mettono su quell’account, prima di incartare l’orologio. L’età dello smartphone personale resta la guida dedicata."
+      "answer": "Può essere l’alternativa di cui parla la guida AAP: comunicare senza il telefono pieno. Non è automaticamente più innocuo. La pagina Apple pubblicata il 14 settembre 2026 dice che Apple Watch For Your Kids non è disponibile in Italia, quindi quel percorso non si segue qui. Un orologio che chiama e localizza si tratta come un dispositivo connesso: informativa letta, geolocalizzazione spenta se non serve, password, spesa chiusa sull’account a cui è legato. L’età dello smartphone personale resta la guida dedicata."
     },
     {
-      "question": "Che cosa scrivo se non c’è tempo per un regolamento lungo?",
-      "answer": "Tre righe bastano, se sono vere a gennaio: dove si ricarica, tetto di spesa o zero, data in cui si rivede. Il resto — lista di giochi, chat, pasti — si aggiunge se il minimo regge. Un accordo che mercoledì prossimo è ancora vero vale più di una pagina firmata il 24 e dimenticata il 26."
+      "question": "Che cosa faccio se il regalo arriva dai nonni già scelto?",
+      "answer": "Si ringrazia, e non si accende l’account in salotto se i controlli non ci sono. Si può dire che si apre il giorno dopo, con mezz’ora insieme. Se è già configurato con un account adulto e una carta, si toglie il pagamento e si passa all’account di chi riceve prima del primo gioco. Se il PEGI è sopra l’età, il gioco resta nella scatola fino alla data di revisione. Se è uno smartphone, si legge la guida dedicata prima di inserire la SIM."
     }
   ],
   "content": {
@@ -88,7 +163,7 @@
           "children": [
             {
               "type": "text",
-              "text": "«Che cosa gli regaliamo?» arriva a dicembre con tre scatole possibili: una console, un tablet, un orologio che chiama. Lo smartphone è una quarta scatola, e ha già una guida: ",
+              "text": "«Che cosa gli regaliamo?» a dicembre non è solo la console, il tablet o l’orologio che chiama. Ci sono anche le cuffie, un lettore, a volte un computer. Lo smartphone ha già una guida: ",
               "version": 1
             },
             {
@@ -105,7 +180,18 @@
             },
             {
               "type": "text",
-              "text": ". Questa è per le altre, e per non incartare un account adulto. È per chi compra, e per chi scarterà: le regole si leggono in due.",
+              "text": ". Questa è per le altre, e per non incartare un account adulto. È per chi compra, per chi scarterà e per chi a scuola spiega la stessa scatola. Le regole si leggono in due, prima del nastro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non c’è, in queste fonti, un’età giusta per «il tablet» o «la console». Ci sono bordi pubblici sul tempo e sullo smartphone, etichette sul singolo gioco, e menu che si possono provare. Il resto è una scelta di casa, con una data in cui si rivede.",
               "version": 1
             }
           ]
@@ -139,7 +225,7 @@
           "children": [
             {
               "type": "text",
-              "text": "L’American Academy of Pediatrics, nella guida HealthyChildren sul primo telefono, non fissa un’età unica. Il telefono è diverso dagli altri schermi perché è mobile: a tavola, in macchina, sul comodino. Quando lo smartphone pieno è presto, indica un telefono essenziale, un orologio che comunica, la videochiamata su un tablet, il gioco con amici solo su invito. Il primo dispositivo è un esperimento: i controlli si spiegano insieme e si scrive un ",
+              "text": "L’American Academy of Pediatrics, nella guida HealthyChildren sul primo telefono, non fissa un’età unica. Il telefono è mobile: a tavola, in macchina, sul comodino. Quando lo smartphone pieno è presto, indica un telefono essenziale, un orologio che comunica, la videochiamata su un tablet, il gioco con amici solo su invito. Il primo dispositivo è un esperimento: i controlli si spiegano insieme e si scrive un ",
               "version": 1
             },
             {
@@ -196,7 +282,456 @@
           "children": [
             {
               "type": "text",
-              "text": "Quattro oggetti, non un’età sola",
+              "text": "Fasce, senza un’età per ogni scatola",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sotto i 2 anni il bordo SIP è netto: nessun dispositivo. Tra i 2 e i 5 anni, meno di un’ora al giorno e con un adulto. In quella fascia un account personale con negozio e carta è fuori misura. Ha più senso un oggetto acceso dall’adulto: un gioco PEGI 3 già scelto, una videochiamata sul tablet di casa, un libro sul lettore con il negozio chiuso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dopo i 5 anni, meno di due ore al giorno, sempre con un adulto, niente dispositivi a tavola o prima di dormire. Una console in salotto o un tablet che resta in cucina possono entrare in un accordo. Non è il momento in cui lo schermo diventa tascabile. L’Internet non supervisionato, nella stessa pagina, si rinvia fino ai 13 anni: un browser sul tablet o sul computer è già quel tema, anche se la scatola non dice «telefono».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo smartphone personale resta nell’altra guida. Un orologio o un tablet la aggirano solo se sono, di fatto, un telefono pieno: negozio, social, chat con sconosciuti, ricarica sul comodino. Se il PEGI è sopra l’età di chi scarta, la console può arrivare e il disco resta chiuso fino alla revisione. È la stessa regola di un film.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Console",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si giudica il PEGI del gioco che si accende il 25, non la marca. L’account è di chi riceve, la spesa parte da zero o da un tetto già deciso, la chat è chiusa finché non c’è una regola, la console sta in una stanza comune la prima settimana. Se la domanda diventa «gioca troppo», il criterio è l’articolo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/videogiochi-e-ragazzi-quando-preoccuparsi",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "videogiochi e ragazzi",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su PlayStation servono una famiglia e un account bambino, con l’email verificata e l’accesso fatto in console: altrimenti i controlli non tengono. Il limite mensile, di default, è 0, e l’addebito esce dal portafoglio di chi gestisce la famiglia. I preset pubblicati — Child, Early Teens, Late Teens or Older — partono tutti con la comunicazione ristretta e quel tetto a 0. Si possono cambiare. Con Communication and User-Generated Content su Restrict si disattivano testi e chat vocale con altri giocatori (i messaggi precompilati restano), la condivisione e la visione di contenuti degli utenti, e il collegamento di alcuni servizi esterni. Un’eccezione per un gioco si chiede: la notifica arriva a chi gestisce la famiglia, e si decide prima del pranzo. Sulla stessa pagina Sony indica che PlayStation VR e VR2 non sono per l’uso sotto i 12 anni. È un’avvertenza di prodotto, non una diagnosi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Nintendo spesa e filtro dello shop si impostano dall’account di chi supervisiona. Spending Restrictions disattiva acquisti e rinnovi su Switch, Switch 2 e Nintendo Store, compresi gli ordini fisici. Il filtro per età limita lo shop in base all’età del giocatore. La comunicazione aperta si mette su Restricted per tutti i software o solo per alcuni. Il tempo di gioco sta nell’app, e per usarla serve un account di un adulto, almeno 18 anni. Le restrizioni partono quando la console è online.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Xbox il percorso è Microsoft, più sotto. Il tempo conta finché l’account resta connesso: spegnerla non chiude il conteggio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tablet",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un tablet non è più sicuro perché è più grande di un telefono. Può essere la videochiamata della guida AAP. Può essere un negozio, un browser e una camera. Si ricarica fuori dalla camera, come nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono e sonno",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". I controlli si dichiarano, come nell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "controllo genitori",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Il menu non si trasferisce da una marca all’altra.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su iPad servono In famiglia e un Apple Account del bambino, non condiviso. Il codice di Tempo di utilizzo si imposta dal dispositivo di un genitore, non sul suo iPad: Impostazioni, Famiglia, il suo nome, Tempo di utilizzo. Da lì si chiudono app e siti, si scelgono i contatti di Messaggi, FaceTime e Telefono, si dà un tempo a giochi e intrattenimento. Chiedi di acquistare conferma app e acquisti in-app. In alcune aree, sotto i 18 anni, è già attivo e non si disattiva. Un codice di riscatto non genera la richiesta: i codici nel pacco si contano prima. Chiedi di navigare, nella guida Apple in italiano, è attivo di default sotto i 13 anni, e «Limita i siti web per adulti» sotto i 18. L’età può cambiare con l’area. I controlli descritti per iOS 27 e iPadOS 27 richiedono i dispositivi della famiglia aggiornati; se non lo sono, resta il Tempo di utilizzo precedente. Non si aspetta l’aggiornamento per lasciare la carta aperta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Family Link non supervisiona iPhone e iPad.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Android, se il Paese lo prevede, Family Link chiede a chi gestisce almeno 18 anni, o l’età locale, e di vivere nello stesso Paese del figlio. Crea l’account sotto i 13 anni o sotto l’età minima locale, oppure aggiunge la supervisione a un account già esistente. Si decidono le app, il filtro su Google Play, l’ora di dormire e un limite giornaliero. Il limite è per dispositivo: la guida italiana fa l’esempio di due ore e precisa che valgono su ciascun Android o Chromebook, non come tetto unico. L’approvazione degli acquisti vale solo per la fatturazione Play. Gli account Google Workspace for Education non si gestiscono così: il tablet della scuola non è quello di casa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Fire i controlli che restringono navigazione, acquisti, video, fotocamera e posizione sono per un profilo adulto, da 13 anni. Sotto i 13 la guida manda a un profilo bambino. Quei controlli non tolgono i contenuti già classificati come maturi: possono restare in app, musica, libri e nel negozio. La password non è quella della schermata di blocco. Se si dimentica, Amazon indica il ripristino di fabbrica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Smartwatch per bambini",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La guida AAP mette un orologio che comunica fra le alternative allo smartphone pieno. Non è per questo un oggetto innocuo: chiama, spesso localizza, a volte chatta, e il negozio sta sull’account a cui è legato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Italia non si segue Apple Watch For Your Kids. La pagina Apple pubblicata il 14 settembre 2026 dice che quella configurazione non è disponibile in Italia, oltre che in Corea, nella Cina continentale e in altri Paesi. Dove esiste, l’orologio cellular si associa all’iPhone di un adulto e da lì si scelgono contatti, Schooltime e Chiedi di acquistare. Qui quella voce non c’è. Se l’orologio resta legato al telefono di un adulto, i controlli sono quelli di quel telefono. Se ha un’app sua, i controlli sono quelli dell’app.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per un dispositivo che ascolta, localizza o parla, la scheda del Garante sugli smart toys è il metro, anche se la scatola dice «orologio». Si legge l’informativa. Si danno solo i dati necessari; per l’account del minore si può usare uno pseudonimo. Si spengono i sensori che non servono: l’esempio della scheda è la geolocalizzazione. Memoria, microfono, Wi-Fi e Bluetooth si concedono all’app solo se servono. Password lunga, e si spegne quando non si usa: acceso in casa può raccogliere abitudini di tutta la famiglia. Foto e video dall’app non si lasciano condividere da soli. Se passa a un cugino, si chiude l’account e si cancellano i dati. Il Garante richiama la privacy by design e by default del Regolamento UE/2016/679: dovere di chi progetta, criterio di chi sceglie.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il tetto di spesa sta sull’account collegato. Su Apple un codice regalo non passa da Chiedi di acquistare, come nell’articolo sugli acquisti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cuffie e auricolari",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le cuffie cambiano quanto a lungo e quanto forte si ascolta, e isolano dalla stanza. Non sono una misura dell’udito di chi le scarta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La decisione della Commissione 2009/490/CE, del 23 giugno 2009, fissa il requisito per le norme sui lettori musicali personali. L’articolo 3 limita l’esposizione nel tempo: a 80 dB(A), 40 ore a settimana; a 89 dB(A), 5 ore a settimana, con un passaggio lineare. Il dispositivo deve avvisare del rischio e di come evitarlo. Nel considerando 6 la Commissione riporta il parere SCENIHR del 13 ottobre 2008: il rischio di perdita uditiva permanente è legato a oltre 40 ore a settimana sopra 89 dB(A) per almeno cinque anni, e la decisione dice che quei modi d’uso erano diventati comuni, specie fra bambini e adolescenti. È un requisito di prodotto, non un esame fatto in casa e non un dato italiano del 2026.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo standard OMS-ITU, scheda del 18 settembre 2019, chiede al lettore due modalità di «quota di suono»: adulti, 80 dB per 40 ore a settimana; bambini, 75 dB per 40 ore a settimana. Chiede anche la riduzione automatica del volume e un controllo per i genitori protetto da password. È come lo standard dice che l’apparecchio dovrebbe funzionare, non la prova che le cuffie nel pacco lo facciano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su iPhone, iPad e Apple Watch la notifica scatta, nell’esempio della guida, oltre 80 dB per 40 ore negli ultimi 7 giorni. Vale per i media: le telefonate non contano. Dopo, alla connessione successiva, il volume parte più basso e si può rialzare. In alcuni Paesi la notifica non si spegne. Il tetto che non si cambia da soli sta altrove: su iPhone, Impostazioni, Suoni e feedback aptico, Salute dell’udito, Riduci audio intenso; su iPad, Impostazioni, Suoni, Salute dell’udito. Per bloccare la modifica a un familiare con Tempo di utilizzo, la guida iPhone indica Impostazioni, Tempo di utilizzo, Restrizioni contenuti e privacy, Riduci audio suoni intensi, Non consentire. Si prova sul dispositivo a cui le cuffie si collegheranno. Il limite sta lì, non sulla scatola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "E-reader",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un lettore con negozio e browser chiusi non è un tablet. Se ha app e video, valgono le regole del tablet.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su un Kindle compatibile: Home, Menu, Controlli parentali, Amazon Kids, Aggiungi profilo, PIN se richiesto, nome e data di nascita, poi i libri da includere. Il PIN blocca anche browser, negozi Kindle e Audible, cloud e Goodreads. Kindle Scribe, in quella guida, non ha i profili bambino: resta il PIN sulle stesse voci. Un Scribe «col profilo già pronto» va verificato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Parent Dashboard, sui dispositivi con Amazon Kids, elenca limiti di tempo, filtri di età e il blocco di negozio, acquisti in-app e navigazione. Non alza il tempo SIP: chiude ciò che non è lettura. Su Fire sotto i 13 anni si crea il profilo bambino. Da 13, Impostazioni, Profilo e controlli parentali, password diversa da quella di blocco, sapendo che i contenuti maturi già sul dispositivo restano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il computer, se è il regalo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un PC «per la scuola» non ha l’account sistemato dalla scuola. Che cosa si fa da soli sta nell’articolo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/compiti-e-ai-senza-delegare-il-pensiero",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "compiti e AI",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", non si improvvisa il 25.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Serve un gruppo famiglia Microsoft e l’account di chi riceve, non il vostro con la carta dentro. Il tempo di schermo si imposta su family.microsoft.com o nell’app, per Windows, Xbox e, alla voce Mobile, solo Android: giorno, orario, ore. Su Xbox il conteggio prosegue finché l’account è connesso. I filtri di app e giochi valgono su Windows e Xbox. I filtri di siti valgono nel browser supportato, oggi Edge. Con il filtro dei siti inappropriati acceso, gli altri browser sono bloccati e si possono sbloccare a mano. Di default, in quella guida, i siti per adulti sono bloccati e le ricerche Bing sono filtrate.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il tetto di spesa è il Family Safety dell’articolo sugli acquisti: credito caricato, conto che non va in rosso, approvazione sopra il limite di età o a credito finito. Sul computer condiviso ciascuno esce dal proprio account. L’account adulto lasciato aperto è il regalo vero.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima di incartare, per ecosistema",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si crea l’account di chi riceve, si imposta il pagamento da adulti, si esce. Poi si prova un no: un acquisto, un sito o una chat. Se il no non arriva, il pacco aspetta.",
               "version": 1
             }
           ]
@@ -213,30 +748,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Console.",
+                  "text": "Apple.",
                   "version": 1,
                   "format": 1
                 },
                 {
                   "type": "text",
-                  "text": " Il criterio è il PEGI del gioco che accenderete il 25, non la marca. Account di chi riceve, non il vostro. Spesa a zero o a un tetto, prima del fiocco. Chat spenta finché non c’è una regola. Se la domanda diventa «gioca troppo», il criterio è l’articolo su ",
-                  "version": 1
-                },
-                {
-                  "type": "link",
-                  "url": "/articoli/videogiochi-e-ragazzi-quando-preoccuparsi",
-                  "version": 1,
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "videogiochi e ragazzi",
-                      "version": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ", non la scheda tecnica.",
+                  "text": " In famiglia, account del bambino. Dal vostro dispositivo: Impostazioni, Famiglia, il suo nome, Tempo di utilizzo, codice impostato da voi. Chiedi di acquistare acceso. Codici regalo contati a parte. Cuffie: Riduci audio intenso, modifica non consentita.",
                   "version": 1
                 }
               ]
@@ -247,30 +765,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Tablet.",
+                  "text": "Google.",
                   "version": 1,
                   "format": 1
                 },
                 {
                   "type": "text",
-                  "text": " Sta in una stanza, non in tasca a letto. Per la guida AAP è il modo di videochiamare senza dare subito lo smartphone. Si ricarica fuori dalla camera, come nel pezzo su ",
-                  "version": 1
-                },
-                {
-                  "type": "link",
-                  "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
-                  "version": 1,
-                  "children": [
-                    {
-                      "type": "text",
-                      "text": "telefono e sonno",
-                      "version": 1
-                    }
-                  ]
-                },
-                {
-                  "type": "text",
-                  "text": ".",
+                  "text": " Family Link, stesso Paese. Limite giornaliero per ogni dispositivo, non uno solo per tutti. Approvazione solo sulla fatturazione Play. Filtro su app e giochi. Non copre l’iPad.",
                   "version": 1
                 }
               ]
@@ -281,13 +782,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Smartwatch.",
+                  "text": "PlayStation.",
                   "version": 1,
                   "format": 1
                 },
                 {
                   "type": "text",
-                  "text": " La guida AAP lo mette fra le alternative che comunicano senza il bagaglio del telefono pieno. Il negozio sta spesso sull’account a cui è legato: i limiti si mettono lì, prima di incartare. Non è automaticamente più innocuo.",
+                  "text": " Account bambino, email verificata, accesso in console. Limite mensile a 0, o a una cifra già scritta: Impostazioni, Famiglia e controlli parentali, Gestione famiglia, il bambino, Limite di spesa mensile. Comunicazione su Restrict.",
                   "version": 1
                 }
               ]
@@ -298,77 +799,60 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Smartphone.",
+                  "text": "Nintendo.",
                   "version": 1,
                   "format": 1
                 },
                 {
                   "type": "text",
-                  "text": " Età e accordo stanno nell’altra guida. Il bordo SIP, qui, basta: personale non prima dei 13 anni. Non si riscrive quel testo sotto l’albero.",
+                  "text": " Account adulto che supervisiona. Spending Restrictions selezionato. Shop filtrato per età. Comunicazione su Restricted. Prova con la console online.",
                   "version": 1
                 }
               ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Prima di incartarlo",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Si crea l’account di chi riceve. Si entra da adulti, si imposta il pagamento, si esce. Il regalo non si accende la prima volta con l’account di un genitore «tanto per scaricare un gioco».",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Su Apple, Chiedi di acquistare chiede conferma per app e acquisti in-app; a seconda dell’area, sotto i 18 è attivo e non si disattiva. Un codice di riscatto non genera la richiesta: i codici nel pacco si contano prima. Su Google Play l’approvazione, anche solo per gli acquisti in-app, vale per la fatturazione del gruppo Famiglia. Su PlayStation il limite mensile dell’account bambino parte da 0 e l’addebito esce dal portafoglio di chi gestisce la famiglia. Su Nintendo, Spending Restrictions disattiva acquisti e rinnovi su Switch, Switch 2 e Nintendo Store. In Microsoft Family Safety il conto non va in rosso: oltre il credito caricato, o sopra il limite di età, serve l’approvazione.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Il filtro di età dello shop si allinea al PEGI che avete scelto. La chat, il primo mese, resta chiusa o limitata ai contatti noti. Il ",
-              "version": 1
             },
             {
-              "type": "link",
-              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "type": "listitem",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "controllo",
+                  "text": "Microsoft.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Voi organizzatori, account di chi riceve. Tetto di spesa e tempo di schermo su family.microsoft.com. Xbox disconnessa a fine uso. Browser: filtro su Edge, e nessun altro browser lasciato aperto.",
                   "version": 1
                 }
               ]
             },
             {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Amazon.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Kindle: profilo bambino e PIN, oppure solo PIN se è un Scribe. Fire sotto i 13: profilo bambino. Da 13: password dei controlli annotata.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
               "type": "text",
-              "text": " si dichiara. Non è una sorpresa di gennaio.",
+              "text": "Shop allineato al PEGI. Chat del primo mese chiusa, o solo contatti noti. Il controllo si dice.",
               "version": 1
             }
           ]
@@ -380,7 +864,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Regole di casa, prima del nastro",
+              "text": "Regole di casa, e come si dicono",
               "version": 1
             }
           ]
@@ -408,7 +892,18 @@
             },
             {
               "type": "text",
-              "text": ", poche righe scritte prima del pacco:",
+              "text": ", poche righe prima del pacco, lette insieme. Chi riceve dice quale gioco o quale libro vuole sulla lista. Chi compra scrive tetto e data. Il foglio si deve rileggere a gennaio senza interpretarlo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si fa prima del nastro, non con la scatola aperta e i nonni in salotto. Tre frasi, se il 10 gennaio sono ancora vere: l’account è di chi riceve e la carta passa da chi compra, oppure la spesa è zero; si ricarica in cucina, e a tavola e prima di dormire resta lì; il 10 si rivede, e si apre una cosa solo se sonno e scuola reggono.",
               "version": 1
             }
           ]
@@ -425,7 +920,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Dove si ricarica.",
+                  "text": "Ricarica.",
                   "version": 1,
                   "format": 1
                 },
@@ -442,13 +937,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Pasti.",
+                  "text": "Pasti e sonno.",
                   "version": 1,
                   "format": 1
                 },
                 {
                   "type": "text",
-                  "text": " Il regalo resta sul mobile.",
+                  "text": " Il regalo resta sul mobile, come sulla pagina SIP.",
                   "version": 1
                 }
               ]
@@ -459,13 +954,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Tetto di spesa.",
+                  "text": "Tetto.",
                   "version": 1,
                   "format": 1
                 },
                 {
                   "type": "text",
-                  "text": " Una cifra, o zero, e chi approva.",
+                  "text": " Una cifra, o zero, e chi approva. I codici contano dentro.",
                   "version": 1
                 }
               ]
@@ -476,13 +971,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Giochi e app.",
+                  "text": "Lista corta.",
                   "version": 1,
                   "format": 1
                 },
                 {
                   "type": "text",
-                  "text": " Lista corta il primo mese. Il resto si chiede.",
+                  "text": " Un gioco, o pochi libri, il primo mese.",
                   "version": 1
                 }
               ]
@@ -516,7 +1011,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " Una data a gennaio, non «per sempre».",
+                  "text": " Una data. Se reggono sonno, scuola e tono, si apre una cosa. Se no, si stringe.",
                   "version": 1
                 }
               ]
@@ -529,7 +1024,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Se a gennaio sonno, scuola e tono in casa reggono, si può aprire qualcosa. Se no, si stringe.",
+              "text": "«Ho messo un codice perché la carta è la mia, e lo rivediamo il 10» non è un lucchetto scoperto per caso. La seconda versione rompe il foglio.",
               "version": 1
             }
           ]
@@ -541,7 +1036,52 @@
           "children": [
             {
               "type": "text",
-              "text": "Checklist, la sera prima",
+              "text": "Se il regalo arriva da nonni o parenti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se siete in tempo: «Se volete un regalo tech, scriveteci il modello. L’account lo prepariamo noi.» Evita un PEGI 18 già installato con una carta dentro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se la scatola c’è già, si ringrazia e non si smonta il regalo in pubblico. «Lo apriamo domani dopo pranzo, mezz’ora, così impostiamo l’account insieme.» Il 25 si legge il PEGI e si aggiorna il foglio. Il menu si impara il giorno dopo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se qualcuno l’ha acceso col proprio account e la propria carta, quella sera non si usa. Il giorno dopo si toglie il pagamento, si esce, si crea l’account di chi riceve. I giochi sull’account sbagliato non sono un motivo per tenerlo. Se il PEGI è sopra l’età, il disco resta chiuso fino alla revisione: a chi ha regalato si dice in privato, non in platea. Se è uno smartphone, l’altra guida viene prima della SIM. Console e cuffie, se arrivano insieme, si impostano insieme: le cuffie senza tetto di volume sono metà lavoro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Errori che si vedono il 26",
               "version": 1
             }
           ]
@@ -558,7 +1098,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Account di chi riceve, non il vostro, già creato.",
+                  "text": "Account vostro, carta memorizzata.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Il primo acquisto non chiede niente.",
                   "version": 1
                 }
               ]
@@ -569,7 +1115,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Approvazione degli acquisti, o tetto a zero, provata con un tentativo.",
+                  "text": "Controlli a gennaio.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " La chat è già aperta. Rifarli dopo è più difficile.",
                   "version": 1
                 }
               ]
@@ -580,7 +1132,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Filtro di età dello shop allineato al PEGI scelto.",
+                  "text": "Codici regalo.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Su Apple non passano da Chiedi di acquistare. Sono euro lo stesso.",
                   "version": 1
                 }
               ]
@@ -591,7 +1149,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Chat e messaggi da sconosciuti chiusi, finché non ne avete parlato.",
+                  "text": "Family Link su un iPad.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Non lo supervisiona. Il menu è In famiglia.",
                   "version": 1
                 }
               ]
@@ -602,7 +1166,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Ricarica fuori dalla camera, scritta.",
+                  "text": "Due ore di Google come tetto di casa.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Nell’esempio della guida sono due ore per ogni dispositivo.",
                   "version": 1
                 }
               ]
@@ -613,7 +1183,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Data di revisione sul calendario.",
+                  "text": "Fire con i contenuti maturi ancora dentro.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " I controlli del profilo adulto non li cancellano.",
                   "version": 1
                 }
               ]
@@ -624,7 +1200,350 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Se il regalo è uno smartphone, la guida dedicata è stata letta prima dell’acquisto.",
+                  "text": "Password Fire dimenticata.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Non è quella del blocco schermo. Si arriva al ripristino.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Guida Apple Watch di un altro Paese.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Al 14 settembre 2026, in Italia For Your Kids non c’è.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Cuffie senza «Non consentire».",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " La notifica avvisa, poi il volume si rialza.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Scribe col profilo bambino.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " In quella guida il profilo non c’è.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Xbox lasciato connesso.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Il tempo conta finché l’account è dentro.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chat «tanto sono i compagni».",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Su PlayStation e Nintendo la chiusura è un’impostazione. I compagni si aggiungono se il foglio lo dice.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "PEGI sulla scatola della console.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " La scatola non è il gioco.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Checklist da stampare",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si può stampare la pagina o copiare l’elenco.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Account",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " di chi riceve, email verificata se serve.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Prova del no:",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " un acquisto, un sito o una chat rifiutati davvero.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Spesa",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " a zero o cifra scritta. Niente carta sull’account sbagliato. Codici contati.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "PEGI",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " del gioco allineato al filtro dello shop. Browser filtrato, se c’è.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chat",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " chiusa o solo contatti visti. PlayStation: Restrict. Nintendo: Restricted.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Cuffie:",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Riduci audio intenso, modifica bloccata.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Orologio:",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " informativa letta, geolocalizzazione spenta se non serve, password, spento quando non si usa.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lettore:",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " profilo bambino o PIN. Fire sotto i 13: profilo bambino. Password annotata.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Computer:",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " account separato, tempo di schermo, Edge filtrato, uscita a fine uso.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Casa:",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " ricarica fuori dalla camera, tre frasi lette insieme, data sul calendario.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Smartphone:",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " l’altra guida, prima della SIM.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Regalo da fuori:",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " modello chiesto prima, oppure apertura il giorno dopo. Se è già acceso, account rifatto.",
                   "version": 1
                 }
               ]
@@ -649,7 +1568,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il pacco può essere una console con un gioco di cui avete visto il PEGI, lo store a zero e tre righe sul frigo. Non deve essere il modello «che hanno in classe», acceso con la vostra carta memorizzata. Se oggi manca il tempo per tutto, il minimo è l’account giusto e la spesa chiusa. Il nastro viene dopo.",
+              "text": "Il pacco può essere una console con un PEGI visto, lo store a zero e tre righe sul frigo. Può essere un lettore col negozio chiuso, o cuffie col tetto bloccato. Non il modello «che hanno in classe», acceso con la vostra carta. Se manca il tempo, il minimo è l’account giusto e la spesa chiusa. Il nastro viene dopo. Il 10 gennaio si cambia una cosa sola: o si allenta, o si stringe.",
               "version": 1
             }
           ]
@@ -684,7 +1603,7 @@
           "children": [
             {
               "type": "text",
-              "text": "È un oggetto diverso, non un lasciapassare. Lo smartphone personale, per la SIP, si rinvia almeno fino ai 13 anni perché sta in tasca ed è una porta su Internet e sui social. Una console sta in una stanza, ma può avere shop, chat e acquisti interni. Si giudica dal PEGI del gioco che accenderete, dall’account e dal tetto di spesa, non dalla marca della scatola.",
+              "text": "È un oggetto diverso, non un lasciapassare. Lo smartphone personale, per la SIP, si rinvia almeno fino ai 13 anni perché sta in tasca ed è una porta su Internet e sui social. Una console sta in una stanza, ma ha shop, chat e acquisti. Sui preset PlayStation pubblicati, anche il livello più alto parte con la comunicazione ristretta e il tetto mensile a 0. Si giudica dal PEGI del gioco che accenderete, dall’account e da quel tetto, non dalla marca della scatola.",
               "version": 1
             }
           ]
@@ -707,7 +1626,7 @@
           "children": [
             {
               "type": "text",
-              "text": "No. Il giorno in cui si scarta è tardi per inventarli. Account di chi riceve, approvazione degli acquisti o tetto a zero, filtro di età e chat chiusa si provano prima del nastro. Su PlayStation il limite mensile dell’account bambino parte da 0: va lasciato così, o alzato a una cifra già decisa. Un codice regalo, su Apple, non passa da Chiedi di acquistare: va contato prima.",
+              "text": "No. Il giorno in cui si scarta è tardi per inventarli. Account di chi riceve, approvazione degli acquisti o tetto a zero, filtro di età e chat chiusa si provano prima del nastro. Su PlayStation il limite mensile parte da 0. Un codice regalo, su Apple, non passa da Chiedi di acquistare: va contato prima. Su Fire la password dei controlli non è quella della schermata di blocco: se si perde, la guida Amazon indica il ripristino di fabbrica.",
               "version": 1
             }
           ]
@@ -730,7 +1649,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Può essere l’alternativa di cui parla la guida AAP: un modo per comunicare senza tutto il bagaglio del telefono pieno. Non è automaticamente più innocuo. Spesso chiama, localizza e, a volte, chatta, e il negozio sta sull’account a cui è legato. I limiti si mettono su quell’account, prima di incartare l’orologio. L’età dello smartphone personale resta la guida dedicata.",
+              "text": "Può essere l’alternativa di cui parla la guida AAP: comunicare senza il telefono pieno. Non è automaticamente più innocuo. La pagina Apple pubblicata il 14 settembre 2026 dice che Apple Watch For Your Kids non è disponibile in Italia, quindi quel percorso non si segue qui. Un orologio che chiama e localizza si tratta come un dispositivo connesso: informativa letta, geolocalizzazione spenta se non serve, password, spesa chiusa sull’account a cui è legato. L’età dello smartphone personale resta la guida dedicata.",
               "version": 1
             }
           ]
@@ -742,7 +1661,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Che cosa scrivo se non c’è tempo per un regolamento lungo?",
+              "text": "Che cosa faccio se il regalo arriva dai nonni già scelto?",
               "version": 1
             }
           ]
@@ -753,7 +1672,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Tre righe bastano, se sono vere a gennaio: dove si ricarica, tetto di spesa o zero, data in cui si rivede. Il resto — lista di giochi, chat, pasti — si aggiunge se il minimo regge. Un accordo che mercoledì prossimo è ancora vero vale più di una pagina firmata il 24 e dimenticata il 26.",
+              "text": "Si ringrazia, e non si accende l’account in salotto se i controlli non ci sono. Si può dire che si apre il giorno dopo, con mezz’ora insieme. Se è già configurato con un account adulto e una carta, si toglie il pagamento e si passa all’account di chi riceve prima del primo gioco. Se il PEGI è sopra l’età, il gioco resta nella scatola fino alla data di revisione. Se è uno smartphone, si legge la guida dedicata prima di inserire la SIM.",
               "version": 1
             }
           ]
@@ -765,5 +1684,5 @@
       "version": 1
     }
   },
-  "readingTime": 9
+  "readingTime": 18
 }
