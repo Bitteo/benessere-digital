@@ -42,19 +42,21 @@ Articoli:
 
 I body sono il testo ricco dello staging, non i riassunti dello seed Payload. I draft/unpublished Webflow restano fuori.
 
-## Newsletter (Resend)
+## Newsletter (Resend, double opt-in)
 
-Le iscrizioni vanno su Resend Contacts, segmento `benessere.digital`.
+Il form non iscrive al segmento. Crea o lascia il contatto **non iscritto** e invia una email di conferma firmata (HMAC). Solo `GET /api/newsletter/confirm?token=` imposta `unsubscribed: false` e aggiunge il contatto al segmento `benessere.digital`.
 
-| Env                      | Ruolo                                                                               |
-| ------------------------ | ----------------------------------------------------------------------------------- |
-| `RESEND_API_KEY`         | Obbligatoria per `GET /api/newsletter` → `{ enabled: true }` e per il POST          |
-| `RESEND_SEGMENT_ID`      | Segmento destinazione. Fallback documentato: `0275e55f-100d-49be-8f47-cfa2452b1263` |
-| `NEWSLETTER_WEBHOOK_URL` | Opzionale: notify secondario dopo un’iscrizione Resend riuscita                     |
+| Env                       | Ruolo                                                                                          |
+| ------------------------- | ---------------------------------------------------------------------------------------------- |
+| `RESEND_API_KEY`          | Obbligatoria, insieme al segreto HMAC, perché il form risulti attivo                           |
+| `NEWSLETTER_TOKEN_SECRET` | Segreto HMAC di conferma e disiscrizione. Fail closed se assente                               |
+| `NEWSLETTER_FROM`         | Mittente sul dominio verificato. Fallback: `newsletter@benessere.digital`                      |
+| `RESEND_SEGMENT_ID`       | Segmento destinazione, solo dopo la conferma. Fallback: `0275e55f-100d-49be-8f47-cfa2452b1263` |
+| `NEWSLETTER_WEBHOOK_URL`  | Opzionale: notify secondario dopo la conferma, non al submit del form                          |
 
-Il contatto esistente è trattato come successo (aggiunta al segmento se manca). Non committare secret.
+Disiscrizione: `GET` e `POST` (one-click RFC 8058, body `List-Unsubscribe=One-Click`) su `/api/newsletter/unsubscribe?token=`. Gli invii futuri vanno fatti con i Broadcast Resend e il placeholder `{{{RESEND_UNSUBSCRIBE_URL}}}` (Resend aggiunge `List-Unsubscribe`) più il footer JIGO SRL. Non committare secret.
 
 ## Follow-up
 
-- Testi legal da validare con un legale (le route `/privacy` `/cookie` `/termini` restano bozze Next; su Webflow la privacy è soprattutto un’immagine)
+- Testi legal da validare con un legale (`/privacy` indica titolare, base giuridica e Resend; `/cookie` e `/termini` restano bozze)
 - Embed TikTok nativi per i creator
