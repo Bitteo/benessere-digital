@@ -18,6 +18,61 @@
     "metaTitle": "FOMO e JOMO: uscire dal loop senza sparire",
     "metaDescription": "FOMO e JOMO sui social: perché il loop tiene e abitudini concrete per uscirne senza cancellare Instagram o sparire dagli amici."
   },
+  "sources": [
+    {
+      "title": "Cambridge Dictionary — FOMO",
+      "url": "https://dictionary.cambridge.org/dictionary/english/fomo",
+      "note": "Voce informale: sigla di fear of missing out, la preoccupazione di perdersi eventi che altri stanno vivendo, soprattutto per ciò che si vede sui social. Non è una diagnosi."
+    },
+    {
+      "title": "Przybylski, Murayama, DeHaan e Gladwell — Motivational, emotional, and behavioral correlates of fear of missing out (2013)",
+      "url": "https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2013_PrzybylskiMurayamaDeHaanGladwell_CIHB.pdf",
+      "note": "Computers in Human Behavior, 29(4), 1841–1848. DOI 10.1016/j.chb.2013.02.014. Definizione: apprensione pervasiva che altri stiano avendo esperienze gratificanti da cui si è assenti, con il desiderio di restare continuamente connessi. Prima scala empirica. Non è una diagnosi."
+    },
+    {
+      "title": "Elhai, Yang e Montag — Fear of missing out (FOMO): overview (2021)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8023172/",
+      "note": "Brazilian Journal of Psychiatry, 43(2), 203–209. DOI 10.1590/1516-4446-2020-0870. Review aperta. La FOMO si associa ad ansia, anche sociale, e a sintomi depressivi. Non è chiaro se l’ansia venga prima, dopo, o in entrambi i sensi. Non è una diagnosi: nel testo, l’unica diagnosi ufficiale citata per l’uso di internet è il gaming disorder."
+    },
+    {
+      "title": "Verduyn, Gugushvili, Massar, Täht e Kross — Social comparison on social networking sites (2020)",
+      "url": "https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2020/07/1-s2.0-S2352250X20300464-main.pdf",
+      "note": "Current Opinion in Psychology, 36, 32–37. DOI 10.1016/j.copsyc.2020.04.002, CC BY. Il confronto sui social, soprattutto passivo e verso chi appare «meglio», si associa in genere a un benessere soggettivo più basso. L’effetto complessivo dei social è descritto come piccolo, e l’uso attivo può andare nell’altro senso. Non è «Instagram causa ansia»."
+    },
+    {
+      "title": "Oxford Advanced Learner’s Dictionary — JOMO",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/jomo",
+      "note": "Voce informale: joy of missing out, il piacere di usare il proprio tempo libero senza l’ansia che altrove stia succedendo qualcosa di più interessante."
+    },
+    {
+      "title": "Barry, Smith, Murphy, Halter e Briggs — JOMO (2023)",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2772503023000142",
+      "note": "Telematics and Informatics Reports, 10, 100054. DOI 10.1016/j.teler.2023.100054, open access. Gli autori partono dalla scarsità di ricerca empirica sulla JOMO rispetto alla FOMO. I risultati sono misti: così misurata, si accompagna sia a soddisfazione di vita sia ad ansia sociale, e chiedono altro lavoro. Non è la prova che «perdersi le cose» faccia stare meglio."
+    },
+    {
+      "title": "Carter, Rees, Hale, Bhattacharjee e Paradkar — Portable screen-based media devices and sleep (2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380441/",
+      "note": "JAMA Pediatrics, 170(12), 1202–1208. DOI 10.1001/jamapediatrics.2016.2341. Meta-analisi di studi trasversali su bambini e adolescenti di 6–19 anni: accesso e uso di telefoni e tablet intorno al sonno si associano a sonno più corto, qualità peggiore e più sonnolenza diurna. La luce è un’ipotesi di meccanismo, non il risultato misurato. Non è uno studio sulla FOMO."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Devo cancellare Instagram per togliermi la FOMO?",
+      "answer": "Di solito no. Cancellare senza cambiare orari sposta il loop altrove. Se Instagram è solo radar, puoi toglierlo. Se è anche messaggi e gruppi, silenzia e rimpicciolisci: non sparire."
+    },
+    {
+      "question": "La JOMO non è solo un modo per sentirsi superiori?",
+      "answer": "Può, se la usi per raccontare quanto sei «disconnesso». Come pratica privata — meno storie, due check — è un grado in meno di allerta. Non va postata."
+    },
+    {
+      "question": "E se gli amici si offendono se non rispondo subito?",
+      "answer": "Un messaggio chiaro vale più di una scomparsa: «Rispondo la sera, non a ogni giro di storie.» Chi ti cerca per te aspetta un’ora. Non è un motivo per restare di guardia."
+    },
+    {
+      "question": "Controllare le storie a letto è già un problema?",
+      "answer": "È un segnale, non una condanna. Se è tre minuti e dormi, guardala. Se «l’ultimo video» diventa mezz’ora, il pezzo da muovere è la stanza, non la volontà a mezzanotte."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",
@@ -62,7 +117,7 @@
           "children": [
             {
               "type": "text",
-              "text": "FOMO è la sigla di fear of missing out: la paura di perdersi esperienze, informazioni o connessioni che altri stanno avendo. Nella ricerca di psicologia sociale, da più di un decennio, la si descrive come una forma di ansia sociale legata al confronto e al «dovrei essere altrove». Non è una diagnosi. È un nome corto per un’allerta che i feed tengono accesa.",
+              "text": "FOMO è la sigla di fear of missing out: la paura di perdersi esperienze che altri stanno avendo. Nella ricerca di psicologia, da più di un decennio, la si descrive come un’apprensione: altri potrebbero stare vivendo esperienze gratificanti da cui sei assente, con il desiderio di restare connesso. Non è una diagnosi. È un nome corto per un’allerta che i feed tengono accesa.",
               "version": 1
             }
           ]
@@ -73,7 +128,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Sui social ha una forma precisa: le storie scadono, le chat si muovono, i like arrivano adesso. Il contenuto è fatto per sembrare incompleto. Il consenso è cauto: l’associazione tra social, confronto e malessere c’è in molta letteratura, ma non è «Instagram causa ansia». Contano sonno, ansia sociale già presente, quanto ti misuri, e a che ora. Tre segnali, più utili di un test online: apri senza scopo e chiudi peggio; controlli «tanto per»; dopo il feed la tua serata sembra un residuo. Non etichettarti. Nota quando il feed è diventato un radar.",
+              "text": "Sui social ha una forma precisa: le storie scadono, le chat si muovono, i like arrivano adesso. Il contenuto è fatto per sembrare incompleto. Il consenso è cauto: l’associazione tra social, confronto e malessere c’è in molta letteratura, ma non è «Instagram causa ansia». Contano quanto ti misuri, l’ansia che ci sta accanto — anche sociale — e se il telefono ti segue a letto. Tre segnali, più utili di un test online: apri senza scopo e chiudi peggio; controlli «tanto per»; dopo il feed la tua serata sembra un residuo. Non etichettarti. Nota quando il feed è diventato un radar.",
               "version": 1
             }
           ]
@@ -189,7 +244,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Di sera il loop si incastra col sonno: luce, letto come postazione social, «controllo solo una storia». Non è un altro articolo sul ",
+              "text": "Di sera il loop si incastra col sonno: il letto diventa postazione social, «controllo solo una storia». Non è un altro articolo sul ",
               "version": 1
             },
             {
