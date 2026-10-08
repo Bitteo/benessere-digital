@@ -8,7 +8,7 @@
     "build": "NODE_ENV=production next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --disable-warning=ExperimentalWarning --test src/lib/article-availability.test.mts src/lib/seo/llms.test.mts src/lib/seo/indexnow.test.mts src/lib/seo/indexnow-key.test.mts",
+    "test": "node --experimental-strip-types --disable-warning=MODULE_TYPELESS_PACKAGE_JSON --disable-warning=ExperimentalWarning --test src/lib/article-availability.test.mts src/lib/seo/llms.test.mts src/lib/seo/indexnow.test.mts src/lib/seo/indexnow-key.test.mts src/lib/newsletter.test.mts",
     "format": "prettier --write .",
     "format:check": "prettier --check ."
   },
