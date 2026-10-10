@@ -23,6 +23,8 @@ import chatDiClasse from './articles/chat-di-classe-whatsapp-regole-genitori-doc
 import acquistiInApp from './articles/acquisti-in-app-microtransazioni-loot-box.json'
 import blackFridayInfluencer from './articles/black-friday-influencer-pubblicita-ragazzi.json'
 import primoRegaloTech from './articles/primo-regalo-tech-natale.json'
+import controlloPrimeRelazioni from './articles/controllo-prime-relazioni-adolescenti.json'
+import sextortionFotoIntime from './articles/sextortion-foto-intime-primi-minuti.json'
 
 export const articles = [
   brainRot,
@@ -49,4 +51,6 @@ export const articles = [
   acquistiInApp,
   blackFridayInfluencer,
   primoRegaloTech,
+  controlloPrimeRelazioni,
+  sextortionFotoIntime,
 ] as ArticleSource[]

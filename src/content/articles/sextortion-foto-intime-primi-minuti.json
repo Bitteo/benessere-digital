@@ -1,0 +1,556 @@
+{
+  "slug": "sextortion-foto-intime-primi-minuti",
+  "title": "Richieste di foto intime e sextortion: cosa fare nei primi minuti",
+  "excerpt": "Lunedì 30 novembre 2026. Se qualcuno chiede una foto intima o minaccia di diffonderla: non pagare, conservare le prove, bloccare e segnalare. Una guida per ragazzi, genitori e scuola.",
+  "cover": "/images/covers/sharenting-foto-dei-figli-online.png",
+  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, un adulto accanto a un bambino guarda lo smartphone prima di condividere, con la sagoma di un feed.",
+  "publishedAt": "2026-11-30T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["sicurezza-online", "genitori-e-scuola"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Foto intime e sextortion: i primi minuti",
+    "metaDescription": "Non pagare, non cancellare, conservare le prove, bloccare e segnalare. Polizia postale, piattaforme, Garante, Take It Down e 19696.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Polizia di Stato — Sextortion: i consigli della Polizia postale",
+      "url": "https://www.poliziadistato.it/articolo/sextortion-come-difendersi-i-consigli-della-polizia-postale",
+      "note": "Pagina del 26 agosto 2022, modificata il 4 marzo 2023. Non pagare, non cancellare, screenshot, segnalazione, adulto di fiducia, denuncia autonoma dopo i 14 anni. Consigli distinti per i genitori."
+    },
+    {
+      "title": "Polizia postale — Alert sex extortion online, 10 marzo 2026",
+      "url": "https://www.commissariatodips.it/notizie/articolo/alert-sex-extortion-online/index.html",
+      "note": "Il pagamento non garantisce la cancellazione. Interrompere il contatto e conservare chat, profili e richieste."
+    },
+    {
+      "title": "Polizia postale — Segnala online",
+      "url": "https://www.commissariatodips.it/segnalazioni/segnala-online/index.html",
+      "note": "Il modulo non è una querela né una denuncia e non sostituisce il pronto intervento. Contatto urgente: 112 o 113."
+    },
+    {
+      "title": "Garante per la protezione dei dati personali — Revenge porn",
+      "url": "https://www.garanteprivacy.it/temi/revengeporn",
+      "note": "Segnalazione ex art. 144-bis del Codice. Minori di almeno 14 anni, e genitori per i minori. Decisione entro 48 ore se la richiesta rientra nella norma. L’intervento non assicura in assoluto che la diffusione non avvenga."
+    },
+    {
+      "title": "NCMEC — Take It Down",
+      "url": "https://takeitdown.ncmec.org/",
+      "note": "Hash sul dispositivo, senza invio dell’immagine, per contenuti nudi o sessualmente espliciti scattati sotto i 18 anni. Piattaforme aderenti, servizi pubblici o non cifrati. Per i 18 anni o più, la stessa pagina indica stopncii.org."
+    },
+    {
+      "title": "NCMEC — CyberTipline",
+      "url": "https://www.ncmec.org/gethelpnow/cybertipline",
+      "note": "Sistema di segnalazione dello sfruttamento sessuale online dei minori. Il NCMEC lavora per individuare un luogo e rendere la segnalazione disponibile alle forze dell’ordine competenti. Non sostituisce la Polizia italiana."
+    },
+    {
+      "title": "Meta — Intimate image abuse e sextortion",
+      "url": "https://www.meta.com/safety/topics/bullying-harassment/ncii/",
+      "note": "Segnalazione dedicata per immagini intime e minacce. Sotto i 18 anni indica Take It Down; dai 18 in su, StopNCII.org. Instagram e Facebook sono indicati come membri fondatori di Take It Down."
+    },
+    {
+      "title": "Centro assistenza Instagram — Minacce di diffondere immagini private",
+      "url": "https://www.facebook.com/help/instagram/616583228400289/",
+      "note": "Per una minaccia in cambio di denaro o di altro: forze dell’ordine locali, segnalazione a Instagram, blocco. Sotto i 18 anni, Instagram consiglia di parlarne con un genitore o un adulto di fiducia."
+    },
+    {
+      "title": "Save the Children — Stavo solo scherzando (dossier, febbraio 2026)",
+      "url": "https://s3-www.savethechildren.it/public/allegati/stavo-solo-scherzando.pdf",
+      "note": "Ipsos, 1.000 residenti in Italia di 14-18 anni, CAWI 23 settembre–2 ottobre 2025. Le quote sulle foto intime citate nel pezzo sono sul campione intero."
+    },
+    {
+      "title": "UNICEF — comunicato del 3 settembre 2026",
+      "url": "https://www.unicef.org/press-releases/1-5-children-across-21-countries-have-experienced-tech-facilitated-sexual",
+      "note": "Disrupting Harm, con ECPAT International e INTERPOL: circa 21.000 minorenni di 12-17 anni che usano internet, 21 paesi. L’Italia non è tra quei paesi. Due round: 2020-2021 e 2024-2025."
+    },
+    {
+      "title": "Telefono Azzurro — 19696 e Clicca e Segnala",
+      "url": "https://azzurro.it/ragazzi-13-18/",
+      "note": "Linea di ascolto gratuita h24. Il materiale dannoso o pedopornografico si segnala su un canale diverso: https://azzurro.it/clicca-e-segnala/"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Se ho già pagato, posso ancora denunciare?",
+      "answer": "Sì. La Polizia postale scrive che, se si paga, le richieste non si chiudono: chi ricatta capisce che c’è denaro e insiste. L’avviso del 10 marzo 2026 aggiunge che il pagamento non garantisce la cancellazione del file. Conserva la prova del versamento insieme agli screenshot di chat, minacce e profilo, e rivolgiti alla Polizia. Un secondo pagamento non è il passo successivo."
+    },
+    {
+      "question": "Devo cancellare la chat per far sparire le foto?",
+      "answer": "No. La Polizia postale chiede di non cancellare i messaggi scambiati con chi ricatta e di non chiudere il profilo su cui ti hanno contattato. Prima di ogni altra mossa fai gli screenshot delle conversazioni, delle minacce e del profilo. Immagini e video già sul telefono si tengono finché non li hai mostrati in un ufficio di Polizia. Puoi smettere di rispondere e, dopo gli screenshot, bloccare quel profilo."
+    },
+    {
+      "question": "Take It Down sostituisce la Polizia?",
+      "answer": "No. Take It Down, servizio gratuito del National Center for Missing & Exploited Children, crea sul tuo dispositivo un hash di immagini o video nudi o sessualmente espliciti scattati quando avevi meno di 18 anni. L’immagine non viene caricata e nessuno la guarda: alle piattaforme aderenti arriva solo l’hash, per i servizi pubblici o non cifrati. Possono non riuscire a togliere ciò che è già online. In Italia la segnalazione e la denuncia restano alla Polizia postale. Se nell’immagine hai 18 anni o più, NCMEC e Meta indicano StopNCII.org."
+    },
+    {
+      "question": "Se la foto l’ho mandata io, la responsabilità è mia?",
+      "answer": "No. La Polizia postale scrive di non vergognarsi per aver condiviso immagini intime con sconosciuti: a quell’età si è curiosi, e spesso chi organizza questi ricatti conosce questo punto. Aver mandato la foto non rende lecita la minaccia e non è la condizione per essere aiutati. Il passo è dirlo a un adulto, conservare le prove e rivolgersi alla Polizia."
+    }
+  ],
+  "readingTime": 10,
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lunedì 30 novembre 2026. Un messaggio chiede una foto intima, oppure una foto già inviata diventa una minaccia: se non paghi, o se non ne mandi un’altra, la vedranno i tuoi contatti. I primi minuti contano più del racconto completo. Questo pezzo dice che cosa fare in quella finestra, per chi la vive, per chi è genitore e per chi è a scuola. È una guida pratica. Aver mandato la foto non è il tema del giudizio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Due modi in cui arriva",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Polizia di Stato, in una pagina della Polizia postale aggiornata il 4 marzo 2023, descrive la sextortion come richieste di denaro per non diffondere immagini, anche tra adolescenti. Il percorso parte da profili gentili e like, poi da immagini e video sempre più espliciti, poi da somme anche piccole, con la minaccia di pubblicarle su social e chat, compresi quelli di genitori e amici. Le segnalazioni di cui parla quella pagina riguardano soprattutto ragazzi tra i 15 e i 17 anni, e anche più piccoli. Molte persone non lo dicono, per vergogna e per paura: la Polizia scrive che il fenomeno può essere sottostimato. In quella pagina non c’è una percentuale nazionale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un avviso della stessa Polizia postale, del 10 marzo 2026, descrive un copione più corto. Il profilo è falso. La confidenza arriva in fretta. La foto intima la manda per primo chi ricatta, e chiede di ricambiare. Appena riceve l’immagine, chiede denaro per non mandarla ai contatti o sui social. Il pagamento, scrive l’avviso, non garantisce la cancellazione: chi ha il file può conservarlo, duplicarlo e usarlo ancora.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "C’è anche la pressione di una persona con cui c’è, o c’è stata, una relazione. Nel dossier Save the Children «Stavo solo scherzando» — Ipsos, 1.000 adolescenti di 14-18 anni residenti in Italia, interviste online dal 23 settembre al 2 ottobre 2025, campione rappresentativo per genere, età e area, errore di campionamento tra ±0,6% e ±3,1% — il 37% del campione ha ricevuto almeno una volta richieste di foto intime da persone con cui non aveva un rapporto intimo (40% ragazze, 33% ragazzi). Il 28% ha visto condividere proprie immagini intime senza consenso (25% ragazze, 30% ragazzi). Il 28% riferisce pressioni per foto o video intimi da parte di chi ha o ha avuto una relazione (28% ragazzi, 27% ragazze). Sono episodi dichiarati almeno una volta in quell’indagine.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fuori dall’Italia, il comunicato UNICEF del 3 settembre 2026 stima che in un solo anno, in 21 paesi, 9 milioni di minorenni siano stati sollecitati a conversazioni sessuali o a condividere immagini sessuali contro la loro volontà, e che 4 milioni abbiano visto immagini sessuali di sé diffuse senza consenso. La base è Disrupting Harm (UNICEF, ECPAT International, INTERPOL): circa 21.000 persone di 12-17 anni che usano internet. I risultati valgono per chi usa internet, non per tutti i minorenni. L’Italia non è tra i 21 paesi, raccolti nel 2020-2021 e nel 2024-2025 tra Africa, Asia, America latina, Caraibi ed Europa orientale. Non è una percentuale italiana.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nello stesso comunicato, più del 40% dei casi di abuso facilitato dalla tecnologia non è stato raccontato a nessuno, e meno dell’1% è stato riferito a polizia, servizi sociali o linee di aiuto. La ragione di silenzio più comune, scrive UNICEF, è non sapere a chi dirlo. Per questo i minuti dopo la minaccia hanno un indirizzo preciso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I primi minuti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fai queste cose nell’ordine, con il telefono ancora in mano. Se serve, le rifai insieme a un adulto. L’ordine protegge le prove e interrompe il ricatto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ol",
+          "listType": "number",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Fermati. Non pagare e non mandare altre foto o altri video. La Polizia postale scrive che, se paghi, le richieste non si chiudono: chi ricatta capisce che hai denaro e insiste. L’avviso del 10 marzo 2026 aggiunge che il pagamento non garantisce la cancellazione del file.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Non cancellare la chat e non chiudere il profilo su cui ti hanno scritto. Fai gli screenshot dei messaggi, delle minacce, del profilo e delle richieste di denaro, prima di toccare altro. La Polizia chiede di conservare anche immagini e video già sul telefono, finché non li hai mostrati agli agenti.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Interrompi il contatto. Smetti di rispondere. Dopo gli screenshot, blocca il profilo. Bloccare quel profilo lascia aperto il tuo account, e l’account ti serve: lì stanno le prove.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Segnala il profilo e, se un contenuto è già pubblicato, il contenuto, con lo strumento della piattaforma. Su Instagram, il Centro assistenza indica tre mosse quando qualcuno minaccia di diffondere materiale privato in cambio di denaro o di altro: contattare le forze dell’ordine locali, segnalare la persona a Instagram, bloccarla. Meta scrive che condividere o minacciare di condividere immagini intime senza consenso è contrario alle sue regole, e che esiste una segnalazione dedicata quando qualcuno condivide immagini private. Le squadre di revisione, scrive Meta, lavorano 24 ore su 24 in più di 70 lingue. I menu delle app cambiano: segui le voci che vedi sullo schermo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Dillo a un adulto di cui ti fidi: un genitore, uno zio, un docente, qualcuno che può accompagnarti. La Polizia postale lo mette tra i passi, insieme alla segnalazione. Se hai più di 14 anni, la stessa pagina dice che puoi sporgere denuncia anche da solo, in qualsiasi ufficio di Polizia. Sotto i 18 anni, anche il Centro assistenza Instagram consiglia di parlarne con un genitore o con un adulto di fiducia.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Usa i canali della Polizia per quello che sono. Su www.commissariatodips.it puoi inviare una segnalazione. La pagina «Segnala online» dice che quel modulo non è una querela né una denuncia, e non sostituisce il pronto intervento: se hai bisogno delle forze dell’ordine subito, componi il 112 o il 113. La denuncia si formalizza in un ufficio. Porta gli screenshot. La Polizia scrive che la tempestività aiuta le indagini.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Se l’immagine ti ritrae quando avevi meno di 18 anni, puoi usare Take It Down, servizio gratuito del National Center for Missing & Exploited Children. Sul tuo dispositivo genera un hash: l’immagine non viene caricata e nessuno la vede. Le piattaforme aderenti possono cercare quella copia sui servizi pubblici o non cifrati, e possono non riuscire a togliere ciò che è già online. Non scaricare una foto per inserirla: si parte dal dispositivo su cui il file c’è già. Senza quel dispositivo, il NCMEC indica la CyberTipline. Take It Down non sostituisce la Polizia italiana. Meta indica Instagram e Facebook tra i membri fondatori, e scrive che Take It Down e StopNCII si raggiungono dalle app durante una segnalazione. Se nell’immagine hai 18 anni o più, NCMEC e Meta indicano StopNCII.org.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Se temi la diffusione, senza il tuo consenso, di immagini sessualmente esplicite nate per restare private, puoi segnalarlo al Garante per la protezione dei dati personali, articolo 144-bis del Codice. Nel modulo indichi piattaforme e ragioni. Le immagini si inviano dopo, con un link che l’Autorità comunica. Se la richiesta rientra nella norma, il provvedimento arriva entro 48 ore, salvo integrazioni, e va alle piattaforme con il materiale o con l’hash. Possono segnalare i minori di almeno 14 anni, e per i minori anche i genitori o chi ha la responsabilità genitoriale. Il Codice dice che inviare quel materiale al Garante, per questa segnalazione, non integra il reato di diffusione illecita. Il Garante aggiunge un limite: l’intervento non assicura in assoluto che la diffusione non avvenga, per esempio se esiste una copia diversa. Minacce e richieste di denaro si portano alla Polizia postale.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se hai già pagato, il passo non è un secondo pagamento. Conserva la prova del versamento insieme agli screenshot, e vai comunque alla segnalazione e alla denuncia. La Polizia non scrive che il denaro già dato chiuda il caso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa fanno un genitore e la scuola",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Polizia postale chiede agli adulti di non trattare il fatto come una leggerezza da rimproverare. Vergogna e panico, scrive, possono spingere a gesti impulsivi. Il compito descritto è un altro: ascoltare, raccogliere con calma le informazioni, dire che non è l’unico caso, fare gli screenshot e andare in un ufficio di Polizia presto, senza cancellare file e senza chiudere i profili prima di averli consegnati.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un telefono sequestrato sul tavolo della cucina, davanti a tutti, sposta l’attenzione su chi ha parlato. Le prove si copiano. Il racconto può restare tra la persona e uno o due adulti. La guida su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "proteggere senza spiare",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " riguarda un’altra scena, gli accordi di casa: qui il punto è lo stesso gesto da evitare nel momento della paura, prendere il telefono come un trofeo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A scuola il contenuto si ferma, non si discute in cerchio. Chi lo riceve in un gruppo non lo inoltra. Lo dice a un docente o al referente. Nella guida sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/cyberbullismo-a-scuola-oltre-la-denuncia",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "cyberbullismo a scuola",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " ci sono referente, dirigente, e la differenza tra una regola detta alla classe e il riassunto pubblico del fatto. La scuola non sostituisce la denuncia. Può evitare che lo screenshot arrivi all’ultima ora.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Telefono Azzurro, sul 19696, accoglie anche gli adulti che vogliono un confronto su un problema di un figlio, oltre ai ragazzi. È gratuito e attivo tutta la giornata, anche in chat. Per i contenuti online dannosi o illeciti, compreso il materiale pedopornografico, il sito indica un canale diverso, ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "https://azzurro.it/clicca-e-segnala/",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Clicca e Segnala",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": si segnala qualcosa che è già in rete. La linea 19696 resta il posto in cui parlare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nessuna colpa da assegnare",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Polizia postale scrive di non vergognarsi per aver condiviso immagini intime con sconosciuti: a quell’età si è curiosi, e spesso chi organizza questi ricatti conosce quel punto. Aver mandato la foto non rende giusta la minaccia, e non è la condizione per essere aiutati.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il comunicato UNICEF del 3 settembre 2026 chiede di spostare il peso della protezione via dai minorenni: famiglie, scuole e comunità rispondono a chi parla con supporto, e aiutano a cercare assistenza in modo sicuro. La prima frase di un adulto può essere questa. «Hai fatto bene a dirlo. Ora copiamo le chat e andiamo alla Polizia. I soldi non si mandano.»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se ho già pagato, posso ancora denunciare?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sì. La Polizia postale scrive che, se si paga, le richieste non si chiudono: chi ricatta capisce che c’è denaro e insiste. L’avviso del 10 marzo 2026 aggiunge che il pagamento non garantisce la cancellazione del file. Conserva la prova del versamento insieme agli screenshot di chat, minacce e profilo, e rivolgiti alla Polizia. Un secondo pagamento non è il passo successivo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Devo cancellare la chat per far sparire le foto?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. La Polizia postale chiede di non cancellare i messaggi scambiati con chi ricatta e di non chiudere il profilo su cui ti hanno contattato. Prima di ogni altra mossa fai gli screenshot delle conversazioni, delle minacce e del profilo. Immagini e video già sul telefono si tengono finché non li hai mostrati in un ufficio di Polizia. Puoi smettere di rispondere e, dopo gli screenshot, bloccare quel profilo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Take It Down sostituisce la Polizia?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Take It Down, servizio gratuito del National Center for Missing & Exploited Children, crea sul tuo dispositivo un hash di immagini o video nudi o sessualmente espliciti scattati quando avevi meno di 18 anni. L’immagine non viene caricata e nessuno la guarda: alle piattaforme aderenti arriva solo l’hash, per i servizi pubblici o non cifrati. Possono non riuscire a togliere ciò che è già online. In Italia la segnalazione e la denuncia restano alla Polizia postale. Se nell’immagine hai 18 anni o più, NCMEC e Meta indicano StopNCII.org.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se la foto l’ho mandata io, la responsabilità è mia?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. La Polizia postale scrive di non vergognarsi per aver condiviso immagini intime con sconosciuti: a quell’età si è curiosi, e spesso chi organizza questi ricatti conosce questo punto. Aver mandato la foto non rende lecita la minaccia e non è la condizione per essere aiutati. Il passo è dirlo a un adulto, conservare le prove e rivolgersi alla Polizia.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  }
+}
