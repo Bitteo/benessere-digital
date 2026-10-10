@@ -1,0 +1,710 @@
+{
+  "slug": "controllo-prime-relazioni-adolescenti",
+  "title": "25 novembre: il controllo nelle prime relazioni tra adolescenti",
+  "excerpt": "Mercoledì 25 novembre 2026 è la Giornata internazionale per l’eliminazione della violenza contro le donne. Posizione, password e «fammi vedere il telefono»: come distinguere fiducia e controllo, e a chi rivolgersi.",
+  "cover": "/images/covers/cyberbullismo-a-scuola-oltre-la-denuncia.png",
+  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, gruppo di studenti in discussione calma attorno a un quaderno.",
+  "publishedAt": "2026-11-25T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["sicurezza-online", "genitori-e-scuola"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Controllo e fiducia nelle prime relazioni",
+    "metaDescription": "Posizione condivisa, password e telefono controllato: che cosa dicono Istat e Save the Children, come parlarne e i numeri 1522 e 19696.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Nazioni Unite — Giornata internazionale per l’eliminazione della violenza contro le donne",
+      "url": "https://www.un.org/en/observances/ending-violence-against-women-day/background",
+      "note": "Il 7 febbraio 2000 l’Assemblea generale adotta la risoluzione 54/134 e designa il 25 novembre."
+    },
+    {
+      "title": "Istat — Stereotipi di genere e immagine sociale della violenza, ragazzi e ragazze, 2023 (testo integrale)",
+      "url": "https://www.istat.it/wp-content/uploads/2025/07/Stereotipi-di-genere-1.pdf",
+      "note": "Modulo nell’indagine Bambini e ragazzi: 39.214 risposte di residenti in Italia di 11-19 anni, 1° ottobre–20 dicembre 2023. Gelosia, controllo del cellulare e accettabilità dello schiaffo sono riferiti ai 14-19enni."
+    },
+    {
+      "title": "Istat — La violenza contro le donne dentro e fuori la famiglia, primi risultati 2025 (PDF)",
+      "url": "https://www.istat.it/wp-content/uploads/2025/11/La-violenza-contro-le-donne-dentro-e-fuori-la-famiglia_Anno-2025.pdf",
+      "note": "Stime preliminari. Circa 17.500 cittadine italiane di 16-75 anni, interviste telefoniche marzo–agosto 2025. Il 37,6% delle 16-24enni è nella tavola dei cinque anni precedenti l’intervista, fascia di confronto 16-70."
+    },
+    {
+      "title": "Save the Children — Stavo solo scherzando (dossier, febbraio 2026)",
+      "url": "https://s3-www.savethechildren.it/public/allegati/stavo-solo-scherzando.pdf",
+      "note": "Indagine Ipsos: 1.000 residenti in Italia di 14-18 anni, CAWI, 23 settembre–2 ottobre 2025, rappresentativi per genere, età e area. Livello di rappresentatività del campione del 95%, errore di campionamento tra ±0,6% e ±3,1%. Le quote sul controllo citate nel pezzo sono sul campione intero."
+    },
+    {
+      "title": "Løkkeberg, Ihlebæk, Brottveit, Del Busso — Trauma, Violence, & Abuse (2023)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11155222/",
+      "note": "Scoping review, 18 studi empirici, adolescenti di 18 anni o meno. DOI 10.1177/15248380231201816. Descrive il controllo digitale nella relazione. Non è una percentuale italiana."
+    },
+    {
+      "title": "1522 — Che cos’è il numero",
+      "url": "https://www.1522.eu/cose-1522/",
+      "note": "Gratuito, 24 ore su 24, anonimato, violenza di genere e stalking, orientamento ai centri antiviolenza."
+    },
+    {
+      "title": "Dipartimento per le pari opportunità — 1522",
+      "url": "https://www.pariopportunita.gov.it/it/numeri-utili/1522-numero-antiviolenza-e-antistalking/",
+      "note": "Vittime di violenza e stalking. Si può chiamare anche solo per un consiglio, chattare su www.1522.eu o usare l’app."
+    },
+    {
+      "title": "Telefono Azzurro — ragazzi 13-18 anni",
+      "url": "https://azzurro.it/ragazzi-13-18/",
+      "note": "19696, gratuito, 24 ore su 24, da fisso e mobile, anche in chat."
+    },
+    {
+      "title": "Polizia postale — Segnala online",
+      "url": "https://www.commissariatodips.it/segnalazioni/segnala-online/index.html",
+      "note": "Il modulo non è una denuncia e non sostituisce il pronto intervento. Per un contatto urgente: 112 o 113."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Condividere la posizione è sempre un controllo?",
+      "answer": "Una posizione accesa per il rientro, decisa da te e spegnibile, è una scelta. È controllo quando serve a verificare con chi sei, o quando un no fa litigare. Nell’indagine Ipsos per Save the Children (1.000 adolescenti di 14-18 anni in Italia, 23 settembre–2 ottobre 2025) il 32% del campione dice di essere stato geolocalizzato almeno una volta dalla persona con cui ha o ha avuto una relazione. Il 42% riferisce una videochiamata per mostrare dove era e con chi."
+    },
+    {
+      "question": "Se mi chiedono la password, che cosa posso rispondere?",
+      "answer": "La password non si condivide: il telefono resta tuo, un dubbio si dice a parole. Nell’indagine Istat del 2023 il 36% dei 14-19enni considera accettabile, sempre o in certe circostanze, che un ragazzo controlli abitualmente il cellulare o i social della propria ragazza (43,7% dei ragazzi, 27,7% delle ragazze). Base: indagine Bambini e ragazzi, 39.214 risposte di 11-19enni dal 1° ottobre al 20 dicembre 2023; le domande sulla coppia sono dei 14-19enni. È un’opinione misurata, non una regola."
+    },
+    {
+      "question": "A chi posso rivolgermi se ho paura?",
+      "answer": "Il 1522, del Dipartimento per le pari opportunità, è gratuito e attivo 24 ore su 24, anche solo per un consiglio: violenza e stalking, anonimato, orientamento ai centri antiviolenza. Si può chattare su www.1522.eu o tramite l’app. Per un adolescente, il Telefono Azzurro è il 19696, gratuito, tutto il giorno, anche in chat su azzurro.it. Per un contatto urgente con le forze dell’ordine, la Polizia postale indica il 112 o il 113."
+    },
+    {
+      "question": "Un genitore che guarda il telefono fa la stessa cosa?",
+      "answer": "Un accordo in famiglia sulla posizione del rientro si può spegnere o ridiscutere: è il tema della guida su proteggere senza spiare. Un partner che pretende la password, o che si arrabbia se la posizione è spenta, chiede un accesso continuo. La differenza è chi decide, e che cosa succede se dici di no."
+    }
+  ],
+  "readingTime": 10,
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mercoledì 25 novembre 2026 è la Giornata internazionale per l’eliminazione della violenza contro le donne. L’Assemblea generale delle Nazioni Unite l’ha designata il 7 febbraio 2000, con la risoluzione 54/134, e ogni anno invita governi, organizzazioni e associazioni a parlarne in pubblico. In una chat la giornata può arrivare in un’altra forma: una posizione sempre accesa, una password in comune, una frase detta come affetto. «Fammi vedere il telefono.»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per chi sta in una prima relazione, per chi vive con un adolescente e per chi in classe ha venti minuti. Il controllo del telefono è un punto in cui si vede se la relazione lascia uno spazio. I numeri misurano opinioni e racconti, con campione e anno. Non dicono che cosa succederà a una coppia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fiducia e controllo, sullo stesso schermo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La fiducia è una scelta che resta revocabile. Condividi la posizione per il rientro di una sera, e il giorno dopo la togli. Mostri un messaggio perché vuoi un parere, e il telefono resta tuo. Dici di no a una videochiamata, e la conversazione continua.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il controllo è una condizione per restare. La password diventa la prova che «non hai niente da nascondere». La posizione resta accesa per sapere con chi sei. Un like o un contatto nuovo diventano un interrogatorio. Ti chiedono di cancellare una chat, di non uscire con qualcuno, di non metterti un vestito. Se rifiuti, arrivano rabbia, silenzio, o la minaccia di chiudere — o di farsi del male.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gelosia e attenzione usano parole vicine. L’attenzione chiede come stai. La gelosia che controlla chiede conto di dove sei. Una posizione per un rientro, decisa da te e spegnibile, è una scelta. La stessa posizione pretesa per verificare una compagnia è un controllo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo stesso gesto pesa in modo diverso in un’altra relazione. Un accordo in famiglia sulla posizione del rientro è una regola tra un adulto e un ragazzo: ne parliamo nella guida su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "proteggere senza spiare",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Un partner della tua età che pretende lo stesso strumento chiede un accesso che non gli spetta per ruolo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa pensano i 14-19enni, in Italia",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel 2023 l’Istat ha inserito un modulo sugli stereotipi di genere e sull’immagine della violenza nell’indagine «Bambini e ragazzi». Hanno risposto 39.214 residenti in Italia di 11-19 anni, dal 1° ottobre al 20 dicembre 2023. Le domande sulla coppia sono rivolte ai 14-19enni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 29,1% dei 14-19enni è d’accordo con «la gelosia è un modo per dimostrare amore». La quota arriva al 41,3% tra i ragazzi di 14-16 anni ed è al 15,4% tra le ragazze di 17 anni e più.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Considera accettabile, sempre o in certe circostanze, che un ragazzo controlli abitualmente il cellulare o i social della propria ragazza il 36% dei 14-19enni: 43,7% dei ragazzi e 27,7% delle ragazze. Chi ha più di 16 anni è al 32,6%; i 14-16enni al 39,5%. La domanda va in un solo verso, dal ragazzo verso la ragazza. Misura un’opinione, non quante coppie lo facciano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’Istat descrive quel controllo come «una forma di violenza psicologica spesso di poco antecedente lo stalking e la violenza fisica». È il giudizio dell’Istituto sul significato del comportamento, dentro un’indagine sulle opinioni. Non è una previsione sul singolo pomeriggio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sulla violenza fisica le quote sono più basse. L’11,1% dei 14-19enni considera accettabile che in una coppia «sia normale che ci scappi uno schiaffo ogni tanto». Il 7,3% considera accettabile che un ragazzo schiaffeggi la fidanzata perché ha flirtato con un altro. Accettare il controllo del telefono, in questa indagine, è più diffuso che accettare lo schiaffo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa raccontano di aver vissuto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un’altra fonte, più vicina ai gesti, è il dossier Save the Children «Stavo solo scherzando», pubblicato a febbraio 2026, costruito su un’indagine Ipsos. Mille adolescenti di 14-18 anni residenti in Italia, rappresentativi per genere, età e area geografica, intervistati online dal 23 settembre al 2 ottobre 2025. Il livello di rappresentatività dichiarato è del 95% e l’errore di campionamento è compreso tra ±0,6% e ±3,1%.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le percentuali sono sul campione intero di mille. La domanda riguarda la persona della relazione, attuale o passata. Almeno una volta, al 44% è stato chiesto di non uscire con alcune persone, al 43% di non accettare contatti sui social, al 42% di fare una videochiamata per mostrare dove si trovava e con chi, al 40% di non vestirsi in un certo modo, al 39% di cancellare contenuti. Il 32% dice di essere stato geolocalizzato o controllato con un’app. Il 29% dice che è stato creato un profilo falso per controllarlo. Il 29% dice che gli hanno chiesto la password, o di far controllare dispositivi e profili.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sono racconti di almeno un episodio, non di una relazione fatta solo di quello. Il dossier ha anche un confronto, solo su chi ha o ha avuto una relazione ed escludendo i «non so», con un’indagine Ipsos del 2023. In quel sottocampione diverse condotte di controllo risultano più frequenti nel 2025. Il dettaglio sta nel dossier. Le opinioni Istat e questi racconti non si sommano: domande, età e calcolo sono diversi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un dato che resta su un altro piano",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’indagine Istat sulla sicurezza delle donne, primi risultati diffusi il 21 novembre 2025, misura un’altra cosa: violenze fisiche o sessuali subite dalle donne. Non misura il controllo del telefono tra adolescenti. Le cittadine italiane, circa 17.500 persone di 16-75 anni, sono state intervistate al telefono tra marzo e agosto 2025. Nel comunicato, la parte sulle donne straniere era ancora in corso: sono stime preliminari. Alcuni confronti con il 2014 usano la fascia 16-70 anni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tra le donne di 16-24 anni, il 37,6% ha subìto violenza fisica o sessuale nei cinque anni precedenti l’intervista. Nel 2014 era il 28,4%. La violenza sessuale passa dal 17,7% al 30,8%; la violenza fisica dal 17,2% al 18,8%. Sono percentuali per 100 donne di quella età, nella tavola dei cinque anni. Non misurano il controllo del cellulare e non si sommano alle cifre Ipsos. Tengono lo sfondo del 25 novembre: nelle stime preliminari, sulle più giovani, la violenza fisica o sessuale pesa più che nel 2014.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fuori dall’Italia, che cosa descrivono gli studi",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una scoping review su Trauma, Violence, & Abuse (Løkkeberg, Ihlebæk, Brottveit e Del Busso, 11 ottobre 2023) ha selezionato 18 studi empirici su adolescenti fino a 18 anni. Descrive, tra le esperienze digitali nella coppia, il controllo del partner — telefono e social compresi — e pressioni sessuali. Non dà una percentuale unica per l’Italia: gli studi misurano gesti diversi, in paesi diversi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Segnali che si possono nominare",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un segnale è un fatto che toglie una libertà. Si nomina senza farne un’etichetta clinica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Password, telefono in mano altrui, chat aperta davanti all’altra persona: un no non viene accettato.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La posizione resta visibile, o una videochiamata deve mostrare la stanza e la compagnia.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Ti chiedono di non vedere persone, di cancellare messaggi, di cambiare il modo di vestirti.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un profilo che non conosci fa le domande di chi ti sta accanto.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "A un like o a una richiesta di spazio seguono insulti, silenzi, o la frase che si farà del male.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Una foto privata diventa una minaccia.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un episodio di gelosia detto e poi discusso è un conflitto. La stessa richiesta che torna, e che riduce amici, orari e telefono, è un controllo. Il confine si vede da una prova concreta: puoi dire di no e restare al sicuro, in quella relazione, nel pomeriggio stesso?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Come parlarne",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se la richiesta arriva a te, bastano poche frasi. «La password non la condivido. Il telefono resta mio.» «La posizione la accendo per il rientro, non come regola della coppia.» «Se mi chiedi di non vedere una persona, dimmi il fatto.» Poi esci dalla chat: una discussione a mezzanotte è già un modo per tenerti lì.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se sei un genitore, chiedi della regola, non il telefono. «Chi può guardare i messaggi?» «La posizione è accesa perché lo hai deciso tu?» Prendere il dispositivo per vedere chi c’è dall’altra parte ripete il gesto da fermare. Il racconto si ascolta senza platea. Se c’è paura o una minaccia, il passo è un servizio, non un confronto che organizzi tu con l’altro ragazzo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In classe una regola si dice a tutti, senza il nome di una coppia: si può dire di no a una password, a una posizione sempre accesa, a un controllo su vestiti e amici. Chi riceve una minaccia lo dice a un adulto, invece di inoltrare lo screenshot. Se il contenuto gira già, vale la guida sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/cyberbullismo-a-scuola-oltre-la-denuncia",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "cyberbullismo a scuola",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": fermare la circolazione, referente, dirigente. Il regolamento dell’istituto resta la procedura.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A chi rivolgersi",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 1522 è promosso dal Dipartimento per le pari opportunità. È gratuito, attivo 24 ore su 24, da fisso e da mobile, con anonimato. Le operatrici rispondono su violenza di genere e stalking e orientano ai centri antiviolenza della mappatura ufficiale. Al telefono: italiano, inglese, francese, spagnolo, arabo e tedesco; altre lingue su appuntamento. Il Dipartimento dice che si può chiamare anche solo per un consiglio, e chattare su www.1522.eu o tramite l’app. I casi che il servizio tratta come emergenza seguono una procedura con le Forze dell’ordine.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 112 e il 113 sono i numeri che la Polizia postale indica, sulla pagina Segnala online, quando serve un contatto urgente con le forze dell’ordine. Il modulo di segnalazione non li sostituisce.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per un adolescente, il Telefono Azzurro indica il 19696 (anche 1.96.96): gratuito, 24 ore su 24, da fisso e da cellulare, per bambini, adolescenti e adulti, anche in chat su azzurro.it. È un ascolto. Non è una denuncia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se la minaccia è di diffondere una foto, la sequenza pratica è un’altra: non pagare, non cancellare, conservare le prove, bloccare e segnalare alla Polizia postale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una prova da questa settimana",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Detta una regola a casa o in classe, senza un caso da giudicare. La password non è una prova d’amore. La posizione si accende per un motivo e si può spegnere. Un no su un’uscita o su un contatto non si paga con un insulto. Se la regola non tiene, il 1522 e il 19696 sono aperti anche di sera.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Condividere la posizione è sempre un controllo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una posizione accesa per il rientro, decisa da te e spegnibile, è una scelta. È controllo quando serve a verificare con chi sei, o quando un no fa litigare. Nell’indagine Ipsos per Save the Children (1.000 adolescenti di 14-18 anni in Italia, 23 settembre–2 ottobre 2025) il 32% del campione dice di essere stato geolocalizzato almeno una volta dalla persona con cui ha o ha avuto una relazione. Il 42% riferisce una videochiamata per mostrare dove era e con chi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se mi chiedono la password, che cosa posso rispondere?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La password non si condivide: il telefono resta tuo, un dubbio si dice a parole. Nell’indagine Istat del 2023 il 36% dei 14-19enni considera accettabile, sempre o in certe circostanze, che un ragazzo controlli abitualmente il cellulare o i social della propria ragazza (43,7% dei ragazzi, 27,7% delle ragazze). Base: indagine Bambini e ragazzi, 39.214 risposte di 11-19enni dal 1° ottobre al 20 dicembre 2023; le domande sulla coppia sono dei 14-19enni. È un’opinione misurata, non una regola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A chi posso rivolgermi se ho paura?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 1522, del Dipartimento per le pari opportunità, è gratuito e attivo 24 ore su 24, anche solo per un consiglio: violenza e stalking, anonimato, orientamento ai centri antiviolenza. Si può chattare su www.1522.eu o tramite l’app. Per un adolescente, il Telefono Azzurro è il 19696, gratuito, tutto il giorno, anche in chat su azzurro.it. Per un contatto urgente con le forze dell’ordine, la Polizia postale indica il 112 o il 113.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un genitore che guarda il telefono fa la stessa cosa?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un accordo in famiglia sulla posizione del rientro si può spegnere o ridiscutere: è il tema della guida su proteggere senza spiare. Un partner che pretende la password, o che si arrabbia se la posizione è spenta, chiede un accesso continuo. La differenza è chi decide, e che cosa succede se dici di no.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  }
+}

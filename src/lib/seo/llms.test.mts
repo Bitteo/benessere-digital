@@ -50,6 +50,8 @@ test('llms.txt lists the indexable inventory on www and keeps smartphone-a-scuol
   assert.doesNotMatch(text, /doomscrolling-perche-il-pollice-non-si-ferma/)
   assert.doesNotMatch(text, /cyberbullismo-a-scuola-oltre-la-denuncia/)
   assert.doesNotMatch(text, /primo-smartphone-eta-e-regole/)
+  assert.doesNotMatch(text, /controllo-prime-relazioni-adolescenti/)
+  assert.doesNotMatch(text, /sextortion-foto-intime-primi-minuti/)
   assert.doesNotMatch(text, /categoria\/sicurezza-online/)
   assert.match(text, /\/categoria\/genitori-e-scuola\)/)
 
