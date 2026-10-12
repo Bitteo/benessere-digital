@@ -1,10 +1,11 @@
 {
   "slug": "telefono-in-camera-notifiche-e-sonno",
   "title": "Telefono in camera: non sono (solo) le notifiche a rovinarti il sonno",
-  "excerpt": "Dormire col telefono in camera non è solo questione di ping. Luce, abitudini a letto, FOMO e sonno spezzato: cosa dice il consenso sul sonno e un protocollo concreto, senza colpe.",
+  "excerpt": "Dormire col telefono in camera non è solo questione di ping. Luce, abitudini a letto e FOMO: cosa dicono AASM e CDC, e un protocollo concreto, senza colpe.",
   "cover": "/images/covers/telefono-in-camera-notifiche-e-sonno.png",
   "coverAlt": "Illustrazione editoriale a linee: una persona dorme nel letto, telefono sul comodino e pianta accanto.",
   "publishedAt": "2026-09-23T09:00:00.000+02:00",
+  "updatedAt": "2026-10-12T09:00:00.000+02:00",
   "authorSlugs": [
     "matteo-foroni"
   ],
@@ -12,12 +13,82 @@
     "schermo-e-tempo",
     "salute-mentale"
   ],
-  "readingTime": 7,
+  "readingTime": 10,
   "status": "published",
   "seo": {
     "metaTitle": "Telefono in camera e sonno: non sono solo le notifiche",
-    "metaDescription": "Perché il telefono in camera rovina il sonno anche in Non disturbare: luce, letto come segnale, FOMO e un protocollo pratico per giovani, senza colpe."
+    "metaDescription": "Telefono in camera e sonno, anche con Non disturbare: cosa dicono AASM e CDC su luce, letto e notifiche, e un protocollo pratico senza colpe."
   },
+  "sources": [
+    {
+      "title": "CDC — About Sleep (15 maggio 2024)",
+      "url": "https://www.cdc.gov/sleep/about/index.html",
+      "note": "Pagina aggiornata al 15 maggio 2024. In tabella: 8–10 ore per i 13–17 anni (cita Paruthi 2016) e 7 ore o più per i 18–60 anni (cita Watson 2015). Abitudini: orario stabile, camera quieta e fresca, spegnere i dispositivi elettronici almeno 30 minuti prima di dormire. La qualità è sonno continuo: tra i segnali, risvegli ripetuti e stanchezza anche dopo ore sufficienti. Non chiede di togliere il telefono dalla stanza. Non è una diagnosi."
+    },
+    {
+      "title": "Paruthi e colleghi — Recommended amount of sleep for pediatric populations (2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877308/",
+      "note": "Journal of Clinical Sleep Medicine, 12(6), 785–786. DOI 10.5664/jcsm.5866. Consenso dell’American Academy of Sleep Medicine. Chi ha 13–18 anni dovrebbe dormire 8–10 ore ogni 24 ore, con regolarità. Non è la tabella CDC, che si ferma ai 13–17 anni. Gli esiti sanitari dello statement non sono ripresi nell’articolo."
+    },
+    {
+      "title": "Watson e colleghi — Recommended amount of sleep for a healthy adult (2015)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/",
+      "note": "Sleep, 38(6), 843–844. DOI 10.5665/sleep.4716. Consenso congiunto dell’American Academy of Sleep Medicine e della Sleep Research Society. Gli adulti di 18–60 anni dovrebbero dormire 7 ore o più a notte, con regolarità. È una soglia, non la fascia 8–10 dei 13–18 anni. Gli esiti sanitari dello statement non sono ripresi nell’articolo."
+    },
+    {
+      "title": "AASM Sleep Education — Healthy Sleep Habits",
+      "url": "https://sleepeducation.org/healthy-sleep/healthy-sleep-habits/",
+      "note": "Pagina della società, aggiornata ad agosto 2020 e rivista da Shelley Hershner e Imran Shaikh. Usare il letto solo per sonno e sesso. Spegnere i dispositivi elettronici almeno 30 minuti prima. Se non ci si addormenta, alzarsi e non aprire gli schermi. La pagina cita la CBT per l’insonnia cronica: questo articolo non la propone come trattamento."
+    },
+    {
+      "title": "AASM — Make Time to Sleep",
+      "url": "https://sleepeducation.org/get-involved/campaigns/make-time-to-sleep/",
+      "note": "Campagna dell’American Academy of Sleep Medicine. Adolescenti: 8–10 ore con regolarità. Adulti: 7 ore o più. Tre gesti distinti: spegnere telefono, computer, tablet e TV almeno 30 minuti prima; silenziare le notifiche; tenere il telefono lontano dal letto. Non misura quale gesto funzioni di più."
+    },
+    {
+      "title": "AASM — Five sleep tips for parents of tired teens (25 ottobre 2016)",
+      "url": "https://sleepeducation.org/five-sleep-tips-parents-tired-teens/",
+      "note": "Per gli adolescenti: tenere fuori dalla camera TV, console, computer e tablet; un orario dopo il quale non si scrivono messaggi, non si controlla la posta o i social e non si parla al telefono; silenziare le notifiche durante il sonno. Il telefono non è nella lista «fuori dalla camera»: sta nel coprifuoco. I passaggi su depressione e pensieri suicidari non sono ripresi nell’articolo."
+    },
+    {
+      "title": "Carter, Rees, Hale, Bhattacharjee e Paradkar — Portable screen-based media devices and sleep (2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380441/",
+      "note": "JAMA Pediatrics, 170(12), 1202–1208. DOI 10.1001/jamapediatrics.2016.2341. Meta-analisi di 20 studi trasversali su bambini e adolescenti di 6–19 anni (125.198 partecipanti). Uso serale di telefoni e tablet: associazione con sonno insufficiente (OR 2.17; IC 95% 1.42–3.32), qualità peggiore (OR 1.46; IC 95% 1.14–1.88) e più sonnolenza diurna (OR 2.72; IC 95% 1.32–5.61). Accesso notturno senza uso: OR 1.79 (1.39–2.31), 1.53 (1.11–2.10) e 2.27 (1.54–3.35). Gli autori giudicano bassa la certezza (GRADE): studi non randomizzati, eterogeneità alta. Luce, arousal e sonno spostato sono ipotesi. Non è una prova che il telefono causi l’insonnia, né una misura dei micro-risvegli."
+    },
+    {
+      "title": "Chang, Aeschbach, Duffy e Czeisler — Evening use of light-emitting eReaders (2015)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4313820/",
+      "note": "PNAS, 112(4), 1232–1237. DOI 10.1073/pnas.1418490112. Dodici giovani adulti (età media circa 25 anni), in laboratorio, crossover. Circa 4 ore di lettura per 5 sere su iPad alla luminosità massima, a 38–40 cm, in stanza quasi buia, contro un libro di carta. Melatonina serale più bassa, ritmo più tardi, più tempo per addormentarsi (circa 10 minuti in media), meno sonnolenza la sera e più sonnolenza il mattino dopo. Non è un telefono fioco a 20 cm, non sono adolescenti, non misura chat o feed."
+    },
+    {
+      "title": "Scott e Woods — Fear of missing out and sleep (2018)",
+      "url": "https://eprints.gla.ac.uk/183333/1/183333.pdf",
+      "note": "Journal of Adolescence, 68, 61–65. DOI 10.1016/j.adolescence.2018.07.009. PDF del repository di Glasgow: può differire dalla versione dell’editore; l’abstract coincide con quello pubblicato. 101 adolescenti di 12–18 anni, questionari. L’uso notturno dei social si associa a letto più tardi, più arousal cognitivo prima del sonno, più tempo per addormentarsi e sonno più corto. Nel modello, la FOMO si collega a un sonno più corto per due vie: social notturni che spostano l’orario, e mente più accesa che allunga l’addormentamento. Non è un esperimento e non è una diagnosi."
+    },
+    {
+      "title": "Singh e colleghi — Blue-light filtering spectacle lenses (2023)",
+      "url": "https://openaccess.city.ac.uk/id/eprint/31201/1/Singh_et_al-2023-Cochrane_Database_of_Systematic_Reviews.pdf",
+      "note": "Cochrane Database of Systematic Reviews, 2023, Issue 8, CD013244. DOI 10.1002/14651858.CD013244.pub2. PDF aperto del repository della City, University of London. Occhiali che filtrano la luce blu, in adulti: non è Night Shift e non è Dark Mode. Sul sonno la certezza è molto bassa: sei studi randomizzati (148 persone), tre con un miglioramento e tre senza differenza. Gli autori non concludono che gli occhiali migliorino il sonno. Non è una prova sugli schermi in camera."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Se metto Non disturbare, il telefono in camera non è un problema?",
+      "answer": "No. Non disturbare toglie i suoni, non lo schermo e non l’abitudine di sbloccare. L’AASM separa tre gesti: spegnere gli schermi almeno 30 minuti prima, silenziare le notifiche, tenere il telefono lontano dal letto. Se il problema sono i ping, il silenzio con poche eccezioni è il pezzo giusto. Se il problema è lo scrolling a letto, il silenzio da solo non basta."
+    },
+    {
+      "question": "Il telefono come sveglia è un disastro?",
+      "answer": "No. È una scusa frequente, non una condanna. Se è l’unico orologio che hai, tieni il telefono fuori portata e usa solo l’app orologio. Meglio una sveglia separata. Il problema non è l’allarme delle 7:00: è quello che succede alle 00:40, quando «controllo solo l’ora» diventa un reel."
+    },
+    {
+      "question": "Night Shift, Dark Mode e occhiali «anti luce blu» bastano?",
+      "answer": "Da soli, no. Per gli occhiali «anti luce blu», una review Cochrane del 2023 non stabilisce se migliorino il sonno: sei studi, esiti misti, certezza molto bassa. Night Shift e Dark Mode non sono quella review. Possono rendere lo schermo meno fastidioso. Non spezzano l’abitudine di controllare, né il fatto che il letto sia anche il posto del feed. Se ti fanno stare meglio, usali. Non confonderli con il telefono lontano dal letto."
+    },
+    {
+      "question": "Una settimana «andata male» rovina il sonno?",
+      "answer": "No. Non è una sentenza. AASM e CDC insistono sulla regolarità: stesso orario, anche dopo una notte corta. Queste pagine non dicono che una notte corta si recuperi da sola. Non serve punirti il giorno dopo. Serve tornare alla stazione di ricarica stasera, senza bilancio morale."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",
@@ -39,7 +110,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Se ti riconosci, non sei «rotto» e non sei l’unico. Tenere il telefono in camera non è solo un vizio da correggere con la forza di volontà. È un ambiente che rende il sonno più difficile: la stanza in cui dovresti staccare è anche il posto in cui controlli, confronti e resti raggiungibile.",
+              "text": "Se ti riconosci, non sei «rotto» e non sei l’unico. Tenere il telefono in camera non è solo un vizio da correggere con la forza di volontà. È un ambiente che, negli studi su bambini e adolescenti, va insieme a un sonno più difficile: la stanza in cui dovresti staccare è anche il posto in cui controlli, confronti e resti raggiungibile.",
               "version": 1
             }
           ]
@@ -62,7 +133,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il consenso sull’igiene del sonno — quello condiviso da società scientifiche del sonno come l’American Academy of Sleep Medicine e da enti di salute pubblica come i CDC — è sobrio: la camera da letto funziona meglio se è per dormire, non per lo schermo. Per adolescenti e giovani adulti il punto è concreto. Il fabbisogno è alto (per i teenager i CDC parlano di circa 8–10 ore a notte) e gli orari di scuola o università non perdono. Ogni ritardo all’addormentamento si paga al mattino.",
+              "text": "Il consenso sull’igiene del sonno è sobrio, e non è una frase unica. L’American Academy of Sleep Medicine chiede di usare il letto per dormire, di spegnere i dispositivi almeno 30 minuti prima, di silenziare le notifiche e di tenere il telefono lontano dal letto. Per gli adolescenti aggiunge di tenere fuori dalla camera TV, console, computer e tablet, e un orario dopo il quale non si scrivono messaggi né si aprono i social. I CDC, nella pagina sul sonno aggiornata al 15 maggio 2024, chiedono un orario stabile, una camera quieta e fresca, e di spegnere i dispositivi elettronici almeno 30 minuti prima di dormire. Non scrivono «togli il telefono dalla stanza».",
               "version": 1
             }
           ]
@@ -73,7 +144,18 @@
           "children": [
             {
               "type": "text",
-              "text": "Non serve uno studio «shock». Quello che sappiamo con ragionevole certezza, da decenni di ricerca sul sonno e dalla pratica clinica — in particolare i principi della terapia cognitivo-comportamentale per l’insonnia (CBT-I) — è che il telefono in camera agisce su più canali. Le notifiche sono solo il più rumoroso.",
+              "text": "Le ore non sono un numero solo, e non vanno mischiate. Nel consenso AASM del 2016, chi ha tra 13 e 18 anni dovrebbe dormire 8–10 ore ogni 24 ore, con regolarità. Per gli adulti di 18–60 anni, il consenso congiunto con la Sleep Research Society è 7 ore o più a notte. I CDC riportano 8–10 ore per i 13–17 anni e 7 ore o più per i 18–60. Gli orari di scuola o università non si spostano: un addormentamento più tardi, con la sveglia fissa, accorcia la notte.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non serve uno studio «shock», e non è una diagnosi. Una meta-analisi di studi trasversali, su bambini e adolescenti dai 6 ai 19 anni, trova un’associazione tra telefoni e tablet intorno al sonno e tre esiti: quantità di sonno insufficiente, qualità peggiore, più sonnolenza di giorno. Vale per l’uso a letto e, a parte, per il solo fatto di avere il dispositivo a disposizione di notte, anche senza usarlo. Gli autori giudicano bassa la certezza di queste prove: non sono esperimenti, e i risultati non sono tutti uguali. Luce, contenuto che tiene svegli e sonno spostato sono spiegazioni possibili, non un meccanismo già misurato. Le notifiche sono solo il pezzo più rumoroso.",
               "version": 1
             }
           ]
@@ -96,7 +178,7 @@
           "children": [
             {
               "type": "text",
-              "text": "La luce serale, soprattutto quella ricca di lunghezze d’onda corte tipiche degli schermi, è un segnale di «è ancora giorno» per il sistema che regola veglia e sonno. Harvard Health e la letteratura sulla melatonina lo descrivono da anni: l’esposizione alla luce artificiale di sera può ritardare il segnale di sonnolenza. Non è magia blu-contro-giallo. È un cue ambientale. Anche a luminosità bassa, uno schermo a venti centimetri dal viso resta una stimolazione: luce, movimento, contenuto che chiede una risposta.",
+              "text": "La luce serale è un segnale per il ritmo di veglia e sonno, non una magia blu-contro-giallo. In un esperimento in laboratorio, dodici giovani adulti hanno letto per circa quattro ore, per cinque sere, su un iPad alla luminosità massima, a 38–40 centimetri, in una stanza quasi buia. Rispetto a un libro di carta, la melatonina serale si è abbassata, il ritmo si è spostato più tardi, ci hanno messo più tempo ad addormentarsi e al mattino si sentivano meno svegli. Non è «qualsiasi telefono, anche fioco, a venti centimetri dal viso». Il contenuto, e il fatto di restare a decidere «ancora uno», sono un altro pezzo: quello studio non li ha misurati.",
               "version": 1
             }
           ]
@@ -108,7 +190,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il letto come segnale condizionato",
+              "text": "Il letto come segnale",
               "version": 1
             }
           ]
@@ -119,7 +201,7 @@
           "children": [
             {
               "type": "text",
-              "text": "In CBT-I si usa il controllo dello stimolo: il letto dovrebbe predire sonno, non scrolling. Se ogni sera il materasso è il posto in cui apri TikTok, Instagram o WhatsApp, il cervello impara un’associazione: letto = ancora un po’ di input. Quando poi «vuoi solo dormire», il corpo è a letto ma il sistema di veglia è ancora acceso. Non è mancanza di disciplina. È condizionamento.",
+              "text": "L’AASM, nella pagina sulle abitudini di sonno, chiede di usare il letto per dormire, non come postazione per lo schermo. Se dopo 20 minuti non ti addormenti, il consiglio è alzarsi e non aprire uno schermo. Se ogni sera il materasso è il posto in cui apri TikTok, Instagram o WhatsApp, stai ripetendo un’altra abitudine: letto = ancora un po’ di input. Quando poi «vuoi solo dormire», il corpo è a letto ma la veglia può essere ancora accesa. Non è mancanza di disciplina, e non è la prova che ti sei «condizionato». È lo stesso posto, usato ogni sera per restare svegli.",
               "version": 1
             }
           ]
@@ -142,7 +224,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il telefono a portata di mano non deve suonare per interromperti. Basta sapere che potrebbe esserci un messaggio, una storia, un voto. Il controllo «veloce» è un’abitudine, non un’emergenza. Per molti giovani è anche sociale: se tutti sono online, uscire dal feed sembra perdere qualcosa. La FOMO non è un difetto di carattere. È il costo di un canale sempre aperto, messo dove cerchi di chiudere la giornata.",
+              "text": "Il telefono a portata di mano non deve suonare per interromperti. Basta sapere che potrebbe esserci un messaggio, una storia, un voto. Il controllo «veloce» è un’abitudine, non un’emergenza. In uno studio su 101 adolescenti di 12–18 anni, la paura di perdersi qualcosa andava insieme all’uso dei social di notte, a orari di letto più tardi, a una mente più accesa prima di dormire e a un sonno più corto. È un questionario, non un esperimento: nel modello la FOMO si collega a un sonno più corto attraverso due vie, l’uso notturno e l’attivazione prima del sonno, ma non dimostra che la FOMO «causi» il sonno corto. Non è una diagnosi, e non è un difetto di carattere. Per molti è anche sociale: se gli altri sono online, chiudere il feed sembra perdere qualcosa.",
               "version": 1
             }
           ]
@@ -154,7 +236,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Frammentazione, non solo «non dormo»",
+              "text": "Qualità, non solo «non dormo»",
               "version": 1
             }
           ]
@@ -165,7 +247,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Anche senza notifiche, un telefono sul comodino facilita i micro-risvegli: controllo dell’ora, «solo un’occhiata», luce in faccia, rientro nel sonno più lento. Non è sempre insonnia conclamata. È sonno più spezzato, e al mattino lo senti come stanchezza o meno pazienza a scuola. Puoi aver «dormito sette ore» e averle comunque interrotte.",
+              "text": "Anche senza notifiche, un telefono sul comodino rende facile il controllo dell’ora e «solo un’occhiata». Non c’è, nelle fonti di questo pezzo, una misura dei micro-risvegli. C’è un’associazione, negli stessi studi trasversali, tra avere il dispositivo di notte — anche senza usarlo — e sonno più corto, qualità peggiore, più sonnolenza di giorno. I CDC descrivono la qualità come sonno continuo, non solo come ore: risvegli ripetuti e stanchezza dopo ore sufficienti sono segnali che elencano loro. Puoi aver dormito le ore in tabella e averle comunque interrotte. Non è una diagnosi di insonnia.",
               "version": 1
             }
           ]
@@ -176,7 +258,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Questi meccanismi si sommano. Per questo spegnere le notifiche aiuta, ma spesso non basta.",
+              "text": "Sono pezzi diversi, non una somma già dimostrata. Spegnere le notifiche toglie i suoni. Non toglie lo schermo, né l’abitudine, né il telefono a portata di mano. L’AASM, nella campagna Make Time to Sleep, elenca tre gesti separati: spegnere telefono e altri schermi almeno 30 minuti prima, silenziare le notifiche, tenere il telefono lontano dal letto.",
               "version": 1
             }
           ]
@@ -244,7 +326,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Ridurre un po’ di luce blu può rendere lo schermo meno aggressivo. Non cancella il contenuto, l’interazione, né il fatto che stai ancora decidendo «ancora uno».",
+                  "text": "Ridurre un po’ di luce blu può rendere lo schermo meno aggressivo. Non è la prova che il sonno migliori. Una review Cochrane del 2023 sugli occhiali che filtrano la luce blu non riesce a dire se aiutino il sonno: sei studi, esiti misti, certezza molto bassa. Night Shift e Dark Mode non sono quella review. E il filtro, comunque, non cancella il contenuto, l’interazione, né il fatto che stai ancora decidendo «ancora uno».",
                   "version": 1
                 }
               ]
@@ -291,7 +373,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Separare i meccanismi serve a scegliere l’intervento. Se il problema sono i ping, Non disturbare e le eccezioni (solo chiamate di un contatto) bastano. Se il problema è lo scrolling a letto, il silenzio da solo è un cerotto.",
+              "text": "Separare i pezzi serve a scegliere il gesto. Se il problema sono i ping, Non disturbare e le eccezioni (solo chiamate di un contatto) bastano. Se il problema è lo scrolling a letto, il silenzio da solo è un cerotto.",
               "version": 1
             }
           ]
@@ -337,7 +419,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il gesto più efficace è banale: il telefono si carica in cucina, in salotto o nel corridoio. Non sul comodino. Se condividi la casa, una ciabatta comune riduce la negoziazione ogni sera («stasera lo lascio qui, tanto…»). Fuori dalla stanza il controllo notturno costa un’alzata. Quel costo è il confine.",
+              "text": "Il gesto che le guide ripetono, tradotto in casa, è banale: il telefono si carica in cucina, in salotto o nel corridoio, non sul comodino. Non è «l’intervento più efficace» misurato in uno studio. È un modo per tenere il telefono lontano dal letto, come chiede l’AASM. Se condividi la casa, una ciabatta comune riduce la negoziazione ogni sera («stasera lo lascio qui, tanto…»). Fuori dalla stanza il controllo notturno costa un’alzata. Quel costo è il confine.",
               "version": 1
             }
           ]
@@ -406,7 +488,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Su iOS e Android puoi mettere lo schermo in bianco e nero la sera. Non è scienza miracolosa: riduce l’attrattiva visiva del feed. Se ti irrita e lo disattivi dopo due minuti, non è il tuo strumento. Il confine di stanza vale di più di qualsiasi filtro.",
+              "text": "Su iOS e Android puoi mettere lo schermo in bianco e nero la sera. Non è scienza miracolosa: riduce l’attrattiva visiva del feed. Se ti irrita e lo disattivi dopo due minuti, non è il tuo strumento. Il filtro non sostituisce il telefono lontano dal letto.",
               "version": 1
             }
           ]
@@ -441,7 +523,7 @@
           "children": [
             {
               "type": "text",
-              "text": "6. Un atterraggio di 20–40 minuti",
+              "text": "6. Un atterraggio di almeno 30 minuti",
               "version": 1
             }
           ]
@@ -452,7 +534,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Luce più calda, niente contenuto che chiede risposta (chat di gruppo, commenti, news in loop). Un libro, una serie già vista, una playlist, una doccia. Non deve essere «wellness»: deve essere meno interattivo del feed. I primi giorni il corpo protesta: «e se succede qualcosa?». Quasi sempre non succede. Se succede, le chiamate ripetute passano.",
+              "text": "I CDC e l’AASM indicano almeno 30 minuti senza dispositivi elettronici prima di dormire. Luce più calda, niente contenuto che chiede risposta (chat di gruppo, commenti, news in loop). Un libro, una serie già vista, una playlist, una doccia. Non deve essere «wellness»: deve essere meno interattivo del feed. I primi giorni il corpo protesta: «e se succede qualcosa?». La chat, di solito, può aspettare. Se ti serve una via di uscita, le chiamate ripetute di una persona di fiducia possono restare attive.",
               "version": 1
             }
           ]
@@ -465,6 +547,29 @@
             {
               "type": "text",
               "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se metto Non disturbare, il telefono in camera non è un problema?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Non disturbare toglie i suoni, non lo schermo e non l’abitudine di sbloccare. L’AASM separa tre gesti: spegnere gli schermi almeno 30 minuti prima, silenziare le notifiche, tenere il telefono lontano dal letto. Se il problema sono i ping, il silenzio con poche eccezioni è il pezzo giusto. Se il problema è lo scrolling a letto, il silenzio da solo non basta.",
               "version": 1
             }
           ]
@@ -510,7 +615,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Da soli, quasi mai. Possono rendere lo schermo meno fastidioso. Non spezzano l’abitudine di controllare, né l’associazione letto-scroll. Se ti fanno stare meglio, usali. Non confonderli con il confine di stanza.",
+              "text": "Da soli, no. Per gli occhiali «anti luce blu», una review Cochrane del 2023 non stabilisce se migliorino il sonno: sei studi, esiti misti, certezza molto bassa. Night Shift e Dark Mode non sono quella review. Possono rendere lo schermo meno fastidioso. Non spezzano l’abitudine di controllare, né il fatto che il letto sia anche il posto del feed. Se ti fanno stare meglio, usali. Non confonderli con il telefono lontano dal letto.",
               "version": 1
             }
           ]
@@ -533,7 +638,7 @@
           "children": [
             {
               "type": "text",
-              "text": "No. Il sonno è plastico: una notte corta si recupera, soprattutto se hai un ritmo abbastanza stabile. Non serve punirti il giorno dopo. Serve tornare alla stazione di ricarica stasera, senza bilancio morale.",
+              "text": "No. Non è una sentenza. AASM e CDC insistono sulla regolarità: stesso orario, anche dopo una notte corta. Queste pagine non dicono che una notte corta si recuperi da sola. Non serve punirti il giorno dopo. Serve tornare alla stazione di ricarica stasera, senza bilancio morale.",
               "version": 1
             }
           ]
@@ -556,7 +661,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Non si tratta di diventare una persona che «non usa il telefono». Si tratta di non far dormire il feed nella stessa stanza in cui cerchi di spegnerti. Le notifiche sono solo il pezzo rumoroso. Luce, abitudine, FOMO e frammentazione fanno il resto — in silenzio.",
+              "text": "Non si tratta di diventare una persona che «non usa il telefono». Si tratta di non far dormire il feed nella stessa stanza in cui cerchi di spegnerti. Le notifiche sono solo il pezzo rumoroso. Luce, abitudine e FOMO possono aggiungersi — in silenzio, e senza che uno studio li abbia già sommati.",
               "version": 1
             }
           ]
