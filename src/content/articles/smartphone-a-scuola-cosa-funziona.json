@@ -1,10 +1,11 @@
 {
   "slug": "smartphone-a-scuola-cosa-funziona",
   "title": "Smartphone a scuola: oltre il divieto, cosa funziona davvero",
-  "excerpt": "Politiche smartphone a scuola in Italia: oltre il divieto totale. Un quadro pratico per docenti e istituti — istituto, classe, emergenza — senza teatralità.",
+  "excerpt": "Smartphone a scuola in Italia: note del 2024 e del 2025, studi sul divieto, e un quadro per docenti — istituto, classe, emergenza — senza teatralità.",
   "cover": "/images/covers/smartphone-a-scuola-cosa-funziona.png",
   "coverAlt": "Illustrazione editoriale a linee: ingresso di una scuola con zaini e organizer per telefoni, tono calmo, senza sequestro teatrale.",
   "publishedAt": "2026-10-07T09:00:00.000+02:00",
+  "updatedAt": "2026-10-12T09:00:00.000+02:00",
   "authorSlugs": [
     "matteo-foroni"
   ],
@@ -12,12 +13,57 @@
     "genitori-e-scuola",
     "benessere-digitale"
   ],
-  "readingTime": 7,
+  "readingTime": 11,
   "status": "published",
   "seo": {
     "metaTitle": "Smartphone a scuola: cosa funziona oltre il divieto",
-    "metaDescription": "Smartphone a scuola in Italia: oltre il divieto totale. Cosa può funzionare per docenti e istituti, tra regolamento, classe e emergenze."
+    "metaDescription": "Smartphone a scuola: note MIM 2024 e 2025, che cosa misurano gli studi sul divieto, e un quadro per istituto, classe ed emergenze."
   },
+  "sources": [
+    {
+      "title": "Goodyear, Randhawa, Adab e colleghi — School phone policies (SMART Schools) (2025)",
+      "url": "https://pure-oai.bham.ac.uk/ws/portalfiles/portal/256423016/GoodyearVA2025School.pdf",
+      "note": "The Lancet Regional Health – Europe. DOI 10.1016/j.lanepe.2025.101211. PDF dell’editore, CC BY, dal repository dell’Università di Birmingham. Studio osservazionale trasversale, non randomizzato, in 30 scuole secondarie inglesi (20 con politica restrittiva, 10 permissiva), 1.227 partecipanti di 12–15 anni, dati raccolti fra novembre 2022 e novembre 2023. Risposta delle scuole: 8,73% tra le restrittive e 10,42% tra le permissive. Benessere (WEMWBS): media 47 (deviazione standard 9); differenza media aggiustata −0,48 (intervallo di confidenza al 95% da −2,05 a 1,06, p = 0,62). Nessuna evidenza di differenza su ansia, depressione, uso problematico dei social, sonno, attività fisica, comportamento in classe, voti di inglese e matematica. In orario scolastico: telefono −0,67 ore (da −0,92 a −0,43) e social −0,54 ore (da −0,74 a −0,36). Nessuna differenza significativa sul tempo nel giorno feriale, nel weekend o nella settimana. Nella maggior parte delle scuole restrittive il telefono stava spento nello zaino. Più tempo complessivo di telefono o social si associa a esiti peggiori; il tempo durante l’orario, sul benessere, non è significativo. Non è l’Italia e non è la primaria."
+    },
+    {
+      "title": "Böttger e Zierer — To Ban or Not to Ban? (2024)",
+      "url": "https://www.mdpi.com/2227-7102/14/8/906",
+      "note": "Education Sciences, 14(8), 906. Pubblicato il 20 agosto 2024. DOI 10.3390/educsci14080906. CC BY. Rapid review su cinque studi quantitativi, non una revisione sistematica completa. Nel testo dei risultati l’effetto complessivo è d = 0,15 (p < 0,001); l’abstract scrive d = 0,162. In tabella, rendimento scolastico d = 0,05 (intervallo di confidenza al 95% da −0,04 a 0,14, p = 0,30), non significativo; benessere sociale d = 0,22 (da 0,11 a 0,32). Gli autori rifiutano l’ipotesi di un miglioramento del rendimento e tengono quella sul clima sociale. Alcuni effetti sono stati letti dai grafici. Non include Goodyear 2025. La loro raccomandazione di introdurre i divieti non è un risultato ripreso qui."
+    },
+    {
+      "title": "UNESCO — Global Education Monitoring Report 2023",
+      "url": "https://www.unesco.at/fileadmin/Redaktion/Bildung/2023GEM-Report_Tech_in_Ed_long.pdf",
+      "note": "Technology in education: A tool on whose terms? Rapporto completo, PDF aperto della Commissione nazionale UNESCO austriaca. Una meta-analisi del 2008–2017 in 14 Paesi trova un piccolo effetto negativo del cellulare sui risultati scolastici, più ampio all’università. Notifiche in arrivo, o la sola vicinanza del dispositivo, possono distrarre. Nel capitolo 8 il rapporto cita studi in Belgio, Spagna e Regno Unito in cui il divieto si associa a risultati migliori, soprattutto per chi parte più indietro. Quasi un Paese su quattro aveva un divieto in legge o in policy; nel dettaglio, il 13% in legge e il 14% in policy. Un divieto può essere legittimo se la tecnologia non migliora l’apprendimento o peggiora il benessere. Il rapporto aggiunge che serve altro: regole chiare su che cosa è permesso, il ruolo della tecnologia, e studenti che imparino rischi e opportunità. Tenerli solo lontani dal dispositivo può svantaggiarli. La Francia, nel rapporto, ha eccezioni per la disabilità e per usi pedagogici: non è la nota italiana del 2024."
+    },
+    {
+      "title": "MIM — Nota prot. 5274 dell’11 luglio 2024",
+      "url": "https://www.mim.gov.it/-/nota-n-5274-dell-11-luglio-2024",
+      "note": "Disposizioni sull’uso degli smartphone e del registro elettronico nel primo ciclo, anno scolastico 2024/2025. Il testo è nel PDF allegato a questa pagina. Segue la nota 107190 del 19 dicembre 2022. Divieto di utilizzo in classe del cellulare, anche a fini educativi e didattici, dalla scuola dell’infanzia alla secondaria di primo grado. Eccezioni: Piano educativo individualizzato, Piano didattico personalizzato, condizioni personali documentate e oggettive. Per la didattica restano pc e tablet sotto la guida dei docenti. Le scuole aggiornano regolamento e patto di corresponsabilità; sanzioni disciplinari nella secondaria di primo grado. Raccomanda di affiancare al registro elettronico la notazione sul diario. Cita il GEM Report 2023 come motivazione, inclusa una «diretta correlazione» che questo articolo non riprende. Il passaggio sull’hikikomori non è ripreso."
+    },
+    {
+      "title": "MIM — Circolare prot. 3392 del 16 giugno 2025",
+      "url": "https://www.mim.gov.it/-/circolare-n-3392-del-16-giugno-2025",
+      "note": "Disposizioni sull’uso degli smartphone nel secondo ciclo. Il testo è nel PDF allegato a questa pagina. Segue la nota 5274. Divieto per gli studenti del secondo ciclo durante l’attività didattica e, più in generale, in orario scolastico, anche a fini didattici. Le scuole aggiornano regolamento e patto, con sanzioni. L’autonomia riguarda le misure organizzative per far rispettare il divieto. Eccezioni: Piano educativo individualizzato, Piano didattico personalizzato, necessità personali motivate, e uso strettamente funzionale negli indirizzi tecnici di informatica e telecomunicazioni. Pc, tablet e lavagna elettronica restano per la didattica programmata. Il divieto non esaurisce il ruolo della scuola: resta l’educazione all’uso responsabile, con rinvio alle Linee guida per l’insegnamento dell’educazione civica (decreto ministeriale 7 settembre 2024, n. 183), non riassunte qui. Le cifre che la circolare attribuisce a OCSE, OMS e ISS non sono riprese."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Il divieto in primaria e media è sufficiente?",
+      "answer": "Come regola in classe, la nota dell’11 luglio 2024 lo dispone, anche a fini didattici, con le eccezioni di PEI, PDP e condizioni personali documentate. Come educazione all’uso, la stessa nota e la circolare del 2025 dicono che il divieto non chiude il lavoro: resta da parlare di tecnologie, cellulari, social e rischi. SMART Schools, su scuole secondarie inglesi, non trova nelle politiche restrittive un benessere migliore né un uso più basso fuori dall’orario. Non è un corso di wellness."
+    },
+    {
+      "question": "Alle superiori il telefono può restare «per studio»?",
+      "answer": "No, non come regola generale. La circolare del 16 giugno 2025 dispone il divieto anche nel secondo ciclo, durante l’attività didattica e in orario scolastico, anche a fini didattici. L’autonomia è sulle misure organizzative, non sul lasciare il telefono per studiare. Restano PEI, PDP, necessità personali motivate, e l’uso strettamente funzionale negli indirizzi tecnici di informatica e telecomunicazioni. Pc e tablet, per la didattica programmata, restano."
+    },
+    {
+      "question": "Confiscare il telefono è opportuno?",
+      "answer": "Le note non lo prescrivono. Chiedono sanzioni disciplinari nel regolamento e nel patto. Un ritiro temporaneo in orario, restituito in giornata, può stare in quel regolamento: è una scelta di istituto, non «la pratica più comune» misurata. Trattenere per giorni, o usare il telefono come riscatto, non è in quei testi. Su dubbi giuridici, la scuola ha i suoi riferimenti: non si improvvisa in corridoio."
+    },
+    {
+      "question": "E i docenti con il telefono in cattedra?",
+      "answer": "Le note parlano degli studenti, non dello scroll in cattedra. Registro elettronico o una chiamata di servizio non sono, in quei testi, la stessa cosa di un feed aperto. Non è uno studio. È coerenza: gli studenti vedono che cosa fa l’adulto nella stessa ora."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",
@@ -39,7 +85,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Non è un manifesto pro o contro. È un quadro operativo per scuole italiane: cosa tiene, cosa scivola, come non scaricare tutto sul singolo docente. Il dibattito ama i divieti netti. La giornata è fatta di eccezioni e classi che non si assomigliano.",
+              "text": "Non è un manifesto pro o contro. È un quadro per scuole italiane: che cosa dispongono le note del ministero, che cosa hanno misurato gli studi sul divieto, e come non scaricare tutto sul singolo docente. Il dibattito ama i divieti netti. La giornata è fatta di eccezioni e classi che non si assomigliano.",
               "version": 1
             }
           ]
@@ -51,7 +97,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il divieto totale risolve (e cosa non risolve)",
+              "text": "Che cosa il divieto toglie dal banco (e che cosa non misura)",
               "version": 1
             }
           ]
@@ -62,7 +108,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Un divieto chiaro riduce il pezzo più visibile: lo schermo sul banco, le storie girate in classe, la notifica che spezza una spiegazione. Su questo il consenso pratico di molti istituti è allineato. Meno rumore in aula è un obiettivo legittimo, non «tecnofobia».",
+              "text": "Un divieto chiaro punta al pezzo più visibile: lo schermo sul banco, le storie girate in classe, la notifica che spezza una spiegazione. Nello studio SMART Schools, su 1.227 ragazzi di 12–15 anni in 30 scuole secondarie inglesi, chi stava in una scuola con regole restrittive — di solito il telefono spento nello zaino — riportava meno tempo di telefono (−0,67 ore) e di social (−0,54 ore) durante l’orario scolastico. Non è un consenso degli istituti italiani, e non è una prova che l’aula sia più quieta. Meno rumore in aula resta un obiettivo legittimo. Non è, da solo, «tecnofobia».",
               "version": 1
             }
           ]
@@ -73,7 +119,18 @@
           "children": [
             {
               "type": "text",
-              "text": "Quello che il divieto da solo non fa è educare all’uso. Fuori dal cancello il feed riparte. Dentro, se la regola è solo «se lo vedo lo prendo», ottenete nascondigli e un carico disciplinare che non era nel contratto dei docenti. La ricerca sulle ban scolastiche è mista: guadagni modestissimi in alcuni studi, quasi nulla in altri. Chiarezza, coerenza e alternative pesano più dello slogan. Un divieto nudo non copre emergenze vere, accessibilità, né foto non autorizzate: vietare lo schermo in aula non è la stessa politica di proteggere la privacy di chi sta in classe.",
+              "text": "Quel minor uso in orario non è un benessere migliore, né un uso più basso nell’intera giornata. Nello stesso studio non c’è evidenza di una differenza tra scuole restrittive e scuole permissive su benessere mentale, ansia, depressione, sonno, attività fisica, voti di inglese e matematica, comportamento in classe. Sul tempo di telefono e di social nel giorno feriale e nel weekend, nei modelli aggiustati, la differenza non è significativa. È uno studio trasversale, non un esperimento: non dice che il divieto «non funziona». Dice che, così com’è stato confrontato, non risulta associato a quegli esiti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il quadro sugli apprendimenti, negli studi precedenti, non è un solo numero. Il rapporto UNESCO del 2023 citava lavori in Belgio, Spagna e Regno Unito in cui il divieto si associava a risultati scolastici migliori, soprattutto per chi partiva più indietro. Una rapid review del 2024, su cinque studi quantitativi, trova sul rendimento un effetto piccolo e non significativo (d = 0,05) e sul benessere sociale un effetto più ampio (d = 0,22). Sono cinque studi, in parte con effetti letti dai grafici, e non includono SMART Schools. «Guadagni modestissimi» o «quasi nulla» è una lettura di questi lavori, non un consenso. Il divieto, da solo, non è un programma di educazione all’uso. La circolare del 2025 lo scrive: non esaurisce il ruolo della scuola. Le note italiane, poi, non sono un divieto nudo. Prevedono eccezioni per PEI, PDP e necessità personali. Foto e riprese in classe non sono misurate da questi studi: sono un’altra regola, da scrivere a parte.",
               "version": 1
             }
           ]
@@ -96,7 +153,7 @@
           "children": [
             {
               "type": "text",
-              "text": "In Italia il quadro non è un unico interruttore. Negli ultimi anni le indicazioni ministeriali hanno ristretto l’uso in primaria e nella secondaria di primo grado, anche quando qualcuno lo giustificava «per didattica». Le superiori restano più autonome: regolamenti di istituto e patti di corresponsabilità. Il dettaglio normativo si muove: non è questo l’articolo in cui aggiornare una circolare. La domanda utile non è «è vietato sì o no?». È quale comportamento chiediamo, in quale plesso, e chi fa rispettare la regola alle 11:40. Senza protocollo locale diventa geometria variabile: severi in terza A, elastici in terza C. La scuola non risolve il conflitto domestico (chi vuole il telefono «per la strada» e chi il divieto totale): a casa servono ",
+              "text": "In Italia il quadro non è più «primaria e media sì, superiori a scelta». La nota del Ministero dell’istruzione e del merito prot. 5274 dell’11 luglio 2024, per l’anno scolastico 2024/2025, dispone il divieto di utilizzo in classe del cellulare, anche a fini educativi e didattici, dalla scuola dell’infanzia alla secondaria di primo grado. Restano i casi previsti dal Piano educativo individualizzato o dal Piano didattico personalizzato, e le condizioni personali documentate e oggettive. Per la didattica la stessa nota lascia pc e tablet, sotto la guida dei docenti. Chiede alle scuole di aggiornare il regolamento e il patto di corresponsabilità, con sanzioni disciplinari nella secondaria di primo grado. Raccomanda anche di non lasciare i compiti solo sul registro elettronico: la notazione sul diario resta, così l’alunno non dipende da un dispositivo per sapere che cosa fare a casa. La circolare prot. 3392 del 16 giugno 2025 estende il divieto agli studenti del secondo ciclo, durante l’attività didattica e più in generale in orario scolastico, anche a fini didattici. Le scuole aggiornano regolamento e patto, con sanzioni. L’autonomia che resta è sulle misure organizzative per far rispettare il divieto, non sulla scelta di lasciare il telefono «per studio». Restano le eccezioni per PEI, PDP e necessità personali motivate, e l’uso strettamente funzionale negli indirizzi tecnici di informatica e telecomunicazioni. Pc, tablet e lavagna elettronica restano per la didattica programmata dalla scuola. La nota del 2024 motiva il divieto citando, tra gli altri, il rapporto UNESCO del 2023. Non è un parere legale, e non è questo l’articolo in cui rifare quel ragionamento. La domanda utile, in istituto, è quale comportamento è scritto, in quale plesso, e chi lo applica alle 11:40. Senza un protocollo locale la stessa nota diventa geometria variabile: severi in terza A, elastici in terza C. La scuola non risolve il conflitto domestico, tra chi vuole il telefono «per la strada» e chi il divieto totale: a casa servono ",
               "version": 1
             },
             {
@@ -113,7 +170,7 @@
             },
             {
               "type": "text",
-              "text": ", non una riedizione del regolamento scolastico. La scuola può dire cosa succede tra ingresso e uscita, e cosa non è compito suo.",
+              "text": ", non una riedizione del regolamento scolastico. La scuola può dire che cosa succede tra ingresso e uscita, e che cosa non è compito suo.",
               "version": 1
             }
           ]
@@ -136,7 +193,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Le politiche che tengono separano i piani. Se tutto è «decisione del docente in quella ora», avete lotterie. Se tutto è «regolamento da 12 pagine», nessuno lo applica.",
+              "text": "Separare i piani è un modo per non lasciare la regola all’ora. Non è un risultato di studio. Se tutto è «decisione del docente in quella ora», la regola cambia con chi entra. Se tutto è «regolamento da 12 pagine», è facile che resti nel cassetto.",
               "version": 1
             }
           ]
@@ -159,7 +216,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Una regola unica per plesso, scritta in dieci righe, visibile a famiglie e studenti. Esempio per un primo grado: «Lo smartphone resta spento nello zaino o in un contenitore di classe per tutta la giornata. Si usa solo se un docente lo chiede per un’attività prevista, o in emergenza autorizzata.» Niente paragrafi su ogni app. Un posto fisico (zaino, cassetta, armadietto) batte un divieto astratto. Chi custodisce, chi apre, cosa succede in gita: ditelo prima, non dopo il primo caso.",
+              "text": "Una regola unica per plesso, scritta in poche righe, visibile a famiglie e studenti. Per il primo ciclo la nota del 2024 è già stretta: in classe il cellulare non si usa, nemmeno per un’attività didattica, salvo PEI, PDP o una condizione personale documentata. La didattica digitale, se serve, sta su pc o tablet guidati dal docente. Un posto fisico — zaino spento, cassetta, armadietto — è una misura organizzativa, non un paragrafo in più. Chi custodisce, chi apre, che cosa succede in gita: ditelo nel regolamento, prima del primo caso. Dieci righe si leggono. Non è una misura di quante righe «tengano».",
               "version": 1
             }
           ]
@@ -182,7 +239,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il docente non rinegozia la regola. Applica, e ha due o tre gesti sempre uguali: richiamo, ritiro fino a fine ora o fine giornata, comunicazione se si ripete. La teatralità del «lo porto in presidenza al terzo secondo» brucia autorità. La prevedibilità la costruisce. Se una materia ha bisogno dello schermo (foto di un esperimento, app di accessibilità), sta nel piano della lezione, non in un «oggi sì, ieri no» detto a voce.",
+              "text": "Il docente non rinegozia il divieto a ogni ora. Le note lasciano al regolamento le sanzioni, non un copione. Due gesti, sempre quelli, si possono scrivere: il richiamo, e la conseguenza che il regolamento già prevede. La teatralità del «lo porto in presidenza al terzo secondo» non è in quei testi. Se un’attività ha bisogno di uno schermo, la nota del primo ciclo indica pc e tablet sotto la guida del docente, non il telefono personale. Un’app di accessibilità, se sta nel PEI o nel PDP, è l’eccezione già scritta, non un favore detto a voce.",
               "version": 1
             }
           ]
@@ -205,7 +262,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Definite cosa è emergenza: un familiare che deve raggiungere lo studente, un problema di salute, un ritardo del trasporto. Non è emergenza il gruppo WhatsApp, il voto uscito, o «mamma ha detto di scriverle a ricreazione» se esiste già un canale scuola-famiglia. I collaboratori e la segreteria devono sapere come si passa una chiamata. Se l’unico canale è il telefono in tasca dell’alunno, il divieto è finto e lo sapete tutti.",
+              "text": "Le note non definiscono «emergenza». Prevedono necessità personali documentate o motivate, oltre a PEI e PDP. In istituto si può scrivere che cosa passa dalla segreteria: un familiare che deve raggiungere lo studente, un problema di salute, un ritardo del trasporto. Non è, in quel protocollo, il gruppo WhatsApp, il voto uscito, o «mamma ha detto di scriverle a ricreazione» se esiste già un canale scuola-famiglia. I collaboratori devono sapere come si passa una chiamata. Se l’unico canale resta il telefono in tasca, la regola scritta e la giornata non coincidono. Non c’è uno studio che misuri quel buco.",
               "version": 1
             }
           ]
@@ -217,7 +274,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Cosa funziona più del «se lo vedo lo prendo»",
+              "text": "Gesti che si possono scrivere, oltre al «se lo vedo lo prendo»",
               "version": 1
             }
           ]
@@ -228,7 +285,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Non è una lista di innovazione pedagogica. È ciò che, in molte scuole, riduce il conflitto senza fingere che il telefono non esista.",
+              "text": "Non è una lista di innovazione pedagogica, e non è ciò che «in molte scuole riduce il conflitto». Sono gesti organizzativi. SMART Schools ha confrontato politiche restrittive e permissive, non queste cinque righe.",
               "version": 1
             }
           ]
@@ -251,7 +308,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Alla prima ora i telefoni in una cassetta visibile, spenti. Fine giornata si riprendono. Meno inseguimenti in bagno. Due minuti, non un discorso.",
+                  "text": "Alla prima ora i telefoni in una cassetta visibile, spenti, e a fine giornata si riprendono. Nello studio inglese la regola restrittiva più comune era un’altra: telefono spento nello zaino. La cassetta è una scelta organizzativa, del tipo che la circolare del 2025 lascia all’istituto. Non è la prova che si insegua meno in bagno.",
                   "version": 1
                 }
               ]
@@ -268,7 +325,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Se in matematica è guerra e in arte si scrolla, imparano il docente, non la norma. Il coordinamento è noioso e batte qualsiasi circolare.",
+                  "text": "Se in matematica il telefono è spento e in arte si scrolla, la norma che gli studenti imparano è il docente. Le note chiedono un regolamento di istituto. Senza lo stesso gesto tra colleghi, quel testo resta carta. Non è una gara vinta contro la circolare.",
                   "version": 1
                 }
               ]
@@ -285,7 +342,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Orari chiari, recapiti, chi chiama chi. Toglie la scusa più usata senza umiliare chi ha un rientro complicato.",
+                  "text": "Orari, recapiti, chi chiama chi. È il pezzo che toglie al telefono in tasca il ruolo di unico collegamento. Non c’è una misura della «scusa più usata».",
                   "version": 1
                 }
               ]
@@ -302,7 +359,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Foto in classe, negli spogliatoi, durante una crisi: qui il fondamento è diverso dall’attenzione. Gli studenti distinguono «non ti distrarre» da «non riprendere gli altri».",
+                  "text": "Foto in classe, negli spogliatoi, durante una crisi: è un’altra regola, non la stessa dell’attenzione. Questi studi non misurano se gli studenti distinguono «non ti distrarre» da «non riprendere gli altri». Vale la pena scriverlo lo stesso, a parte.",
                   "version": 1
                 }
               ]
@@ -319,7 +376,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Laboratorio, carrello, computer di classe. «Prendete il vostro smartphone» riammette il feed. È il dispositivo sbagliato per un’aula di venticinque.",
+                  "text": "Laboratorio, carrello, computer di classe. Le note lasciano pc e tablet sotto la guida dei docenti, e tolgono il cellulare anche quando la giustificazione è didattica, salvo le eccezioni già dette. «Prendete il vostro smartphone» non è in quei testi. Non è, qui, la prova che sia il dispositivo sbagliato per venticinque persone.",
                   "version": 1
                 }
               ]
@@ -332,7 +389,7 @@
           "children": [
             {
               "type": "text",
-              "text": "L’equità conta. Non tutti hanno lo stesso telefono o la stessa casa a cui tornare. Una politica che assume «iPhone e genitore libero alle 13:30» lascia indietro qualcuno. Eccezioni per accessibilità o cura: poche, scritte, non favori.",
+              "text": "Le eccezioni non sono favori. Le note le scrivono: PEI, PDP, condizioni personali documentate. Il rapporto UNESCO, parlando della Francia, ricorda un divieto con eccezioni per la disabilità. Ricorda anche che chi è più svantaggiato resta spesso fuori dai benefici della tecnologia. Una regola di istituto che assume lo stesso telefono e un adulto libero all’uscita non è in quegli studi. È un punto da guardare quando si scrive il protocollo dei rientri.",
               "version": 1
             }
           ]
@@ -355,7 +412,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il patto di corresponsabilità tiene tre promesse, non quindici. Alle famiglie: in orario scolastico si passa dalla scuola, non dal telefono del figlio. Agli studenti: spento e fuori mano, salvo eccezione detta. Alla scuola: un recapito che risponde e la stessa regola in tutte le sezioni. Se i genitori scrivono in classe, il divieto è teatro. Una circolare a settembre vale più di un dibattito a maggio. Con gli studenti, niente crociata: «Qui lo schermo non compete con la lezione. Fuori potete usarlo.» Il rispetto arriva dalla prevedibilità, non da un discorso sulla dopamina in assemblea. A casa, sul sonno, il confine più utile resta spesso il ",
+              "text": "Il patto di corresponsabilità, che le note chiedono di aggiornare, può stare in tre frasi, non in quindici. Non perché uno studio abbia contato fino a tre. Alle famiglie: in orario scolastico si passa dalla scuola, non dal telefono del figlio. Agli studenti: spento e fuori mano, salvo le eccezioni scritte. Alla scuola: un recapito che risponde e la stessa regola in tutte le sezioni. Se i genitori scrivono in classe, la regola e la giornata non coincidono. Le note sono uscite prima dell’anno, a luglio 2024 e a giugno 2025: il momento per aggiornare il regolamento è quello, non un dibattito a maggio. Con gli studenti, niente crociata. «Qui lo schermo personale non sta in aula. Fuori, l’uso è un altro discorso.» Il rapporto UNESCO aggiunge che gli studenti vanno anche educati ai rischi e alle opportunità, non solo tenuti lontani dal dispositivo. Un discorso sulla dopamina in assemblea non è in queste fonti. A casa, sul sonno, il pezzo vicino è il ",
               "version": 1
             },
             {
@@ -395,7 +452,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Se dovete partire da zero, dieci giorni bastano per questo, non per una riforma:",
+              "text": "Se dovete partire da zero, questo è un protocollo corto, non una riforma e non un tempo studiato:",
               "version": 1
             }
           ]
@@ -412,7 +469,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Dieci righe di regola, differenziate per ordine di scuola se avete un istituto comprensivo.",
+                  "text": "Poche righe, distinte per primo e secondo ciclo se l’istituto li ha entrambi, con le eccezioni delle note.",
                   "version": 1
                 }
               ]
@@ -434,7 +491,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Due conseguenze, sempre quelle: ritiro fino a fine giornata la prima volta che si usa; comunicazione alla famiglia se si ripete. Niente scale da codice penale.",
+                  "text": "Due conseguenze scritte prima, non una scala inventata in corridoio. Il ritiro fino a fine giornata, se sta nel regolamento, è una scelta di istituto. Le note chiedono sanzioni, non dicono di trattenere il telefono per giorni.",
                   "version": 1
                 }
               ]
@@ -445,7 +502,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Un canale emergenze noto a famiglie e collaboratori.",
+                  "text": "Un canale, noto a famiglie e collaboratori, per le necessità che non passano dal telefono in tasca.",
                   "version": 1
                 }
               ]
@@ -456,7 +513,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Un quarto d’ora in collegio per allineare i colleghi. Senza allineamento, il resto è carta.",
+                  "text": "Un passaggio in collegio per allineare i colleghi. Senza lo stesso gesto, il regolamento resta carta.",
                   "version": 1
                 }
               ]
@@ -469,7 +526,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Poi osservate due settimane. Dove si rompe — ricreazione, bagno, cambio ora, supplenza — intervenite lì, non sul regolamento intero. Le supplenze sono il buco classico: la regola deve funzionare anche con un docente che entra per la prima volta.",
+              "text": "Poi guardate dove la giornata non coincide con il testo: ricreazione, bagno, cambio dell’ora, supplenza. Le supplenze non sono «il buco classico» misurato. Sono il punto in cui un docente che entra per la prima volta deve trovare la regola già scritta.",
               "version": 1
             }
           ]
@@ -504,7 +561,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Come segnale, spesso sì. Come educazione digitale, no: i social li incontrano comunque. La scuola può tenere il bordo in aula e, se ha tempo, fare pezzi corti su privacy. Non deve diventare un corso di wellness.",
+              "text": "Come regola in classe, la nota dell’11 luglio 2024 lo dispone, anche a fini didattici, con le eccezioni di PEI, PDP e condizioni personali documentate. Come educazione all’uso, la stessa nota e la circolare del 2025 dicono che il divieto non chiude il lavoro: resta da parlare di tecnologie, cellulari, social e rischi. SMART Schools, su scuole secondarie inglesi, non trova nelle politiche restrittive un benessere migliore né un uso più basso fuori dall’orario. Non è un corso di wellness.",
               "version": 1
             }
           ]
@@ -527,7 +584,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Può, se è scelta di istituto e lo studio non è un alibi. Documento, timer, schermo visibile. «Usatelo per cercare» senza vincoli è il feed. Molte superiori tengono lo spento in zaino e aprono eccezioni. È legittimo se è uguale in tutta la scuola.",
+              "text": "No, non come regola generale. La circolare del 16 giugno 2025 dispone il divieto anche nel secondo ciclo, durante l’attività didattica e in orario scolastico, anche a fini didattici. L’autonomia è sulle misure organizzative, non sul lasciare il telefono per studiare. Restano PEI, PDP, necessità personali motivate, e l’uso strettamente funzionale negli indirizzi tecnici di informatica e telecomunicazioni. Pc e tablet, per la didattica programmata, restano.",
               "version": 1
             }
           ]
@@ -550,7 +607,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il ritiro temporaneo in orario scolastico, previsto dal regolamento e restituito in giornata (o ai genitori), è la pratica più comune. Trattenere per giorni o usare il telefono come riscatto sproporziona il conflitto. Su dubbi giuridici, la scuola ha i suoi riferimenti: non si improvvisa in corridoio.",
+              "text": "Le note non lo prescrivono. Chiedono sanzioni disciplinari nel regolamento e nel patto. Un ritiro temporaneo in orario, restituito in giornata, può stare in quel regolamento: è una scelta di istituto, non «la pratica più comune» misurata. Trattenere per giorni, o usare il telefono come riscatto, non è in quei testi. Su dubbi giuridici, la scuola ha i suoi riferimenti: non si improvvisa in corridoio.",
               "version": 1
             }
           ]
@@ -573,7 +630,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Gli studenti vedono. Registro elettronico o emergenza è un conto; scrollare è un altro. Non è moralismo: è coerenza della regola.",
+              "text": "Le note parlano degli studenti, non dello scroll in cattedra. Registro elettronico o una chiamata di servizio non sono, in quei testi, la stessa cosa di un feed aperto. Non è uno studio. È coerenza: gli studenti vedono che cosa fa l’adulto nella stessa ora.",
               "version": 1
             }
           ]
@@ -596,7 +653,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Una politica smartphone a scuola che funziona è poco photogenica: contenitore, stessa regola tra classi, un canale per le emergenze, conseguenze corte. Il divieto può essere il bordo. Non è il programma. Il programma è: in quest’edificio, per queste ore, l’attenzione non si negozia a ogni campanella.",
+              "text": "Una regola che si può rileggere a novembre è poco photogenica: contenitore o zaino, stessa regola tra classi, un canale per le chiamate, conseguenze scritte. Il divieto, nelle note italiane, è il bordo. Il rapporto UNESCO e la circolare del 2025 aggiungono che non è tutto il programma: resta l’uso responsabile. Non è un risultato già misurato.",
               "version": 1
             }
           ]
@@ -607,7 +664,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Se lunedì l’unico cambiamento è una cassetta in fondo all’aula e dieci righe uguali per tutte le sezioni, è già più di un dibattito. Non dovete risolvere i social. Dovete fare in modo che, a metà novembre, la regola sia ancora la stessa.",
+              "text": "Se lunedì l’unico cambiamento è allineare il regolamento alle note e scrivere la stessa regola per tutte le sezioni, è un aggiornamento, non un dibattito. I social non si risolvono in collegio. Si può fare in modo che, a metà novembre, la regola scritta sia ancora quella che si applica.",
               "version": 1
             }
           ]
