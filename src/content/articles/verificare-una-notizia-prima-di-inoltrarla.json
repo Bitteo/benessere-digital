@@ -1,0 +1,516 @@
+{
+  "slug": "verificare-una-notizia-prima-di-inoltrarla",
+  "title": "Prima di inoltrare: come verificare una notizia",
+  "excerpt": "Tre controlli prima di inoltrare uno screenshot: se l’affermazione è verificabile, chi c’è dietro, e se una seconda fonte dice la stessa cosa.",
+  "cover": "/images/covers/doomscrolling-perche-il-pollice-non-si-ferma.png",
+  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, giovane a letto di notte che scorre lo smartphone.",
+  "publishedAt": "2026-10-30T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["social-media", "genitori-e-scuola"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Verificare una notizia prima di inoltrarla",
+    "metaDescription": "Lettura laterale, due fonti e niente etichetta fake news: UNESCO, Wineburg e McGrew, Pagella Politica, Facta e il Codice IFCN.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "UNESCO — Modulo 4, Media and information literacy",
+      "url": "https://www.unesco.org/mil4teachers/en/module4",
+      "note": "Curriculum 2021. Sconsiglia l’etichetta fake news. Tre capacità: riconoscere, verificare, contrastare senza amplificare."
+    },
+    {
+      "title": "EDMO — Guidelines for Effective Media Literacy Initiatives (PDF, ottobre 2024)",
+      "url": "https://edmo.eu/wp-content/uploads/2024/10/EDMO-Guidelines-for-Effective-Media-Literacy-Initiatives.pdf",
+      "note": "Definizione di media literacy ripresa dal Media Literacy Expert Group della Commissione europea: capacità tecniche, cognitive, sociali, civiche e creative."
+    },
+    {
+      "title": "Wineburg e McGrew — Lateral Reading and the Nature of Expertise (PDF)",
+      "url": "https://stacks.stanford.edu/file/druid:yk133ht8603/Wineburg%20McGrew_Lateral%20Reading%20and%20the%20Nature%20of%20Expertise.pdf",
+      "note": "10 storici, 10 fact-checker, 25 studenti di Stanford. Lettura laterale, orientamento e click restraint. Non è un campione di adolescenti italiani."
+    },
+    {
+      "title": "Pagella Politica — Progetto e metodo",
+      "url": "https://pagellapolitica.it/progetto",
+      "note": "Online dal 3 ottobre 2012. Firmataria IFCN dal 2017. Almeno due fonti, fonti primarie, due cicli di revisione, pagina delle correzioni."
+    },
+    {
+      "title": "Facta — Chi siamo",
+      "url": "https://www.facta.news/chi-siamo",
+      "note": "Progetto del 2020 sulla disinformazione non politica. IFCN da marzo 2021. Segnalazioni su WhatsApp al 342 1829843 e all’email segnalazioni@facta.news."
+    },
+    {
+      "title": "IFCN — The commitments of the Code of Principles",
+      "url": "https://ifcncodeofprinciples.poynter.org/know-more/the-commitments-of-the-code-of-principles",
+      "note": "Stesso standard per ogni verifica, fonti replicabili, trasparenza dei finanziamenti, correzioni. Un badge non elencato tra i firmatari non fa di un sito un firmatario."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Se lo ha scritto un amico, devo verificarlo lo stesso?",
+      "answer": "Sì, se stai per inoltrarlo. Un amico può avere visto la stessa schermata che hai visto tu, senza una seconda fonte. Pagella Politica, nel metodo pubblicato sul sito, usa almeno due fonti, tranne quando ne esiste una sola pertinente, e preferisce le fonti primarie. Il fatto che il messaggio arrivi da una persona che conosci dice chi te l’ha mandato. Non dice se l’affermazione regge."
+    },
+    {
+      "question": "Aprire il sito e leggere la pagina «Chi siamo» basta?",
+      "answer": "No. Wineburg e McGrew, nello studio con 10 fact-checker, 10 storici e 25 studenti universitari di Stanford, chiamano lettura verticale il restare dentro il sito. Loghi e nomi di dominio si possono costruire. La lettura laterale è un’altra mossa: dopo uno sguardo, esci e apri schede nuove per capire chi c’è dietro. La pagina «Chi siamo» è una di quelle schede, non l’unica."
+    },
+    {
+      "question": "Un’opinione si verifica come un numero?",
+      "answer": "No. Pagella Politica sceglie dichiarazioni che si basano su fatti o numeri verificabili, e cita la frase come è stata detta, con il link. «Questa legge è ingiusta» è un giudizio. «Questa legge vale dal 1° marzo» è un’affermazione che si può controllare su una fonte primaria. Se non è controllabile, non si inoltra come se fosse un fatto."
+    },
+    {
+      "question": "Il badge di un fact-checker sulla home garantisce il sito?",
+      "answer": "No. Il Codice IFCN dice che un’organizzazione con il badge, se non è nell’elenco dei firmatari, non è firmataria. L’elenco sta sul sito dell’IFCN. Pagella Politica è firmataria dal 2017, Facta da marzo 2021: sono due progetti della stessa società, con metodi pubblici. Il badge da solo, su un sito che non conosci, non chiude la verifica."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Venerdì 30 ottobre 2026. In una chat arriva uno screenshot: una frase, un numero, un «condividi prima che lo tolgano». Il dito è già sul pulsante. Chi ha mandato il messaggio non ha scritto la notizia. L’ha incontrata, e la velocità della chat premia chi la passa avanti. Fermarsi non è un sospetto verso l’amico. È il tempo di capire se c’è qualcosa da verificare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per chi inoltra, per chi vive con un ragazzo che inoltra, e per chi in classe ha venti minuti. Non chiede di non credere a niente. Chiede tre mosse prima dell’inoltro: se l’affermazione si può controllare, chi sta dietro la pagina, e se una seconda fonte dice la stessa cosa. Le mosse vengono da pagine aperte. Non da una percentuale di «ragazzi che cascano nelle bufale»: quel numero, qui, non c’è, perché non l’abbiamo misurato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non chiamarla fake news e poi inoltrarla",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il modulo 4 del curriculum UNESCO di media and information literacy, del 2021, sconsiglia l’etichetta fake news. Se il contenuto è falso, scrive, non è una notizia. Il modulo usa misinformation come termine generico e, a un altro livello, distingue disinformation, misinformation e mal-information. Non è un glossario da interrogazione. È un modo per non chiudere il discorso con un’etichetta e poi premere inoltra lo stesso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo stesso modulo assegna alla literacy tre capacità: riconoscere il contenuto falso o dannoso, smontarlo con il fact-checking, e, quando serve, contrastarlo senza amplificarlo ancora. La terza è quella che in una chat si dimentica. Una smentita incollata sotto lo screenshot, inoltrata al gruppo, fa viaggiare anche lo screenshot. Prima di rispondere a tutti, la domanda è se il gruppo aveva già quel contenuto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’EDMO, nelle linee guida per iniziative di media literacy dell’ottobre 2024, riprende la definizione del gruppo di esperti della Commissione europea. Media literacy è un’espressione ombrello: capacità tecniche, cognitive, sociali, civiche e creative che permettono di accedere ai media, capirli in modo critico e interagire. L’EDMO scrive che una literacy migliore è verosimile che aumenti la resistenza a misinformazione e disinformazione. È una frase di indirizzo, non una percentuale misurata su una classe.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Uscire dal sito, non leggerlo tutto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sam Wineburg e Sarah McGrew hanno confrontato come tre gruppi valutano informazioni online, in uno studio poi uscito su Teachers College Record. Il campione è piccolo e specifico: 10 storici con dottorato, 10 fact-checker professionisti, 25 studenti universitari di Stanford. In sessioni sul web vivo hanno ragionato ad alta voce su temi come salario minimo, bullismo e tenure degli insegnanti. Non è un campione di adolescenti italiani. È un confronto tra chi fa quel mestiere e chi, pur essendo studente in un’università molto tecnica, valuta i siti in un altro modo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Storici e studenti, nello studio, restavano spesso dentro il sito. Logo, impaginazione, dominio: tratti facili da costruire. I fact-checker, dopo uno sguardo, uscivano e aprivano schede nuove per giudicare chi c’è dietro. Gli autori la chiamano lettura laterale. Nello stesso lavoro descrivono altre due mosse. Prendere un orientamento: capire in che zona del web sei finito, prima di leggere tutto. Click restraint: sulla pagina dei risultati, leggere titoli e frammenti prima di aprire il primo link. In un compito, una fact-checker ha saltato i primi risultati legati a una parte in causa e ha aperto articoli di tre testate e Wikipedia, dopo aver guardato i frammenti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il risultato che gli autori riportano è qualitativo, non una classifica nazionale. I fact-checker arrivavano a conclusioni più giustificate in una frazione del tempo. Non significa che uno studente «non è capace». Significa che la mossa utile non è leggere meglio la pagina che ti hanno mandato. È aprire un’altra scheda.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa fa, in pratica, un fact-checker",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Pagella Politica, online dal 3 ottobre 2012, pubblica il metodo. Dal 2017 è firmataria del Codice dei principi dell’International Fact-Checking Network. Seleziona dichiarazioni politiche verificabili, citando la frase come è stata detta e lasciando il link. Usa almeno due fonti, preferibilmente di più, tranne quando ne esiste una sola pertinente. Preferisce fonti primarie. Se usa una fonte secondaria, spiega perché. Prima della pubblicazione, due cicli di revisione da due fact-checker diversi, oltre all’autore. Chiunque può replicare. Le correzioni stanno in una pagina dedicata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un punto del metodo è facile da saltare, e in classe è utile. Se i dati vengono aggiornati dopo, Pagella Politica non riscrive l’analisi: la verifica riguarda i dati disponibili al momento della dichiarazione, gli stessi che aveva chi parlava. Una cifra vera oggi può non essere la cifra che circolava ieri. Quando inoltri uno screenshot vecchio, la data fa parte del controllo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Facta, lanciata nell’aprile 2020 dalla stessa società per la disinformazione non politica, è firmataria IFCN da marzo 2021 e del codice dell’European Fact-Checking Standards Network dal 2023. Gran parte del lavoro, scrive, parte dalle segnalazioni. C’è un numero WhatsApp, 342 1829843, oltre a email e canali social. Non è un dovere dello studente segnalare. È la prova che anche una redazione non vede tutto da sola: qualcuno manda il contenuto, e qualcun altro apre le fonti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Codice IFCN, sulla pagina degli impegni, chiede lo stesso standard qualunque sia chi ha detto la frase. Chiede fonti abbastanza dettagliate perché il lettore possa rifare il percorso, fonti primarie quando ci sono, e più di una fonte salvo il caso in cui ne esista una sola pertinente. Chiede trasparenza sui finanziamenti, e che chi finanzia non decida le conclusioni. Chiede una politica di correzioni visibile. Lo status di firmatario non si dà a un’organizzazione il cui lavoro editoriale è controllato da uno Stato, da un partito o da un politico. E il badge in homepage non basta: se l’organizzazione non è nell’elenco dei firmatari, non è firmataria.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Venti minuti, su un messaggio vero",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In classe non serve un caso famoso. Serve un messaggio che qualcuno ha davvero ricevuto, con la data visibile e senza mettere in mezzo una persona. Tre domande, nello stesso ordine.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "È un’affermazione controllabile o un giudizio? Se è un giudizio, non si verifica come un numero. Si può discutere. Non si inoltra come fatto.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chi c’è dietro? Esci dalla pagina. Cerca il nome del sito, non solo il titolo. Guarda se una testata che conosci ne parla, e se quella testata sta copiando la stessa fonte.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La seconda fonte dice la stessa cosa, con la stessa data? Se la seconda fonte è lo stesso testo incollato altrove, non è una seconda fonte.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se una delle tre resta senza risposta, il messaggio non si inoltra «nel dubbio». Il dubbio è proprio la ragione per fermarsi. Inoltrare per avvertire gli altri è ancora un inoltro: lo screenshot viaggia un’altra volta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A casa, la stessa sequenza sta in un minuto, prima di passare il messaggio a un altro gruppo. Non è un interrogatorio a chi l’ha mandato. Si può rispondere «lo guardo e ti dico». Quella frase tiene il rapporto e toglie la fretta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è lo stesso problema del pollice che non si ferma",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Scorrere notizie una dopo l’altra, di sera, senza chiudere, è un’altra abitudine: ne parliamo nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/doomscrolling-perche-il-pollice-non-si-ferma",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "doomscrolling",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui il gesto è uno solo, l’inoltro, e si può interrompere senza sparire dalle chat. Anche la paura di essere l’ultimo a saperlo ha un nome e un’altra porta, nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FOMO e JOMO",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Verificare non chiede di uscire dal gruppo. Chiede di non fare da altoparlante a una frase che non hai controllato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una prova da questa settimana",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La prossima volta che un messaggio ti chiede di passarlo avanti, non aprirlo solo dentro la chat. Apri una scheda. Cerca chi ha pubblicato la frase, non la frase da sola. Se trovi una fonte primaria — un testo di legge, un dato di un istituto, un comunicato — confronta il numero e la data con lo screenshot. Se non la trovi, non inoltrare. Puoi dire che non sei riuscito a verificarla. È una risposta completa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se lo ha scritto un amico, devo verificarlo lo stesso?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sì, se stai per inoltrarlo. Un amico può avere visto la stessa schermata che hai visto tu, senza una seconda fonte. Pagella Politica, nel metodo pubblicato sul sito, usa almeno due fonti, tranne quando ne esiste una sola pertinente, e preferisce le fonti primarie. Il fatto che il messaggio arrivi da una persona che conosci dice chi te l’ha mandato. Non dice se l’affermazione regge.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Aprire il sito e leggere la pagina «Chi siamo» basta?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Wineburg e McGrew, nello studio con 10 fact-checker, 10 storici e 25 studenti universitari di Stanford, chiamano lettura verticale il restare dentro il sito. Loghi e nomi di dominio si possono costruire. La lettura laterale è un’altra mossa: dopo uno sguardo, esci e apri schede nuove per capire chi c’è dietro. La pagina «Chi siamo» è una di quelle schede, non l’unica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un’opinione si verifica come un numero?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Pagella Politica sceglie dichiarazioni che si basano su fatti o numeri verificabili, e cita la frase come è stata detta, con il link. «Questa legge è ingiusta» è un giudizio. «Questa legge vale dal 1° marzo» è un’affermazione che si può controllare su una fonte primaria. Se non è controllabile, non si inoltra come se fosse un fatto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il badge di un fact-checker sulla home garantisce il sito?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Il Codice IFCN dice che un’organizzazione con il badge, se non è nell’elenco dei firmatari, non è firmataria. L’elenco sta sul sito dell’IFCN. Pagella Politica è firmataria dal 2017, Facta da marzo 2021: sono due progetti della stessa società, con metodi pubblici. Il badge da solo, su un sito che non conosci, non chiude la verifica.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  },
+  "readingTime": 8
+}

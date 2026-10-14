@@ -95,6 +95,23 @@ test('november safety drafts stay off public pages, sitemap and llms.txt', () =>
   }
 })
 
+test('friday drafts stay off public pages, sitemap and llms.txt', () => {
+  for (const slug of [
+    'password-passkey-una-chiave-per-account',
+    'verificare-una-notizia-prima-di-inoltrarla',
+    'permessi-app-fotocamera-microfono-posizione',
+    'leggere-su-carta-o-su-schermo',
+  ]) {
+    const article = loadArticle(slug)
+    assert.equal(article.status, 'draft')
+    assert.equal(article.seo?.noIndex, true)
+    assert.equal(isPubliclyAvailable(article, past), false)
+    assert.equal(isPubliclyAvailable(article, future), false)
+    assert.equal(isIndexableArticle(article, past), false)
+    assert.equal(isIndexableArticle(article, future), false)
+  }
+})
+
 test('an already-due published article is public', () => {
   const article = loadArticle('accordi-di-schermo-ragazzi-8-14')
   assert.equal(article.status, 'published')

@@ -25,6 +25,10 @@ import blackFridayInfluencer from './articles/black-friday-influencer-pubblicita
 import primoRegaloTech from './articles/primo-regalo-tech-natale.json'
 import controlloPrimeRelazioni from './articles/controllo-prime-relazioni-adolescenti.json'
 import sextortionFotoIntime from './articles/sextortion-foto-intime-primi-minuti.json'
+import passwordPasskey from './articles/password-passkey-una-chiave-per-account.json'
+import verificareNotizia from './articles/verificare-una-notizia-prima-di-inoltrarla.json'
+import permessiApp from './articles/permessi-app-fotocamera-microfono-posizione.json'
+import leggereCartaSchermo from './articles/leggere-su-carta-o-su-schermo.json'
 
 export const articles = [
   brainRot,
@@ -53,4 +57,8 @@ export const articles = [
   primoRegaloTech,
   controlloPrimeRelazioni,
   sextortionFotoIntime,
+  passwordPasskey,
+  verificareNotizia,
+  permessiApp,
+  leggereCartaSchermo,
 ] as ArticleSource[]
