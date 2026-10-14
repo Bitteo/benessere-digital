@@ -7,7 +7,7 @@
   "publishedAt": "2026-11-04T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "sicurezza-online"],
-  "readingTime": 8,
+  "readingTime": 12,
   "status": "published",
   "seo": {
     "metaTitle": "Cyberbullismo a scuola: oltre la denuncia",
@@ -16,32 +16,47 @@
   },
   "sources": [
     {
-      "title": "Gazzetta Ufficiale — Legge 17 maggio 2024, n. 70",
-      "url": "https://www.gazzettaufficiale.it/eli/gu/2024/05/30/125/sg/pdf",
-      "note": "GU n. 125 del 30 maggio 2024, in vigore dal 14 giugno. Riscrive parti della legge 29 maggio 2017, n. 71: azioni formative ed educative (art. 1 della 71), regolamento di istituto e referente fra i docenti (art. 4, comma 3, della 71). Il passaggio sulle autorità è l’art. 5 della 71, sostituito da questa legge: nei casi più gravi ovvero se le condotte sono reiterate e, comunque, quando le iniziative educative non hanno prodotto esito, il dirigente riferisce alle autorità."
+      "title": "Normattiva — Legge 29 maggio 2017, n. 71, testo vigente",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-05-29;71",
+      "note": "Disposizioni a tutela dei minori per la prevenzione e il contrasto dei fenomeni del bullismo e del cyberbullismo. Testo vigente, che include le modifiche della legge 17 maggio 2024, n. 70, in vigore dal 14 giugno 2024. Non si citano insieme il PDF della Gazzetta e la scheda dello stesso atto: sono la stessa legge. Art. 1: prevenzione e contrasto privilegiando azioni formative ed educative; obbligo di chi ha la responsabilità genitoriale di orientare i figli all’uso corretto delle tecnologie e di vigilarne l’uso. Il bullismo (comma 1-bis) è aggressione o molestia reiterate. Il cyberbullismo (comma 2) è più largo e non ripete i tre criteri intenzione-ripetizione-squilibrio. Art. 4: codice interno, tavolo permanente di monitoraggio, recepimento delle linee nel regolamento, docente referente. Art. 5, comma 1, salvo che il fatto costituisca reato: il dirigente applica le procedure delle linee, informa tempestivamente i genitori, promuove iniziative educative. Nei casi più gravi, se le condotte sono reiterate e comunque quando l’educazione non ha esito, riferisce alle autorità. «Tempestivamente» è sull’informazione ai genitori, non un termine in ore."
     },
     {
-      "title": "Gazzetta Ufficiale — scheda della legge 17 maggio 2024, n. 70",
-      "url": "https://www.gazzettaufficiale.it/eli/id/2024/05/30/24G00086/sg",
-      "note": "Identificativo dell’atto (24G00086). Il testo degli articoli è nel PDF della stessa Gazzetta. Non è una circolare di istituto e non dice in quante ore denunciare."
+      "title": "MIM — Linee di orientamento, decreto prot. 18 del 13 gennaio 2021",
+      "url": "https://www.mim.gov.it/-/decreto-ministeriale-n-18-del-13-gennaio-2021",
+      "note": "Linee di orientamento per la prevenzione e il contrasto del bullismo e del cyberbullismo. Il testo è nel PDF allegato a questa pagina. Docente referente. È utile costituire, in ogni scuola o plesso, un Team Antibullismo e un Team per l’Emergenza. I docenti segnalano gli episodi al referente o al team. Negli episodi acuti la prima azione è orientata a proteggere chi ha subito. Schema suggerito: colloquio individuale con la vittima, colloquio individuale con chi ha agito, possibile colloquio congiunto solo se le condizioni di consapevolezza lo consentono. Incontro fra le parti solo se sono pronte e il team rileva un pentimento reale. Se il comportamento ha rilevanza penale, la scuola segnala all’autorità giudiziaria. Per le segnalazioni di cyberbullismo il dirigente informa tempestivamente la famiglia, come indica la legge 71/2017, sentiti i team. Le linee non prescrivono il sequestro del telefono."
+    },
+    {
+      "title": "MIM — Nota prot. 121 del 20 gennaio 2025",
+      "url": "https://www.mim.gov.it/web/miur-usr-campania/-/protocollo-nr-121-del-20-01-2025-aoodgsip-d-g-per-lo-studente-l-integrazione-e-la-partecipazione-disposizioni-a-tutela-dei-minori-per-la-prevenzione-e",
+      "note": "Nota nazionale AOODGSIP prot. 121 del 20 gennaio 2025, adempimenti delle scuole dopo la legge 17 maggio 2024, n. 70. Questa pagina dell’USR Campania la ripubblica con il PDF allegato. Le scuole applicano le procedure delle linee di orientamento del decreto prot. 18 del 13 gennaio 2021. L’art. 4, come modificato, chiede il codice interno, il tavolo permanente di monitoraggio, il recepimento nel regolamento e il docente referente. Le linee prevedono anche Team Antibullismo e Team per l’Emergenza. La nota dà notizia del tavolo tecnico nazionale istituito con decreto 18 novembre 2024, n. 232: non è ripreso nel testo. Non aggiunge un termine in ore per la denuncia."
+    },
+    {
+      "title": "Vaillancourt, Faris e Mishna — Cyberbullying in children and youth (2017)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5455867/",
+      "note": "Canadian Journal of Psychiatry, 62(6), 368–373. Online il 19 dicembre 2016, fascicolo di giugno 2017. DOI 10.1177/0706743716684791. Testo aperto su PMC. Applicare online intenzione, ripetizione e squilibrio di potere è difficile: l’intenzione si legge male senza il tono; un atto solo può persistere perché si condivide e si rivede; la tecnologia può creare lo squilibrio (anonimato, pubblico, marginalizzazione). Non è uno studio di prevalenza italiano e non è un protocollo per i docenti."
+    },
+    {
+      "title": "Corcoran, Mc Guckin e Prentice — Cyberbullying or cyber aggression? (2015)",
+      "url": "https://www.mdpi.com/2075-4698/5/2/245",
+      "note": "Societies, 5(2), 245–255. DOI 10.3390/soc5020245. Articolo aperto. Le definizioni importano spesso intenzione, ripetizione e squilibrio di potere, ma quegli elementi sono difficili da identificare online. Gli autori sostengono che l’etichetta «cyberbullismo» può essere troppo stretta rispetto all’aggressione online. Non c’è una definizione condivisa. Non è la legge italiana e non misura che cosa dire in classe."
     }
   ],
   "faq": [
     {
       "question": "Devo sporgere denuncia io, subito?",
-      "answer": "Non ogni episodio parte dalla questura, e non spetta a un articolo dirti se questo è un reato. La legge distingue la via educativa da quella in cui il dirigente informa le autorità, in particolare nei casi gravi o reiterati. Se c’è un pericolo immediato, la tutela della persona viene prima del dibattito. Per il resto: regolamento, referente, dirigente. Non un gruppo di chat che «decide di denunciare» al posto della scuola."
+      "answer": "Non ogni episodio parte dalla questura, e non spetta a un articolo dirti se questo è un reato. L’art. 5 della legge 71, salvo che il fatto costituisca reato, distingue le iniziative educative dal rinvio alle autorità: nei casi più gravi, se la condotta è reiterata, e comunque quando l’educazione non ha prodotto esito. Le linee del 2021 aggiungono un passaggio diverso: se il comportamento ha rilevanza penale, la scuola segnala all’autorità giudiziaria. «Tempestivamente», nella legge, riguarda l’informazione ai genitori, non un conteggio di ore. Se c’è un pericolo immediato, la tutela della persona viene prima del dibattito. Per il resto: regolamento, referente, dirigente. Non un gruppo di chat che «decide di denunciare» al posto della scuola."
     },
     {
       "question": "Sequestrare i telefoni risolve?",
-      "answer": "No. Può servire, dentro le regole dell’istituto, a interrompere un giro in quel momento. Non spegne un contenuto già inoltrato e non sostituisce l’ascolto. Uno spettacolo di sequestri sposta l’attenzione su di te e lascia il contenuto dove già sta: sui telefoni degli altri."
+      "answer": "No, e le linee di orientamento del 2021 non lo prescrivono. Può servire, dentro le regole dell’istituto, a interrompere un giro in quel momento. Non spegne un contenuto già inoltrato e non sostituisce l’ascolto. Uno spettacolo di sequestri sposta l’attenzione su di te e lascia il contenuto dove già sta: sui telefoni degli altri."
     },
     {
       "question": "Una sola storia crudele è già cyberbullismo?",
-      "answer": "Può esserne l’inizio, soprattutto se resta online e se c’è uno squilibrio. Può anche essere un episodio grave che va fermato senza l’etichetta completa. Non gonfiare per sembrare rigoroso. Non minimizzare perché è «una storia sola». Guarda intenzione, potere, diffusione, e come sta la persona il giorno dopo."
+      "answer": "Dipende da quale definizione usi, e non coincidono. Nella ricerca i tre criteri — intenzione, ripetizione, squilibrio — sono difficili da applicare online, e un contenuto solo può restare visibile. Nella legge italiana il bullismo richiede la reiterazione; il cyberbullismo è definito in modo più largo e non copia quei tre criteri. Un episodio grave si ferma comunque. L’etichetta non decide la prima mossa: proteggere chi è stato bersaglio, non rilanciare il contenuto, avvisare referente e dirigente."
     },
     {
       "question": "Che cosa dico alla classe?",
-      "answer": "Una regola, senza il riassunto del fatto. Non si inoltra un contenuto che ferisce. Chi lo riceve lo dice a un adulto invece di farlo girare. Poi si lavora. I discorsi lunghi sul «fenomeno», senza una regola concreta, lasciano l’aula più ansiosa e non più capace."
+      "answer": "Una regola, senza il riassunto del fatto. Non si inoltra un contenuto che ferisce. Chi lo riceve lo dice a un adulto invece di farlo girare. Poi si torna al programma. Queste fonti non misurano se un discorso lungo sul «fenomeno» lasci l’aula più ansiosa. Le linee chiedono di non fare del caso un secondo pubblico."
     }
   ],
   "content": {
@@ -65,7 +80,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il cyberbullismo non è «internet fa male» e non è ogni lite in chat. È un comportamento che fa danno, con un’intenzione, con una sproporzione di potere, e con una durata: si ripete, oppure un singolo contenuto resta, si inoltra, non scade con la campanella. Online si aggiungono tre cose che in cortile pesavano meno. Il pubblico può essere largo. Il contenuto resta. La giornata scolastica non chiude il caso alle 14.",
+              "text": "Il cyberbullismo non è «internet fa male» e non è ogni lite in chat. Nella ricerca una tradizione porta online tre criteri del bullismo: intenzione, ripetizione, squilibrio di potere. Vaillancourt, Faris e Mishna (2017) scrivono che online quei criteri sono difficili. L’intenzione si legge male senza il tono. Un atto solo può restare, perché il contenuto si può condividere e rivedere. La tecnologia stessa può creare lo squilibrio: anonimato, pubblico, marginalizzazione. Corcoran, Mc Guckin e Prentice (2015) aggiungono che non c’è una definizione condivisa, e che l’etichetta può essere stretta rispetto all’aggressione online. Non sono studi sulla prevalenza in Italia e non sono un protocollo per i docenti. La legge italiana, più sotto, non copia quei tre criteri. Restano tre fatti pratici, anche senza l’etichetta: il pubblico può essere largo, il contenuto resta, la giornata scolastica non chiude il caso alle 14.",
               "version": 1
             }
           ]
@@ -76,7 +91,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Non ogni cattiveria è bullismo. Un insulto isolato, una lite tra pari, una battuta caduta male vanno visti per quello che sono: conflitti, a volte gravi, non automaticamente un’etichetta. Gonfiare tutto a «cyberbullismo» produce panico e procedure storte. Minimizzare — «è solo un gruppo» — lascia solo chi sta subendo. Il lavoro dell’adulto è distinguere, in fretta e senza teatro.",
+              "text": "Non ogni cattiveria è bullismo nel senso della legge. Nell’art. 1 della legge 29 maggio 2017, n. 71, il bullismo è l’aggressione o la molestia reiterate, idonee a provocare ansia, timore, isolamento o emarginazione. Il cyberbullismo, nello stesso articolo, è più largo e non chiede i tre criteri della ricerca: pressione, aggressione, molestia, ricatto, ingiuria, denigrazione, diffamazione, furto d’identità, alterazione, acquisizione illecita, manipolazione o trattamento illecito di dati personali in danno di minorenni, per via telematica, e anche la diffusione di contenuti online — pure su familiari — il cui scopo intenzionale e predominante sia isolare un minore o un gruppo, con un serio abuso, un attacco dannoso o la messa in ridicolo. Un insulto isolato, una lite tra pari, una battuta caduta male vanno visti per quello che sono. Gonfiare tutto a «cyberbullismo» produce panico e procedure storte. Minimizzare — «è solo un gruppo» — lascia solo chi sta subendo. Il lavoro dell’adulto è distinguere, in fretta e senza teatro. Un episodio grave si ferma anche se l’etichetta non è chiusa.",
               "version": 1
             }
           ]
@@ -218,7 +233,7 @@
                 },
                 {
                   "type": "text",
-                  "text": " La mediazione può arrivare. Il primo giorno, se chi ha subito non è al sicuro, l’incontro è un’altra esposizione. Non è codardia. È ordine.",
+                  "text": " Le linee di orientamento del 2021 suggeriscono il colloquio individuale con chi ha subito e con chi ha agito; il colloquio insieme solo se le condizioni di consapevolezza lo consentono. Far incontrare le due parti solo se sono pronte e il team vede un pentimento reale. Il primo giorno, se chi ha subito non è al sicuro, l’incontro è un’altra esposizione. Non è codardia. È ordine.",
                   "version": 1
                 }
               ]
@@ -243,7 +258,7 @@
           "children": [
             {
               "type": "text",
-              "text": "In Italia la prevenzione e il contrasto di bullismo e cyberbullismo stanno in una legge del 2017, la n. 71, aggiornata nel 2024 dalla legge n. 70. L’impostazione dichiarata privilegia azioni formative ed educative, non solo la sanzione. Le norme chiedono alle scuole di integrare il regolamento e di individuare un docente referente che coordini. Nei casi più gravi o se le condotte si ripetono, e comunque quando gli interventi educativi non hanno esito, il dirigente riferisce alle autorità competenti.",
+              "text": "In Italia la prevenzione e il contrasto di bullismo e cyberbullismo stanno nella legge 29 maggio 2017, n. 71, nel testo vigente, che include le modifiche della legge 17 maggio 2024, n. 70, in vigore dal 14 giugno 2024. L’art. 1 privilegia azioni formative ed educative e affida a chi esercita la responsabilità genitoriale l’orientamento a un uso corretto delle tecnologie e la vigilanza sull’uso. L’art. 4 chiede a ogni scuola, in autonomia e in conformità alle linee di orientamento, un codice interno e un tavolo permanente di monitoraggio, di recepire le linee nel regolamento — comprese le procedure — e di individuare fra i docenti un referente che coordini. L’art. 5, salvo che il fatto costituisca reato, prevede che il dirigente applichi le procedure delle linee, informi tempestivamente i genitori e promuova iniziative educative, anche con una mediazione di classe. Nei casi più gravi, oppure se le condotte sono reiterate, e comunque quando le iniziative educative non hanno prodotto esito, il dirigente riferisce alle autorità competenti. «Tempestivamente» riguarda l’informazione ai genitori, non un termine in ore per la denuncia.",
               "version": 1
             }
           ]
@@ -254,7 +269,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Questo articolo non è una circolare e non sostituisce gli atti del tuo istituto. Non ti dice in quante ore, con quale modulo, né se «questo» caso va in questura. Quei passaggi stanno nelle linee di orientamento del ministero e nel regolamento della scuola. Se un testo online ti dà un minutaggio legale, sta indovinando. Tu apri il testo dell’istituto e parli con il referente e con il dirigente.",
+              "text": "Questo articolo non è una circolare e non sostituisce gli atti del tuo istituto. Non ti dice in quante ore, con quale modulo, né se «questo» caso va in questura. Le Linee di orientamento adottate con decreto prot. 18 del 13 gennaio 2021 indicano il docente referente e ritengono utile un Team Antibullismo e un Team per l’Emergenza. I docenti segnalano gli episodi al referente o al team. Negli episodi acuti la prima azione è orientata a proteggere chi ha subito. Se il comportamento ha rilevanza penale, le linee scrivono che la scuola deve segnalarlo all’autorità giudiziaria. Per le segnalazioni di cyberbullismo il dirigente informa tempestivamente la famiglia, sentiti i team. Le linee non prescrivono il sequestro del telefono. La nota del Ministero prot. 121 del 20 gennaio 2025 richiama le scuole a quelle procedure e agli obblighi dell’art. 4 come modificato. Non aggiunge un conteggio di ore. Se un testo online ti dà un minutaggio legale, sta indovinando. Tu apri il regolamento dell’istituto e parli con il referente e con il dirigente.",
               "version": 1
             }
           ]
@@ -265,7 +280,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Due errori simmetrici. Trattare ogni episodio come un fascicolo penale, e paralizzarsi. Trattare ogni episodio come «roba da ragazzi», e non aprire nemmeno la procedura interna. La via di mezzo è noiosa ed è quella giusta: fatti, tutela di chi ha subito, intervento educativo su chi ha agito, famiglie informate con misura, autorità quando il caso è grave o non si ferma. La calma è il tono. Non è un rinvio di una settimana «per vedere se si calma da solo», mentre un contenuto continua a girare.",
+              "text": "Due errori simmetrici. Trattare ogni episodio come un fascicolo penale, e paralizzarsi. Trattare ogni episodio come «roba da ragazzi», e non aprire nemmeno la procedura interna. La via di mezzo è noiosa ed è quella giusta: fatti, tutela di chi ha subito, intervento educativo su chi ha agito, famiglie informate con misura. Le autorità entrano nei casi più gravi o reiterati, quando l’educazione non ha esito, e — se il fatto ha rilevanza penale — con la segnalazione che le linee indicano come obbligo della scuola. La calma è il tono. Non è un rinvio di una settimana «per vedere se si calma da solo», mentre un contenuto continua a girare.",
               "version": 1
             }
           ]
@@ -602,7 +617,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Non ogni episodio parte dalla questura, e non spetta a un articolo dirti se questo è un reato. La legge distingue la via educativa da quella in cui il dirigente informa le autorità, in particolare nei casi gravi o reiterati. Se c’è un pericolo immediato, la tutela della persona viene prima del dibattito. Per il resto: regolamento, referente, dirigente. Non un gruppo di chat che «decide di denunciare» al posto della scuola.",
+              "text": "Non ogni episodio parte dalla questura, e non spetta a un articolo dirti se questo è un reato. L’art. 5 della legge 71, salvo che il fatto costituisca reato, distingue le iniziative educative dal rinvio alle autorità: nei casi più gravi, se la condotta è reiterata, e comunque quando l’educazione non ha prodotto esito. Le linee del 2021 aggiungono un passaggio diverso: se il comportamento ha rilevanza penale, la scuola segnala all’autorità giudiziaria. «Tempestivamente», nella legge, riguarda l’informazione ai genitori, non un conteggio di ore. Se c’è un pericolo immediato, la tutela della persona viene prima del dibattito. Per il resto: regolamento, referente, dirigente. Non un gruppo di chat che «decide di denunciare» al posto della scuola.",
               "version": 1
             }
           ]
@@ -625,7 +640,7 @@
           "children": [
             {
               "type": "text",
-              "text": "No. Può servire, dentro le regole dell’istituto, a interrompere un giro in quel momento. Non spegne un contenuto già inoltrato e non sostituisce l’ascolto. Uno spettacolo di sequestri sposta l’attenzione su di te e lascia il contenuto dove già sta: sui telefoni degli altri.",
+              "text": "No, e le linee di orientamento del 2021 non lo prescrivono. Può servire, dentro le regole dell’istituto, a interrompere un giro in quel momento. Non spegne un contenuto già inoltrato e non sostituisce l’ascolto. Uno spettacolo di sequestri sposta l’attenzione su di te e lascia il contenuto dove già sta: sui telefoni degli altri.",
               "version": 1
             }
           ]
@@ -648,7 +663,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Può esserne l’inizio, soprattutto se resta online e se c’è uno squilibrio. Può anche essere un episodio grave che va fermato senza l’etichetta completa. Non gonfiare per sembrare rigoroso. Non minimizzare perché è «una storia sola». Guarda intenzione, potere, diffusione, e come sta la persona il giorno dopo.",
+              "text": "Dipende da quale definizione usi, e non coincidono. Nella ricerca i tre criteri — intenzione, ripetizione, squilibrio — sono difficili da applicare online, e un contenuto solo può restare visibile. Nella legge italiana il bullismo richiede la reiterazione; il cyberbullismo è definito in modo più largo e non copia quei tre criteri. Un episodio grave si ferma comunque. L’etichetta non decide la prima mossa: proteggere chi è stato bersaglio, non rilanciare il contenuto, avvisare referente e dirigente.",
               "version": 1
             }
           ]
@@ -671,7 +686,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Una regola, senza il riassunto del fatto. Non si inoltra un contenuto che ferisce. Chi lo riceve lo dice a un adulto invece di farlo girare. Poi si lavora. I discorsi lunghi sul «fenomeno», senza una regola concreta, lasciano l’aula più ansiosa e non più capace.",
+              "text": "Una regola, senza il riassunto del fatto. Non si inoltra un contenuto che ferisce. Chi lo riceve lo dice a un adulto invece di farlo girare. Poi si torna al programma. Queste fonti non misurano se un discorso lungo sul «fenomeno» lasci l’aula più ansiosa. Le linee chiedono di non fare del caso un secondo pubblico.",
               "version": 1
             }
           ]
