@@ -7,7 +7,7 @@
   "publishedAt": "2026-10-28T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "sicurezza-online"],
-  "readingTime": 8,
+  "readingTime": 11,
   "status": "published",
   "seo": {
     "metaTitle": "Controllo genitori sullo smartphone, senza spiare",
@@ -17,31 +17,56 @@
   "sources": [
     {
       "title": "Stattin e Kerr — Parental monitoring: A reinterpretation (2000)",
-      "url": "https://eric.ed.gov/?id=EJ620380",
-      "note": "Child Development, 71(4), 1072–1085. Su quattordicenni svedesi, ciò che i genitori sanno arriva soprattutto da quello che i figli raccontano (child disclosure), non dal pedinamento. Tracking e sorveglianza non sono la prescrizione che gli autori raccomandano. La scheda non fissa un’età per lo smartphone."
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11016567/",
+      "note": "Child Development, 71(4), 1072–1085. DOI 10.1111/1467-8624.00210. La scheda aperta è l’abstract d’autore su PubMed, non il PDF dell’editore. 703 quattordicenni del centro della Svezia e i loro genitori. Ciò che i genitori sanno arriva soprattutto dalla disclosure dei figli. La disclosure è la voce più vicina alle condotte di rottura delle norme e ai contatti con la polizia: vale per entrambi i resoconti, per entrambi i sessi, con o senza condotte problematiche. Conclusione degli autori: tracking e sorveglianza non sono la prescrizione migliore. Non misura la lettura segreta delle chat e non fissa un’età per lo smartphone."
     },
     {
-      "title": "Kiesner, Dishion, Poulin e Pastore — Temporal dynamics of parent monitoring (2010)",
+      "title": "Kiesner, Dishion, Poulin e Pastore — A cross-national comparison of the temporal dynamics of parent monitoring (2009)",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2788335/",
-      "note": "Riprende Stattin e Kerr (2000): controllo, sollecitazione e disclosure. In quel lavoro, considerate insieme, solo la disclosure dei ragazzi restava legata in modo affidabile alle condotte di rottura delle norme. Lo studio di Kiesner e colleghi, su 13–14enni italiani e franco-canadesi, non trova effetti a un anno di distanza. Non è una licenza a non chiedere."
+      "note": "Social Development, 18(4), 765–784. Pubblicato il 14 settembre 2009. DOI 10.1111/j.1467-9507.2008.00525.x. PMID 19966920. Testo aperto su PMC. Campione italiano N = 152 e franco-canadese N = 151, 13–14 anni. Separa controllo genitoriale, sollecitazione e disclosure, come Stattin e Kerr. Nel lavoro originale, considerate insieme, solo la disclosure dei ragazzi restava legata in modo affidabile alle condotte di rottura delle norme. Qui le correlazioni bivariate ci sono, nello stesso momento e a un anno. Nel modello a equazioni strutturali, controllate stabilità e associazioni contemporanee, gli effetti incrociati da un anno all’altro quasi spariscono. Non è la prova che «quando lo scopre smette di raccontare». Non è una licenza a non chiedere. Non è uno studio sulle app."
+    },
+    {
+      "title": "Munzer, Parga-Belinkie, Milkovich e colleghi — Digital Ecosystems, Children, and Adolescents (2026)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13122503/",
+      "note": "Pediatrics, 157(2), e2025075320. DOI 10.1542/peds.2025-075320. Policy statement dell’American Academy of Pediatrics, Council on Communications and Media, testo aperto su PMC. La ricerca non indica un’età unica per il primo telefono: varia da ragazzo a ragazzo. Ai caregiver chiede di impostare e tenere d’occhio privacy, download, contenuti, acquisti e tempi, e di usare controlli genitoriali su router, telefoni, tablet, console, account social e dispositivi scolastici, dentro un Family Media Plan per tutta la famiglia. Non è uno studio sulla lettura segreta delle chat. L’associazione citata nello statement su un telefono più presto per le ragazze, e la fascia di 1–2 ore, non sono riprese qui. Scade dopo 5 anni se non viene riconfermato."
+    },
+    {
+      "title": "Bozzola e colleghi — Digital media exposure and pediatric health (2026)",
+      "url": "https://ijponline.biomedcentral.com/articles/10.1186/s13052-026-02198-6",
+      "note": "Italian Journal of Pediatrics. Pubblicato il 23 gennaio 2026. DOI 10.1186/s13052-026-02198-6. Revisione aperta della Commissione Dipendenze Digitali della Società Italiana di Pediatria. Raccomandazioni usate qui: rinviare lo smartphone personale almeno fino ai 13 anni; evitare l’accesso a Internet senza supervisione prima dei 13 e abilitare i controlli genitoriali dopo. Sono raccomandazioni di commissione su una letteratura in gran parte associativa, non un trial di un accordo di cucina. Obesità, miopia e neuroimaging non sono ripresi."
+    },
+    {
+      "title": "Garante privacy — Minori e nuove tecnologie (febbraio 2021)",
+      "url": "https://www.garanteprivacy.it/documents/10160/0/MINORI+E+NUOVE+TECNOLOGIE+-+Consigli+ai+%C2%ABGRANDI%C2%BB+per+un+utilizzo+sicuro+da+parte+dei+%C2%ABPICCOLI%C2%BB.pdf/bea17fd1-3e37-981b-b4e1-de46ad37e8ad?version=3.0",
+      "note": "Vademecum «Minori e nuove tecnologie. Consigli ai “grandi” per un utilizzo sicuro da parte dei “piccoli”», febbraio 2021. PDF aperto. I programmi di parental control possono: blocchi e filtri su funzioni e pagine; liste di parole; informazioni sull’uso (siti, chiamate, messaggi); limiti di orario e di tempo; geolocalizzazione del dispositivo, anche in emergenza. Se si installa un’app, leggere l’informativa: quali dati, per quali fini, eventuali destinatari. Non dice che ogni app accende il microfono e non vieta la lettura dei messaggi."
+    },
+    {
+      "title": "Dipartimento per le politiche della famiglia — Set informativo sul parental control (2025)",
+      "url": "https://famiglia.governo.it/media/cikfhy2s/set-informativo_parental-control_dipofam_giugno-2025.pdf",
+      "note": "Set informativo 2025, PDF aperto, redatto per il Dipartimento per le politiche della famiglia (Presidenza del Consiglio) in base all’art. 13, comma 3, del decreto-legge 15 settembre 2023, n. 123, convertito dalla legge 13 novembre 2023, n. 159. Definisce il parental control come strumento, per genitori o per chi esercita la responsabilità genitoriale, per evitare l’esposizione a contenuti inappropriati. Permette di filtrare contenuti inadeguati, bloccare alcune attività e limitare il tempo sui dispositivi. Si presenta come complemento delle linee guida AGCOM allegate alla delibera 9/23/CONS. Non dice che legge WhatsApp e non dice se un ragazzo è triste."
+    },
+    {
+      "title": "AGCOM — Tutela dei minori: parental control",
+      "url": "https://www.agcom.it/agcom-per-te/i-miei-diritti/tutela-dei-minori-parental-control",
+      "note": "Pagina istituzionale sulla delibera 9/23/CONS del 25 gennaio 2023, linee guida per l’art. 7-bis del decreto-legge 30 aprile 2020, n. 28. Gli operatori di accesso a Internet devono offrire gratis sistemi di parental control, cioè filtri di contenuti inappropriati per i minori e blocco dei contenuti riservati ai maggiori di 18 anni. Disattivazione, riattivazione e configurazione spettano ai maggiorenni titolari del contratto o a chi esercita la responsabilità genitoriale. È un filtro di rete e di contenuti, non la lettura della chat del telefono."
     }
   ],
   "faq": [
     {
       "question": "Leggere WhatsApp è proteggerlo?",
-      "answer": "Quasi mai, se è di nascosto e per abitudine. È sorveglianza. Un’eccezione stretta — un rischio serio, detto, temporaneo — non è uno stile educativo. Se ti serve leggere tutto per stare tranquillo, la tranquillità non arriverà dal testo. Arriverà, se arriva, da un rapporto in cui le cose difficili hanno un posto."
+      "answer": "Se è di nascosto e per abitudine, non è il controllo che queste fonti descrivono. Stattin e Kerr non raccomandano tracking e sorveglianza come prescrizione. Un’eccezione stretta — un rischio serio, detto, temporaneo — non è uno stile educativo. Il Garante elenca, fra le funzioni possibili, anche informazioni su chiamate e messaggi, e chiede di leggere l’informativa se installi un’app: non è un via libera a mesi di lettura silenziosa. Se ti serve leggere tutto per stare tranquillo, il testo non è la fonte di quella tranquillità."
     },
     {
       "question": "Qual è l’età giusta per il primo smartphone?",
-      "answer": "Non c’è un numero che la ricerca possa firmare al posto tuo. Contano sonno, scuola, chi lo contatta, e se in casa esiste un accordo. Un telefono presto con regole visibili può essere più sano di un telefono tardi dato come resa. Il pezzo da non saltare è il patto, non il compleanno."
+      "answer": "Non c’è un’età unica che la ricerca firmi al posto tuo. L’AAP, nel 2026, scrive che non c’è un’età specifica per il primo telefono: dipende dal ragazzo. La Società Italiana di Pediatria raccomanda di rinviare lo smartphone personale almeno fino ai 13 anni e di evitare Internet senza supervisione prima di quell’età, con i controlli genitoriali dopo. Un telefono prima, anche con regole visibili, non risulta «più sano» in queste fonti. Il pezzo da non saltare è il patto, insieme all’età che hai scelto di spiegare."
     },
     {
       "question": "I controlli di sistema bastano?",
-      "answer": "Bastano per i bordi: orari, acquisti, una parte dei contenuti, una posizione concordata. Non bastano per sapere se sta bene. Se un venditore ti dice il contrario, sta parlando del suo prodotto, non di tuo figlio."
+      "answer": "Servono per i bordi che il Dipartimento e l’AAP descrivono: tempi, download o acquisti, una parte dei contenuti, e — se è detta — la posizione. Non dicono se sta bene. Il filtro che gli operatori devono offrire, delibera AGCOM 9/23/CONS, è un altro strato: è gratuito, lo configura un adulto e non legge la chat. Se un venditore ti dice che un’app basta a sapere come sta, sta parlando del suo prodotto, non di tuo figlio."
     },
     {
       "question": "E se lo aggira?",
-      "answer": "Succederà, in parte. Nominalo senza umiliarlo: «La regola era questa, l’hai spostata, la rivediamo». Poi decidi se il bordo era troppo stretto o se la conseguenza che avevate scritto vale ancora. Umiliare insegna a nascondere meglio. Rivedere la regola insegna che il patto è una cosa viva."
+      "answer": "Può succedere. Queste fonti non misurano quanto spesso, né in quanto tempo. Nominalo senza umiliarlo: «La regola era questa, l’hai spostata, la rivediamo». Poi decidi se il bordo era troppo stretto o se la conseguenza che avevate scritto vale ancora. Umiliare non è un esito misurato qui. Rivedere la regola tiene il patto visibile."
     }
   ],
   "content": {
@@ -88,7 +113,7 @@
           "children": [
             {
               "type": "text",
-              "text": "In psicologia dello sviluppo, una linea di studi associata a Håkan Stattin e Margaret Kerr distingue tre vie. Il controllo: regole e limiti. La sollecitazione: chiedere. La disclosure: quello che il ragazzo racconta di sua iniziativa. Quello che i genitori sanno della vita dei figli adolescenti è associato più spesso a quello che i ragazzi scelgono di dire che allo spionaggio. Non è una licenza a disinteressarti. È un motivo per non confondere «ho letto tutto di nascosto» con «so come sta».",
+              "text": "In psicologia dello sviluppo, Stattin e Kerr distinguono tre vie. Il controllo: regole e limiti. La sollecitazione: chiedere. La disclosure: quello che il ragazzo racconta di sua iniziativa. Nel loro studio del 2000, su 703 quattordicenni del centro della Svezia e sui loro genitori, ciò che i genitori sanno arriva soprattutto dalla disclosure. È anche la voce più vicina alle condotte di rottura delle norme e ai contatti con la polizia, nei resoconti di entrambi e per entrambi i sessi. Gli autori concludono che tracking e sorveglianza non sono la prescrizione migliore. Lo studio non misura le chat lette di nascosto e non indica un’età per il telefono. La scheda aperta è l’abstract, non il PDF dell’editore. Non è una licenza a disinteressarti. È un motivo per non confondere «ho letto tutto di nascosto» con «so come sta».",
               "version": 1
             }
           ]
@@ -99,7 +124,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Se l’unico canale è la lettura segreta, due cose si rompono insieme. Tu hai dati e non hai contesto. Lui, quando lo scopre — e lo scopre — smette di raccontare proprio le cose per cui avresti avuto bisogno di una frase detta in cucina. Il controllo che non si dichiara compra un’occhiata e vende il canale.",
+              "text": "Se l’unico canale è la lettura segreta, resti con dati e senza contesto. Kiesner e colleghi, su ragazzi di 13–14 anni in un campione italiano e in uno franco-canadese, trovano correlazioni fra monitoraggio e condotte, anche a un anno di distanza. Nel modello che tiene conto della stabilità e delle associazioni dello stesso momento, gli effetti da un anno all’altro quasi spariscono. Non è la prova che «quando lo scopre smette di raccontare». Non è nemmeno una licenza a non chiedere. Lo studio separa controllo, sollecitazione e disclosure, come Stattin e Kerr, e non è uno studio sulle app. Il controllo che non si dichiara compra un’occhiata e non apre il canale.",
               "version": 1
             }
           ]
@@ -220,7 +245,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Nessuno di questi ti dice se è triste, se subisce pressioni, se una chat lo sta schiacciando. Quello, se arriva, arriva da una frase. Lo strumento tiene il bordo. Il rapporto tiene il centro.",
+              "text": "Nessuno di questi ti dice se è triste, se subisce pressioni, se una chat lo sta schiacciando. Quello, se arriva, arriva da una frase. Il Dipartimento per le politiche della famiglia, nel set informativo del 2025, definisce il parental control come uno strumento per evitare contenuti inappropriati: filtrare, bloccare alcune attività, limitare il tempo sul dispositivo. Non legge WhatsApp e non dice se un ragazzo sta bene. Si affianca ai sistemi che gli operatori devono offrire secondo la delibera AGCOM 9/23/CONS: un filtro di contenuti, gratuito, che configurano i maggiorenni titolari del contratto o chi esercita la responsabilità genitoriale. Non è la lettura della chat. L’American Academy of Pediatrics, nel policy del 2026, chiede di impostare e tenere d’occhio privacy, download, contenuti, acquisti e tempi, dentro un piano familiare. Lo strumento tiene il bordo. Il rapporto tiene il centro.",
               "version": 1
             }
           ]
@@ -231,7 +256,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Le app vendute come «controllo parentale invisibile» — quelle che promettono di leggere messaggi, accendere il microfono, vedere ogni foto senza che il figlio lo sappia — sono un altro prodotto. Mettono i dati di un minore in mano a un terzo. Insegnano che la protezione è un inganno. E, il giorno in cui la cosa viene fuori, non avrai un dialogo: avrai un incidente. Non è una guida tecnica. È una ragione per non costruirci sopra la genitorialità.",
+              "text": "Il Garante per la protezione dei dati personali, nel vademecum del febbraio 2021, elenca che cosa può fare un programma di parental control: blocchi e filtri, liste di parole, informazioni sull’uso (siti, chiamate, messaggi), limiti di tempo, geolocalizzazione del dispositivo, anche per un’emergenza. Se installi un’app, chiede di leggere l’informativa: quali dati, per quali fini, eventuali destinatari. Non dice che ogni app accende il microfono e non vieta di leggere i messaggi. Le app vendute come controllo invisibile — messaggi, microfono, foto senza che il figlio lo sappia — restano un altro prodotto rispetto a un filtro detto ad alta voce. Il giorno in cui la cosa viene fuori, il dialogo parte da un incidente. Non è una guida tecnica. È una ragione per non costruirci sopra la genitorialità.",
               "version": 1
             }
           ]
@@ -356,7 +381,7 @@
           "children": [
             {
               "type": "text",
-              "text": "I ragazzi aggirano i lucchetti. È una competenza, non una sorpresa. Per questo il lucchetto da solo è un piano fragile. L’accordo aggirato si può nominare. Lo spionaggio scoperto si può solo subire. E una regola che non sapresti leggere ad alta voce davanti a lui non è una regola: è un sospetto con un’icona. Senza una conseguenza detta prima, e applicata senza umiliazione, anche le tre righe diventano teatro.",
+              "text": "I lucchetti si possono aggirare. Queste fonti non misurano quanto spesso, né in quanto tempo. Per questo il lucchetto da solo è un piano fragile. L’accordo aggirato si può nominare. Lo spionaggio scoperto si può solo subire. E una regola che non sapresti leggere ad alta voce davanti a lui non è una regola: è un sospetto con un’icona. Senza una conseguenza detta prima, e applicata senza umiliazione, anche le tre righe diventano teatro.",
               "version": 1
             }
           ]
@@ -379,7 +404,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Non esiste un’età scientifica universale in cui «si può avere lo smartphone». Esistono capacità diverse e rischi diversi. Trattale come ipotesi da rivedere, non come una tabella morale stampata da un esperto che non vive in casa tua.",
+              "text": "Non esiste un’età scientifica universale in cui «si può avere lo smartphone». L’AAP, nel policy del 2026, scrive che la ricerca non indica un’età unica per il primo telefono: varia da ragazzo a ragazzo. La Società Italiana di Pediatria, nella revisione pubblicata nel 2026, raccomanda invece di rinviare lo smartphone personale almeno fino ai 13 anni, di evitare Internet senza supervisione prima dei 13 e di abilitare i controlli genitoriali dopo. Sono due indicazioni diverse. La revisione della SIP è una raccomandazione di commissione su una letteratura in gran parte associativa, non un trial di un accordo firmato in cucina. Trattale come ipotesi da spiegare, non come una tabella morale.",
               "version": 1
             }
           ]
@@ -401,7 +426,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Nella fascia in cui si negozia di più — quella degli accordi 8–14, e ancora dopo — il controllo utile è quello che si può spiegare in una frase. «La posizione è accesa fino a quando rientri, poi no.» «Le app nuove passano da me fino a giugno.» Le frasi vaghe («ti controllo se voglio») producono o ribellione o segretezza. Entrambe ti lasciano con meno informazioni vere, che è l’opposto di quello che cercavi.",
+              "text": "Nella fascia in cui si negozia di più — quella degli accordi 8–14, e ancora dopo — il controllo utile è quello che si può spiegare in una frase. «La posizione è accesa fino a quando rientri, poi no.» «Le app nuove passano da me fino a giugno.» Le frasi vaghe («ti controllo se voglio») non sono quello che l’AAP chiede: controlli impostati e visibili, dentro un piano. Queste fonti non misurano se la frase vaga produca ribellione o segretezza. Un filtro che non sapresti dire ad alta voce ti lascia comunque senza il canale che Stattin e Kerr legano a quello che i genitori sanno.",
               "version": 1
             }
           ]
@@ -585,7 +610,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Quasi mai, se è di nascosto e per abitudine. È sorveglianza. Un’eccezione stretta — un rischio serio, detto, temporaneo — non è uno stile educativo. Se ti serve leggere tutto per stare tranquillo, la tranquillità non arriverà dal testo. Arriverà, se arriva, da un rapporto in cui le cose difficili hanno un posto.",
+              "text": "Se è di nascosto e per abitudine, non è il controllo che queste fonti descrivono. Stattin e Kerr non raccomandano tracking e sorveglianza come prescrizione. Un’eccezione stretta — un rischio serio, detto, temporaneo — non è uno stile educativo. Il Garante elenca, fra le funzioni possibili, anche informazioni su chiamate e messaggi, e chiede di leggere l’informativa se installi un’app: non è un via libera a mesi di lettura silenziosa. Se ti serve leggere tutto per stare tranquillo, il testo non è la fonte di quella tranquillità.",
               "version": 1
             }
           ]
@@ -608,7 +633,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Non c’è un numero che la ricerca possa firmare al posto tuo. Contano sonno, scuola, chi lo contatta, e se in casa esiste un accordo. Un telefono presto con regole visibili può essere più sano di un telefono tardi dato come resa. Il pezzo da non saltare è il patto, non il compleanno.",
+              "text": "Non c’è un’età unica che la ricerca firmi al posto tuo. L’AAP, nel 2026, scrive che non c’è un’età specifica per il primo telefono: dipende dal ragazzo. La Società Italiana di Pediatria raccomanda di rinviare lo smartphone personale almeno fino ai 13 anni e di evitare Internet senza supervisione prima di quell’età, con i controlli genitoriali dopo. Un telefono prima, anche con regole visibili, non risulta «più sano» in queste fonti. Il pezzo da non saltare è il patto, insieme all’età che hai scelto di spiegare.",
               "version": 1
             }
           ]
@@ -631,7 +656,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Bastano per i bordi: orari, acquisti, una parte dei contenuti, una posizione concordata. Non bastano per sapere se sta bene. Se un venditore ti dice il contrario, sta parlando del suo prodotto, non di tuo figlio.",
+              "text": "Servono per i bordi che il Dipartimento e l’AAP descrivono: tempi, download o acquisti, una parte dei contenuti, e — se è detta — la posizione. Non dicono se sta bene. Il filtro che gli operatori devono offrire, delibera AGCOM 9/23/CONS, è un altro strato: è gratuito, lo configura un adulto e non legge la chat. Se un venditore ti dice che un’app basta a sapere come sta, sta parlando del suo prodotto, non di tuo figlio.",
               "version": 1
             }
           ]
@@ -654,7 +679,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Succederà, in parte. Nominalo senza umiliarlo: «La regola era questa, l’hai spostata, la rivediamo». Poi decidi se il bordo era troppo stretto o se la conseguenza che avevate scritto vale ancora. Umiliare insegna a nascondere meglio. Rivedere la regola insegna che il patto è una cosa viva.",
+              "text": "Può succedere. Queste fonti non misurano quanto spesso, né in quanto tempo. Nominalo senza umiliarlo: «La regola era questa, l’hai spostata, la rivediamo». Poi decidi se il bordo era troppo stretto o se la conseguenza che avevate scritto vale ancora. Umiliare non è un esito misurato qui. Rivedere la regola tiene il patto visibile.",
               "version": 1
             }
           ]

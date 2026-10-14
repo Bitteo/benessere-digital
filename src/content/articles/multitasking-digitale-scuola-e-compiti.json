@@ -7,7 +7,7 @@
   "publishedAt": "2026-11-11T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["schermo-e-tempo", "genitori-e-scuola"],
-  "readingTime": 8,
+  "readingTime": 12,
   "status": "published",
   "seo": {
     "metaTitle": "Multitasking digitale a scuola e compiti",
@@ -18,30 +18,60 @@
     {
       "title": "Ophir, Nass e Wagner — Cognitive control in media multitaskers (2009)",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2747164/",
-      "note": "PNAS, 106(37), 15583–15587. Chi fa molto multitasking mediale, in questo studio, filtra peggio le distrazioni e va peggio in un test di cambio di compito. È un’associazione su un campione, non la prova che una generazione abbia l’attenzione rotta."
+      "note": "PNAS, 106(37), 15583–15587. DOI 10.1073/pnas.0903620106. Testo su PMC. Chi fa molto multitasking mediale è, in questo studio, più suscettibile all’interferenza di stimoli ambientali irrilevanti e di rappresentazioni irrilevanti in memoria, e va peggio in un test di cambio di compito. Gli autori lo attribuiscono a un filtro più debole del set di compito irrilevante. È un’associazione, non la prova che una generazione abbia l’attenzione rotta. Il numero di partecipanti non è ripreso qui perché non è nell’abstract usato."
     },
     {
       "title": "Uncapher e colleghi — Media multitasking and cognitive, psychological, neural, and learning differences (2017)",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5658797/",
-      "note": "Review su Pediatrics. Il multitasking mediale durante lo studio può peggiorare gli esiti scolastici; la direzione causale non è stabilita. Sul cambio di compito i lavori successivi sono misti, e molti non trovano differenze. Nessuna soglia del tipo «perdi il 40%»."
+      "note": "Pediatrics, supplemento, S62–S66. DOI 10.1542/peds.2016-1758d. Rassegna aperta su PMC. Chi fa molto media multitasking mostra differenze, per esempio una memoria più debole. Il multitasking mediale durante l’apprendimento, in classe o a casa, può associarsi a esiti scolastici peggiori. La causalità non è stabilita. L’abstract si apre con cifre di altre indagini statunitensi (circa 7,5 ore al giorno e il 29% che tiene più flussi insieme): questo articolo non le usa e non sono dati italiani. Nessuna soglia del tipo «perdi il 40%»."
+    },
+    {
+      "title": "Wiradhany e Nieuwenstein — Cognitive control in media multitaskers: two replication studies and a meta-analysis (2017)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5662702/",
+      "note": "Attention, Perception, & Psychophysics, 79(8), 2620–2641. DOI 10.3758/s13414-017-1408-4. Testo aperto su PMC. Due repliche, 14 test, potenza media di replica 0,81. Solo cinque test erano statisticamente significativi nella direzione attesa; solo due reggevano un’analisi bayesiana più conservativa. Meta-analisi di 39 effetti: associazione piccola, d = 0,17, che diventa non significativa dopo la correzione per gli studi piccoli. In discussione le stime corrette stanno circa fra 0,01 e 0,07 (trim-and-fill d = 0,07; la regressione è vicina a zero). Mettono in dubbio l’associazione nei compiti di laboratorio sull’elaborazione dell’informazione. Non è un intervallo di confidenza stretto attorno a 0,17: quella lettura del PDF non è usata."
+    },
+    {
+      "title": "May e Elder — Efficient, helpful, or distracting? A literature review of media multitasking in relation to academic performance (2018)",
+      "url": "https://link.springer.com/article/10.1186/s41239-018-0096-z",
+      "note": "International Journal of Educational Technology in Higher Education, 15. Pubblicato il 27 febbraio 2018. DOI 10.1186/s41239-018-0096-z. Articolo aperto. Rassegna di 38 articoli, 2003–2017, su studenti soprattutto in età universitaria. Il media multitasking interferisce con attenzione e memoria di lavoro ed è associato in modo negativo a media dei voti, prove, ricordo, comprensione del testo, appunti, autoregolazione ed efficienza, in classe — soprattutto a lezione — e durante lo studio. Gli studenti faticano a giudicare l’effetto. La teoria del collo di bottiglia (un compito alla volta, la mente cambia) è la loro sintesi teorica, non un esperimento sui compiti delle medie. Non dice «perdi il 40%»."
+    },
+    {
+      "title": "Perham e Currie — Does listening to preferred music improve reading comprehension performance? (2014)",
+      "url": "https://pure.cardiffmet.ac.uk/ws/portalfiles/portal/6598066/Does_listening_to_preferred_music_improve_reading_comprehension_performance-Perham_N.pdf",
+      "note": "Applied Cognitive Psychology, 28(2), 279–284. Pubblicato il 6 gennaio 2014. DOI 10.1002/acp.2994. PDF del manoscritto accettato nel repository della Cardiff Metropolitan University: può differire dalla versione dell’editore. 30 studenti universitari, 19–65 anni, disegno entro i soggetti, brani con punteggio da 0 a 6, quattro condizioni sonore (silenzio, testo gradito, testo non gradito, strumentale). ANOVA F(3, 87) = 8,05, p < 0,05. Il silenzio è significativamente migliore del testo non gradito e del testo gradito. Nessuna differenza significativa fra silenzio e strumentale, né fra testo gradito e non gradito. Non sono adolescenti e non è una settimana di compiti."
+    },
+    {
+      "title": "Goodyear, Randhawa, Adab e colleghi — School phone policies (SMART Schools) (2025)",
+      "url": "https://pure-oai.bham.ac.uk/ws/portalfiles/portal/256423016/GoodyearVA2025School.pdf",
+      "note": "The Lancet Regional Health – Europe. DOI 10.1016/j.lanepe.2025.101211. PDF dell’editore, CC BY, dal repository dell’Università di Birmingham. Studio osservazionale trasversale in 30 scuole secondarie inglesi (20 con politica restrittiva, 10 permissiva), 1.227 partecipanti di 12–15 anni. Benessere (WEMWBS): media 47 (deviazione standard 9); differenza media aggiustata −0,48 (intervallo di confidenza al 95% da −2,05 a 1,06, p = 0,62). In orario scolastico: telefono −0,67 ore (da −0,92 a −0,43) e social −0,54 ore (da −0,74 a −0,36). Nessuna evidenza di differenza d’uso nei giorni feriali o nel weekend. Qui si usano solo benessere, uso in orario e uso fuori orario. Ansia, voti e sonno non sono ripresi. Non è l’Italia, non è la primaria, non sono i compiti a casa."
+    },
+    {
+      "title": "MIM — Nota prot. 5274 dell’11 luglio 2024",
+      "url": "https://www.mim.gov.it/-/nota-n-5274-dell-11-luglio-2024",
+      "note": "Disposizioni sull’uso degli smartphone e del registro elettronico nel primo ciclo, anno scolastico 2024/2025. Il testo è nel PDF allegato a questa pagina. Divieto di utilizzo in classe del cellulare, anche a fini educativi e didattici, dalla scuola dell’infanzia alla secondaria di primo grado. Eccezioni: Piano educativo individualizzato, Piano didattico personalizzato, condizioni personali documentate. Per la didattica restano pc e tablet sotto la guida dei docenti. L’autonomia organizzativa non è una licenza a tenere il telefono personale «per studiare»."
+    },
+    {
+      "title": "MIM — Circolare prot. 3392 del 16 giugno 2025",
+      "url": "https://www.mim.gov.it/-/circolare-n-3392-del-16-giugno-2025",
+      "note": "Disposizioni sull’uso degli smartphone nel secondo ciclo. Il testo è nel PDF allegato a questa pagina. Divieto per gli studenti del secondo ciclo durante l’attività didattica e, più in generale, in orario scolastico, anche a fini didattici. L’autonomia riguarda le misure organizzative per far rispettare il divieto, non il lasciare il telefono per studiare. Eccezioni: Piano educativo individualizzato, Piano didattico personalizzato, necessità personali motivate, e uso strettamente funzionale negli indirizzi tecnici di informatica e telecomunicazioni."
     }
   ],
   "faq": [
     {
       "question": "Il multitasking non è una competenza richiesta dal mondo del lavoro?",
-      "answer": "Rispondere a più cose in un giorno, sì. Farle nello stesso minuto, quando entrambe chiedono lettura e decisione, no. Il lavoro le separa in blocchi più spesso di quanto i reel dicano. Allenarsi a non tenere la chat sopra il compito è più spendibile che allenarsi a non finire mai una riga."
+      "answer": "Rispondere a più cose in un giorno è un’altra cosa dal farle nello stesso minuto, quando entrambe chiedono lettura e decisione. Queste fonti non dicono come si lavora in ufficio, né che il lavoro separi i compiti in blocchi. May e Elder, su studenti soprattutto universitari, collegano il media multitasking a più interferenza e a risultati più deboli. Allenarsi a non tenere la chat sopra il compito è una scelta sui compiti, non una competenza misurata sul mercato del lavoro."
     },
     {
       "question": "La musica aiuta a concentrarsi?",
-      "answer": "A volte aiuta a partire, a volte ruba la lettura. Se ha un testo, compete con il testo che devi studiare. Provala su un blocco e guarda il risultato, non il sollievo. Il sollievo è immediato. Il compito si vede dopo, nelle righe che restano."
+      "answer": "Perham e Currie, su 30 universitari, trovano la lettura migliore in silenzio che con musica con testo, gradita o no. Lo strumentale non si distingueva in modo significativo dal silenzio. Non è una legge per ogni ragazzo e non è un compito delle medie. A volte la musica aiuta a partire. Provala su un blocco e guarda le righe chiuse, non il sollievo."
     },
     {
       "question": "Mio figlio dice che senza telefono non studia.",
-      "answer": "Può essere vero che il telefono è diventato il modo per tollerare un compito noioso. Non ne segue che il telefono migliori il compito. Un blocco corto, con il telefono fuori e uno stop concordato, è un esperimento, non una punizione. Se dopo quattro giorni le righe non si muovono, il problema può essere il compito, il sonno o la materia, non solo lo schermo. Allora si guarda quello, senza alzare la voce sul telefono."
+      "answer": "Può essere vero che il telefono è diventato il modo per tollerare un compito noioso. Non ne segue che il telefono migliori il compito. May e Elder, soprattutto su universitari, associano il media multitasking durante lo studio a un ricordo e a una comprensione più deboli: non è la prova per ogni famiglia. Un blocco corto, con il telefono fuori e uno stop concordato, è un esperimento di casa, non una punizione e non un protocollo studiato. Se dopo qualche giorno le righe non si muovono, il problema può essere il compito, il sonno o la materia, non solo lo schermo. Allora si guarda quello, senza alzare la voce sul telefono."
     },
     {
       "question": "In classe il divieto basta?",
-      "answer": "Il divieto, da solo, sposta. Serve un posto per l’emergenza, una regola chiara e un’ora che non chieda cinque schermi. Il dettaglio sta nelle scelte dell’istituto. Intanto, sui compiti, il blocco si può fare anche se a scuola la policy è ancora in discussione."
+      "answer": "Il divieto in orario c’è già: nota dell’11 luglio 2024 per il primo ciclo, circolare del 16 giugno 2025 per il secondo, anche a fini didattici, con le eccezioni previste. L’autonomia riguarda come farlo rispettare, non se il telefono resta «per studio». Goodyear, in scuole secondarie inglesi, non trova un benessere migliore nelle politiche restrittive e non trova meno uso fuori dall’orario. Non è un dato italiano sui compiti. Il blocco a casa si può fare lo stesso. In classe serve anche un’ora che non chieda cinque schermi insieme."
     }
   ],
   "content": {
@@ -88,7 +118,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Per i lavori che chiedono attenzione — leggere, scrivere, risolvere, seguire una spiegazione — non tieni due fili nello stesso istante. Passi dall’uno all’altro. Ogni passaggio ha un costo: devi riprendere il filo, ricordare a che punto eri, scartare quello che l’altro schermo ti ha appena messo davanti. La ricerca sul cambio di compito, in psicologia cognitiva, descrive questo costo da anni. Non serve un numero magico («perdi il 40%») per prenderlo sul serio. Quei numeri, quando girano nei post, sono quasi sempre più tondi delle prove. Il fatto solido è più semplice: cambiare compito richiede tempo e produce errori. Sui compiti, quel tempo lo paghi tu. In classe, lo paga anche chi sta spiegando nel vuoto.",
+              "text": "Per i lavori che chiedono attenzione — leggere, scrivere, risolvere, seguire una spiegazione — non tieni due fili nello stesso istante. Passi dall’uno all’altro. Ogni passaggio ha un costo: devi riprendere il filo, ricordare a che punto eri, scartare quello che l’altro schermo ti ha appena messo davanti. May e Elder, in una rassegna del 2018 su articoli soprattutto universitari, riassumono così il passaggio: la mente affronta un compito alla volta e cambia. È la loro sintesi teorica, non un esperimento sui compiti a casa e non una percentuale. I tassi di errore dei test di laboratorio non sono una quota dei compiti. Non serve un numero magico («perdi il 40%»). Quei numeri, quando girano nei post, sono quasi sempre più tondi delle prove. Sui compiti, il tempo del passaggio lo paghi tu. In classe, lo paga anche chi sta spiegando nel vuoto.",
               "version": 1
             }
           ]
@@ -99,7 +129,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il «sottofondo» non è gratis se ha parole. Un video parlato e un testo da leggere competono per lo stesso canale. La musica senza testo, per qualcuno, è un rumore neutro; per qualcun altro è un altro gancio. Non è una legge valida per tutti. È una prova di una settimana: un blocco con la voce, un blocco senza, e si guarda quanta riga hai chiuso. Lo stesso equivoco, a scuola, si traveste da diligenza: registro, chat, scheda e libro aperti insieme «perché è didattica». Lo schermo sul compito non è il problema. Sono gli altri ingressi, lasciati accesi «nel caso».",
+              "text": "Il «sottofondo» non è gratis se ha parole. Perham e Currie (2014) hanno fatto leggere brani a 30 studenti universitari, fra i 19 e i 65 anni, in quattro condizioni: silenzio, musica con testo gradita, musica con testo non gradita, strumentale. Il silenzio è andato meglio del testo, gradito o no. Fra silenzio e strumentale la differenza non era significativa, e nemmeno fra testo gradito e non gradito. Non sono adolescenti e non è una settimana di compiti. Per qualcuno la musica senza testo resta un rumore neutro. Non è una legge valida per tutti. Una prova di casa — un blocco con la voce, un blocco senza — guarda le righe chiuse: non è quello studio. Lo stesso equivoco, a scuola, si traveste da diligenza: registro, chat, scheda e libro aperti insieme «perché è didattica». Lo schermo sul compito non è il problema. Sono gli altri ingressi, lasciati accesi «nel caso».",
               "version": 1
             }
           ]
@@ -122,7 +152,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Sul media multitasking — usare più media insieme, o passare di continuo da uno schermo all’altro — gli studi trovano spesso un’associazione con risultati scolastici più deboli e con più distrazione. Sono, in larga parte, studi che osservano una convivenza, non che dimostrano «questo telefono ha causato quel voto». Chi è già in difficoltà può cercare più interruzioni. Chi viene interrotto può rendere di meno. Le due cose possono essere vere insieme. Trattare l’associazione come una condanna generazionale è un salto che i dati non ti chiedono.",
+              "text": "Sul media multitasking — usare più media insieme, o passare di continuo da uno schermo all’altro — Uncapher e colleghi, in una rassegna del 2017, scrivono che durante l’apprendimento, in classe o a casa, può associarsi a esiti scolastici peggiori, e che chi fa molto media multitasking mostra differenze, per esempio una memoria più debole. La causalità non è stabilita. La rassegna si apre con cifre di altre indagini statunitensi sul tempo di schermo: questo articolo non le usa, e non sono dati italiani. Sono studi che osservano una convivenza, non che dimostrano «questo telefono ha causato quel voto». Chi è già in difficoltà può cercare più interruzioni. Chi viene interrotto può rendere di meno. Le due cose possono essere vere insieme. Trattare l’associazione come una condanna generazionale è un salto che i dati non ti chiedono.",
               "version": 1
             }
           ]
@@ -133,7 +163,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Uno studio molto citato del 2009, di Ophir, Nass e Wagner, suggeriva che chi fa molto multitasking mediale filtra peggio le distrazioni. Lavori successivi hanno dato esiti misti. Non è una base per dire che una generazione ha l’attenzione «rotta», né per promettere il contrario con uno slogan. È una base per non organizzare i compiti dentro un flusso di notifiche e poi stupirsi del tempo che ci vuole.",
+              "text": "Uno studio molto citato del 2009, di Ophir, Nass e Wagner, trovava chi fa molto multitasking mediale più suscettibile all’interferenza di stimoli irrilevanti e di rappresentazioni in memoria, e peggiore in un test di cambio di compito. Gli autori lo attribuiscono a un filtro più debole del compito irrilevante. È un’associazione, non la prova che una generazione abbia l’attenzione «rotta». Wiradhany e Nieuwenstein (2017) hanno replicato: su 14 test, solo cinque erano significativi nella direzione attesa, e solo due reggevano un’analisi bayesiana più conservativa. Nella meta-analisi di 39 effetti l’associazione era piccola (d = 0,17) e diventava non significativa dopo la correzione per gli studi piccoli. Le stime corrette che discutono stanno circa fra 0,01 e 0,07. Mettono in dubbio l’associazione nei compiti di laboratorio sull’elaborazione dell’informazione. Non è una base per dire che Ophir abbia dimostrato il filtro peggiore. Resta un motivo per non organizzare i compiti dentro un flusso di notifiche e poi stupirsi del tempo che ci vuole.",
               "version": 1
             }
           ]
@@ -144,7 +174,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il punto pratico, quello che regge anche se lasci da parte le etichette, è questo: studiare dentro un ruscello di avvisi costa la codifica. Ricordi di aver avuto il libro aperto. Ricordi meno il contenuto. La stanchezza è vera, e non è la prova che hai lavorato bene. Non ne segue che ogni pausa sia un danno, né che un’ora senza telefono fabbrichi la concentrazione. Sonno corto e una consegna confusa pesano quanto lo schermo, a volte di più. Togliere il telefono dal quaderno è un esperimento pulito, non la spiegazione unica di un voto.",
+              "text": "Il punto pratico è più stretto di una legge. May e Elder collegano il media multitasking, in studenti soprattutto universitari, a un ricordo più debole e a una comprensione del testo più bassa, in classe — soprattutto durante le lezioni — e nello studio. Gli studenti faticano a giudicare l’effetto. Non è la prova che ogni sera di chat cancelli la pagina, e non si trasferisce da solo alle medie. Ricordi di aver avuto il libro aperto e ricordi meno il contenuto: è il senso di quella rassegna, non una misura di casa. La stanchezza è vera, e non è la prova che hai lavorato bene. Non ne segue che ogni pausa sia un danno, né che un’ora senza telefono fabbrichi la concentrazione. Sonno corto e una consegna confusa pesano quanto lo schermo, a volte di più. Togliere il telefono dal quaderno è un esperimento di casa, non la spiegazione unica di un voto. Nessuna di queste fonti misura un protocollo di quattro giorni.",
               "version": 1
             }
           ]
@@ -156,7 +186,7 @@
           "children": [
             {
               "type": "text",
-              "text": "A scuola e a casa è lo stesso bilancio",
+              "text": "A scuola e a casa non è lo stesso studio",
               "version": 1
             }
           ]
@@ -167,7 +197,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il telefono in classe e il telefono sul quaderno sono lo stesso conto, in due stanze. Ne abbiamo scritto dal lato dell’istituto in ",
+              "text": "Il telefono in classe e il telefono sul quaderno non sono lo stesso studio. Ne abbiamo scritto dal lato dell’istituto in ",
               "version": 1
             },
             {
@@ -184,7 +214,7 @@
             },
             {
               "type": "text",
-              "text": ": oltre il divieto teatrale, che cosa può funzionare tra regolamento, classe ed emergenze. Un divieto in aula che non ha un corrispondente sui compiti sposta solo l’orario del problema. Una libertà totale in aula, con cinque piattaforme aperte «per la didattica», lo anticipa alle 8:10.",
+              "text": ". Le note del ministero dispongono già il divieto del cellulare personale in orario, anche a fini didattici: la nota prot. 5274 dell’11 luglio 2024 dalla scuola dell’infanzia alla secondaria di primo grado, la circolare prot. 3392 del 16 giugno 2025 nel secondo ciclo. L’autonomia è sulle misure organizzative, non sul lasciare il telefono «per studiare». Restano PEI, PDP e necessità personali; nel primo ciclo pc e tablet restano sotto la guida dei docenti. Goodyear e colleghi (2025), su 1.227 studenti di 12–15 anni in 30 scuole secondarie inglesi, trovano meno uso di telefono e di social durante l’orario nelle scuole restrittive, nessuna differenza di benessere, e nessuna evidenza di una differenza d’uso nei giorni feriali o nel weekend. Non è l’Italia, non è la primaria, non sono i compiti a casa. Un divieto in aula non «sposta» il problema a casa come dato misurato. Il blocco sui compiti non aspetta un’altra policy. Una consegna che apre cinque piattaforme nello stesso quarto d’ora, invece, moltiplica gli ingressi: quello si può togliere anche in classe.",
               "version": 1
             }
           ]
@@ -384,7 +414,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Quattro giorni bastano per vedere il costo, non per diventare un altro studente. Non è una sfida da pubblicare.",
+              "text": "Quattro giorni sono una prova di casa, non un protocollo che queste fonti abbiano misurato. Servono a guardare le righe, non a diventare un altro studente. Non è una sfida da pubblicare.",
               "version": 1
             }
           ]
@@ -447,7 +477,7 @@
           "children": [
             {
               "type": "text",
-              "text": "I docenti possono fare la versione in classe: un’attività, venti minuti, telefoni nel posto già previsto dal regolamento, poi un minuto di domande a voce. Non è un esperimento scientifico. È un modo per far sentire la differenza tra un filo solo e cinque. Il blocco sui compiti a casa non deve aspettare che la policy dell’istituto sia chiusa.",
+              "text": "I docenti possono fare la versione in classe: un’attività, venti minuti, telefoni nel posto già previsto dal regolamento, poi un minuto di domande a voce. Non è un esperimento scientifico. È un modo per far sentire la differenza tra un filo solo e cinque. Il blocco sui compiti a casa non deve aspettare un’altra circolare: il divieto in orario, nel primo e nel secondo ciclo, è già disposto. Nessuna di queste fonti misura se quattro giorni bastino a vedere il costo.",
               "version": 1
             }
           ]
@@ -493,7 +523,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Rispondere a più cose in un giorno, sì. Farle nello stesso minuto, quando entrambe chiedono lettura e decisione, no. Il lavoro le separa in blocchi più spesso di quanto i reel dicano. Allenarsi a non tenere la chat sopra il compito è più spendibile che allenarsi a non finire mai una riga.",
+              "text": "Rispondere a più cose in un giorno è un’altra cosa dal farle nello stesso minuto, quando entrambe chiedono lettura e decisione. Queste fonti non dicono come si lavora in ufficio, né che il lavoro separi i compiti in blocchi. May e Elder, su studenti soprattutto universitari, collegano il media multitasking a più interferenza e a risultati più deboli. Allenarsi a non tenere la chat sopra il compito è una scelta sui compiti, non una competenza misurata sul mercato del lavoro.",
               "version": 1
             }
           ]
@@ -516,7 +546,7 @@
           "children": [
             {
               "type": "text",
-              "text": "A volte aiuta a partire, a volte ruba la lettura. Se ha un testo, compete con il testo che devi studiare. Provala su un blocco e guarda il risultato, non il sollievo. Il sollievo è immediato. Il compito si vede dopo, nelle righe che restano.",
+              "text": "Perham e Currie, su 30 universitari, trovano la lettura migliore in silenzio che con musica con testo, gradita o no. Lo strumentale non si distingueva in modo significativo dal silenzio. Non è una legge per ogni ragazzo e non è un compito delle medie. A volte la musica aiuta a partire. Provala su un blocco e guarda le righe chiuse, non il sollievo.",
               "version": 1
             }
           ]
@@ -539,7 +569,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Può essere vero che il telefono è diventato il modo per tollerare un compito noioso. Non ne segue che il telefono migliori il compito. Un blocco corto, con il telefono fuori e uno stop concordato, è un esperimento, non una punizione. Se dopo quattro giorni le righe non si muovono, il problema può essere il compito, il sonno o la materia, non solo lo schermo. Allora si guarda quello, senza alzare la voce sul telefono.",
+              "text": "Può essere vero che il telefono è diventato il modo per tollerare un compito noioso. Non ne segue che il telefono migliori il compito. May e Elder, soprattutto su universitari, associano il media multitasking durante lo studio a un ricordo e a una comprensione più deboli: non è la prova per ogni famiglia. Un blocco corto, con il telefono fuori e uno stop concordato, è un esperimento di casa, non una punizione e non un protocollo studiato. Se dopo qualche giorno le righe non si muovono, il problema può essere il compito, il sonno o la materia, non solo lo schermo. Allora si guarda quello, senza alzare la voce sul telefono.",
               "version": 1
             }
           ]
@@ -562,7 +592,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il divieto, da solo, sposta. Serve un posto per l’emergenza, una regola chiara e un’ora che non chieda cinque schermi. Il dettaglio sta nelle scelte dell’istituto. Intanto, sui compiti, il blocco si può fare anche se a scuola la policy è ancora in discussione.",
+              "text": "Il divieto in orario c’è già: nota dell’11 luglio 2024 per il primo ciclo, circolare del 16 giugno 2025 per il secondo, anche a fini didattici, con le eccezioni previste. L’autonomia riguarda come farlo rispettare, non se il telefono resta «per studio». Goodyear, in scuole secondarie inglesi, non trova un benessere migliore nelle politiche restrittive e non trova meno uso fuori dall’orario. Non è un dato italiano sui compiti. Il blocco a casa si può fare lo stesso. In classe serve anche un’ora che non chieda cinque schermi insieme.",
               "version": 1
             }
           ]
