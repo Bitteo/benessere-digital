@@ -1,0 +1,533 @@
+{
+  "slug": "permessi-app-fotocamera-microfono-posizione",
+  "title": "Permessi delle app: fotocamera, microfono, posizione, contatti",
+  "excerpt": "Dove si rivedono fotocamera, microfono, posizione e contatti su iPhone e Android, e che cosa dichiara davvero la scheda di Google Play.",
+  "cover": "/images/covers/accordi-di-schermo-ragazzi-8-14.png",
+  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, riunione di famiglia al tavolo con foglietti e telefono spento.",
+  "publishedAt": "2026-11-06T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["sicurezza-online", "genitori-e-scuola"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Permessi delle app: camera, microfono, posizione",
+    "metaDescription": "Come rivedere fotocamera, microfono, posizione e contatti su iPhone e Android, e che cosa è la sezione Sicurezza dei dati di Google Play.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Apple — Controllare l’accesso alle funzionalità hardware su iPhone",
+      "url": "https://support.apple.com/it-it/guide/iphone/iph168c4bbd5/ios",
+      "note": "Le app chiedono prima di usare fotocamera e microfono. Indicatore verde per la fotocamera, arancione per il solo microfono. Elenco in Impostazioni > Privacy e sicurezza."
+    },
+    {
+      "title": "Apple — Privacy e Localizzazione in iOS, iPadOS e watchOS",
+      "url": "https://support.apple.com/it-it/102515",
+      "note": "Pagina pubblicata il 25 maggio 2026. «Consenti una volta» da iOS 13. In emergenza la posizione può essere usata anche con i servizi di localizzazione disattivati."
+    },
+    {
+      "title": "Android — Modificare le autorizzazioni app",
+      "url": "https://support.google.com/android/answer/9431959?hl=it",
+      "note": "Su Pixel alcuni passaggi solo da Android 11. Per posizione, fotocamera e microfono: Sempre (solo posizione), mentre l’app è in uso, chiedi ogni volta, non consentire."
+    },
+    {
+      "title": "Android — Controllare se fotocamera o microfono sono accesi",
+      "url": "https://support.google.com/android/answer/13532937?hl=it",
+      "note": "Indicatore verde da Android 12. Un tocco mostra l’app. L’accesso si può disattivare anche dalle impostazioni rapide, se il riquadro c’è."
+    },
+    {
+      "title": "Google Play — Sezione Sicurezza dei dati",
+      "url": "https://support.google.com/googleplay/answer/11416267?hl=it&co=GENIE.Platform%3DAndroid",
+      "note": "Dichiarazione degli sviluppatori, da Android 5, diversa dall’elenco dei permessi. La revisione indipendente non verifica che la dichiarazione sia completa. Il badge Verificato, al momento, è per le app VPN."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Il puntino verde significa che mi stanno spiando?",
+      "answer": "No. Su iPhone, la pagina Apple sull’accesso all’hardware dice che l’indicatore verde compare quando un’app usa la fotocamera, anche insieme al microfono. L’arancione compare quando usa il microfono senza la fotocamera. Su Android 12 e successivi, la guida dice che un indicatore verde in alto a destra compare quando un’app usa fotocamera o microfono: si scorre verso il basso e si tocca per vedere quale app è. È un segnale che l’accesso è in corso, non la prova di un’app nascosta."
+    },
+    {
+      "question": "«Solo mentre è in uso» basta per la posizione?",
+      "answer": "Dipende da che cosa deve fare l’app in quel momento. Su iPhone, da iOS 13, puoi scegliere «Consenti una volta»: vale per quella sessione, e alla riapertura l’app chiede di nuovo. Se consenti l’uso mentre l’app è in primo piano, può chiederti anche lo sfondo: il telefono, di tanto in tanto, ti mostra che la posizione è in uso e ti chiede se continuare. Su Android, «Sempre» esiste solo per la posizione. «Consenti solo mentre l’app è in uso» e «Chiedi ogni volta» sono le alternative. Una mappa durante il percorso ha una ragione. Un gioco che vuole la posizione sempre, no, finché non sai dirla."
+    },
+    {
+      "question": "La sezione Sicurezza dei dati su Google Play è un controllo pubblico?",
+      "answer": "No. Google scrive che quella sezione è compilata dagli sviluppatori e vale per le app distribuite su Google Play, da Android 5 in poi. È diversa dall’elenco tecnico dei permessi. Una revisione di sicurezza indipendente, sulla stessa pagina, non verifica che la dichiarazione sia accurata e completa. Il badge «Verificato», sempre su quella pagina, al momento è solo per le app VPN e ha criteri suoi, tra cui un test MASA di livello 2. Non è un timbro su tutte le app."
+    },
+    {
+      "question": "Se tolgo il microfono, l’app smette di funzionare?",
+      "answer": "Smette la funzione che usa il microfono. Il resto dipende dall’app: la guida Android non promette che ogni app resti intera. Puoi negare il permesso e vedere che cosa si ferma. Se si ferma solo una funzione che non usi, il permesso può restare spento. Se l’app non ti serve senza quel sensore, la scelta è se tenerla. Togliere il permesso non cancella i dati già raccolti: la pagina di Google Play dice che, se dall’app non puoi chiedere la cancellazione, puoi contattare lo sviluppatore."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Venerdì 6 novembre 2026. Un’app appena scaricata chiede la fotocamera, poi i contatti, poi la posizione. I pulsanti sono «Consenti» e «Non consentire», e il testo è lungo due righe. Si tocca Consenti perché si vuole usare l’app, non perché si è letto che cosa resta acceso domani. Non è una distrazione da rimproverare. È il modo in cui la richiesta è disegnata: arriva nel momento in cui vuoi entrare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per chi ha un telefono, per chi ne ha comprato uno a un figlio e per chi in classe fa installare uno strumento. Quattro permessi tornano quasi sempre: fotocamera, microfono, posizione, contatti. Si possono rivedere dopo, a telefono fermo. Le strade dei menu cambiano con la versione del sistema. Qui stanno le pagine ufficiali, con i limiti che quelle pagine dichiarano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La richiesta arriva prima dell’uso",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Apple, nella guida per controllare l’accesso all’hardware su iPhone, scrive che le app devono chiedere l’autorizzazione prima di usare fotocamera o microfono, e devono spiegare perché. Lo stesso vale per Bluetooth, sensori di movimento e dispositivi sulla rete locale. L’elenco delle app che hanno chiesto l’accesso sta in Impostazioni, poi Privacy e sicurezza, poi la voce del sensore: Fotocamera, Microfono, e le altre. Si può spegnere l’accesso di una singola app.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sulla stessa pagina c’è il segnale visivo. Quando un’app usa la fotocamera, anche insieme al microfono, compare un indicatore verde. Quando usa il microfono senza la fotocamera, l’indicatore è arancione. In alto nel Centro di Controllo compare anche un avviso se un’app ha usato di recente fotocamera o microfono. Non è un diario completo. È un modo per accorgersi dell’uso mentre avviene, o subito dopo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Android la guida «Modificare le autorizzazioni app» avvisa che, sugli smartphone Pixel, alcuni passaggi funzionano solo da Android 11 in poi. Il percorso indicato è Impostazioni, App, l’app, Autorizzazioni. Per posizione, fotocamera e microfono le scelte sono quattro. «Sempre» esiste solo per la posizione: l’app può usarla anche quando non è aperta. «Consenti solo mentre l’app è in uso». «Chiedi ogni volta». «Non consentire». Da Impostazioni, Sicurezza e privacy, Privacy, Gestione autorizzazioni si vede lo stesso permesso su tutte le app, non una app alla volta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La guida elenca che cosa comporta concedere. Fotocamera: scattare foto e registrare video. Microfono: registrare l’audio. Contatti: accedere ai contatti. Posizione: accedere alla posizione del dispositivo. Foto e video, su una voce a parte: accedere a foto e video sul dispositivo. Sono descrizioni della guida, non una promessa che ogni app usi il permesso solo per la funzione che vedi sullo schermo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il puntino, e l’interruttore di tutto il telefono",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Android 12 e versioni successive, la guida per controllare se fotocamera e microfono sono accesi dice che un indicatore verde compare nell’angolo in alto a destra quando un’app li usa. Si scorre verso il basso e si tocca l’indicatore: un tocco mostra quale app o servizio, un altro apre la gestione delle autorizzazioni. La stessa guida avvisa che lo scorrimento può non funzionare su tutti i dispositivi. Dalle impostazioni rapide si può anche disattivare l’accesso alla fotocamera o al microfono per l’intero telefono, se il riquadro è presente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "C’è un interruttore più largo, nella guida delle autorizzazioni: Impostazioni, Sicurezza e privacy, Privacy, Controlli per la privacy, e lì si disattiva l’accesso alla fotocamera o al microfono. È diverso dal negare il permesso a una sola app. Spento lì, il sensore non è disponibile finché non lo riaccendi. Utile se presti il telefono per un pomeriggio. Da ricordare quando una videochiamata, dopo, non trova la camera.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per le app che non apri da un po’, la stessa guida indica, dentro l’app, la voce «Sospendi attività app se inutilizzata». La pagina di Google Play sulla Sicurezza dei dati, dal canto suo, dice che puoi permettere al telefono di rimuovere in automatico le autorizzazioni delle app inutilizzate. I nomi dei menu non coincidono parola per parola, e dipendono dalla versione. Il gesto è lo stesso: un’app ferma non tiene per sempre i permessi che le hai dato il giorno dell’installazione, se quella opzione è accesa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La posizione non è un interruttore solo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Apple, nella pagina sulla privacy e sulla funzione Localizzazione pubblicata il 25 maggio 2026, scrive che la prima volta un’app deve chiedere l’autorizzazione e mostrare il motivo indicato dallo sviluppatore. Da iOS 13, iPadOS 13 e watchOS 6 puoi toccare «Consenti una volta»: l’accesso vale per quella sessione. Se chiudi e riapri, la domanda torna. Le app non usano la posizione finché non l’hanno chiesta e non l’hai data.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se consenti l’uso mentre l’app è in uso, l’app può poi chiedere lo sfondo. Quando lo sfondo è consentito, il dispositivo di tanto in tanto ti ricorda che l’app sta usando la posizione e te la mostra su una mappa, e ti chiede se continuare. Si cambia idea da Impostazioni, Privacy e sicurezza, Localizzazione. Con la funzione spenta, le app non possono usare la posizione dei servizi di localizzazione, né in primo piano né in background: diverse app, di Apple e di altri, rendono di meno. Un caso resta fuori, e la pagina lo dice per la sicurezza: in una chiamata di emergenza la posizione dell’iPhone può essere usata per i soccorsi anche se i servizi di localizzazione sono disattivati.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se consenti a un’app o a un sito di terzi di usare dati o posizione, accetti anche la loro informativa. Apple consiglia di leggerla, per capire come usano la posizione. Non è un adempimento da avvocato. È il motivo per cui «Consenti» su una mappa e «Consenti» su un gioco non sono la stessa frase: il testo che spiega il perché sta nella richiesta, ed è scritto dallo sviluppatore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quello che lo sviluppatore dichiara, e quello che il telefono chiede",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima di installare da Google Play puoi aprire la sezione Sicurezza dei dati. Google scrive che gli sviluppatori la compilano per dire come l’app raccoglie, condivide e gestisce i dati. Vale per le app su Google Play, su Android 5 e successivi. Non vale, da sola, per un’app installata fuori dallo store. La sezione descrive la raccolta su tutte le versioni distribuite lì. Privacy e sicurezza possono variare per uso, regione ed età: per il dettaglio di una versione, la pagina rimanda al testo «Informazioni su questa app», all’informativa o ad altra documentazione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’elenco dei permessi è un’altra cosa. È tecnico: che cosa l’app può chiedere, per esempio la rete o la fotocamera. Google scrive che può non coincidere con la Sicurezza dei dati. Tre ragioni, sulla stessa pagina: l’app tratta i dati sul dispositivo e non li raccoglie né li condivide; li raccoglie in un modo che non passa dai permessi; il tipo di dato non è tra quelli della sezione. Per questo le due schermate si leggono insieme, non una al posto dell’altra.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una revisione di sicurezza indipendente, ancora su quella pagina, controlla le misure rispetto a uno standard globale. La fanno terze parti per conto degli sviluppatori. Non verifica che la dichiarazione nella Sicurezza dei dati sia accurata e completa. Il badge «Verificato» è un segnale ulteriore, e la pagina dice che al momento riguarda solo le app VPN. Tra i criteri ci sono le linee guida di sicurezza di Google Play, un test MASA di livello 2, almeno 90 giorni sullo store, almeno 10.000 installazioni e 250 recensioni. Un’app qualsiasi senza quel badge non è «non verificata» nel senso di pericolosa. Il badge non è il controllo generale di tutte le schede.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Contatti, foto, e la decisione dopo il permesso",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina Apple sulla privacy elenca, tra gli accessi che puoi rivedere in Impostazioni, anche contatti e foto. L’esempio della guida è un’app di messaggi che chiede i contatti per trovare chi usa la stessa app, e un social che chiede la fotocamera per scattare e caricare. Il permesso della fotocamera fa fare lo scatto dentro l’app. Pubblicare la foto, e soprattutto pubblicare la foto di un figlio, è una decisione successiva: ne parliamo nello ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/sharenting-foto-dei-figli-online",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "sharenting",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I controlli che si vedono — un filtro detto ad alta voce, un orario, un permesso spento insieme — stanno nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "proteggere senza spiare",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Un permesso rivisto il sabato non è un’app che legge i messaggi di nascosto. Se il telefono è di un ragazzo, la revisione si fa con lui davanti, sullo schermo che è suo. Il menu non è un segreto da conoscere al posto suo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una prova da questa settimana",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un solo permesso, non tutti. Su iPhone: Impostazioni, Privacy e sicurezza, e una voce tra Microfono, Fotocamera, Localizzazione, Contatti. Su Android: Gestione autorizzazioni, stessa voce. Per ogni app in elenco, una domanda.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Le serve questo sensore per la funzione che apro davvero?",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Le basta mentre è aperta, o chiede sempre?",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Se dico di no, perdo quella funzione o perdo l’app?",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se la risposta alla prima è no, spegni quel permesso. Se non sai dirlo, lascia «Chiedi ogni volta» dove il sistema lo offre, e alla prossima richiesta leggi la riga del perché prima del pulsante. Non è una pulizia di un pomeriggio. È un permesso a settimana, finché l’elenco non è più una sorpresa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il puntino verde significa che mi stanno spiando?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Su iPhone, la pagina Apple sull’accesso all’hardware dice che l’indicatore verde compare quando un’app usa la fotocamera, anche insieme al microfono. L’arancione compare quando usa il microfono senza la fotocamera. Su Android 12 e successivi, la guida dice che un indicatore verde in alto a destra compare quando un’app usa fotocamera o microfono: si scorre verso il basso e si tocca per vedere quale app è. È un segnale che l’accesso è in corso, non la prova di un’app nascosta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Solo mentre è in uso» basta per la posizione?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dipende da che cosa deve fare l’app in quel momento. Su iPhone, da iOS 13, puoi scegliere «Consenti una volta»: vale per quella sessione, e alla riapertura l’app chiede di nuovo. Se consenti l’uso mentre l’app è in primo piano, può chiederti anche lo sfondo: il telefono, di tanto in tanto, ti mostra che la posizione è in uso e ti chiede se continuare. Su Android, «Sempre» esiste solo per la posizione. «Consenti solo mentre l’app è in uso» e «Chiedi ogni volta» sono le alternative. Una mappa durante il percorso ha una ragione. Un gioco che vuole la posizione sempre, no, finché non sai dirla.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La sezione Sicurezza dei dati su Google Play è un controllo pubblico?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Google scrive che quella sezione è compilata dagli sviluppatori e vale per le app distribuite su Google Play, da Android 5 in poi. È diversa dall’elenco tecnico dei permessi. Una revisione di sicurezza indipendente, sulla stessa pagina, non verifica che la dichiarazione sia accurata e completa. Il badge «Verificato», sempre su quella pagina, al momento è solo per le app VPN e ha criteri suoi, tra cui un test MASA di livello 2. Non è un timbro su tutte le app.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se tolgo il microfono, l’app smette di funzionare?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Smette la funzione che usa il microfono. Il resto dipende dall’app: la guida Android non promette che ogni app resti intera. Puoi negare il permesso e vedere che cosa si ferma. Se si ferma solo una funzione che non usi, il permesso può restare spento. Se l’app non ti serve senza quel sensore, la scelta è se tenerla. Togliere il permesso non cancella i dati già raccolti: la pagina di Google Play dice che, se dall’app non puoi chiedere la cancellazione, puoi contattare lo sviluppatore.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  },
+  "readingTime": 10
+}

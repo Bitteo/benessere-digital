@@ -1,0 +1,470 @@
+{
+  "slug": "leggere-su-carta-o-su-schermo",
+  "title": "Leggere su carta o su schermo: che cosa cambia per lo studio",
+  "excerpt": "Lo stesso testo si capisce un po’ meglio su carta in certi compiti. Quanto è piccolo l’effetto, quando non c’è, e che cosa fare in classe.",
+  "cover": "/images/covers/multitasking-digitale-scuola-e-compiti.png",
+  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, libro, laptop, quaderno e smartphone sullo stesso tavolo.",
+  "publishedAt": "2026-11-13T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "benessere-digitale"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Leggere su carta o su schermo, per studiare",
+    "metaDescription": "Meta-analisi su carta e schermo: effetto piccolo, più visibile sui testi informativi a tempo. Che cosa cambia con un tablet o con la lettura nel tempo libero.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Delgado, Vargas, Ackerman e Salmerón — Educational Research Review (2018)",
+      "url": "https://futureofreading.eu/wp-content/uploads/2016/03/1-s2.0-S1747938X18300101-main.pdf",
+      "note": "Articolo ad accesso aperto, CC BY-NC-ND. DOI 10.1016/j.edurev.2018.09.003. 54 studi, 171.055 partecipanti, g = −0,21. Testi dal 2000 al 2017."
+    },
+    {
+      "title": "Clinton — Journal of Research in Reading (2019)",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/1467-9817.12269",
+      "note": "Abstract aperto, prima pubblicazione 13 gennaio 2019. Comprensione g = −0,25 (n = 2.799). Nessuna differenza affidabile sui tempi. Calibrazione migliore su carta."
+    },
+    {
+      "title": "Altamura, Vargas e Salmerón — Review of Educational Research (2023)",
+      "url": "https://journals.sagepub.com/doi/10.3102/00346543231216463",
+      "note": "Accesso aperto. Abitudini di lettura digitale nel tempo libero, non lo stesso testo su due supporti. 26 studi, 40 effetti, 469.564 partecipanti, r = 0,055. Anticipato online il 13 dicembre 2023."
+    },
+    {
+      "title": "Salmerón, Altamura, Delgado, Karagiorgi e Vargas — ERIC EJ1409878 (2024)",
+      "url": "https://eric.ed.gov/?id=EJ1409878",
+      "note": "Abstract su ERIC. Dispositivi portatili contro carta. Tra gruppi g = −0,113 (k = 38); dentro i gruppi g = −0,103 (k = 21). Journal of Educational Psychology, 116(2)."
+    },
+    {
+      "title": "COST E-READ — Stavanger Declaration (PDF)",
+      "url": "https://www.stavangerdeclaration.org/wp-content/uploads/2019/01/StavangerDeclaration.pdf",
+      "note": "Incontro del 3–4 ottobre 2018. Riassume, non rimisura, la meta-analisi dei 54 studi. Raccomanda libri di carta a scuola e strategie di lettura profonda anche su schermo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Allora i compiti si fanno solo su carta?",
+      "answer": "No. Delgado e colleghi, su studi del 2000–2017, trovano un vantaggio piccolo della carta (g = −0,21) quando si confronta lo stesso tipo di testo, più visibile con il tempo limitato e con i testi informativi, non con i soli testi narrativi. Clinton, nell’abstract della revisione del 2019, non trova una differenza affidabile sui tempi di lettura. Il mezzo si sceglie in base al compito: una verifica a tempo su un testo informativo è il caso in cui la carta, in questi studi, rende di più. Un racconto no, o molto meno."
+    },
+    {
+      "question": "Il tablet è come il computer di quegli studi?",
+      "answer": "Non del tutto. Salmerón e colleghi, nel 2024, hanno guardato i dispositivi tenuti in mano, perché le meta-analisi precedenti usavano soprattutto computer. Su ERIC il risultato è un vantaggio piccolo della carta: g = −0,113 negli studi tra gruppi (k = 38) e g = −0,103 in quelli dentro lo stesso gruppo (k = 21). È più stretto del −0,21 di Delgado. Non è zero. La dichiarazione di Stavanger, che riassume la ricerca E-READ fino al 2018, chiede di continuare a fare leggere libri di carta e, insieme, di insegnare strategie per la lettura profonda anche su schermo."
+    },
+    {
+      "question": "Leggere tanto sul telefono nel tempo libero allena la comprensione?",
+      "answer": "È un’altra domanda, e la risposta misurata è piccola. Altamura, Vargas e Salmerón, in Review of Educational Research (anticipato online il 13 dicembre 2023), mettono in relazione le abitudini di lettura digitale nel tempo libero e la comprensione: 26 studi, 40 effetti, 469.564 partecipanti, ricerche dal 2000 al 2022. L’associazione media è r = 0,055. Nell’abstract è negativa nella primaria e nella scuola media, positiva alle superiori e all’università. Non è il confronto dello stesso testo su carta e su schermo."
+    },
+    {
+      "question": "Se spengo le notifiche, la differenza carta-schermo sparisce?",
+      "answer": "Questi studi confrontano il mezzo su cui si legge un testo, non una sera di chat aperte. Le interruzioni sono un costo a parte: ne parliamo nel pezzo sul multitasking digitale. Una pagina PDF a schermo intero, senza altri ingressi, non è la stessa condizione di un libro con i messaggi accesi. Spegnere le notifiche toglie quel costo. Non trasforma da solo lo schermo nella condizione «carta» misurata nelle meta-analisi."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Venerdì 13 novembre 2026. Il capitolo è un PDF, il romanzo è un’app, la verifica è su carta perché «la professoressa vuole così». In casa la discussione diventa un carattere: chi legge bene legge su carta, chi legge sullo schermo non legge davvero. Le meta-analisi non dicono questo. Dicono una cosa più stretta, e più utile: a parità di testo, la comprensione media è un po’ migliore sulla carta in certi compiti, e la differenza non è la stessa per un racconto, per un saggio e per un tablet.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per chi studia, per chi assegna letture e per chi a casa vede solo lo schermo acceso. I numeri qui sotto hanno campione, anni e tipo di confronto. Un effetto piccolo non è un effetto nullo, e non è una condanna del digitale. Serve a scegliere il mezzo del compito, non a sequestrare il dispositivo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo stesso testo, due supporti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Pablo Delgado, Cristina Vargas, Rakefet Ackerman e Ladislao Salmerón hanno pubblicato nel 2018, su Educational Research Review, una meta-analisi aperta. Hanno preso studi dal 2000 al 2017 che confrontano testi paragonabili su carta e su dispositivo digitale. 54 studi: 38 tra gruppi diversi di persone, 16 dentro gli stessi lettori. In tutto, 171.055 partecipanti. In entrambi i disegni il vantaggio della carta è lo stesso: g di Hedges = −0,21. Il segno negativo, nella loro metrica, indica la carta sopra il digitale. Non è «il 21% in meno». È un effetto piccolo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre moderatori, nell’abstract, spostano il risultato. Il vantaggio della carta cresce quando il tempo è limitato, rispetto alla lettura a ritmo proprio. Resta sugli studi con testi informativi, o con un misto di informativi e narrativi, e non su quelli con soli testi narrativi. Cresce, inoltre, con l’anno di pubblicazione: non si è assottigliato da solo col passare degli anni coperti dalla ricerca. Togliere un singolo studio lascia l’effetto tra −0,22 e −0,20. Il risultato non pende da un paper solo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Virginia Clinton, sul Journal of Research in Reading, ha pubblicato il 13 gennaio 2019 una revisione sistematica. Nell’abstract, che è la parte aperta sulla pagina dell’editore: esperimenti con assegnazione casuale, tra il 2008 e il 2018, partecipanti che sanno già leggere. 29 rapporti, 33 studi. Sulla comprensione, k = 33 e n = 2.799, leggere su schermo ha un effetto negativo rispetto alla carta, g = −0,25. Sui testi espositivi g = −0,32. Sui narrativi g = −0,04, cioè nessuna differenza da prendere come tale. Letterale e inferenziale restano dallo stesso lato, g = −0,33 e g = −0,26. Sul tempo di lettura, k = 14 e n = 1.233, g = 0,08: nessuna differenza affidabile. Sulla calibrazione — quanto il lettore indovina come gli è andata — k = 11 e n = 698, g = 0,20 a favore della carta. L’abstract conclude che si può essere più efficienti e più consapevoli della propria prestazione sulla carta. I punti chiave della stessa pagina parlano di un beneficio piccolo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Due revisioni, due finestre di anni, lo stesso ordine di grandezza. Non autorizzano la frase «sullo schermo non si capisce». Autorizzano questa: per un testo informativo, specie se il tempo è contato, la carta è il supporto su cui la media degli studi vede un vantaggio. Per un racconto, quel vantaggio non si ripresenta allo stesso modo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il tablet non è il computer di dieci anni fa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gran parte degli studi dentro quelle meta-analisi usava computer. Ladislao Salmerón, Lidia Altamura, Pablo Delgado, Anastasia Karagiorgi e Cristina Vargas, sul Journal of Educational Psychology del 2024, hanno chiesto che cosa succede con i dispositivi tenuti in mano, tablet compresi, più vicini a un libro che a un monitor. La scheda ERIC riporta due meta-analisi multilivello. Tra gruppi: k = 38, g = −0,113. Dentro gli stessi partecipanti: k = 21, g = −0,103. Entrambe piccole, entrambe a favore della carta. In alcuni confronti l’effetto è più alto negli universitari che in primaria e secondaria, e quando la prova è individuale anziché di gruppo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gli autori, nell’abstract, scrivono che resta utile continuare a far leggere su carta a scuola e, insieme, trovare modi efficaci per usare i dispositivi portatili. Non è un divieto. È un effetto che, sul tablet, si è ristretto rispetto alle sintesi fatte soprattutto sui computer, e non è scomparso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un’altra domanda: quanto leggi, non su che cosa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "C’è una meta-analisi che sembra la stessa e non lo è. Lidia Altamura, Cristina Vargas e Ladislao Salmerón, su Review of Educational Research, articolo anticipato online il 13 dicembre 2023 e ad accesso aperto, non confrontano lo stesso brano su due supporti. Mettono in relazione le abitudini di lettura digitale nel tempo libero e i punteggi di comprensione. 26 studi, 40 effetti indipendenti, 469.564 partecipanti, pubblicazioni dal 2000 al 2022. L’associazione media è positiva e piccola: r = 0,055. Il livello di scuola cambia il segno. Nella primaria e nella scuola media la relazione descritta è negativa. Alle superiori e all’università diventa positiva.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gli autori scrivono che la lettura digitale nel tempo libero non rende, sulla comprensione, quanto la letteratura trova per la lettura su carta nel tempo libero. Non citiamo qui la dimensione di quegli effetti sulla carta: sta in studi che questa pagina non riapre. Citiamo il confine. Un pomeriggio di feed non è il capitolo letto due volte. E un capitolo letto due volte sul tablet non è, da solo, l’abitudine misurata da Altamura.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa ne ha fatto una rete europea",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La dichiarazione di Stavanger è il riassunto di un incontro, non una meta-analisi nuova. L’azione europea COST E-READ, quasi 200 studiosi di lettura, editoria e literacy, si è riunita a Stavanger il 3 e 4 ottobre 2018, dopo quattro anni di lavoro (2014–2018). Il PDF, datato nel percorso del sito al gennaio 2019, dice che carta e schermo permettono elaborazioni diverse, e che in un ambiente ibrido servono entrambi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tra i punti, la dichiarazione cita una meta-analisi di 54 studi e più di 170.000 partecipanti: la comprensione di testi informativi lunghi è più forte sulla carta, specie sotto pressione di tempo, e sui testi narrativi non osserva differenze. È lo stesso perimetro di Delgado e colleghi, che contano 54 studi e 171.055 persone: la dichiarazione arrotonda e parla di testi lunghi. Aggiunge che gli effetti di inferiorità dello schermo, rispetto alla carta, sono aumentati nel tempo, contro l’idea che i «nativi digitali» li avrebbero cancellati. Anche questo è nel solco del moderatore «anno di pubblicazione» di Delgado. La dichiarazione non è una misura indipendente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le raccomandazioni, quelle sì, sono del documento. Insegnare strategie per la lettura profonda anche sui dispositivi. A scuola e nelle biblioteche scolastiche, continuare a motivare la lettura di libri di carta e a metterci del tempo in orario. Uno scambio rapido e indiscriminato, nella primaria, di carta e matita con tecnologie digitali non è neutro: se non è accompagnato da strumenti e strategie pensati per quello, può frenare comprensione e pensiero critico in formazione. La dichiarazione mette anche una domanda, non un risultato: se la troppa fiducia nella propria lettura su schermo amplifichi la vulnerabilità a notizie false e pregiudizi. Non risponde. Non va trasformata in una percentuale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In classe e a casa, senza un divieto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una verifica a tempo su un paragrafo di storia o di scienze è il compito in cui questi studi vedono di più la carta: testo informativo, tempo contato, e — nell’abstract di Clinton — una consapevolezza più accurata di come sta andando. Stampare quel paragrafo, o leggerlo sul libro, è una scelta di compito. Non è un giudizio su chi preferisce lo schermo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un racconto, nella stessa letteratura, non mostra lo stesso divario. Farlo leggere su un dispositivo, se è quello che avete, non contraddice Delgado né Clinton. Un tablet, nel 2024 di Salmerón e colleghi, resta un po’ sotto la carta, con un effetto più piccolo di quello delle sintesi sui computer. Si può dire in classe senza teatro: il supporto pesa poco, e pesa di più quando il testo è informativo e il tempo è stretto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le notifiche sono un altro costo. Un PDF aperto insieme alla chat non è la condizione «schermo» di questi esperimenti, che confrontano il mezzo di lettura. Il costo di tenere aperti più ingressi sta nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/multitasking-digitale-scuola-e-compiti",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "multitasking digitale",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Leggere per capire, e non consegnare al posto proprio il riassunto di una chat, sta nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/compiti-e-ai-senza-delegare-il-pensiero",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "compiti e AI",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Sono tre porte. Questa è solo la prima: quale supporto, per quale testo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una prova da questa settimana",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prendi un testo informativo che devi davvero capire: una pagina del libro, non un feed. Leggilo una volta su carta, a tempo, e segna due domande a cui sai rispondere senza guardare. Un altro giorno, un testo dello stesso tipo, fallo su schermo intero, con le altre app chiuse, lo stesso tempo, le stesse due domande. Confronta che cosa resta, non la velocità del dito. Se la pagina di carta tiene di più, usala per le prove a tempo. Se le due prove si equivalgono, hai un dato tuo, su un testo solo: non cancella le meta-analisi, e non ti obbliga a un rituale che non ti serve.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Allora i compiti si fanno solo su carta?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Delgado e colleghi, su studi del 2000–2017, trovano un vantaggio piccolo della carta (g = −0,21) quando si confronta lo stesso tipo di testo, più visibile con il tempo limitato e con i testi informativi, non con i soli testi narrativi. Clinton, nell’abstract della revisione del 2019, non trova una differenza affidabile sui tempi di lettura. Il mezzo si sceglie in base al compito: una verifica a tempo su un testo informativo è il caso in cui la carta, in questi studi, rende di più. Un racconto no, o molto meno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il tablet è come il computer di quegli studi?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non del tutto. Salmerón e colleghi, nel 2024, hanno guardato i dispositivi tenuti in mano, perché le meta-analisi precedenti usavano soprattutto computer. Su ERIC il risultato è un vantaggio piccolo della carta: g = −0,113 negli studi tra gruppi (k = 38) e g = −0,103 in quelli dentro lo stesso gruppo (k = 21). È più stretto del −0,21 di Delgado. Non è zero. La dichiarazione di Stavanger, che riassume la ricerca E-READ fino al 2018, chiede di continuare a fare leggere libri di carta e, insieme, di insegnare strategie per la lettura profonda anche su schermo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Leggere tanto sul telefono nel tempo libero allena la comprensione?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È un’altra domanda, e la risposta misurata è piccola. Altamura, Vargas e Salmerón, in Review of Educational Research (anticipato online il 13 dicembre 2023), mettono in relazione le abitudini di lettura digitale nel tempo libero e la comprensione: 26 studi, 40 effetti, 469.564 partecipanti, ricerche dal 2000 al 2022. L’associazione media è r = 0,055. Nell’abstract è negativa nella primaria e nella scuola media, positiva alle superiori e all’università. Non è il confronto dello stesso testo su carta e su schermo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se spengo le notifiche, la differenza carta-schermo sparisce?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questi studi confrontano il mezzo su cui si legge un testo, non una sera di chat aperte. Le interruzioni sono un costo a parte: ne parliamo nel pezzo sul multitasking digitale. Una pagina PDF a schermo intero, senza altri ingressi, non è la stessa condizione di un libro con i messaggi accesi. Spegnere le notifiche toglie quel costo. Non trasforma da solo lo schermo nella condizione «carta» misurata nelle meta-analisi.",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1
+    }
+  },
+  "readingTime": 10
+}
