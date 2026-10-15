@@ -2,16 +2,15 @@
   "slug": "verificare-una-notizia-prima-di-inoltrarla",
   "title": "Prima di inoltrare: come verificare una notizia",
   "excerpt": "Tre controlli prima di inoltrare uno screenshot: se l’affermazione è verificabile, chi c’è dietro, e se una seconda fonte dice la stessa cosa.",
-  "cover": "/images/covers/doomscrolling-perche-il-pollice-non-si-ferma.png",
-  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, giovane a letto di notte che scorre lo smartphone.",
+  "cover": "/images/covers/verificare-una-notizia-prima-di-inoltrarla.png",
+  "coverAlt": "Illustrazione a linee: un ragazzo con il dito sul tasto di condivisione di un telefono, accanto una lente d’ingrandimento su un messaggio e un secondo telefono.",
   "publishedAt": "2026-10-30T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["social-media", "genitori-e-scuola"],
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Verificare una notizia prima di inoltrarla",
-    "metaDescription": "Lettura laterale, due fonti e niente etichetta fake news: UNESCO, Wineburg e McGrew, Pagella Politica, Facta e il Codice IFCN.",
-    "noIndex": true
+    "metaDescription": "Lettura laterale, due fonti e niente etichetta fake news: UNESCO, Wineburg e McGrew, Pagella Politica, Facta e il Codice IFCN."
   },
   "sources": [
     {

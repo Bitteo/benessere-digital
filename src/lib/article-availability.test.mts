@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict'
-import { readFileSync } from 'node:fs'
+import { existsSync, readFileSync } from 'node:fs'
 import { test } from 'node:test'
 import { isIndexableArticle, isPubliclyAvailable } from './article-availability.ts'
 
@@ -31,7 +31,12 @@ test('published articles without a parseable publishedAt stay hidden', () => {
 function loadArticle(slug: string) {
   return JSON.parse(
     readFileSync(new URL(`../content/articles/${slug}.json`, import.meta.url), 'utf8'),
-  ) as { status: 'draft' | 'published'; publishedAt?: string; seo?: { noIndex?: boolean } }
+  ) as {
+    status: 'draft' | 'published'
+    publishedAt?: string
+    cover?: string
+    seo?: { noIndex?: boolean }
+  }
 }
 
 test('scheduled published articles stay hidden until their publishedAt instant', () => {
@@ -106,19 +111,31 @@ test('november scheduled articles stay off pages, listings, sitemap and llms.txt
   }
 })
 
-test('friday drafts stay off public pages, sitemap and llms.txt', () => {
-  for (const slug of [
-    'password-passkey-una-chiave-per-account',
-    'verificare-una-notizia-prima-di-inoltrarla',
-    'permessi-app-fotocamera-microfono-posizione',
-    'leggere-su-carta-o-su-schermo',
-  ]) {
+test('friday articles stay hidden until their publishedAt', () => {
+  const publishedAtBySlug = {
+    'password-passkey-una-chiave-per-account': '2026-10-23T09:00:00.000+02:00',
+    'verificare-una-notizia-prima-di-inoltrarla': '2026-10-30T09:00:00.000+01:00',
+    'permessi-app-fotocamera-microfono-posizione': '2026-11-06T09:00:00.000+01:00',
+    'leggere-su-carta-o-su-schermo': '2026-11-13T09:00:00.000+01:00',
+  } as const
+
+  for (const [slug, expectedPublishedAt] of Object.entries(publishedAtBySlug)) {
     const article = loadArticle(slug)
-    assert.equal(article.status, 'draft')
-    assert.equal(article.seo?.noIndex, true)
-    assert.equal(isPubliclyAvailable(article, past), false)
+    assert.equal(article.status, 'published')
+    assert.equal(article.publishedAt, expectedPublishedAt)
+    assert.equal(article.seo?.noIndex, undefined)
+    assert.equal(article.cover, `/images/covers/${slug}.png`)
+    assert.equal(
+      existsSync(new URL(`../../public/images/covers/${slug}.png`, import.meta.url)),
+      true,
+    )
+    const publishedAt = new Date(article.publishedAt ?? '')
+    assert.equal(Number.isNaN(publishedAt.getTime()), false)
+    assert.equal(isPubliclyAvailable(article, new Date(publishedAt.getTime() - 1)), false)
+    assert.equal(isPubliclyAvailable(article, publishedAt), true)
     assert.equal(isPubliclyAvailable(article, future), false)
-    assert.equal(isIndexableArticle(article, past), false)
+    assert.equal(isIndexableArticle(article, new Date(publishedAt.getTime() - 1)), false)
+    assert.equal(isIndexableArticle(article, publishedAt), true)
     assert.equal(isIndexableArticle(article, future), false)
   }
 })

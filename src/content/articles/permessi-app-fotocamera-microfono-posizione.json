@@ -2,16 +2,15 @@
   "slug": "permessi-app-fotocamera-microfono-posizione",
   "title": "Permessi delle app: fotocamera, microfono, posizione, contatti",
   "excerpt": "Dove si rivedono fotocamera, microfono, posizione e contatti su iPhone e Android, e che cosa dichiara davvero la scheda di Google Play.",
-  "cover": "/images/covers/accordi-di-schermo-ragazzi-8-14.png",
-  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, riunione di famiglia al tavolo con foglietti e telefono spento.",
+  "cover": "/images/covers/permessi-app-fotocamera-microfono-posizione.png",
+  "coverAlt": "Illustrazione a linee: una mano tiene uno smartphone circondato da piccoli interruttori e dalle icone di posizione e contatti.",
   "publishedAt": "2026-11-06T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["sicurezza-online", "genitori-e-scuola"],
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Permessi delle app: camera, microfono, posizione",
-    "metaDescription": "Come rivedere fotocamera, microfono, posizione e contatti su iPhone e Android, e che cosa è la sezione Sicurezza dei dati di Google Play.",
-    "noIndex": true
+    "metaDescription": "Come rivedere fotocamera, microfono, posizione e contatti su iPhone e Android, e che cosa è la sezione Sicurezza dei dati di Google Play."
   },
   "sources": [
     {
