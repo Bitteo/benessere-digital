@@ -2,16 +2,16 @@
   "slug": "black-friday-influencer-pubblicita-ragazzi",
   "title": "Black Friday e influencer: riconoscere la pubblicità rivolta ai ragazzi",
   "excerpt": "Il 27 novembre 2026 è Black Friday. Come si riconosce un contenuto sponsorizzato, quando un timer è una pratica vietata, e due esercizi per casa e per la classe.",
-  "cover": "/images/covers/fomo-jomo-social-senza-sparire.png",
-  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, giovane in passeggiata al parco con il telefono fuori fuoco.",
+  "cover": "/images/covers/black-friday-influencer-pubblicita-ragazzi.png",
+  "coverAlt": "Illustrazione a linee: una ragazza guarda sullo smartphone un’influencer che mostra un prodotto, accanto borse della spesa e un orologio.",
   "publishedAt": "2026-11-23T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["social-media", "genitori-e-scuola"],
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Black Friday e pubblicità degli influencer",
     "metaDescription": "Contenuti sponsorizzati, urgenza artificiale e prezzi barrati: regole AGCOM, AGCM e direttiva UE, più due esercizi per genitori ed educatori.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {

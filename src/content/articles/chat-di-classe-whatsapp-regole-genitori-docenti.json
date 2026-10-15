@@ -2,17 +2,17 @@
   "slug": "chat-di-classe-whatsapp-regole-genitori-docenti",
   "title": "Chat di classe su WhatsApp: regole pratiche per genitori e docenti",
   "excerpt": "Gruppi di classe: che cosa non è attività della scuola, che cosa non si invia, e una pagina di regole per genitori e docenti. Fonti del Garante, della legge 71/2017 e di WhatsApp.",
-  "cover": "/images/covers/smartphone-a-scuola-cosa-funziona.png",
-  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, ingresso di una scuola con zaini e organizer per telefoni.",
+  "cover": "/images/covers/chat-di-classe-whatsapp-regole-genitori-docenti.png",
+  "coverAlt": "Illustrazione a linee: due studenti ai banchi si scambiano messaggi sul telefono, con fumetti di chat che passano dall’uno all’altro.",
   "publishedAt": "2026-11-09T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "sicurezza-online"],
   "readingTime": 10,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Chat di classe WhatsApp: regole per genitori e docenti",
     "metaDescription": "Regole pratiche per la chat di classe su WhatsApp: privacy, consenso, registro elettronico e cyberbullismo. Fonti del Garante, della legge 71/2017 e di WhatsApp.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {

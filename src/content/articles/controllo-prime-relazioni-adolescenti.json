@@ -2,16 +2,16 @@
   "slug": "controllo-prime-relazioni-adolescenti",
   "title": "25 novembre: il controllo nelle prime relazioni tra adolescenti",
   "excerpt": "Mercoledì 25 novembre 2026 è la Giornata internazionale per l’eliminazione della violenza contro le donne. Posizione, password e «fammi vedere il telefono»: come distinguere fiducia e controllo, e a chi rivolgersi.",
-  "cover": "/images/covers/cyberbullismo-a-scuola-oltre-la-denuncia.png",
-  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, gruppo di studenti in discussione calma attorno a un quaderno.",
+  "cover": "/images/covers/controllo-prime-relazioni-adolescenti.png",
+  "coverAlt": "Illustrazione a linee: due adolescenti camminano vicini, lei guarda il telefono; tra loro un piccolo cuore e un lucchetto aperto.",
   "publishedAt": "2026-11-25T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["sicurezza-online", "genitori-e-scuola"],
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Controllo e fiducia nelle prime relazioni",
     "metaDescription": "Posizione condivisa, password e telefono controllato: che cosa dicono Istat e Save the Children, come parlarne e i numeri 1522 e 19696.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {
