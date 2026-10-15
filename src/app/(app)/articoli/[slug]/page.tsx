@@ -8,14 +8,11 @@ import { ArticleCard } from '@/components/ui/ArticleCard'
 import { NewsletterBanner } from '@/components/sections/NewsletterBanner'
 import { ArticleEngagement } from '@/components/analytics/ArticleEngagement'
 import { LexicalContent } from '@/components/ui/LexicalContent'
+import { ArticleCommunity } from '@/components/article/ArticleCommunity'
 import { ArticleFaq } from '@/components/article/ArticleFaq'
 import { ArticleSources } from '@/components/article/ArticleSources'
 import { JsonLd } from '@/components/article/JsonLd'
-import {
-  buildArticleJsonLd,
-  buildBreadcrumbJsonLd,
-  buildFaqJsonLd,
-} from '@/lib/seo/jsonld'
+import { buildArticleJsonLd, buildBreadcrumbJsonLd, buildFaqJsonLd } from '@/lib/seo/jsonld'
 import { absoluteUrl } from '@/lib/seo/site'
 import type { Metadata } from 'next'
 
@@ -76,9 +73,7 @@ export default async function ArticleDetailPage({ params }: Props) {
   const imageUrl = getImageUrl(article.featuredImage)
   const publishDate = article.publishedAt ? formatDate(article.publishedAt) : null
   const updatedDate =
-    article.updatedAt &&
-    article.publishedAt &&
-    article.updatedAt !== article.publishedAt
+    article.updatedAt && article.publishedAt && article.updatedAt !== article.publishedAt
       ? formatDate(article.updatedAt)
       : article.updatedAt && !article.publishedAt
         ? formatDate(article.updatedAt)
@@ -172,10 +167,7 @@ export default async function ArticleDetailPage({ params }: Props) {
               </time>
             )}
             {updatedDate && (
-              <time
-                dateTime={article.updatedAt}
-                className="text-sm text-primary opacity-60"
-              >
+              <time dateTime={article.updatedAt} className="text-sm text-primary opacity-60">
                 Aggiornato il {updatedDate}
               </time>
             )}
@@ -206,6 +198,7 @@ export default async function ArticleDetailPage({ params }: Props) {
           <ArticleSources sources={article.sources} />
         ) : null}
         {article.faq?.length ? <ArticleFaq faq={article.faq} /> : null}
+        <ArticleCommunity />
       </article>
 
       {/* Author bios */}
