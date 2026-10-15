@@ -2,16 +2,15 @@
   "slug": "leggere-su-carta-o-su-schermo",
   "title": "Leggere su carta o su schermo: che cosa cambia per lo studio",
   "excerpt": "Lo stesso testo si capisce un po’ meglio su carta in certi compiti. Quanto è piccolo l’effetto, quando non c’è, e che cosa fare in classe.",
-  "cover": "/images/covers/multitasking-digitale-scuola-e-compiti.png",
-  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, libro, laptop, quaderno e smartphone sullo stesso tavolo.",
+  "cover": "/images/covers/leggere-su-carta-o-su-schermo.png",
+  "coverAlt": "Illustrazione a linee: uno studente alla scrivania con un libro aperto, un quaderno e un portatile sotto una lampada.",
   "publishedAt": "2026-11-13T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "benessere-digitale"],
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Leggere su carta o su schermo, per studiare",
-    "metaDescription": "Meta-analisi su carta e schermo: effetto piccolo, più visibile sui testi informativi a tempo. Che cosa cambia con un tablet o con la lettura nel tempo libero.",
-    "noIndex": true
+    "metaDescription": "Meta-analisi su carta e schermo: effetto piccolo, più visibile sui testi informativi a tempo. Che cosa cambia con un tablet o con la lettura nel tempo libero."
   },
   "sources": [
     {
