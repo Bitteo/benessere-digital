@@ -2,16 +2,16 @@
   "slug": "sextortion-foto-intime-primi-minuti",
   "title": "Richieste di foto intime e sextortion: cosa fare nei primi minuti",
   "excerpt": "Lunedì 30 novembre 2026. Se qualcuno chiede una foto intima o minaccia di diffonderla: non pagare, conservare le prove, bloccare e segnalare. Una guida per ragazzi, genitori e scuola.",
-  "cover": "/images/covers/sharenting-foto-dei-figli-online.png",
-  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, un adulto accanto a un bambino guarda lo smartphone prima di condividere, con la sagoma di un feed.",
+  "cover": "/images/covers/sextortion-foto-intime-primi-minuti.png",
+  "coverAlt": "Illustrazione a linee: una ragazza sul divano accanto a un adulto che la sostiene, il telefono a faccia in giù sul tavolino e uno scudo sopra di loro.",
   "publishedAt": "2026-11-30T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["sicurezza-online", "genitori-e-scuola"],
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Foto intime e sextortion: i primi minuti",
     "metaDescription": "Non pagare, non cancellare, conservare le prove, bloccare e segnalare. Polizia postale, piattaforme, Garante, Take It Down e 19696.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {

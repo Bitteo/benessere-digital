@@ -2,17 +2,17 @@
   "slug": "chatbot-amici-compagni-ai-adolescenti",
   "title": "Chatbot «amici»: i compagni AI usati dagli adolescenti",
   "excerpt": "Un compagno AI non è il chatbot dei compiti. Che cosa mostrano un’indagine americana e una italiana del 2025, e come usarlo senza scambiarlo per una persona.",
-  "cover": "/images/covers/compiti-e-ai-senza-delegare-il-pensiero.png",
-  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, ragazzo alla scrivania accanto al portatile con un fumetto di chat.",
+  "cover": "/images/covers/chatbot-amici-compagni-ai-adolescenti.png",
+  "coverAlt": "Illustrazione a linee: una ragazza sul divano chatta al telefono con un piccolo assistente virtuale, mentre dalla finestra due amici la salutano.",
   "publishedAt": "2026-11-02T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["social-media", "genitori-e-scuola"],
   "readingTime": 10,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Chatbot amici: compagni AI e adolescenti",
     "metaDescription": "Compagni AI fra gli adolescenti: indagini 2025 di Common Sense e Save the Children, limiti UNESCO e del regolamento europeo, usi che restano umani.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {

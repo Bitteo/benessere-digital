@@ -80,17 +80,28 @@ test('noIndex keeps a published article out of sitemap and llms.txt', () => {
   assert.equal(isIndexableArticle({ ...article, seo: { noIndex: false } }, future), true)
 })
 
-test('november safety drafts stay off public pages, sitemap and llms.txt', () => {
+test('november scheduled articles stay off pages, listings, sitemap and llms.txt until publishedAt', () => {
   for (const slug of [
+    'chatbot-amici-compagni-ai-adolescenti',
+    'chat-di-classe-whatsapp-regole-genitori-docenti',
+    'acquisti-in-app-microtransazioni-loot-box',
+    'primo-smartphone-eta-e-regole',
+    'black-friday-influencer-pubblicita-ragazzi',
     'controllo-prime-relazioni-adolescenti',
     'sextortion-foto-intime-primi-minuti',
+    'primo-regalo-tech-natale',
   ]) {
     const article = loadArticle(slug)
-    assert.equal(article.status, 'draft')
-    assert.equal(article.seo?.noIndex, true)
-    assert.equal(isPubliclyAvailable(article, past), false)
+    assert.equal(article.status, 'published')
+    assert.equal(article.seo?.noIndex, false)
+    const publishedAt = new Date(article.publishedAt ?? '')
+    assert.equal(Number.isNaN(publishedAt.getTime()), false)
+    const before = new Date(publishedAt.getTime() - 1)
+    assert.equal(isPubliclyAvailable(article, before), false)
+    assert.equal(isPubliclyAvailable(article, publishedAt), true)
+    assert.equal(isIndexableArticle(article, before), false)
+    assert.equal(isIndexableArticle(article, publishedAt), true)
     assert.equal(isPubliclyAvailable(article, future), false)
-    assert.equal(isIndexableArticle(article, past), false)
     assert.equal(isIndexableArticle(article, future), false)
   }
 })

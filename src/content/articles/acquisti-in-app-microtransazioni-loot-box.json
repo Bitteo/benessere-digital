@@ -2,16 +2,16 @@
   "slug": "acquisti-in-app-microtransazioni-loot-box",
   "title": "Acquisti in-app e loot box: monete, caso e limiti di spesa",
   "excerpt": "Microtransazioni e loot box: che cosa sono, perché la valuta virtuale allontana il prezzo dall’euro, che cosa stanno verificando AGCM e rete CPC, e quali limiti attivare su store e console.",
-  "cover": "/images/covers/videogiochi-e-ragazzi-quando-preoccuparsi.png",
-  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata dall’articolo sui videogiochi, ragazzo seduto con il controller e un adulto sulla porta.",
+  "cover": "/images/covers/acquisti-in-app-microtransazioni-loot-box.png",
+  "coverAlt": "Illustrazione a linee: un ragazzo gioca alla console sul divano; sullo schermo uno scrigno a sorpresa con un punto interrogativo e monete, sul tavolino un salvadanaio.",
   "publishedAt": "2026-11-16T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "schermo-e-tempo"],
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Acquisti in-app e loot box: prezzi e limiti",
     "metaDescription": "Microtransazioni e loot box nei giochi: valuta virtuale, istruttoria AGCM, principi CPC, etichette PEGI e limiti di spesa su store e console.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {
