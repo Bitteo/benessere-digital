@@ -2,16 +2,16 @@
   "slug": "primo-regalo-tech-natale",
   "title": "Primo regalo tech di Natale: console, tablet, orologio, lettore",
   "excerpt": "Guida prima del pacco: console, tablet, smartwatch, cuffie, e-reader e, se serve, il computer. Che cosa valutare per età, quali controlli attivare per ecosistema, l’accordo di casa e che cosa fare se il regalo arriva dai nonni. Lo smartphone resta nella guida dedicata.",
-  "cover": "/images/covers/controllo-genitori-smartphone-proteggere-senza-spiare.png",
-  "coverAlt": "Copertina temporanea, da sostituire: illustrazione editoriale a linee riusata da un altro articolo, due adulti al tavolo che guardano insieme uno smartphone.",
+  "cover": "/images/covers/primo-regalo-tech-natale.png",
+  "coverAlt": "Illustrazione a linee: un genitore e una bambina a tavola accanto all’albero di Natale, con un pacchetto regalo, un tablet, una console e uno smartwatch.",
   "publishedAt": "2026-12-02T09:00:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "schermo-e-tempo"],
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Primo regalo tech: cosa attivare prima del pacco",
     "metaDescription": "Console, tablet, orologio, cuffie o lettore a Natale: età, PEGI, controlli prima di incartare, regole di casa e checklist.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {

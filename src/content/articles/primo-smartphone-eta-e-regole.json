@@ -9,11 +9,11 @@
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "schermo-e-tempo"],
   "readingTime": 31,
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Primo smartphone: età, regole e configurazione",
     "metaDescription": "Guida pillar: SIP (non prima dei 13), prontezza AAP, consenso privacy a 14 anni, alternative, passi iOS e Android e patto prima del regalo.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {
