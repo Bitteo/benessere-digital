@@ -10,11 +10,18 @@ export const SITE_TAGLINE =
 /** Wordmark shown in the navbar and footer. */
 export const ORGANIZATION_LOGO_PATH = '/images/benessere.digital.svg'
 
+/** Canonical Instagram profile. Footer icon, article community box, Organization sameAs. */
+export const ORGANIZATION_INSTAGRAM_URL = 'https://www.instagram.com/benessere.digital'
+
+/** Official project subreddit. Canonical URL, not a share link. */
+export const ORGANIZATION_REDDIT_URL = 'https://www.reddit.com/r/benesseredigitale/'
+
 /** Social profiles linked from the footer, in footer order. */
 export const ORGANIZATION_SAME_AS = [
-  'https://instagram.com/benessere.digital',
+  ORGANIZATION_INSTAGRAM_URL,
   'https://tiktok.com/@benessere.digital',
   'https://linkedin.com/company/benessere-digital',
+  ORGANIZATION_REDDIT_URL,
 ] as const
 
 /**

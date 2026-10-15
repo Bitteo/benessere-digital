@@ -27,6 +27,8 @@ const config: Config = {
         'cta-blue': '#0366d6',
         'cta-blue-hover': '#1158c7',
         'accent-pink': '#dd23bb',
+        // Coral scuro: passa il contrasto del testo sul fondo chiaro del box community
+        'accent-coral': '#c43c2c',
         // Text variants
         placeholder: '#959da5',
         icon: '#43607a',
