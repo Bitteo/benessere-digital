@@ -140,6 +140,26 @@ test('friday articles stay hidden until their publishedAt', () => {
   }
 })
 
+test('november and december friday drafts stay off the site even after their date', () => {
+  const after = new Date('2026-12-12T08:00:00.000Z')
+  for (const slug of [
+    'diritti-dei-bambini-online-commento-generale-25',
+    'sms-truffa-falsi-corrieri-premi-whatsapp',
+    'parental-control-console-switch-playstation-xbox',
+  ]) {
+    const article = loadArticle(slug)
+    assert.equal(article.status, 'draft')
+    assert.equal(article.seo?.noIndex, true)
+    assert.equal(article.cover, `/images/covers/${slug}.png`)
+    assert.equal(
+      existsSync(new URL(`../../public/images/covers/${slug}.png`, import.meta.url)),
+      true,
+    )
+    assert.equal(isPubliclyAvailable(article, after), false)
+    assert.equal(isIndexableArticle(article, after), false)
+  }
+})
+
 test('an already-due published article is public', () => {
   const article = loadArticle('accordi-di-schermo-ragazzi-8-14')
   assert.equal(article.status, 'published')

@@ -1,0 +1,610 @@
+{
+  "slug": "sms-truffa-falsi-corrieri-premi-whatsapp",
+  "title": "SMS truffa e WhatsApp: falsi corrieri, falsi premi e che cosa fare se hai cliccato",
+  "excerpt": "Dopo il Black Friday arrivano i finti avvisi di consegna. Come riconoscere lo smishing, perché la chat giusta non basta, e i passi da fare se hai cliccato, inserito dati o dato un codice.",
+  "cover": "/images/covers/sms-truffa-falsi-corrieri-premi-whatsapp.png",
+  "coverAlt": "Illustrazione a linee: un ragazzo e una ragazza seduti su un divano corallo; lui tiene il telefono, sopra di loro uno scudo e un fumetto con una busta appesa a un amo da pesca, davanti un pacco.",
+  "publishedAt": "2026-11-27T09:00:00.000+01:00",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "sicurezza-online",
+    "genitori-e-scuola"
+  ],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "SMS truffa e WhatsApp: riconoscerli e cosa fare se hai cliccato",
+    "metaDescription": "Smishing, falsi corrieri, falsi premi e furto dell’account WhatsApp: le indicazioni di Polizia postale, Garante privacy, CSIRT Italia, AGCOM e Banca d’Italia.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Garante per la protezione dei dati personali — Smishing",
+      "url": "https://www.garanteprivacy.it/temi/cybersecurity/smishing",
+      "note": "Definizione, esempi di messaggi (banche, pacchi, premi, PA, social), istituzioni e banche non chiedono PIN, password o codici via SMS; se si sospetta il furto di credenziali, contattare la banca da canali affidabili e chiedere il blocco delle transazioni."
+    },
+    {
+      "title": "Polizia postale — SMS truffa pacco in arrivo",
+      "url": "https://www.commissariatodips.it/notizie/articolo/sms-truffa-pacco-in-arrivo/index.html",
+      "note": "23 dicembre 2022. Sito clone per sbloccare la consegna; verificare solo dal sito dell’ordine; testi dei messaggi più diffusi."
+    },
+    {
+      "title": "Polizia postale — Nuova campagna di smishing: «Il tuo pacco è stato consegnato al centro di spedizione»",
+      "url": "https://www.commissariatodips.it/notizie/articolo/nuova-campagna-di-smishing-il-tuo-pacco-e-stato-consegnato-al-centro-di-spedizione/index.html",
+      "note": "24 ottobre 2023. Il falso SMS compare nella stessa chat del corriere vero; segue telefonata con numero falsificato (spoofing)."
+    },
+    {
+      "title": "Polizia postale — Truffa del «voto alla ballerina»: attenzione ai furti di account WhatsApp",
+      "url": "https://www.commissariatodips.it/notizie/articolo/truffa-del-voto-alla-ballerina-attenzione-ai-furti-di-account-whatsapp/index.html",
+      "note": "12 febbraio 2026. Link da contatto noto che chiede numero e codice SMS; richieste di denaro ai contatti; verifica in due passaggi e controllo delle sessioni attive."
+    },
+    {
+      "title": "ACN, CSIRT Italia — Smishing: prosegue la campagna a tema promozioni TIM",
+      "url": "https://www.acn.gov.it/portale/w/smishing-prosegue-la-campagna-a-tema-promozioni-tim",
+      "note": "Alert AL02/251104/CSIRT-ITA, 4 novembre 2025. Punti in scadenza, catalogo premi, commissione di 0,99 euro, dati della carta, rimando finale al dominio ufficiale."
+    },
+    {
+      "title": "AGCOM — Primi dati del filtro anti-spoofing anche per le chiamate da numeri mobili",
+      "url": "https://www.agcom.it/comunicazione/comunicati-stampa/comunicato-stampa-63",
+      "note": "24 novembre 2025, delibera 106/25/CONS. Dal 19 novembre 2025 bloccate le chiamate dall’estero con numero italiano, salvo clienti in roaming; spostamento verso numeri internazionali non bloccabili."
+    },
+    {
+      "title": "Banca d’Italia, L’economia per tutti — Truffe: come difendersi",
+      "url": "https://economiapertutti.bancaditalia.it/aree-tematiche/pagamenti/truffe-nei-pagamenti-e-cybersicurezza/index.html",
+      "note": "Phishing, smishing, vishing e spoofing; la banca non chiede i dati di pagamento; disconoscimento, rimborso, ricorso all’ABF dopo diniego o 15 giorni lavorativi senza risposta; rimborso solo con comportamento diligente."
+    },
+    {
+      "title": "WhatsApp, Centro assistenza — Come recuperare un account compromesso",
+      "url": "https://faq.whatsapp.com/1131652977717250/?locale=it_IT",
+      "note": "Mai condividere il codice a 6 cifre, nemmeno con amici o familiari; la nuova registrazione disconnette gli altri dispositivi; PIN sconosciuto: attendere 7 giorni; cambiare password non rimuove l’intruso; avvisare i contatti."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Se l’SMS arriva nella stessa chat del corriere vero, posso fidarmi?",
+      "answer": "No. In una campagna segnalata dalla Polizia postale nell’ottobre 2023, il falso messaggio compariva proprio nella chat delle comunicazioni reali del corriere, e la truffa proseguiva con una telefonata da un numero falsificato. La spedizione si controlla solo dal sito o dall’app dove hai ordinato, aprendoli tu. Se non hai ordinato niente, il messaggio si cancella."
+    },
+    {
+      "question": "Ho dato il codice di WhatsApp a un amico che me l’ha chiesto. Che cosa faccio?",
+      "answer": "Rientra nell’account con il tuo numero e il codice a 6 cifre che ti arriva via SMS: secondo il Centro assistenza WhatsApp, chi lo sta usando viene disconnesso. Se compare un PIN che non conosci, aspetta 7 giorni e riprova. Avvisa i tuoi contatti, perché chi ha preso l’account può chiedere soldi a nome tuo, e attiva la verifica in due passaggi. Il tuo amico, probabilmente, è stato truffato prima di te."
+    },
+    {
+      "question": "Ho inserito i dati della carta: posso riavere i soldi?",
+      "answer": "Chiama subito la banca da un canale ufficiale, chiedi il blocco e disconosci le operazioni che non hai fatto. La Banca d’Italia spiega che si può chiedere il rimborso e, se la banca lo nega o non risponde entro 15 giorni lavorativi, ricorrere all’Arbitro Bancario Finanziario. Il rimborso spetta a chi ha agito con diligenza: chi ha comunicato i codici a un finto operatore, in genere, non ne ha diritto."
+    },
+    {
+      "question": "Il filtro dell’AGCOM non blocca già queste truffe?",
+      "answer": "Blocca una parte delle chiamate: dal 19 novembre 2025 gli operatori fermano le chiamate dall’estero con numero italiano, salvo i cellulari davvero in roaming. Non riguarda gli SMS né i messaggi WhatsApp, e l’AGCOM segnala uno spostamento verso chiamate con numeri internazionali, che non si possono bloccare. Resta la regola di base: niente codici e niente dati a chi ti contatta."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Venerdì 27 novembre 2026. Il Black Friday è passato da qualche giorno, e in molte case si aspetta un pacco. Arriva un SMS: «Il tuo pacco è stato trattenuto presso il nostro centro di spedizione. Si prega di seguire le istruzioni qui». È uno dei testi che la Polizia postale elenca tra i messaggi di phishing più diffusi. A un ragazzo, intanto, arriva su WhatsApp un messaggio da un amico vero: vota una bambina in un concorso di danza.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per ragazzi e genitori, da leggere insieme. Serve a riconoscere tre trucchi ricorrenti e a sapere che cosa fare nei primi minuti, che cambia a seconda di che cosa è successo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cos’è lo smishing",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Garante per la protezione dei dati personali lo definisce come una truffa che usa SMS e sistemi di messaggistica, compresi quelli dei social, per appropriarsi di dati personali, per esempio per sottrarre denaro da conti e carte. I messaggi chiedono di cliccare un link, scaricare un allegato, rispondere con dati come il PIN o i codici OTP, oppure chiamare un numero dove risponde un finto operatore. La leva, scrive il Garante, è il timore di un rischio imminente: toni ultimativi, fretta, urgenza.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Banca d’Italia, nella pagina «Truffe: come difendersi», aggiunge lo spoofing: il truffatore camuffa l’origine del messaggio o della chiamata, perché sembri davvero della banca o dell’azienda.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Trucco 1: il falso corriere",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il pacco è trattenuto o da riprogrammare. Il link porta a un sito clone che chiede dati personali e bancari per sbloccare la consegna. La Polizia postale consiglia di verificare la spedizione solo dal sito su cui si è fatto l’ordine, di chiedere al servizio clienti in caso di dubbio, e di cancellare il messaggio se non si è ordinato niente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "C’è una variante più insidiosa. In una campagna segnalata dalla Postale nell’ottobre 2023, il falso SMS compariva nella stessa chat dei messaggi veri del corriere, e la truffa proseguiva con una telefonata da un numero scelto dal truffatore con lo spoofing. La chat giusta e il nome giusto non provano niente. Prova solo l’app o il sito ufficiale, aperti da te.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Trucco 2: il falso premio",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Punti in scadenza, un regalo da riscattare, una piccola commissione. Il 4 novembre 2025 il CSIRT Italia dell’Agenzia per la cybersicurezza nazionale ha descritto la ripresa di una campagna a tema promozioni TIM. L’SMS parla di punti in scadenza, il sito propone un catalogo di premi e chiede i dati personali e poi quelli della carta, per una commissione di 0,99 euro. Dopo tre inserimenti dei dati, la vittima viene rimandata al dominio ufficiale TIM, così sembra tutto normale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La cifra piccola è il trucco. Non serve a incassare 99 centesimi. Serve a farti scrivere numero, scadenza e codice della carta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Trucco 3: l’amico che chiede un voto o un codice",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 12 febbraio 2026 la Polizia postale ha segnalato la truffa del «voto alla ballerina». Un contatto in rubrica invita a votare una bambina in un concorso di danza. La pagina chiede il numero di telefono e un codice arrivato via SMS. Con quel codice i truffatori prendono l’account WhatsApp e scrivono subito a familiari e amici, fingendo un’emergenza e chiedendo soldi, mentre il titolare non riesce più a entrare per avvisarli.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il contatto è vero: è il suo account che è stato preso. Per questo la regola non è «fidati di chi conosci». È: il codice di WhatsApp non si dà a nessuno. Il Centro assistenza WhatsApp scrive di non condividere mai il codice di registrazione, «nemmeno con amici o familiari».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I segnali, in breve",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Urgenza: ultimo avviso, entro poche ore, punti che scadono.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un link da toccare per risolvere, o un numero da richiamare.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Una richiesta di dati che non si chiedono per messaggio: il Garante ricorda che istituzioni e banche non chiedono PIN, password o codici di autorizzazione via SMS o messaggistica.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un contatto noto che chiede soldi o codici. Si verifica su un altro canale: una chiamata al suo numero, una domanda di persona.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sui numeri falsificati: dal 19 novembre 2025 il filtro anti-spoofing previsto dall’AGCOM blocca le chiamate dall’estero con numero italiano, fisso o mobile, salvo i cellulari di chi è davvero in roaming. Riguarda le chiamate, non gli SMS. L’Autorità avverte che il fenomeno si sta spostando sulle chiamate dall’estero con numeri internazionali, che non possono essere bloccate. Un numero sul display, italiano o straniero, non è una garanzia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Hai cliccato. Che cosa fare, caso per caso",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per i ragazzi, la prima mossa è dirlo subito a un adulto. Non è una colpa: conta il tempo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Hai aperto il link e chiuso la pagina, senza scrivere niente. Chiudi, non inserire nulla, cancella il messaggio. Se la pagina ti ha fatto scaricare un’app o un file, parlatene e controllate insieme che cosa è stato installato e con quali permessi, come nel pezzo sui ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/permessi-app-fotocamera-microfono-posizione",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "permessi delle app",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Hai inserito una password. Cambiala subito, dall’app o dal sito ufficiale, e cambia quella di ogni altro account in cui usavi la stessa. Poi attiva la verifica in due passaggi: è nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/password-passkey-una-chiave-per-account",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "password e passkey",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Hai inserito i dati della carta o un codice della banca. Contatta subito la banca o l’emittente della carta con un canale che conosci già: il numero sul retro della carta, l’app ufficiale. Non il numero scritto nel messaggio. Il Garante consiglia di segnalare l’accaduto e chiedere le misure di protezione e, se è stato sottratto denaro, il blocco delle transazioni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se un addebito è già partito, la Banca d’Italia indica i passi: segnalare subito le operazioni alla banca e chiedere il rimborso; se la banca lo nega o non risponde entro 15 giorni lavorativi, si può ricorrere all’Arbitro Bancario Finanziario. La stessa pagina avverte che il rimborso spetta a chi ha agito con diligenza. Dare al telefono i codici a un finto operatore, in genere, lo esclude.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Hai dato il codice di WhatsApp. Il Centro assistenza indica di registrare di nuovo l’account con il tuo numero e il codice a 6 cifre ricevuto via SMS: chi sta usando l’account viene disconnesso. Se ti viene chiesto un PIN della verifica in due passaggi che non conosci, può averlo attivato chi ha preso l’account: aspetta 7 giorni e riprova. Cambiare password, scrive WhatsApp, non basta a togliere un intruso. Poi avvisa amici e familiari, attiva la verifica in due passaggi e controlla i dispositivi collegati, come consiglia anche la Polizia postale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In ogni caso, segnala il messaggio alla Polizia postale dal portale commissariatodips.it. Se c’è stato un danno, la denuncia è un passo in più.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In famiglia, una regola da scrivere",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una riga sul frigo vale più di una lista: «Nessun codice a nessuno. Un pacco si controlla solo dall’app di chi lo spedisce». Aggiungete chi chiamare se succede, con il numero della banca già salvato in rubrica. Se avete una chat di famiglia o di classe, è il posto giusto per avvisare quando gira una truffa, come nel pezzo sulle ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/chat-di-classe-whatsapp-regole-genitori-docenti",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "chat di classe",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". E se il pacco nasce da un acquisto spinto da un influencer, l’altra metà della storia è nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/black-friday-influencer-pubblicita-ragazzi",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Black Friday",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se l’SMS arriva nella stessa chat del corriere vero, posso fidarmi?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. In una campagna segnalata dalla Polizia postale nell’ottobre 2023, il falso messaggio compariva proprio nella chat delle comunicazioni reali del corriere, e la truffa proseguiva con una telefonata da un numero falsificato. La spedizione si controlla solo dal sito o dall’app dove hai ordinato, aprendoli tu. Se non hai ordinato niente, il messaggio si cancella.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Ho dato il codice di WhatsApp a un amico che me l’ha chiesto. Che cosa faccio?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Rientra nell’account con il tuo numero e il codice a 6 cifre che ti arriva via SMS: secondo il Centro assistenza WhatsApp, chi lo sta usando viene disconnesso. Se compare un PIN che non conosci, aspetta 7 giorni e riprova. Avvisa i tuoi contatti, perché chi ha preso l’account può chiedere soldi a nome tuo, e attiva la verifica in due passaggi. Il tuo amico, probabilmente, è stato truffato prima di te.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Ho inserito i dati della carta: posso riavere i soldi?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chiama subito la banca da un canale ufficiale, chiedi il blocco e disconosci le operazioni che non hai fatto. La Banca d’Italia spiega che si può chiedere il rimborso e, se la banca lo nega o non risponde entro 15 giorni lavorativi, ricorrere all’Arbitro Bancario Finanziario. Il rimborso spetta a chi ha agito con diligenza: chi ha comunicato i codici a un finto operatore, in genere, non ne ha diritto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il filtro dell’AGCOM non blocca già queste truffe?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Blocca una parte delle chiamate: dal 19 novembre 2025 gli operatori fermano le chiamate dall’estero con numero italiano, salvo i cellulari davvero in roaming. Non riguarda gli SMS né i messaggi WhatsApp, e l’AGCOM segnala uno spostamento verso chiamate con numeri internazionali, che non si possono bloccare. Resta la regola di base: niente codici e niente dati a chi ti contatta.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 9
+}

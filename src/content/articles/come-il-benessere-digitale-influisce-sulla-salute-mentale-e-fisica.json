@@ -1,20 +1,81 @@
 {
   "slug": "come-il-benessere-digitale-influisce-sulla-salute-mentale-e-fisica",
-  "title": "Come il benessere digitale influisce sulla salute mentale e fisica",
-  "excerpt": "L'abuso di tecnologia impatta sia la mente che il corpo. Dall'information overload alla text neck, ecco tutti gli effetti e come contrastarli.",
+  "title": "Benessere digitale, salute mentale e fisica: che cosa sappiamo",
+  "excerpt": "Schermi, umore, sonno, occhi e sedentarietà: che cosa dicono OMS, ISS, UNICEF, OECD e il Surgeon General del 2023, e che cosa la versione precedente diceva troppo in fretta.",
   "cover": "/images/covers/salute-mentale.jpg",
   "coverAlt": "Copertina: Come il benessere digitale influisce sulla salute mentale e fisica",
   "publishedAt": "2024-09-03T00:00:00.000Z",
+  "updatedAt": "2026-10-20T09:00:00.000+02:00",
   "authorSlugs": [],
   "categorySlugs": [
     "salute-mentale"
   ],
-  "readingTime": 7,
+  "readingTime": 13,
   "status": "published",
   "seo": {
-    "metaTitle": "Benessere digitale e salute mentale: impatti e strategie",
-    "metaDescription": "Come l'uso eccessivo di tecnologia influisce sulla salute mentale e fisica, con strategie concrete per proteggere il tuo benessere digitale."
+    "metaTitle": "Benessere digitale e salute: che cosa dicono le fonti",
+    "metaDescription": "Umore, sonno, occhi e sedentarietà: associazioni, non sentenze. Fonti OMS, ISS, UNICEF, OECD e Surgeon General USA 2023."
   },
+  "sources": [
+    {
+      "title": "OMS — Physical activity (scheda, 26 giugno 2024)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+      "note": "Comportamento sedentario: veglia a basso dispendio, da seduti, reclinati o sdraiati. Gli schermi per lavoro, studio e svago, con i trasporti motorizzati, rendono le vite più sedentarie. Quantità alte di sedentarietà sono associate, nei bambini e negli adolescenti, a più adiposità, peggiore salute cardiometabolica e fitness, condotta peggiore e sonno più corto; negli adulti, a più mortalità e a incidenza di malattie cardiovascolari, tumori e diabete di tipo 2. Non è un nesso «questo schermo ha causato la malattia»."
+    },
+    {
+      "title": "Bull e colleghi — World Health Organization 2020 guidelines on physical activity and sedentary behaviour",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/",
+      "note": "Articolo aperto su PMC che presenta le linee guida OMS 2020. Limitare la sedentarietà è raccomandato a tutte le età; le prove non bastavano a fissare una soglia in minuti. Adulti: 150–300 minuti a settimana di attività moderata, oppure 75–150 di attività vigorosa. Bambini e adolescenti: in media 60 minuti al giorno di attività da moderata a vigorosa. Qualsiasi attività è meglio di nessuna."
+    },
+    {
+      "title": "ISS — HBSC Italia 2022, le tecnologie digitali negli adolescenti (PDF, 2024)",
+      "url": "https://www.iss.it/documents/20126/6703853/La+Sorveglianza+HBSC-Italia+2022+-+Health+Behaviour+in+School-aged+Children+le+tecnologie+digitali.pdf",
+      "note": "Report a cura di Galeotti e colleghi. «A rischio di uso problematico» dei social: almeno sei sintomi su nove della Social Media Disorder Scale. Non è una diagnosi. Tabella 2: totale ragazzi 10,3%, ragazze 16,9%; a 13 anni, 11,3% e 20,5%. Il riassunto iniziale parla di un 40% di tredicenni a rischio: l’articolo usa la tabella, non quella frase."
+    },
+    {
+      "title": "UNICEF — The State of the World’s Children 2017, Children in a Digital World (riassunto, PDF)",
+      "url": "https://www.unicef.org/media/48601/file/SOWC_2017_Summary_ENG.pdf",
+      "note": "Riassunto del rapporto 2017, non un aggiornamento successivo. Le prove su salute e felicità erano ancora incomplete. Non c’è accordo su quando il tempo online diventa eccessivo. Per la maggior parte dei bambini, i problemi di fondo pesano più del tempo sullo schermo. Conta anche che cosa si fa online."
+    },
+    {
+      "title": "U.S. Surgeon General — Social Media and Youth Mental Health (advisory, 2023, PDF)",
+      "url": "https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf",
+      "note": "Benefici possibili e rischi, per bambini e adolescenti. Non si può concludere che i social siano abbastanza sicuri. Cita la coorte di Riehm e colleghi, 2019 (nota 30): 12–15 anni, 6.595 persone, più di 3 ore al giorno di social e doppio rischio di esiti di salute mentale peggiori. Alle famiglie: valutare di spegnere telefoni, tablet e computer almeno un’ora prima di dormire e per la notte, e pasti senza dispositivi. Non è una cura misurata."
+    },
+    {
+      "title": "OCSE — How’s Life in the Digital Age? (2019, PDF)",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/02/how-s-life-in-the-digital-age_g1g9e413/9789264311800-en.pdf",
+      "note": "OECD (2019), How’s Life in the Digital Age?: Opportunities and Risks of the Digital Transformation for People’s Well-being, OECD Publishing, Paris, https://doi.org/10.1787/9789264311800-en. Undici dimensioni del benessere. Opportunità (informazione, servizi) e rischi (cyberbullismo, disinformazione, divario di competenze). Non misura l’effetto di un detox individuale."
+    },
+    {
+      "title": "Orben e Przybylski — The association between adolescent well-being and digital technology use (2019)",
+      "url": "https://ora.ox.ac.uk/objects/uuid:5d844350-a359-47d3-b10c-4bfb93ce613b",
+      "note": "Manoscritto accettato nel repository di Oxford. Versione finale: Nature Human Behaviour, 2019, 3, 173–182, DOI 10.1038/s41562-018-0506-1. Specification curve su tre indagini, 355.358 adolescenti. Associazione negativa che spiega al massimo lo 0,4% della variazione del benessere. Correlazione, non una causa. Gli autori giudicano l’effetto troppo piccolo, da solo, per un cambio di policy. Non è l’advisory del 2023, che guarda ai social e ai minori con un’altra cautela."
+    },
+    {
+      "title": "American Academy of Ophthalmology — Should You Be Worried About Blue Light?",
+      "url": "https://www.aao.org/eye-health/tips-prevention/should-you-be-worried-about-blue-light",
+      "note": "Pagina pubblicata il 10 marzo 2021, rivista da Rahul N. Khurana. Nessuna evidenza che la luce blu dei dispositivi danneggi l’occhio; dagli schermi ne arriva molto meno che dal sole. L’affaticamento non lascia un danno duraturo. Regola 20-20-20. L’Academy non raccomanda occhiali che filtrano la luce blu per il computer. Troppa luce blu la sera può rendere più difficile addormentarsi: il portavoce suggerisce di limitare gli schermi nelle due o tre ore prima di dormire e di provare le impostazioni notturne. Non è una misura della melatonina."
+    }
+  ],
+  "faq": [
+    {
+      "question": "I social media causano depressione e ansia?",
+      "answer": "Non come regola generale. Nello studio di Orben e Przybylski del 2019, su tre indagini e 355.358 adolescenti, l’associazione tra uso delle tecnologie digitali e benessere è negativa e spiega al massimo lo 0,4% della variazione: è una correlazione, non una causa. L’advisory del Surgeon General degli Stati Uniti del 2023, sui minori, dice che non si può concludere che i social siano abbastanza sicuri, e cita uno studio di coorte su adolescenti di 12–15 anni in cui più di 3 ore al giorno di social si associava al doppio del rischio di esiti di salute mentale peggiori, sintomi di depressione e ansia compresi. In Italia, il report HBSC 2022 dell’Istituto Superiore di Sanità classifica «a rischio di uso problematico» chi riconosce almeno sei sintomi su nove della Social Media Disorder Scale: non è una diagnosi. Sul totale è il 10,3% dei ragazzi e il 16,9% delle ragazze."
+    },
+    {
+      "question": "La luce blu degli schermi rovina gli occhi e il sonno?",
+      "answer": "Gli occhi, per quanto ne scrive l’American Academy of Ophthalmology, no: non c’è evidenza scientifica che la luce blu dei dispositivi danneggi l’occhio, l’affaticamento non lascia un danno duraturo, e dagli schermi ne arriva molto meno che dal sole. Il sonno è un altro discorso. La stessa pagina dice che troppa luce blu la sera può rendere più difficile addormentarsi, e il portavoce suggerisce di limitare gli schermi nelle due o tre ore prima di dormire. L’advisory americano del 2023, rivolto alle famiglie, parla di tenere telefoni, tablet e computer spenti almeno un’ora prima di dormire e per tutta la notte. I due testi non indicano lo stesso numero di minuti. Gli occhiali che filtrano la luce blu non sono raccomandati per l’uso al computer. Un filtro non sostituisce il telefono lontano dal letto."
+    },
+    {
+      "question": "Stare seduti al computer causa obesità, diabete e tumori?",
+      "answer": "La scheda dell’OMS sull’attività fisica, del 26 giugno 2024, associa quantità alte di comportamento sedentario, negli adulti, a più mortalità e a incidenza di malattie cardiovascolari, tumori e diabete di tipo 2. Gli schermi sono uno dei modi in cui si sta seduti, insieme ai trasporti motorizzati: non la prova che un’ora di computer produca quelle malattie. Le linee guida OMS del 2020 non fissano una soglia di minuti da non superare da seduti. Chiedono di limitare la sedentarietà e di muoversi: per gli adulti, 150–300 minuti a settimana di attività moderata, oppure 75–150 di attività vigorosa."
+    },
+    {
+      "question": "Un digital detox al mese migliora ansia, sonno, produttività e relazioni?",
+      "answer": "Non risulta dalle fonti di questo articolo. La versione precedente lo affermava senza uno studio. Una pausa programmata può tenere libero un pasto o il tratto prima di dormire: è il suggerimento pratico dell’advisory del 2023 per le famiglie, non un esito clinico misurato. Se l’umore, il sonno o un dolore non tornano, la domanda giusta è per un medico, non per un mese offline."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",
@@ -25,18 +86,403 @@
           "children": [
             {
               "type": "text",
-              "text": "Viviamo in un'era in cui la tecnologia è parte integrante delle nostre vite: dai social media, alle email, alle app di messaggistica. Sebbene questi strumenti ci offrano connessioni senza precedenti e semplifichino molte attività quotidiane, l'uso eccessivo della tecnologia può avere un impatto significativo sulla nostra salute mentale e fisica. Ecco perché il concetto di ",
+              "text": "Il titolo di questo pezzo promette una risposta netta: il digitale «influisce» sulla salute mentale e sulla salute fisica. La frase è comoda, e in gran parte non è quello che dicono le fonti. Ci sono associazioni, rischi che le istituzioni prendono sul serio, e abitudini che vale la pena tenere. La versione del 2024 chiudeva alcuni di questi passaggi troppo in fretta. Qui restano, corretti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Benessere digitale», in queste pagine, non è uno stato di salute ottimale e non è una diagnosi. È un modo di usare telefono, computer e social lasciando spazio a sonno, movimento e persone. Il resto si misura. Non si proclama.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mente: un effetto piccolo, e un allarme che non è una sentenza",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel 2019 Amy Orben e Andrew Przybylski hanno rianalizzato tre grandi indagini sugli adolescenti, in tutto 355.358 persone, con una specification curve: molte scelte di analisi, non una sola. L’associazione tra uso delle tecnologie digitali e benessere psicologico è negativa, ma piccola. Spiega al massimo lo 0,4% della variazione del benessere. È una correlazione. Non è la prova che lo schermo causi un disturbo. La loro conclusione, in quel paper, è che effetti così piccoli non bastano da soli a giustificare un cambio di policy. Non è l’ultima parola sul tema. È il motivo per cui non si può scrivere che i social portano a depressione, isolamento e inadeguatezza come se fosse un fatto generale, per tutti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quattro anni dopo, l’advisory del Surgeon General degli Stati Uniti del 2023 guarda ai social e ai minori, non a «tutta la tecnologia» e non agli adulti. Dice due cose insieme. I social possono avere benefici per alcuni bambini e adolescenti, e ci sono segnali di un rischio di danno. Allo stato delle prove, non si può concludere che i social siano abbastanza sicuri per bambini e adolescenti. Tra gli studi che cita c’è una coorte americana di adolescenti di 12–15 anni, 6.595 persone, corretta per la salute mentale di partenza (Riehm e colleghi, 2019, nella nota 30 dell’advisory): chi stava sui social più di 3 ore al giorno aveva il doppio del rischio di esiti di salute mentale peggiori, compresi sintomi di depressione e ansia. È un risultato su adolescenti e su ore di social. Non è una legge per cui molte persone sviluppano una dipendenza che porta a depressione. L’advisory chiede più ricerca. Non fa diagnosi a distanza.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Italia, il report HBSC 2022 dell’Istituto Superiore di Sanità usa la Social Media Disorder Scale: nove sintomi, e «a rischio di uso problematico» significa riconoscerne almeno sei. Non è una diagnosi clinica di dipendenza. Nella tabella 2, sul totale, risulta a rischio il 10,3% dei ragazzi e il 16,9% delle ragazze. A 13 anni i numeri sono 11,3% e 20,5%. Il testo dice che a 13, 15 e 17 anni le ragazze risultano il doppio dei ragazzi: sulla tabella, a 13 anni, 20,5 contro 11,3 è quasi il doppio, non un’identità. Il riassunto in apertura del report parla di un 40% di tredicenni a rischio. La tabella, che è il conteggio, dice 20,5%. Qui usiamo la tabella.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’UNICEF, nel riassunto del rapporto 2017 Children in a Digital World, scriveva già che le prove su salute e felicità erano incomplete, che non c’è accordo su quando il tempo diventa «troppo», e che per la maggior parte dei bambini i problemi di fondo — una depressione, difficoltà a casa — pesano più del tempo sullo schermo. Conta anche che cosa si fa online, non solo per quanto. È un testo del 2017. Non è un aggiornamento del 2026.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’OCSE, in How’s Life in the Digital Age? (2019), mette la trasformazione digitale su undici dimensioni del benessere. Il bilancio che fa è doppio: più informazione e più servizi da una parte; dall’altra rischi che vanno dal cyberbullismo alla disinformazione, fino al divario tra chi ha le competenze per usare il digitale e chi no. Non misura l’effetto di un detox sulla singola persona.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La paura di perdersi qualcosa, la FOMO, è un’esperienza frequente. Non è una malattia. Ne parliamo a parte, senza trasformarla in dipendenza: ",
               "version": 1
             },
             {
-              "type": "text",
-              "text": "benessere digitale",
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
               "version": 1,
-              "format": 1
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FOMO e JOMO",
+                  "version": 1
+                }
+              ]
             },
             {
               "type": "text",
-              "text": " sta diventando sempre più rilevante. In questo articolo, esploreremo come il benessere digitale influisce sulla nostra salute complessiva e quali strategie possiamo adottare per utilizzare la tecnologia in modo più sano e consapevole.",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sonno: la luce blu non chiude il discorso",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La versione precedente diceva che la luce blu degli schermi sopprime la melatonina e che per questo è difficile addormentarsi, e consigliava filtri o la modalità notte come rimedio. È troppo stretto per l’uso ordinario di un telefono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’American Academy of Ophthalmology, in una pagina pubblicata il 10 marzo 2021 e rivista da Rahul Khurana, scrive che non c’è evidenza scientifica che la luce blu dei dispositivi danneggi l’occhio, e che dagli schermi ne arriva molto meno che dal sole. Scrive anche che la luce blu entra nel ritmo circadiano e che troppa esposizione a tarda sera, da telefono, tablet o computer, può rendere più difficile addormentarsi. Il consiglio del portavoce, su quella pagina, è provare a limitare gli schermi nelle due o tre ore prima di dormire. Si possono provare le impostazioni notturne per ridurre la luce blu la sera. Non è un esperimento che misuri la melatonina sul telefono di casa. Gli occhiali «anti luce blu» non sono raccomandati per l’uso al computer: la pagina dice che mancano prove di efficacia e che diversi studi non trovano un miglioramento dell’affaticamento visivo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’advisory del Surgeon General, parlando di famiglie e di adolescenti, indica un’altra finestra: tenere telefoni, tablet e computer spenti almeno un’ora prima di dormire e per tutta la notte, e lasciare i pasti senza dispositivi. È un gesto di casa. Non è la prova che un’ora spenta curi l’insonnia. Un’ora e due o tre ore non sono lo stesso numero. Nessuna delle due pagine fissa la dose giusta per tutti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " entra nel sonno con più fonti, luce inclusa. Qui basta non scambiare un filtro con un protocollo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Occhi: fastidio, non un danno permanente",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La stessa accademia descrive l’affaticamento da schermo come secchezza, visione sfocata, bruciore, mal di testa: lo stesso tipo di disagio di altra lettura da vicino, non una lesione permanente. Davanti a uno schermo si sbatte meno le palpebre. L’affaticamento, scrive, non lascia un danno duraturo. La regola 20-20-20 è il loro promemoria pratico: ogni 20 minuti, guardare qualcosa ad almeno 20 piedi, circa 6 metri, per almeno 20 secondi. Non è una cura misurata in questo articolo. È una pausa. Se gli occhi restano rossi, doloranti o sensibili alla luce, serve un oculista, non un altro paragrafo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Collo: niente «text neck» come diagnosi",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La versione precedente chiamava «text neck» il dolore da testa inclinata sul telefono e parlava di stress eccessivo sulla colonna. È un’etichetta da copertina. Non è una diagnosi che questo pezzo possa fare, e non citiamo chili di pressione sulla cervicale: quel numero circola molto e qui non ha una fonte che lo regga. Stare a lungo piegati sullo schermo può lasciare collo e spalle indolenziti. È un fastidio da postura ferma. Alzare lo schermo verso gli occhi, cambiare posizione, alzarsi. Se il dolore resta, è una domanda per un medico.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Movimento: la sedentarietà non è «lo schermo causa il cancro»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Più tempo connessi non significa, da solo, obesità, diabete di tipo 2, malattie cardiovascolari e tumori. La scheda dell’OMS sull’attività fisica, aggiornata al 26 giugno 2024, definisce comportamento sedentario qualsiasi momento di veglia a basso dispendio: stare seduti, reclinati, sdraiati. Dice che le vite diventano più sedentarie anche per l’uso degli schermi, per lavoro, studio e svago, insieme ai trasporti motorizzati. E dice che quantità più alte di comportamento sedentario sono associate, nei bambini e negli adolescenti, a più adiposità, peggiore salute cardiometabolica e fitness, condotta peggiore e sonno più corto; negli adulti, a più mortalità e a incidenza di malattie cardiovascolari, tumori e diabete di tipo 2. È un’associazione della sedentarietà. Non è un nesso per cui un reel abbia causato un tumore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le linee guida OMS del 2020, nell’articolo di Bull e colleghi, raccomandano di limitare il tempo sedentario a tutte le età, e scrivono che le prove non bastavano a fissare una soglia in minuti. Per gli adulti indicano 150–300 minuti a settimana di attività moderata, oppure 75–150 di attività vigorosa, o una combinazione. Per bambini e adolescenti, in media 60 minuti al giorno di attività da moderata a vigorosa. Qualsiasi attività è meglio di nessuna. Una camminata sostituisce un po’ di sedia. Non è una terapia e non dimostra che un’ora di feed abbia prodotto una malattia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Pause sì, promesse no",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il digital detox, nella versione precedente, poteva «ridurre l’ansia, migliorare il sonno, aumentare la produttività e migliorare le relazioni». Quelle quattro promesse non stanno nelle fonti di questo pezzo. Una pausa può proteggere un pasto o il tratto prima di dormire: l’advisory del 2023 lo suggerisce alle famiglie. Non è un trattamento mensile con esiti garantiti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cose che si possono fare senza venderle come salute:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Scegliere una finestra senza schermi prima di dormire e tenerla, sapendo che le fonti pubbliche non concordano sul numero di minuti.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un pasto senza telefono, se in casa siete in più.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Davanti a un computer per lavoro, la pausa 20-20-20 e una alzata durante le ore lunghe.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Notifiche e mail in momenti scelti, se il flusso continuo ti affolla. È un confine, non una cura dell’ansia.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Prima di aprire un’app, chiedersi se c’è un motivo. A volte la risposta è no. Non è un esercizio di consapevolezza obbligatorio.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per i ragazzi, gli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " sono un patto scritto in casa, non un divieto copiato da un articolo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
               "version": 1
             }
           ]
@@ -48,7 +494,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Cos'è il Benessere Digitale?",
+              "text": "I social media causano depressione e ansia?",
               "version": 1
             }
           ]
@@ -59,7 +505,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il benessere digitale si riferisce all'uso equilibrato e responsabile della tecnologia in modo da migliorare il nostro benessere generale, piuttosto che comprometterlo. Implica la consapevolezza dell'impatto che i dispositivi elettronici e le piattaforme digitali hanno sulla nostra vita e la capacità di gestirli in modo da promuovere una salute mentale e fisica ottimale. Ma perché questo è così importante?",
+              "text": "Non come regola generale. Nello studio di Orben e Przybylski del 2019, su tre indagini e 355.358 adolescenti, l’associazione tra uso delle tecnologie digitali e benessere è negativa e spiega al massimo lo 0,4% della variazione: è una correlazione, non una causa. L’advisory del Surgeon General degli Stati Uniti del 2023, sui minori, dice che non si può concludere che i social siano abbastanza sicuri, e cita uno studio di coorte su adolescenti di 12–15 anni in cui più di 3 ore al giorno di social si associava al doppio del rischio di esiti di salute mentale peggiori, sintomi di depressione e ansia compresi. In Italia, il report HBSC 2022 dell’Istituto Superiore di Sanità classifica «a rischio di uso problematico» chi riconosce almeno sei sintomi su nove della Social Media Disorder Scale: non è una diagnosi. Sul totale è il 10,3% dei ragazzi e il 16,9% delle ragazze.",
               "version": 1
             }
           ]
@@ -71,47 +517,7 @@
           "children": [
             {
               "type": "text",
-              "text": "L'Impatto del Benessere Digitale sulla Salute Mentale",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "1. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Stress e Ansia da Sovraccarico di Informazioni",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Siamo bombardati costantemente da notifiche, email, e messaggi che ci richiedono attenzione immediata. Questo flusso ininterrotto di informazioni può facilmente portare a uno stato di ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "sovraccarico cognitivo",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": ", che aumenta lo stress e l'ansia. Un'esposizione costante a notizie negative o stimoli sociali può intensificare sentimenti di preoccupazione e paura.",
+              "text": "La luce blu degli schermi rovina gli occhi e il sonno?",
               "version": 1
             }
           ]
@@ -122,116 +528,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Consiglio:",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": " Imposta dei periodi della giornata in cui disabiliti tutte le notifiche non necessarie e limitati a controllare le email solo a intervalli predefiniti.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "2. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "FOMO (Fear of Missing Out) e Dipendenza dai Social Media",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "I social media possono essere fonte di ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "FOMO",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": " — la paura di essere tagliati fuori o di perdere qualcosa di importante. Questo fenomeno è spesso amplificato dai feed di notizie in tempo reale, che ci fanno sentire l'obbligo di rimanere sempre aggiornati. Di conseguenza, molte persone sviluppano una vera e propria dipendenza dai social media, che può portare a sentimenti di isolamento, depressione e inadeguatezza.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "quote",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Consiglio:",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": " Dedica dei momenti specifici della giornata ai social media e considera di fare una pausa dai social almeno una volta a settimana.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "3. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Insonnia e Disturbi del Sonno",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "L'uso eccessivo di dispositivi digitali, soprattutto prima di andare a letto, può influire negativamente sulla qualità del sonno. La luce blu emessa dagli schermi di smartphone e computer sopprime la produzione di melatonina, l'ormone del sonno, rendendo più difficile addormentarsi. Dormire poco o male influisce direttamente sul nostro umore, concentrazione e capacità di affrontare lo stress.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "quote",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Consiglio:",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": " Imposta una \"regola d'oro\" per evitare gli schermi almeno un'ora prima di andare a letto e considera di usare filtri di luce blu o modalità notturne.",
+              "text": "Gli occhi, per quanto ne scrive l’American Academy of Ophthalmology, no: non c’è evidenza scientifica che la luce blu dei dispositivi danneggi l’occhio, l’affaticamento non lascia un danno duraturo, e dagli schermi ne arriva molto meno che dal sole. Il sonno è un altro discorso. La stessa pagina dice che troppa luce blu la sera può rendere più difficile addormentarsi, e il portavoce suggerisce di limitare gli schermi nelle due o tre ore prima di dormire. L’advisory americano del 2023, rivolto alle famiglie, parla di tenere telefoni, tablet e computer spenti almeno un’ora prima di dormire e per tutta la notte. I due testi non indicano lo stesso numero di minuti. Gli occhiali che filtrano la luce blu non sono raccomandati per l’uso al computer. Un filtro non sostituisce il telefono lontano dal letto.",
               "version": 1
             }
           ]
@@ -243,26 +540,8 @@
           "children": [
             {
               "type": "text",
-              "text": "L'Impatto del Benessere Digitale sulla Salute Fisica",
+              "text": "Stare seduti al computer causa obesità, diabete e tumori?",
               "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "1. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Affaticamento Visivo e Problemi alla Vista",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -272,127 +551,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Passare troppo tempo davanti agli schermi può causare ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "affaticamento visivo digitale",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": ", caratterizzato da sintomi come secchezza oculare, mal di testa e visione sfocata. La cosiddetta \"Computer Vision Syndrome\" è ormai un problema comune, soprattutto tra coloro che lavorano davanti a un computer per molte ore al giorno.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "quote",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Consiglio:",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": " Segui la regola del 20-20-20: ogni 20 minuti, guarda qualcosa a 20 piedi (circa 6 metri) di distanza per almeno 20 secondi per ridurre l'affaticamento visivo.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "2. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Postura Scorretta e Dolori Muscolari",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "L'uso prolungato di dispositivi digitali può portare a una postura scorretta, con conseguenti dolori al collo, spalle e schiena. Questa condizione, nota anche come \"text neck\", si verifica quando la testa è inclinata in avanti per guardare lo schermo, causando stress eccessivo sulla colonna vertebrale.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "quote",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Consiglio:",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": " Assicurati di mantenere una postura corretta mentre usi il computer o lo smartphone. Usa supporti ergonomici, fai pause frequenti per allungarti e cerca di alzarti e muoverti ogni ora.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "3. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Riduzione dell'Attività Fisica",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Più tempo passiamo connessi ai dispositivi digitali, meno tempo abbiamo per l'attività fisica. La sedentarietà è collegata a una serie di problemi di salute, tra cui obesità, diabete di tipo 2, malattie cardiovascolari e persino alcuni tipi di cancro.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "quote",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Consiglio:",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": " Integra l'attività fisica nella tua routine quotidiana. Anche solo fare una breve passeggiata o fare stretching ogni ora può fare una grande differenza per la tua salute fisica.",
+              "text": "La scheda dell’OMS sull’attività fisica, del 26 giugno 2024, associa quantità alte di comportamento sedentario, negli adulti, a più mortalità e a incidenza di malattie cardiovascolari, tumori e diabete di tipo 2. Gli schermi sono uno dei modi in cui si sta seduti, insieme ai trasporti motorizzati: non la prova che un’ora di computer produca quelle malattie. Le linee guida OMS del 2020 non fissano una soglia di minuti da non superare da seduti. Chiedono di limitare la sedentarietà e di muoversi: per gli adulti, 150–300 minuti a settimana di attività moderata, oppure 75–150 di attività vigorosa.",
               "version": 1
             }
           ]
@@ -404,135 +563,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Come Migliorare il Benessere Digitale: Strategie Pratiche",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "1. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Pianifica delle Pause dal Digitale",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Inizia pianificando dei \"momenti di disconnessione\" durante la giornata. Questi possono essere brevi pause ogni ora o interi pomeriggi liberi dai dispositivi. Utilizza questo tempo per attività come la lettura, la meditazione, o semplicemente una passeggiata all'aperto.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "2. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Stabilisci Confini per il Tempo di Schermo",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Fissa limiti chiari su quanto tempo vuoi dedicare a determinate attività digitali, come il tempo sui social media o la visione di serie TV. Utilizza app di monitoraggio del tempo di schermo per aiutarti a rispettare questi limiti.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "3. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Sii Consapevole del Tuo Stato Mentale",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Prima di usare qualsiasi dispositivo, fermati e chiediti se lo stai facendo per una ragione specifica o per abitudine. La consapevolezza può aiutarti a identificare e ridurre l'uso compulsivo della tecnologia.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "4. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Crea Ambienti \"Free-Tech\" nella Tua Casa",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Designa alcune aree della tua casa come spazi senza tecnologia. La camera da letto o il tavolo da pranzo, ad esempio, possono diventare luoghi dove gli smartphone sono proibiti, permettendo momenti di connessione reale con te stesso e con gli altri.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Il Ruolo del Digital Detox",
+              "text": "Un digital detox al mese migliora ansia, sonno, produttività e relazioni?",
               "version": 1
             }
           ]
@@ -543,47 +574,19 @@
           "children": [
             {
               "type": "text",
-              "text": "Il ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "digital detox",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": " consiste nel prendersi delle pause programmate dalla tecnologia per migliorare la salute mentale e fisica. Questo può variare da un’ora senza schermo ogni giorno a un'intera giornata settimanale offline. Il digital detox può ridurre l'ansia, migliorare il sonno, aumentare la produttività e migliorare le relazioni interpersonali.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "quote",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Consiglio:",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": " Prova a fare un digital detox una volta al mese, iniziando con periodi brevi e gradualmente allungandoli man mano che ti senti più a tuo agio senza i tuoi dispositivi.",
+              "text": "Non risulta dalle fonti di questo articolo. La versione precedente lo affermava senza uno studio. Una pausa programmata può tenere libero un pasto o il tratto prima di dormire: è il suggerimento pratico dell’advisory del 2023 per le famiglie, non un esito clinico misurato. Se l’umore, il sonno o un dolore non tornano, la domanda giusta è per un medico, non per un mese offline.",
               "version": 1
             }
           ]
         },
         {
           "type": "heading",
-          "tag": "h3",
+          "tag": "h2",
           "version": 1,
           "children": [
             {
               "type": "text",
-              "text": "Trova l'Equilibrio Giusto",
+              "text": "Senza una sentenza",
               "version": 1
             }
           ]
@@ -594,7 +597,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il benessere digitale non significa eliminare la tecnologia dalla tua vita, ma piuttosto imparare a usarla in modo più consapevole e sano. Comprendere come il digitale influisce sulla tua salute mentale e fisica è il primo passo per fare scelte migliori e promuovere un equilibrio che ti permetta di vivere una vita più appagante e serena.",
+              "text": "Il digitale entra nella giornata. Non entra, da solo, in una diagnosi. Le fonti qui sopra descrivono associazioni, finestre di prudenza e buchi nelle prove. Il passo utile è piccolo e ripetibile: un tratto senza schermo prima di dormire, una alzata, uno sguardo lontano dal monitor. Il resto non si compra con un detox.",
               "version": 1
             }
           ]
