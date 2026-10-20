@@ -150,7 +150,11 @@ test('november and december friday drafts stay off the site even after their dat
     const article = loadArticle(slug)
     assert.equal(article.status, 'draft')
     assert.equal(article.seo?.noIndex, true)
-    assert.equal(article.cover, '')
+    assert.equal(article.cover, `/images/covers/${slug}.png`)
+    assert.equal(
+      existsSync(new URL(`../../public/images/covers/${slug}.png`, import.meta.url)),
+      true,
+    )
     assert.equal(isPubliclyAvailable(article, after), false)
     assert.equal(isIndexableArticle(article, after), false)
   }
