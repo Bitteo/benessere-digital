@@ -1,0 +1,598 @@
+{
+  "slug": "parental-control-console-switch-playstation-xbox",
+  "title": "Parental control su console: Switch, PlayStation e Xbox prima di Natale",
+  "excerpt": "Tempo di gioco, chat e amici su Nintendo Switch, PlayStation e Xbox: che cosa vale per console e che cosa per account, che cosa succede quando il tempo finisce, e come usare le richieste del figlio.",
+  "cover": "",
+  "coverAlt": "",
+  "publishedAt": "2026-12-11T09:00:00.000+01:00",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "app-e-strumenti",
+    "genitori-e-scuola"
+  ],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Parental control console: Switch, PS5 e Xbox",
+    "metaDescription": "Limiti di tempo, chat, amici ed eccezioni su Nintendo Switch 2, PS5 e Xbox, dalle pagine ufficiali Nintendo, PlayStation e Microsoft. Da impostare prima del 25.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Nintendo — Panoramica/FAQ sul filtro famiglia per Nintendo Switch 2 e Nintendo Switch",
+      "url": "https://www.nintendo.com/it-it/Assistenza/Filtro-famiglia/Panoramica-FAQ-sul-filtro-famiglia-per-Nintendo-Switch-2-e-Nintendo-Switch-1494768.html",
+      "note": "Filtro e tempo di gioco per console, non per utente; limite e orario solo dall’app; estensione 5/15/30 minuti, avviso o interruzione con modalità riposo; PIN di 4 cifre; GameChat sotto i 16 anni solo con filtro dall’app; preset Bambino piccolo, Bambino, Adolescente."
+    },
+    {
+      "title": "Nintendo of America — Guide for Parents/Guardians: Managing your Child’s GameChat Experience with Parental Controls",
+      "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/68384/",
+      "note": "Pagina di supporto per le Americhe, in inglese. Approvazione di ogni amico, nessun invito senza amici approvati, permesso videocamera per sessione, cronologia di con chi e per quanto, non dei contenuti."
+    },
+    {
+      "title": "PlayStation — Come configurare il tempo di gioco su PlayStation",
+      "url": "https://www.playstation.com/it-it/support/account/play-time-controls-playstation/",
+      "note": "Account per bambini separato; fuso orario; Limita/Non limitare; Solo notifica o Effettua il logout; durata e orario per giorno; richiesta di più tempo dalla notifica; vale su PS5 e PS4."
+    },
+    {
+      "title": "PlayStation — Come impostare il filtro contenuti su console PlayStation",
+      "url": "https://www.playstation.com/it-it/support/account/ps5-parental-controls-spending-limits/",
+      "note": "Comunicazione e contenuti generati dagli utenti su Limita; eccezioni per gioco e per comunicazione; chi modifica le impostazioni privacy; limite di spesa mensile 0 di default; livelli preimpostati."
+    },
+    {
+      "title": "Xbox — App Xbox Family Settings",
+      "url": "https://www.xbox.com/it-IT/apps/family-settings-app",
+      "note": "Orari per ogni giorno, sospensione del tempo, rapporti attività, Chiedi a un genitore per gli amici, multiplayer online, eccezione Minecraft, richieste di tempo e acquisti."
+    },
+    {
+      "title": "Microsoft — Imposta i limiti di tempo davanti allo schermo tra i dispositivi",
+      "url": "https://support.microsoft.com/it-it/family-safety/set-screen-time-limits-across-devices",
+      "note": "Limiti per Windows, Xbox e Android da family.microsoft.com o app Family Safety; il tempo su Xbox conta finché l’account è connesso."
+    },
+    {
+      "title": "OHCHR — General comment No. 25 (2021) on children’s rights in relation to the digital environment",
+      "url": "https://www.ohchr.org/en/documents/general-comments-and-recommendations/general-comment-no-25-2021-childrens-rights-relation",
+      "note": "Paragrafo 76: il monitoraggio dei genitori dovrebbe essere proporzionato e conforme alle capacità in evoluzione del minorenne."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Posso dare tempi diversi a due figli sulla stessa Switch?",
+      "answer": "No. Nintendo spiega che il tempo di gioco è limitato per console e vale per tutti gli utenti che la usano. L’app Filtro famiglia però mostra tempo e giochi per singolo utente. Su PlayStation e Xbox, invece, i limiti seguono l’account di ciascun bambino, quindi due fratelli possono avere orari diversi sulla stessa console."
+    },
+    {
+      "question": "Il tempo continua a contare se la console resta accesa in pausa?",
+      "answer": "Su Xbox sì: Microsoft ricorda che il tempo davanti allo schermo conta finché l’account è connesso, quindi a fine partita bisogna uscire. Su PlayStation il limite segue l’account sia su PS5 sia su PS4. Su Switch, a limite raggiunto, il genitore sceglie se mostrare solo un avviso o interrompere il gioco, mettendo la console in modalità riposo."
+    },
+    {
+      "question": "Posso leggere le chat di mio figlio sulla console?",
+      "answer": "Su Switch 2 no: l’app Filtro famiglia mostra con quali amici approvati ha usato GameChat e per quanto tempo, non le conversazioni. Su PlayStation e Xbox gli strumenti ufficiali descritti qui servono a decidere chi può comunicare, non a leggere i messaggi. Il controllo più utile sta a monte: comunicazione limitata e amici approvati uno per uno."
+    },
+    {
+      "question": "Mio figlio ha chiesto più tempo dalla console: devo rispondere subito?",
+      "answer": "Non è obbligatorio, ma conviene. Su PS5 la richiesta arriva come notifica e si accetta o rifiuta anche dall’app PlayStation Family. Su Xbox le richieste di tempo arrivano nell’app Xbox Family Settings. Se avete deciso prima che cosa si concede quasi sempre, la risposta è veloce e prevedibile, e non diventa una trattativa ogni sera."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Venerdì 11 dicembre 2026. Mancano due settimane al 25, e la console è già nascosta nell’armadio. Il pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/primo-regalo-tech-natale",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "primo regalo tech",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " dice che cosa valutare e quali caselle spuntare per spesa e PEGI. Questo va un passo più in là: come funzionano i controlli di tempo, chat e amici sulle tre console, in che cosa sono diversi, e che cosa vede il figlio quando scattano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le procedure vengono dalle pagine ufficiali di Nintendo, PlayStation e Microsoft, consultate a ottobre 2026. I menu cambiano con gli aggiornamenti: se una voce ha un altro nome, vale quello sullo schermo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Console o account: la differenza che conta",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima di toccare un menu, serve sapere a chi si applica la regola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Nintendo Switch e Switch 2 il filtro famiglia vale per la console, non per l’utente. Nintendo scrive che le stesse limitazioni si applicano a chiunque la usi, e consiglia di impostarle pensando all’utente più giovane. Anche il tempo di gioco è per console. Fanno eccezione le restrizioni del Nintendo eShop, legate all’account, e quelle di GameChat, da impostare per ogni utente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su PlayStation il filtro è legato all’account. Ogni bambino ha un account per bambini separato, con nome e data di nascita, dentro una famiglia gestita da un amministratore. Una modifica fatta da un dispositivo vale anche sugli altri, e il tempo di gioco si applica sia su PS5 sia su PS4.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Xbox le impostazioni seguono l’account del bambino nel gruppo famiglia Microsoft, che deve essere quello con il profilo Xbox usato in casa. Gli orari possono valere per la sola console o per una pianificazione comune con i PC Windows.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Con fratelli di età diverse la conseguenza è pratica. Su Switch la regola del più piccolo vale per tutti, oppure si accetta un compromesso. Su PlayStation e Xbox ognuno ha la sua.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il tempo: che cosa succede quando finisce",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nintendo. Il limite giornaliero e l’orario limite, per esempio niente gioco tra le 21:00 e le 8:00, si impostano solo dall’app Filtro famiglia per Nintendo Switch, gratuita per iOS e Android e collegata alla console. A limite raggiunto il genitore può estenderlo di 5, 15 o 30 minuti, disattivarlo per il resto della giornata, oppure scegliere tra un semplice avviso e l’interruzione del gioco. Se il gioco si interrompe, la console va subito in modalità riposo; quando la limitazione viene tolta si riprende da dove ci si era fermati. L’app mostra anche quali giochi sono stati usati e per quanto, utente per utente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "PlayStation. Il tempo si regola con tre impostazioni: limitare o no, che cosa fare alla fine («Solo notifica» o «Effettua il logout»), durata e orario per ogni giorno o per giorni specifici. Prima va impostato il fuso orario del bambino. Quando il tempo sta per finire compaiono notifiche in alto sullo schermo, e da lì il bambino può chiedere più tempo: il genitore riceve la richiesta e la accetta o la rifiuta, anche dall’app PlayStation Family.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Xbox. Dall’app Xbox Family Settings o da family.microsoft.com si creano orari diversi per ogni giorno. Si può anche sospendere il tempo: il bambino vede «Hai esaurito il tempo davanti allo schermo» finché il genitore non riapre. Microsoft ricorda che il tempo conta finché l’account resta connesso: uscire a fine partita fa parte della regola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Solo notifica» non è una debolezza. Per un ragazzo più grande, un promemoria che gli lascia chiudere la partita da sé può funzionare meglio di uno spegnimento a metà livello. Logout e modalità riposo sono una scelta più netta, da dichiarare prima.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chat e amici: chi può parlare con chi",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "PlayStation. Nel filtro contenuti, «Comunicazione e contenuti generati dagli utenti» su «Limita» disattiva messaggi e chat vocale con altri giocatori, la condivisione dei contenuti creati dal bambino e la visione di quelli altrui; restano i messaggi precompilati del gioco. Nei livelli preimpostati pubblicati da PlayStation, dal livello bambino a quello dai 16 ai 19 anni o oltre, la comunicazione parte limitata. Si sceglie anche chi modifica le impostazioni privacy del bambino, il genitore o il bambino stesso; in entrambi i casi arriva una notifica a ogni cambio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nintendo. Su Switch 2, GameChat permette chat vocale e video con gli amici. Per gli utenti sotto i 16 anni, Nintendo richiede che il genitore imposti prima il filtro dedicato dall’app. La guida per i genitori di Nintendo of America descrive come funziona: il ragazzo chiede di approvare ciascun amico, senza amici approvati non può invitare né essere invitato, e la videocamera richiede un permesso a ogni sessione, oppure si disattiva. Nell’app il genitore vede con chi ha chattato e per quanto, non che cosa si sono detti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Xbox. Con «Chiedi a un genitore» il figlio chiede di aggiungere un amico e la richiesta arriva nell’app. Il genitore vede la lista degli amici seguiti, può rimuoverli, e decide se il figlio può giocare online con altri membri della community. C’è un’eccezione dedicata per Minecraft, anche se il multiplayer resta chiuso per gli altri titoli.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa vede il genitore è una scelta educativa, non solo tecnica. Il Commento generale n. 25 del Comitato ONU, raccontato nel pezzo sui ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/diritti-dei-bambini-online-commento-generale-25",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "diritti dei bambini online",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", chiede che il monitoraggio dei genitori sia proporzionato alle capacità in evoluzione del figlio. Sapere con chi gioca un bambino di nove anni è proporzionato. Per un sedicenne la domanda cambia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le richieste del figlio sono il pezzo migliore",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tutte e tre le console prevedono un canale con cui il ragazzo chiede: più tempo su PS5, un gioco bloccato o la chat in un titolo specifico su PlayStation, un amico per GameChat su Switch 2, un amico, più tempo o un acquisto su Xbox. Usatelo. Un’eccezione chiesta e concessa è una conversazione. Un PIN aggirato è una regola che non ha retto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per non trasformarlo in una trattativa ogni sera, scrivete prima, nell’",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordo di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", che cosa si concede quasi sempre (dieci minuti per finire una partita con gli amici), che cosa si decide insieme (un gioco nuovo, un amico nuovo in chat) e che cosa no (la chat con chi non conoscete). Se le richieste di tempo diventano la norma, la domanda è un’altra, ed è nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/videogiochi-e-ragazzi-quando-preoccuparsi",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "videogiochi e ragazzi",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La sera prima del 25",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Create l’account del bambino e collegatelo: famiglia PlayStation, gruppo famiglia Microsoft, app Filtro famiglia collegata alla Switch.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Su Switch scegliete un PIN di 4 cifre che il figlio non conosce. Nintendo lo richiede anche per ripristinare la console e per cambiare data e ora.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Impostate tempo e azione finale: avviso, logout o riposo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chiudete chat e multiplayer, poi aprite solo gli amici che conoscete.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Per la spesa seguite il pezzo su ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/acquisti-in-app-microtransazioni-loot-box",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "acquisti in-app e loot box",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Su PlayStation il limite mensile è 0 di default.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Accendete la console come se foste il figlio e provate a superare un limite. Se ci riuscite voi, ci riuscirà anche lui.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Posso dare tempi diversi a due figli sulla stessa Switch?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Nintendo spiega che il tempo di gioco è limitato per console e vale per tutti gli utenti che la usano. L’app Filtro famiglia però mostra tempo e giochi per singolo utente. Su PlayStation e Xbox, invece, i limiti seguono l’account di ciascun bambino, quindi due fratelli possono avere orari diversi sulla stessa console.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il tempo continua a contare se la console resta accesa in pausa?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Xbox sì: Microsoft ricorda che il tempo davanti allo schermo conta finché l’account è connesso, quindi a fine partita bisogna uscire. Su PlayStation il limite segue l’account sia su PS5 sia su PS4. Su Switch, a limite raggiunto, il genitore sceglie se mostrare solo un avviso o interrompere il gioco, mettendo la console in modalità riposo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Posso leggere le chat di mio figlio sulla console?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Switch 2 no: l’app Filtro famiglia mostra con quali amici approvati ha usato GameChat e per quanto tempo, non le conversazioni. Su PlayStation e Xbox gli strumenti ufficiali descritti qui servono a decidere chi può comunicare, non a leggere i messaggi. Il controllo più utile sta a monte: comunicazione limitata e amici approvati uno per uno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mio figlio ha chiesto più tempo dalla console: devo rispondere subito?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è obbligatorio, ma conviene. Su PS5 la richiesta arriva come notifica e si accetta o rifiuta anche dall’app PlayStation Family. Su Xbox le richieste di tempo arrivano nell’app Xbox Family Settings. Se avete deciso prima che cosa si concede quasi sempre, la risposta è veloce e prevedibile, e non diventa una trattativa ogni sera.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 8
+}

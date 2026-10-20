@@ -29,6 +29,9 @@ import passwordPasskey from './articles/password-passkey-una-chiave-per-account.
 import verificareNotizia from './articles/verificare-una-notizia-prima-di-inoltrarla.json'
 import permessiApp from './articles/permessi-app-fotocamera-microfono-posizione.json'
 import leggereCartaSchermo from './articles/leggere-su-carta-o-su-schermo.json'
+import dirittiBambiniOnline from './articles/diritti-dei-bambini-online-commento-generale-25.json'
+import smsTruffa from './articles/sms-truffa-falsi-corrieri-premi-whatsapp.json'
+import parentalControlConsole from './articles/parental-control-console-switch-playstation-xbox.json'
 
 export const articles = [
   brainRot,
@@ -61,4 +64,7 @@ export const articles = [
   verificareNotizia,
   permessiApp,
   leggereCartaSchermo,
+  dirittiBambiniOnline,
+  smsTruffa,
+  parentalControlConsole,
 ] as ArticleSource[]

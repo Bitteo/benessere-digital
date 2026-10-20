@@ -1,0 +1,613 @@
+{
+  "slug": "diritti-dei-bambini-online-commento-generale-25",
+  "title": "Diritti dei bambini online: il Commento generale n. 25 in pratica",
+  "excerpt": "Il 20 novembre è la Giornata dei diritti dell’infanzia. Che cosa chiede il Comitato ONU sull’ambiente digitale, che cosa tocca a Stati e imprese, e che cosa possono farne genitori e docenti.",
+  "cover": "",
+  "coverAlt": "",
+  "publishedAt": "2026-11-20T09:00:00.000+01:00",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "genitori-e-scuola",
+    "benessere-digitale"
+  ],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Diritti dei bambini online: il Commento generale n. 25",
+    "metaDescription": "Il Commento generale n. 25 (2021) del Comitato ONU sui diritti dell’infanzia per genitori e docenti: principi, privacy, controllo parentale, gioco, scuola.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "OHCHR — General comment No. 25 (2021) on children’s rights in relation to the digital environment",
+      "url": "https://www.ohchr.org/en/documents/general-comments-and-recommendations/general-comment-no-25-2021-childrens-rights-relation",
+      "note": "Pubblicato il 2 marzo 2021. Basato anche su una consultazione internazionale con 709 bambini e ragazzi in 28 Paesi. Spiega come gli Stati parte dovrebbero attuare la Convenzione nell’ambiente digitale."
+    },
+    {
+      "title": "UN Digital Library — CRC/C/GC/25",
+      "url": "https://digitallibrary.un.org/record/3906061",
+      "note": "Testo ufficiale del Comitato ONU sui diritti dell’infanzia, 20 pagine, in inglese, spagnolo, francese, russo, arabo e cinese."
+    },
+    {
+      "title": "Autorità garante per l’infanzia e l’adolescenza — Commento generale n. 25 (traduzione italiana, PDF)",
+      "url": "https://www.garanteinfanzia.org/wp-content/uploads/2025/06/commento-generale-25-web.pdf",
+      "note": "Traduzione non ufficiale curata da AGIA, CIDU e UNICEF Italia, con versione semplificata e glossario. Fonte delle citazioni: paragrafi 2, 8-9, 12, 14-17, 19, 21, 42, 49, 67, 75-76, 84-85, 98, 104-106, 110."
+    },
+    {
+      "title": "UNICEF Italia — La Convenzione sui diritti dell’infanzia e dell’adolescenza",
+      "url": "https://www.unicef.it/convenzione-diritti-infanzia/",
+      "note": "Approvata dall’Assemblea generale ONU il 20 novembre 1989, ratificata dall’Italia con la legge n. 176 del 27 maggio 1991. Quattro principi: non discriminazione, superiore interesse, vita e sviluppo, ascolto."
+    },
+    {
+      "title": "Autorità garante per l’infanzia e l’adolescenza — Safer Internet Day 2022, in italiano le raccomandazioni sul digitale del Comitato Onu",
+      "url": "https://www.garanteinfanzia.org/safer-internet-day-2022-italiano-le-raccomandazioni-sul-digitale-del-comitato-onu/",
+      "note": "Traduzione curata da AGIA, CIDU e UNICEF Italia; versione child friendly arricchita dalle riflessioni della Consulta delle ragazze e dei ragazzi dell’AGIA e di Younicef; glossario."
+    },
+    {
+      "title": "OHCHR — Your digital world, your say: child-friendly General comment No. 25 (PDF, in inglese)",
+      "url": "https://www.ohchr.org/sites/default/files/documents/issues/children/ohchr-children/en-cf-gc-25.pdf",
+      "note": "Riassunto a misura di ragazzi co-creato da 5Rights, Digital Futures for Children centre e Ufficio ONU per i diritti umani."
+    },
+    {
+      "title": "Commissione europea — Commission publishes guidelines on the protection of minors",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-protection-minors",
+      "note": "14 luglio 2025, articolo 28 del Digital Services Act. Account privati di default, funzioni di uso eccessivo disattivate di default, tutela da pratiche commerciali manipolative. Volontarie: non garantiscono automaticamente la conformità."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Il Commento generale n. 25 è una legge?",
+      "answer": "No. È l’interpretazione ufficiale che il Comitato ONU sui diritti dell’infanzia dà della Convenzione, che l’Italia ha ratificato con la legge n. 176 del 1991. Si rivolge agli Stati parte e, attraverso di loro, alle imprese. Non impone obblighi diretti ai genitori: chiede agli Stati di sostenerli con alfabetizzazione digitale e informazioni sui rischi, ai paragrafi 21 e 84."
+    },
+    {
+      "question": "Usare il parental control viola i diritti di mio figlio?",
+      "answer": "Il testo non lo vieta. Il paragrafo 76 chiede che il monitoraggio da parte dei genitori sia proporzionato e conforme alle capacità in evoluzione del minorenne, e avverte che strumenti di tracciamento usati senza attenzione possono impedirgli di cercare aiuto o informazioni sensibili. Il criterio pratico è semplice: un controllo dichiarato, adatto all’età, rivisto quando il figlio cresce."
+    },
+    {
+      "question": "Dove trovo il testo in italiano?",
+      "answer": "Sul sito dell’Autorità garante per l’infanzia e l’adolescenza c’è la traduzione non ufficiale curata da AGIA, CIDU e UNICEF Italia, con glossario e versione semplificata per ragazzi. L’originale, sigla CRC/C/GC/25, è sul sito dell’OHCHR e nella UN Digital Library, in inglese, spagnolo, francese, russo, arabo e cinese."
+    },
+    {
+      "question": "Che cosa c’entra con le regole europee sulle piattaforme?",
+      "answer": "Le linee guida della Commissione europea sulla protezione dei minori, pubblicate il 14 luglio 2025 in base all’articolo 28 del Digital Services Act, dichiarano di essere fondate sui diritti dei minori. Raccomandano account privati per impostazione predefinita, meno funzioni che spingono all’uso eccessivo e nessuna pratica commerciale manipolativa. Sono volontarie: seguirle non garantisce da solo la conformità."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Venerdì 20 novembre 2026. Il 20 novembre 1989 l’Assemblea generale delle Nazioni Unite ha approvato la Convenzione sui diritti dell’infanzia e dell’adolescenza. L’Italia l’ha ratificata con la legge n. 176 del 27 maggio 1991. Trentasette anni dopo, in casa e in classe la domanda più frequente non riguarda un articolo del trattato. Riguarda un telefono, un gioco, una chat.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Comitato ONU sui diritti dell’infanzia ha risposto nel 2021 con un documento preciso: il Commento generale n. 25, sui diritti dei minorenni in relazione all’ambiente digitale. Questo pezzo è per genitori e docenti che vogliono sapere che cosa dice, senza riassunti di seconda mano. Le citazioni vengono dalla traduzione italiana non ufficiale curata da Autorità garante per l’infanzia e l’adolescenza, Comitato interministeriale per i diritti umani e UNICEF Italia, confrontata con l’originale pubblicato dall’OHCHR.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cos’è, e che cosa non è",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un Commento generale è l’interpretazione che il Comitato dà della Convenzione su un tema. Il n. 25 porta la sigla CRC/C/GC/25 ed è stato adottato nella sessione dal 18 gennaio al 5 febbraio 2021; la pagina dell’OHCHR lo data 2 marzo 2021. Si basa anche su una consultazione con 709 bambini e ragazzi in 28 Paesi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è una legge italiana e non è un regolamento per le app. Si rivolge agli Stati parte: spiega come applicare la Convenzione quando la vita dei minorenni passa da reti, servizi, dispositivi, intelligenza artificiale e algoritmi, che il paragrafo 2 elenca tra le componenti dell’ambiente digitale. Molte raccomandazioni toccano le imprese, attraverso gli obblighi che gli Stati dovrebbero imporre loro. Ai genitori il testo non dà ordini. Chiede agli Stati di sostenerli.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quattro principi, letti sullo schermo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il paragrafo 8 indica quattro principi come lente per leggere tutti gli altri diritti. Sono quelli della Convenzione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Non discriminazione. Il paragrafo 9 chiede un accesso uguale ed effettivo e misure contro il divario digitale, compreso un accesso gratuito e sicuro in luoghi pubblici dedicati.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Superiore interesse. Il paragrafo 12 osserva che l’ambiente digitale non è stato progettato in origine per i minorenni, e chiede che il loro interesse sia primario nella fornitura, nella regolamentazione, nella progettazione e nell’uso.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Vita, sopravvivenza e sviluppo. Il paragrafo 14 nomina rischi di contenuto, contatto, condotta e contrattuali. Il 15 dice che i dispositivi non dovrebbero sostituire le interazioni personali, anche con i genitori, e chiede attenzione ai primi anni di vita.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Ascolto. I paragrafi 16 e 17 chiedono di coinvolgere i minorenni nelle regole, nei servizi e nello sviluppo dei prodotti.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Accanto ai principi c’è un’idea che torna in tutto il testo: l’evoluzione delle capacità. Il paragrafo 19 ricorda che rischi e opportunità cambiano con l’età e la fase di sviluppo, e che online i ragazzi agiscono spesso più lontano dalla supervisione degli adulti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La privacy, anche dentro casa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È la parte che riguarda più da vicino le famiglie. Il paragrafo 67 elenca da dove arrivano le minacce alla privacy dei minorenni: istituzioni, imprese, criminali, ma anche familiari e coetanei, «ad esempio da genitori che condividono fotografie online». Su questo c’è un pezzo dedicato: ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/sharenting-foto-dei-figli-online",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "sharenting e foto dei figli online",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il paragrafo 76 parla degli strumenti di controllo. Le tecnologie che monitorano le attività per sicurezza, come dispositivi e servizi di tracciamento, se usate senza attenzione possono impedire a un ragazzo di contattare una linea di assistenza o di cercare informazioni sensibili. La frase finale è la regola più operativa del documento: il monitoraggio da parte di genitori e adulti di riferimento dovrebbe essere proporzionato e conforme alle capacità in evoluzione del minorenne. Il paragrafo 75, sulla sorveglianza digitale in contesti commerciali, educativi e di cura, aggiunge che non dovrebbe essere di routine, indiscriminata o all’insaputa del minorenne.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è un divieto di controllo parentale. È un criterio per sceglierlo, lo stesso del pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "controllo genitori senza spiare",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": dichiarato, adatto all’età, rivisto quando l’età cambia. Il paragrafo 85 riporta anche che alcuni ragazzi, nelle consultazioni, hanno chiesto più sostegno e incoraggiamento, soprattutto quando sentivano l’approccio degli adulti come punitivo, troppo restrittivo o non adatto alle loro capacità.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Pubblicità, profilazione, design",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Qui il destinatario sono gli Stati e, attraverso di loro, le imprese. Il paragrafo 42 chiede di vietare per legge la profilazione o il targeting dei minorenni di qualsiasi età per scopi commerciali, e di tenerli fuori da neuromarketing, analisi emozionale e pubblicità immersiva in realtà virtuale e aumentata. Il paragrafo 110 nomina pubblicità non trasparente, design altamente persuasivo e caratteristiche simili al gioco d’azzardo. Il lato pratico, monete virtuali e casse a sorpresa, è nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/acquisti-in-app-microtransazioni-loot-box",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "acquisti in-app e loot box",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 14 luglio 2025 la Commissione europea ha pubblicato le linee guida sulla protezione dei minori previste dall’articolo 28 del Digital Services Act. La Commissione scrive che sono fondate sui diritti dei minori. Raccomandano, tra l’altro, account privati per impostazione predefinita, funzioni che spingono all’uso eccessivo, come le serie consecutive e l’autoplay, disattivate di default, e protezione da pratiche commerciali manipolative, comprese certe valute virtuali e le loot box. Seguirle è volontario e non garantisce da solo la conformità.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gioco e riposo sono diritti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il paragrafo 106 riconosce che l’ambiente digitale promuove il diritto alla cultura, al tempo libero e al gioco. Riporta che i ragazzi hanno descritto soddisfazione, interesse e relax nei prodotti digitali scelti da loro, e la preoccupazione che gli adulti non capiscano l’importanza del gioco digitale condiviso con gli amici. Il paragrafo 98 bilancia: le tecnologie offrono opportunità per salute e benessere se equilibrate con il bisogno di riposo, esercizio e interazione diretta, e chiede agli Stati linee guida su un sano equilibrio e un riposo sufficiente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Letti insieme, i due paragrafi dicono una cosa semplice. Il videogioco non è un nemico da tollerare. Il sonno non è un optional da negoziare. Le due cose stanno nello stesso accordo di casa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A scuola: alfabetizzazione, non solo divieti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il paragrafo 104 chiede che l’alfabetizzazione digitale sia insegnata a scuola come parte dei curricula di base, dal livello prescolare, e che queste pedagogie siano valutate sui risultati. Dentro ci sono strumenti, creazione, collaborazione e partecipazione, ma anche comprensione critica, fonti affidabili, disinformazione e i diritti del minore online, con le forme di supporto disponibili. Il paragrafo 105 aggiunge le pratiche commerciali, le strategie persuasive, il trattamento automatizzato dei dati, e la formazione degli insegnanti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In classe si può partire dalla versione per ragazzi. La traduzione dell’Autorità garante ne contiene una semplificata in appendice, arricchita dalle riflessioni della Consulta delle ragazze e dei ragazzi dell’Autorità e di Younicef. In inglese c’è il riassunto a misura di ragazzi dell’Ufficio ONU per i diritti umani, scritto con 5Rights e il Digital Futures for Children centre. Per l’esercizio sulle fonti c’è il pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/verificare-una-notizia-prima-di-inoltrarla",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "come verificare una notizia prima di inoltrarla",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa farne questa settimana",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "A casa: scegliete un controllo che usate e chiedetevi se è dichiarato, proporzionato all’età e con una data di revisione. Se non lo è, ditelo prima di cambiarlo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "A casa: prima di pubblicare la foto di un figlio, chiedetegli se va bene, quando ha l’età per rispondere.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "In classe: leggete un principio della versione semplificata e chiedete agli studenti un esempio vissuto, non inventato.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "In classe: date ai ragazzi un elenco di dove chiedere aiuto. Il paragrafo 49 chiede proprio informazioni comprensibili su segnalazioni, reclami e rimedi, anche per genitori e professionisti.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Commento generale n. 25 è una legge?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. È l’interpretazione ufficiale che il Comitato ONU sui diritti dell’infanzia dà della Convenzione, che l’Italia ha ratificato con la legge n. 176 del 1991. Si rivolge agli Stati parte e, attraverso di loro, alle imprese. Non impone obblighi diretti ai genitori: chiede agli Stati di sostenerli con alfabetizzazione digitale e informazioni sui rischi, ai paragrafi 21 e 84.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Usare il parental control viola i diritti di mio figlio?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il testo non lo vieta. Il paragrafo 76 chiede che il monitoraggio da parte dei genitori sia proporzionato e conforme alle capacità in evoluzione del minorenne, e avverte che strumenti di tracciamento usati senza attenzione possono impedirgli di cercare aiuto o informazioni sensibili. Il criterio pratico è semplice: un controllo dichiarato, adatto all’età, rivisto quando il figlio cresce.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dove trovo il testo in italiano?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sul sito dell’Autorità garante per l’infanzia e l’adolescenza c’è la traduzione non ufficiale curata da AGIA, CIDU e UNICEF Italia, con glossario e versione semplificata per ragazzi. L’originale, sigla CRC/C/GC/25, è sul sito dell’OHCHR e nella UN Digital Library, in inglese, spagnolo, francese, russo, arabo e cinese.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa c’entra con le regole europee sulle piattaforme?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le linee guida della Commissione europea sulla protezione dei minori, pubblicate il 14 luglio 2025 in base all’articolo 28 del Digital Services Act, dichiarano di essere fondate sui diritti dei minori. Raccomandano account privati per impostazione predefinita, meno funzioni che spingono all’uso eccessivo e nessuna pratica commerciale manipolativa. Sono volontarie: seguirle non garantisce da solo la conformità.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 9
+}
