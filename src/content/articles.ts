@@ -32,6 +32,9 @@ import leggereCartaSchermo from './articles/leggere-su-carta-o-su-schermo.json'
 import dirittiBambiniOnline from './articles/diritti-dei-bambini-online-commento-generale-25.json'
 import smsTruffa from './articles/sms-truffa-falsi-corrieri-premi-whatsapp.json'
 import parentalControlConsole from './articles/parental-control-console-switch-playstation-xbox.json'
+import telefonoATavolaFeste from './articles/telefono-a-tavola-feste-phubbing.json'
+import filmSerieFamigliaVacanze from './articles/film-e-serie-in-famiglia-vacanze-eta-profili-autoplay.json'
+import nonniNipotiCompetenze from './articles/nonni-e-nipoti-competenze-digitali-feste.json'
 
 export const articles = [
   brainRot,
@@ -67,4 +70,7 @@ export const articles = [
   dirittiBambiniOnline,
   smsTruffa,
   parentalControlConsole,
+  telefonoATavolaFeste,
+  filmSerieFamigliaVacanze,
+  nonniNipotiCompetenze,
 ] as ArticleSource[]

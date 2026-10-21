@@ -1,0 +1,451 @@
+{
+  "slug": "telefono-a-tavola-feste-phubbing",
+  "title": "Il telefono a tavola durante le feste: che cosa dice la ricerca sul phubbing",
+  "excerpt": "Durante i pranzi delle feste il telefono sta sul tavolo. Che cosa hanno misurato gli studi sul phubbing e sull’uso ai pasti, che cosa non si può concludere, e una regola corta per tutta la tavolata.",
+  "cover": "/images/covers/telefono-a-tavola-feste-phubbing.png",
+  "coverAlt": "Illustrazione a linee: una tavolata delle feste con piatti e un telefono posato a faccia in giù accanto a un tovagliolo; un adulto e un ragazzo si guardano, accenti corallo su fondo chiaro.",
+  "publishedAt": "2026-12-14T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["schermo-e-tempo", "genitori-e-scuola"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Telefono a tavola e phubbing: che cosa dice la ricerca",
+    "metaDescription": "Phubbing e telefono ai pasti: studi su PMC, linee guida OMS, SIP, ISS e il Family Media Plan dell’AAP. Associazioni, non una diagnosi di casa.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Zhang e colleghi — Parental Phubbing and Child Social-Emotional Adjustment: A Meta-Analysis of Studies Conducted in China",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10591670/",
+      "note": "Psychology Research and Behavior Management, PMC10591670. Meta-analisi di studi condotti in Cina; ricerca in database dal 2012 a maggio 2023. 42 studi, 56.275 bambini, 59 effect size. Phubbing genitoriale: usare il telefono davanti ai figli al posto dell’interazione. Distinzione con la technoference: il phubbing è legato allo smartphone e, per gli autori, a uno snobbare intenzionale; la technoference copre più dispositivi e le interruzioni. r internalizzanti 0,270 (IC 95% 0,234–0,304); esternalizzanti 0,210 (0,154–0,264); concetto di sé −0,206 (−0,244–−0,168); competenza socio-emotiva −0,162 (−0,207–−0,120). Associazione più forte con i problemi esternalizzanti se a usare il telefono sono entrambi i genitori. Gli autori notano che la maggior parte degli studi è trasversale. Non è un campione italiano."
+    },
+    {
+      "title": "Kiefner-Burmeister, Domoff e Radesky — Feeding in the Digital Age (2020)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7504203/",
+      "note": "International Journal of Environmental Research and Public Health, 2020, 17(17), 6077. DOI 10.3390/ijerph17176077. Osservazione non partecipante in un fast food del centro di Firenze, maggio e giugno 2016, vicino a una stazione: 37 famiglie, 129 persone. 22 famiglie su 37 (59,5%) avevano un cellulare con sé durante il pasto. Analisi qualitativa; niente test statistici, campione piccolo, età stimata a vista, clientela internazionale. Il telefono solo sul tavolo era codificato come uso breve. Le richieste di attenzione non raccolte, in questo campione, erano tutte di adulti che usavano il telefono. Quattro caregiver stimati over 60 (6%): uno solo ha usato il telefono, per una foto."
+    },
+    {
+      "title": "Vik e colleghi — Parental phone use during mealtimes with toddlers (2021)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8056649/",
+      "note": "BMC Public Health, 2021, 21, 756. DOI 10.1186/s12889-021-10757-1. Food4toddler, Norvegia: 298 genitori di bambini piccoli su 404 volontari, reclutati sui social nel 2017/2018, questionario trasversale. 4 genitori su 10 riferivano un qualche uso del telefono ai pasti. Modellamento B = −1,05 (IC 95% −1,69; −0,41); ambiente alimentare familiare B = −0,77 (−1,51; −0,03); regolazione emotiva con il cibo B = 0,73 (0,32; 1,14); pressione a mangiare B = 1,22 (0,41; 2,03). Colazione quotidiana in famiglia OR 0,50 (0,31; 0,82); cena OR 0,57 (0,35; 0,93). Non stabilisce la direzione."
+    },
+    {
+      "title": "Radesky e colleghi — Maternal mental representations of the child and mobile phone use during parent-child mealtimes (2018)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5930057/",
+      "note": "Journal of Developmental & Behavioral Pediatrics, maggio 2018, 39(4), 310–317. DOI 10.1097/DBP.0000000000000556. 195 coppie madre-bambino, campione a basso reddito; età media dei bambini 5,9 anni (DS 0,7). Durante il pasto in casa, 47 madri su 195 (24,1%) hanno usato attivamente un dispositivo almeno una volta; nel protocollo in laboratorio, 44 (22,6%). Uso associato, al pasto in casa, a una rappresentazione del bambino come più difficile. Gli autori scrivono che la direzione non è stabilita."
+    },
+    {
+      "title": "Bull e colleghi — WHO 2020 guidelines on physical activity and sedentary behaviour",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/",
+      "note": "Linee guida OMS 2020, articolo pubblicato da BMJ nel 2020, PMC7719906. Per i 5–17 anni: limitare il tempo sedentario, in particolare lo schermo ricreativo. Raccomandazione forte. Le prove non bastavano per una soglia precisa di minuti; la raccomandazione sul sedentario è forte con certezza bassa. L’associazione con esiti peggiori è in genere più forte per la TV o lo schermo ricreativo che per tutto il tempo sedentario. Non fissa una regola sui pasti."
+    },
+    {
+      "title": "Bozzola e colleghi — Media devices in pre-school children: the recommendations of the Italian Pediatric Society (2018)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6001217/",
+      "note": "Italian Journal of Pediatrics, 14 giugno 2018, 44, 69. DOI 10.1186/s13052-018-0508-7. Raccomandazioni della Società Italiana di Pediatria, dichiarate in linea con le guide AAP e australiane di allora: niente dispositivi sotto i 2 anni, durante i pasti e nell’ora prima di dormire; meno di un’ora al giorno tra i 2 e i 5 anni; meno di due ore tra i 5 e gli 8; visione insieme a un adulto; i genitori come modello. Non è un trial sul pranzo delle feste."
+    },
+    {
+      "title": "ISS — FAQ di benessereinrete",
+      "url": "https://benessereinrete.iss.it/faq",
+      "note": "Centro Nazionale Dipendenze e Doping, Istituto Superiore di Sanità. Nella FAQ sull’età del telefono l’ISS richiama la SIP (smartphone personale rinviato almeno fino ai 13 anni) e indica regole condivise che evitino l’uso durante i pasti, prima di dormire e in camera. Nella FAQ sulla punizione: togliere di colpo telefono o computer, senza spiegazione e senza accordo, di solito aumenta conflitto e comportamenti nascosti. Nella FAQ sul dialogo: momento tranquillo, senza giudizi, accuse o frasi colpevolizzanti."
+    },
+    {
+      "title": "HealthyChildren, AAP — How to Make a Family Media Plan",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Pagina aggiornata il 20 gennaio 2026. Zone senza schermo, con l’esempio del tavolo dei pasti, dei compiti e dell’ora prima di dormire. Un solo schermo acceso. Autoplay e notifiche spenti, perché pensati per trattenere più a lungo. Piano per ogni membro della famiglia, adulti compresi. Da rivedere a inizio scuola, d’estate e nelle vacanze. Non è un trial sul cenone."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Phubbing vuol dire avere il telefono sul tavolo?",
+      "answer": "No. Nella meta-analisi di Zhang e colleghi il phubbing genitoriale è l’uso del telefono davanti ai figli al posto dell’interazione, descritto come uno snobbare di persona con lo smartphone. La technoference, nella stessa rassegna, indica le interruzioni dovute a un dispositivo, senza la stessa intenzione. Nello studio osservato a Firenze anche il telefono solo appoggiato sul tavolo entrava nel codice di uso breve. Sono tre descrizioni diverse. Una foto chiesta e fatta non è, da sola, il phubbing di quegli studi."
+    },
+    {
+      "question": "Gli studi dicono che il telefono a tavola causa problemi ai figli?",
+      "answer": "Dicono che c’è un’associazione, non una causa dimostrata su una tavolata. Nella meta-analisi cinese le correlazioni con problemi internalizzanti ed esternalizzanti sono piccole o moderate, su studi in gran parte trasversali. In Norvegia, chi riferiva il telefono ai pasti riferiva anche meno colazioni e cene quotidiane insieme: il questionario non dice che cosa viene prima. Radesky e colleghi scrivono che l’uso a tavola può riflettere una relazione già difficile. Nessuno di questi studi è un pranzo delle feste italiano."
+    },
+    {
+      "question": "Esiste un numero di minuti consentiti a tavola?",
+      "answer": "No, non in queste fonti. L’OMS, per i 5–17 anni, chiede di limitare il tempo sedentario e in particolare lo schermo ricreativo, e scrive che le prove non bastavano per una soglia di minuti. La Società Italiana di Pediatria, nel testo del 2018, raccomanda di non usare i dispositivi durante i pasti, senza un minutaggio del pranzo. L’AAP indica il tavolo come zona senza schermo per tutta la famiglia. Il criterio è il posto, non un timer."
+    },
+    {
+      "question": "Se qualcuno tira fuori il telefono a tavola, glielo tolgo?",
+      "answer": "L’ISS scrive che togliere telefono o computer di colpo, senza spiegazioni e senza un accordo, di solito aumenta il conflitto e i comportamenti nascosti. Meglio una regola detta prima: non in mano mentre si mangia, con l’eccezione detta ad alta voce. Se succede comunque, se ne parla dopo, non davanti a tutti. La stessa regola vale per chi l’ha scritta."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lunedì 14 dicembre 2026. In molte case il pranzo è lungo, e il telefono è già sul tavolo: una foto, un messaggio, «solo un attimo». La ricerca non usa una parola sola per questo gesto. Questo pezzo dice che cosa hanno misurato gli studi aperti qui, e che cosa un pranzo delle feste non può ricavare da quei numeri.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È per ragazzi, genitori e chi sta a tavola con loro. Non è un divieto medico e non assegna una diagnosi a chi controlla un messaggio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa significa phubbing",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Zhang e colleghi, in una meta-analisi pubblicata su Psychology Research and Behavior Management, definiscono il phubbing genitoriale come l’uso del telefono davanti ai figli al posto dell’interazione con loro. Nella stessa rassegna distinguono due parole che gli articoli mescolano spesso. Il phubbing, per quegli autori, è lo snobbare qualcuno di persona usando lo smartphone. La technoference indica le interruzioni dovute a un dispositivo, non solo al telefono, e non implica la stessa intenzione di ignorare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Avere il telefono sul tavolo, in alcuni protocolli, conta già come uso. Non è la stessa cosa di un’ora a scorrere i messaggi senza alzare gli occhi. Una foto di gruppo chiesta e fatta non entra, da sola, nella definizione di Zhang.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa si è visto a tavola",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Kiefner-Burmeister, Domoff e Radesky hanno osservato, a maggio e giugno 2016, 37 famiglie in un fast food del centro di Firenze, vicino a una stazione, per tutta la durata del pasto: 129 persone. Ventidue famiglie su 37, il 59,5%, avevano un cellulare con sé durante il pasto. Il telefono solo appoggiato sul tavolo era codificato come uso breve, non come assenza. L’analisi è qualitativa. Il campione è piccolo, gli autori non hanno fatto test statistici sulle differenze, l’età è stata stimata a vista e la clientela era internazionale. Non è un campione di pranzi in casa, e non rappresenta le famiglie italiane.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nelle note di campo, le madri con un uso continuativo tendevano a dividere lo sguardo tra figlio e schermo. I padri con un uso continuativo apparivano meno responsivi. I casi in cui un genitore non raccoglieva una richiesta di attenzione del bambino erano, in questo gruppo, tutti di adulti che usavano il telefono. I caregiver stimati over 60 erano quattro, il 6%: uno solo ha usato il telefono, per fare una foto. Sono descrizioni, non una legge sulle feste.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Norvegia, Vik e colleghi hanno chiesto nel 2017-2018, con un questionario, a 298 genitori di bambini piccoli reclutati sui social se usassero il telefono ai pasti. Quattro su dieci hanno riferito un qualche uso. Chi lo riferiva aveva probabilità più basse di una colazione quotidiana in famiglia (odds ratio 0,50, intervallo di confidenza al 95% da 0,31 a 0,82) e di una cena quotidiana (0,57, da 0,35 a 0,93). Sulle pratiche alimentari, il coefficiente di regressione sulla scala del modellamento era −1,05 (intervallo di confidenza al 95% da −1,69 a −0,41) e quello sulla pressione a mangiare era 1,22 (da 0,41 a 2,03). È un disegno trasversale: non dice se il telefono riduce le cene insieme o se chi fa meno cene insieme usa di più il telefono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Radesky e colleghi, in un campione statunitense a basso reddito, hanno osservato 195 coppie madre-bambino. L’età media dei bambini era 5,9 anni. Durante il pasto in casa, 47 madri su 195, il 24,1%, hanno usato attivamente un dispositivo almeno una volta. L’uso era associato a una rappresentazione del bambino come più difficile. Gli autori scrivono che la direzione non è stabilita: il telefono può segnare una relazione già faticosa, non solo produrla.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa non si può concludere",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La meta-analisi di Zhang riunisce 42 studi e 56.275 bambini, con una ricerca aggiornata a maggio 2023, su studi condotti in Cina. Il phubbing genitoriale era associato a più problemi internalizzanti (r = 0,270; intervallo di confidenza al 95% da 0,234 a 0,304) e esternalizzanti (r = 0,210; da 0,154 a 0,264), e a un concetto di sé più basso (r = −0,206) e a una competenza socio-emotiva più bassa (r = −0,162). Se a usare il telefono erano entrambi i genitori, l’associazione con i problemi esternalizzanti era più forte che con un solo genitore. Gli autori notano che la maggior parte di questi studi è trasversale. Sono correlazioni su campioni cinesi. Non sono l’effetto di un pranzo italiano, e non sono una diagnosi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’OMS, nelle linee guida del 2020 sintetizzate da Bull e colleghi, raccomanda a bambini e adolescenti di 5–17 anni di limitare il tempo sedentario, in particolare lo schermo ricreativo. Le prove non bastavano a fissare una soglia di minuti. La raccomandazione è forte, la certezza delle prove sul sedentario è bassa. Il telefono a tavola, in quelle linee guida, non è un numero di minuti. È un posto, se una famiglia decide di trattarlo così. Le linee guida non misurano il cenone.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa dicono le indicazioni per le famiglie",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Società Italiana di Pediatria, nel testo di Bozzola e colleghi del 2018, raccomanda di non usare dispositivi durante i pasti, e ricorda che i figli imitano l’uso degli adulti. Nello stesso testo ci sono tetti orari di allora: niente dispositivi sotto i 2 anni, meno di un’ora al giorno tra i 2 e i 5 anni, meno di due tra i 5 e gli 8, insieme a un adulto. Sono raccomandazioni della commissione, dichiarate in linea con le guide dell’epoca, non un esperimento sul pranzo di dicembre. I minuti dell’OMS, per i 5–17 anni, restano senza soglia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’Istituto Superiore di Sanità, nelle FAQ di benessereinrete, richiama la raccomandazione della SIP di rinviare lo smartphone personale almeno fino ai 13 anni e indica regole condivise che evitino l’uso durante i pasti, prima di dormire e in camera. Sulla punizione è netto: togliere il telefono di colpo, senza spiegazione e senza accordo, di solito aumenta il conflitto e spinge a nascondere il gesto. Il dialogo, nella stessa serie di risposte, sta in un momento tranquillo, senza accuse.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’American Academy of Pediatrics, nella pagina sul Family Media Plan aggiornata il 20 gennaio 2026, mette tra gli esempi le zone senza schermo: il tavolo dei pasti, i compiti, l’ora prima di dormire. Il piano vale per ogni membro della famiglia, adulti compresi. Le vacanze sono uno dei momenti in cui rivederlo. La pagina non misura che cosa succede se l’adulto resta connesso. Lo propone come regola di casa. Il dettaglio del piano è nel pezzo sugli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una regola corta per le feste",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre righe, se restano vere dopo il 6 gennaio. Il telefono non sta in mano mentre si mangia: la foto di gruppo si fa prima o dopo, e si dice. Se qualcuno aspetta una chiamata di lavoro o di un familiare, lo dice, e il telefono resta capovolto. Se il gesto diventa una scena, l’ISS sconsiglia la confisca in pubblico: se ne parla dopo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La sera, in camera, è un altro confine. Sta nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono, notifiche e sonno",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Phubbing vuol dire avere il telefono sul tavolo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Nella meta-analisi di Zhang e colleghi il phubbing genitoriale è l’uso del telefono davanti ai figli al posto dell’interazione, descritto come uno snobbare di persona con lo smartphone. La technoference, nella stessa rassegna, indica le interruzioni dovute a un dispositivo, senza la stessa intenzione. Nello studio osservato a Firenze anche il telefono solo appoggiato sul tavolo entrava nel codice di uso breve. Sono tre descrizioni diverse. Una foto chiesta e fatta non è, da sola, il phubbing di quegli studi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gli studi dicono che il telefono a tavola causa problemi ai figli?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dicono che c’è un’associazione, non una causa dimostrata su una tavolata. Nella meta-analisi cinese le correlazioni con problemi internalizzanti ed esternalizzanti sono piccole o moderate, su studi in gran parte trasversali. In Norvegia, chi riferiva il telefono ai pasti riferiva anche meno colazioni e cene quotidiane insieme: il questionario non dice che cosa viene prima. Radesky e colleghi scrivono che l’uso a tavola può riflettere una relazione già difficile. Nessuno di questi studi è un pranzo delle feste italiano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Esiste un numero di minuti consentiti a tavola?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No, non in queste fonti. L’OMS, per i 5–17 anni, chiede di limitare il tempo sedentario e in particolare lo schermo ricreativo, e scrive che le prove non bastavano per una soglia di minuti. La Società Italiana di Pediatria, nel testo del 2018, raccomanda di non usare i dispositivi durante i pasti, senza un minutaggio del pranzo. L’AAP indica il tavolo come zona senza schermo per tutta la famiglia. Il criterio è il posto, non un timer.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se qualcuno tira fuori il telefono a tavola, glielo tolgo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’ISS scrive che togliere telefono o computer di colpo, senza spiegazioni e senza un accordo, di solito aumenta il conflitto e i comportamenti nascosti. Meglio una regola detta prima: non in mano mentre si mangia, con l’eccezione detta ad alta voce. Se succede comunque, se ne parla dopo, non davanti a tutti. La stessa regola vale per chi l’ha scritta.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 7
+}

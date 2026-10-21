@@ -1,0 +1,401 @@
+{
+  "slug": "film-e-serie-in-famiglia-vacanze-eta-profili-autoplay",
+  "title": "Film e serie in famiglia nelle vacanze: età consigliate, profili e autoplay",
+  "excerpt": "In vacanza un episodio diventa la serata. Età sul titolo, profilo con cui si entra e autoplay: che cosa dicono AGCOM, AAP, OMS e uno studio sul binge-watching, e che cosa non dicono.",
+  "cover": "/images/covers/film-e-serie-in-famiglia-vacanze-eta-profili-autoplay.png",
+  "coverAlt": "Illustrazione a linee: un divano con un adulto e due ragazzi di età diversa davanti a uno schermo spento; accanto un telecomando e tre profili stilizzati, uno con un lucchetto, accenti corallo.",
+  "publishedAt": "2026-12-16T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["schermo-e-tempo", "genitori-e-scuola"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Film e serie in famiglia: età, profili e autoplay",
+    "metaDescription": "Età dei film, profili e autoplay nelle vacanze: regole AGCOM su TV e video on demand, Family Media Plan AAP, OMS e uno studio sul binge-watching.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "AGCOM — Tutela dei minori",
+      "url": "https://www.agcom.it/competenze/media/tutele/tutela-dei-minori",
+      "note": "Regole sui servizi di media audiovisivi: divieto di trasmissioni televisive gravemente nocive, in particolare violenza gratuita o pornografia, e dei film la cui proiezione pubblica è vietata ai minori di 18 anni, con previsioni proprie dei servizi a richiesta. Programmi che possono nuocere, e film vietati ai minori di 14 anni, solo se l’orario tra le 23 e le 7 o un altro accorgimento tecnico esclude che i minori li vedano normalmente; in televisione, simbolo visivo per tutta la durata. Delibera 51/13/CSP: parental control sui video on demand per impedire ai minori la visione dei programmi gravemente nocivi. Delibera 52/13/CSP: classificazione delle trasmissioni che possono nuocere gravemente, per area tematica e modalità rappresentative."
+    },
+    {
+      "title": "AGCOM — Tutela dei minori: parental control",
+      "url": "https://www.agcom.it/agcom-per-te/i-miei-diritti/tutela-dei-minori-parental-control",
+      "note": "Delibera 9/23/CONS, 25 gennaio 2023, linee guida sull’articolo 7-bis del decreto-legge 30 aprile 2020, n. 28. Gli operatori di accesso a Internet offrono gratis un filtro di contenuti inappropriati e il blocco dei contenuti riservati ai maggiori di 18 anni. Preattivo sulle offerte dedicate ai minori; sulle altre lo attivano il maggiorenne titolare del contratto o chi esercita la potestà genitoriale. Categorie: adulti, gioco d’azzardo, armi, violenza e lesioni autoinflitte, odio, pratiche dannose per la salute, anonimato, siti su pratiche magiche o esoteriche. Adeguamento entro il 21 novembre 2023. È un filtro di rete, non l’età di un film."
+    },
+    {
+      "title": "HealthyChildren, AAP — How to Make a Family Media Plan",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Pagina aggiornata il 20 gennaio 2026. Spegnere autoplay e notifiche, perché pensati per trattenere i ragazzi più a lungo. Scegliere contenuti di qualità ed evitare violenza e contenuti non adatti all’età. Un solo schermo acceso. Controlli parentali su tempi, download, contatti e acquisti. Piano per ogni membro della famiglia. Da rivedere nelle vacanze. Non descrive i menu di una piattaforma."
+    },
+    {
+      "title": "Munzer e colleghi — Digital Ecosystems, Children, and Adolescents: Technical Report",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13139868/",
+      "note": "Technical report dell’American Academy of Pediatrics, Council on Communications and Media, PMC13139868. Prima autrice Tiffany Munzer. Rassegna, con evidenza soprattutto dagli Stati Uniti. Autoplay e scroll infinito descritti come disegni che prolungano l’uso e rendono più difficile staccarsi, in particolare per i bambini che stanno sviluppando il controllo degli impulsi. Joint media engagement: uso attivo insieme, guardare e conversare. Una rassegna citata nel report sul joint media engagement ha esiti misti, a seconda di compito, età e confronto. I technical report AAP scadono dopo 5 anni se non sono riconfermati. Non è un esperimento su una vacanza italiana."
+    },
+    {
+      "title": "Bull e colleghi — WHO 2020 guidelines on physical activity and sedentary behaviour",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/",
+      "note": "Linee guida OMS 2020, pubblicato da BMJ, PMC7719906. Lo schermo sedentario è il tempo di intrattenimento su schermo da seduti, sdraiati o reclinati, senza il gioco attivo. Per i 5–17 anni: limitare il tempo sedentario, in particolare lo schermo ricreativo. Raccomandazione forte, certezza bassa, senza soglia di minuti. Le linee guida del 2020 partono dai 5 anni e rinviano a un documento distinto per i minori di 5 anni, non usato qui."
+    },
+    {
+      "title": "Starosta, Izydorczyk, Sitnik-Warchulska e Lizińczyk — Impulsivity and binge-watching (2021)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8631421/",
+      "note": "Frontiers in Psychiatry, 10 novembre 2021. DOI 10.3389/fpsyt.2021.743870. Questionari, settembre 2020–gennaio 2021, 645 giovani adulti polacchi di 18–30 anni analizzati, età media 20 anni (DS 3,04), 537 donne e 98 uomini. Mancanza di premeditazione e difficoltà nel controllo degli impulsi predicevano il binge-watching che gli autori definiscono problematico. In discussione, citando altri lavori e non una misura propria, indicano l’autoplay — l’episodio successivo che parte da solo dopo pochi secondi — come possibile fattore strutturale. Limiti dichiarati: età, prevalenza di donne, solo Polonia, pandemia, auto-report. Non include bambini."
+    },
+    {
+      "title": "Bozzola e colleghi — Media devices in pre-school children (2018)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6001217/",
+      "note": "Italian Journal of Pediatrics, 2018, 44, 69. Raccomandazioni SIP di allora, in linea con AAP e guide australiane citate nel testo: programmazione di qualità, insieme a un adulto, controllo dell’età di app e programmi; niente dispositivi sotto i 2 anni; meno di un’ora al giorno tra 2 e 5 anni; meno di due ore tra 5 e 8. Non è una classificazione dei singoli film e non è una soglia OMS."
+    }
+  ],
+  "faq": [
+    {
+      "question": "L’età scritta sulla piattaforma è il divieto under 14?",
+      "answer": "No. L’AGCOM descrive regole sulla trasmissione: film la cui proiezione pubblica è vietata ai minori di 18 anni, film vietati ai minori di 14, fascia tra le 23 e le 7 oppure un accorgimento tecnico, e un simbolo visivo per tutta la durata in televisione. L’età sotto un titolo in catalogo è un’indicazione del servizio. Per i programmi gravemente nocivi on demand, la delibera 51/13/CSP chiede un parental control che ne impedisca la visione ai minori. Non trasforma l’etichetta del servizio in un provvedimento."
+    },
+    {
+      "question": "Basta il filtro dell’operatore?",
+      "answer": "No. Il sistema della delibera 9/23/CONS filtra categorie sulla connessione, è gratuito, ed è già attivo sulle offerte dedicate ai minori. Non legge il film di stasera e non sa quanti anni ha chi è sul divano. Servono comunque il profilo di chi guarda e un adulto che confronti l’età indicata sul titolo con il più piccolo nella stanza."
+    },
+    {
+      "question": "Spegnere l’autoplay riduce le ore, ed è dimostrato?",
+      "answer": "L’AAP chiede di spegnerlo perché è progettato per trattenere più a lungo, e il technical report lo mette tra i disegni che prolungano l’uso e rendono più difficile staccarsi. Lo studio polacco sui giovani adulti non ha misurato l’autoplay: lo cita in discussione, rimandando ad altri lavori. Non c’è, in queste fonti, una prova che in una casa italiana le ore calino di una quantità precisa. Spegnere la partenza automatica è coerente con quelle pagine. Non è un risultato già misurato sul divano."
+    },
+    {
+      "question": "Quanti episodi sono troppi in vacanza?",
+      "answer": "Nessuna di queste fonti fissa il numero. L’OMS, per i 5–17 anni, non ha una soglia di minuti di schermo ricreativo: chiede di limitarlo, con certezza delle prove bassa. I tetti orari della Società Italiana di Pediatria sono quelli del testo del 2018, non una conta degli episodi di dicembre. La domanda pratica dell’AAP è se quel titolo è adatto a chi è nella stanza, e se la serata sta togliendo sonno e tempo insieme."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mercoledì 16 dicembre 2026. In vacanza una serie «solo un episodio» diventa la serata. Età sul titolo, profilo con cui si entra e autoplay che fa partire il successivo sono tre cose diverse. Questo pezzo le tiene separate, con le fonti aperte qui.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È per chi sceglie il film con fratelli di età diverse, e per i ragazzi che vogliono capire perché il profilo non è un optional. Non classifica i titoli al posto delle autorità. Non descrive i menu di una piattaforma: quelli cambiano con gli aggiornamenti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’età non è una sola etichetta",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’AGCOM, nella pagina sulla tutela dei minori, ricorda le regole dei servizi di media audiovisivi. Sono vietate le trasmissioni televisive gravemente nocive, in particolare la violenza gratuita o la pornografia, e i film la cui proiezione pubblica è stata vietata ai minori di 18 anni, con previsioni a parte per i servizi a richiesta. I programmi che possono nuocere, e i film vietati ai minori di 14 anni, non si trasmettono, a meno che l’orario — tra le 23 e le 7 — o un altro accorgimento tecnico escluda che i minori li vedano normalmente. Se vanno in onda in televisione, devono avere per tutta la durata un simbolo visivo riconoscibile.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quella è la disciplina della trasmissione. Non è l’età che una piattaforma scrive sotto un titolo. Un film in catalogo, visto quando si vuole, non è coperto dalla fascia 23–7. Per il video on demand, la delibera 51/13/CSP prevede che i fornitori mettano un parental control che impedisca ai minori la visione dei programmi gravemente nocivi. È un blocco su quei programmi. Non è un voto su ogni commedia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Società Italiana di Pediatria, nel testo del 2018, consigliava programmazione di qualità, vista insieme a un adulto, e un controllo dell’età di app e programmi. I tetti di quel testo — niente dispositivi sotto i 2 anni, meno di un’ora al giorno tra i 2 e i 5 anni, meno di due ore tra i 5 e gli 8 — sono raccomandazioni di allora, dichiarate in linea con le guide citate nel paper. Non sono una misura del 2026 e non contano gli episodi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’OMS, nelle linee guida del 2020, definisce lo schermo sedentario come l’intrattenimento su schermo da seduti o sdraiati, gioco attivo escluso. Per i 5–17 anni chiede di limitare il tempo sedentario, in particolare lo schermo ricreativo, e scrive che le prove non bastavano per una soglia di minuti. La raccomandazione è forte, la certezza è bassa. Una maratona in vacanza non ha, in quella pagina, un numero di episodi consentito. Il documento parte dai 5 anni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il profilo non è il filtro della linea",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il parental control dell’AGCOM sulla connessione è un’altra cosa. Con la delibera 9/23/CONS del 25 gennaio 2023, gli operatori di accesso a Internet devono offrire gratis un sistema che filtra contenuti inappropriati e blocca quelli riservati ai maggiori di 18 anni. Sulle offerte dedicate ai minori è già attivo. Sulle altre lo attiva il maggiorenne titolare del contratto, o chi esercita la potestà genitoriale. Le categorie indicate comprendono contenuti per adulti, gioco d’azzardo, armi, violenza, odio e discriminazione, pratiche dannose per la salute e strumenti di anonimato. Gli operatori dovevano adeguarsi entro il 21 novembre 2023. È un filtro di rete, per categorie. Non sa se il film di stasera è adatto al più piccolo sul divano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il profilo sulla piattaforma è lo strumento di casa per non lasciare aperto l’account di un adulto. L’AAP, nel Family Media Plan aggiornato il 20 gennaio 2026, chiede di usare i controlli parentali e di evitare contenuti violenti e non adatti all’età. Non pubblica la procedura di un servizio. Prima di dare play si guarda di chi è il profilo acceso, e che età indica quel titolo rispetto al più giovane che guarda. Se l’età è sopra la sua, il titolo non va sullo schermo condiviso. Il filtro dell’operatore non sostituisce quel controllo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Autoplay",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La stessa pagina dell’AAP dice di spegnere autoplay e notifiche, perché sono pensati per tenere i ragazzi agganciati più a lungo. Il technical report dell’AAP su ecosistemi digitali, bambini e adolescenti descrive autoplay e scroll infinito come disegni che prolungano l’uso e rendono più difficile staccarsi, in particolare per i bambini che stanno ancora sviluppando il controllo degli impulsi. È una rassegna, con evidenza soprattutto dagli Stati Uniti, non un esperimento su una vacanza italiana. I technical report dell’AAP scadono cinque anni dopo la pubblicazione, se non vengono riconfermati.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Starosta, Izydorczyk e colleghi hanno studiato, con questionari raccolti tra settembre 2020 e gennaio 2021, 645 giovani adulti polacchi tra i 18 e i 30 anni, età media 20 anni, di cui 537 donne. Mancanza di premeditazione e difficoltà nel controllo degli impulsi predicevano il binge-watching che gli autori definiscono problematico: più episodi di fila, con perdita di controllo sul tempo. In discussione, citando altri lavori e non una misura fatta da loro, scrivono che l’autoplay — l’episodio successivo che parte da solo dopo pochi secondi — può essere uno dei fattori strutturali di quella perdita di controllo. Il campione non include bambini, non è italiano, è un auto-report raccolto in pandemia. Non dimostra che spegnere l’autoplay accorci la serata di una famiglia, di una quantità precisa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Guardarlo insieme",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo stesso technical report chiama joint media engagement l’uso attivo insieme: guardare, spiegare, conversare. Una rassegna che il report riassume trova risultati misti, a seconda del compito, dell’età e di che cosa si confronta, per esempio il gioco, il libro o la TV. Guardare in silenzio un contenuto non adatto non è, in quella definizione, l’uso attivo. La pagina dell’AAP chiede un solo schermo acceso per volta. Le vacanze sono, nella stessa pagina, un momento per rivedere il piano di casa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se la domanda diventa il tempo di tutta la giornata, non il singolo film, il pezzo sugli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " sta accanto a questo. Se il titolo è un gioco e non un film, età e spesa si guardano nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/primo-regalo-tech-natale",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "primo regalo tech",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’età scritta sulla piattaforma è il divieto under 14?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. L’AGCOM descrive regole sulla trasmissione: film la cui proiezione pubblica è vietata ai minori di 18 anni, film vietati ai minori di 14, fascia tra le 23 e le 7 oppure un accorgimento tecnico, e un simbolo visivo per tutta la durata in televisione. L’età sotto un titolo in catalogo è un’indicazione del servizio. Per i programmi gravemente nocivi on demand, la delibera 51/13/CSP chiede un parental control che ne impedisca la visione ai minori. Non trasforma l’etichetta del servizio in un provvedimento.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Basta il filtro dell’operatore?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Il sistema della delibera 9/23/CONS filtra categorie sulla connessione, è gratuito, ed è già attivo sulle offerte dedicate ai minori. Non legge il film di stasera e non sa quanti anni ha chi è sul divano. Servono comunque il profilo di chi guarda e un adulto che confronti l’età indicata sul titolo con il più piccolo nella stanza.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Spegnere l’autoplay riduce le ore, ed è dimostrato?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’AAP chiede di spegnerlo perché è progettato per trattenere più a lungo, e il technical report lo mette tra i disegni che prolungano l’uso e rendono più difficile staccarsi. Lo studio polacco sui giovani adulti non ha misurato l’autoplay: lo cita in discussione, rimandando ad altri lavori. Non c’è, in queste fonti, una prova che in una casa italiana le ore calino di una quantità precisa. Spegnere la partenza automatica è coerente con quelle pagine. Non è un risultato già misurato sul divano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quanti episodi sono troppi in vacanza?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nessuna di queste fonti fissa il numero. L’OMS, per i 5–17 anni, non ha una soglia di minuti di schermo ricreativo: chiede di limitarlo, con certezza delle prove bassa. I tetti orari della Società Italiana di Pediatria sono quelli del testo del 2018, non una conta degli episodi di dicembre. La domanda pratica dell’AAP è se quel titolo è adatto a chi è nella stanza, e se la serata sta togliendo sonno e tempo insieme.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 7
+}
