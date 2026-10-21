@@ -1,0 +1,403 @@
+{
+  "slug": "nonni-e-nipoti-competenze-digitali-feste",
+  "title": "Nonni e nipoti: un pomeriggio delle feste per le competenze digitali",
+  "excerpt": "Un pomeriggio tra nonni e nipoti non è un corso. Che cosa misurano OCSE e ISS sul divario, perché la spiegazione frettolosa si inceppa, e tre compiti concreti: videochiamata, SMS truffa, filtro.",
+  "cover": "/images/covers/nonni-e-nipoti-competenze-digitali-feste.png",
+  "coverAlt": "Illustrazione a linee: un nonno e una nipote seduti al tavolo, un telefono tra loro e un foglio con tre passi; accenti corallo, linee color carbone su fondo chiaro.",
+  "publishedAt": "2026-12-18T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "benessere-digitale"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Nonni e nipoti: un pomeriggio di competenze digitali",
+    "metaDescription": "Un pomeriggio delle feste tra nonni e nipoti: dati OCSE e PASSI d’Argento, uno studio sul supporto dei nipoti, e tre compiti da Polizia postale, AGCOM e AAP.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "OCSE — Digital skills for seniors",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/10/digital-skills-for-seniors_4547becd/9edfa7ef-en.pdf",
+      "note": "Policy brief del 27 ottobre 2025, Centre for Skills. Nel 2022, nei Paesi OCSE, uso di Internet del 98% tra i 16–24 anni e dell’81% tra i 55–74, con un intervallo dal 99% in Norvegia al 53% in Turchia, citando Society at a Glance 2024. I corsi generici sono spesso troppo veloci; tengono meglio compiti reali (videochiamata, appuntamento, riconoscere truffe), un passo alla volta, caratteri grandi, linguaggio semplice, materiali stampati e un supporto dopo. Cyber-Seniors è citato come esempio di tutor giovani formati, non come esito misurato qui. Il brief scrive che mancano prove sugli effetti di lungo periodo su autonomia, benessere e partecipazione."
+    },
+    {
+      "title": "ISS, PASSI d’Argento — Giornata internazionale delle persone anziane 2023",
+      "url": "https://www.epicentro.iss.it/passi-argento/dati/giornata-internazionale-anziano-2023",
+      "note": "Pagina del 28 settembre 2023, dati 2021-2022, ultra 65enni residenti in Italia. Il 15% a rischio di isolamento sociale: in una settimana normale non incontra né telefona a qualcuno e non partecipa ad attività con altri. Il 4% frequenta un corso di formazione (inglese, dispositivi elettronici o università della terza età). Il 27% è una risorsa per familiari o collettività. La pagina collega il gap tecnologico a un possibile maggiore isolamento, per perdita di servizi online, comunicazioni e appuntamenti. Il 4% non è la quota di chi non sa usare il telefono."
+    },
+    {
+      "title": "Portz e colleghi — Grandchildren Help Older Adults Use New Technologies (2019)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6715044/",
+      "note": "JMIR Aging, pubblicato il 13 aprile 2019. Sottoanalisi qualitativa di focus group con 24 pazienti di 65 anni o più, più patologie croniche, in una clinica degli Stati Uniti, sul portale del paziente. Non era stato chiesto della famiglia: il tema è emerso in ogni gruppo. I partecipanti dicevano di chiamare nipoti e figli adulti. Riferivano anche che i familiari faticavano a spiegare compiti semplici e si frustravano per la lentezza. Campione piccolo, contesto sanitario statunitense. Non è un pranzo italiano."
+    },
+    {
+      "title": "UNICEF Innocenti — A global review of selected digital inclusion policies (2023)",
+      "url": "https://www.unicef.org/innocenti/media/741/file/UNICEF-Innocenti-Digital-Inclusion-Global-Policy-Review-2023.pdf",
+      "note": "Rassegna di politiche selezionate, Firenze, settembre 2023, UNICEF Innocenti. L’alfabetizzazione digitale andrebbe oltre la tecnica: anche critica e creativa, lungo tutto il percorso, non solo come preparazione a un lavoro STEM. In casa, genitori, caregiver, fratelli e amici sono tra gli attori principali e andrebbero sostenuti nel mediare l’uso dei ragazzi verso esiti positivi. Non valuta un pomeriggio nonni-nipoti."
+    },
+    {
+      "title": "HealthyChildren, AAP — How to Make a Family Media Plan",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Pagina aggiornata il 20 gennaio 2026. Il piano include ogni membro della famiglia, adulti compresi, come modello. Le vacanze sono un momento per rivederlo. Zone senza schermo, tra cui il tavolo dei pasti. Non è un programma di alfabetizzazione per gli anziani."
+    },
+    {
+      "title": "Polizia postale — SMS truffa pacco in arrivo",
+      "url": "https://www.commissariatodips.it/notizie/articolo/sms-truffa-pacco-in-arrivo/index.html",
+      "note": "23 dicembre 2022. SMS con link a un sito clone che chiede dati personali e bancari per sbloccare una consegna. Verificare solo dal sito dell’ordine; in dubbio, il servizio clienti. Se non si è ordinato niente, ignorare e cancellare. Non inserire dati dopo un link. La pagina elenca testi diffusi sul pacco trattenuto, non consegnato o da riprogrammare."
+    },
+    {
+      "title": "AGCOM — Tutela dei minori: parental control",
+      "url": "https://www.agcom.it/agcom-per-te/i-miei-diritti/tutela-dei-minori-parental-control",
+      "note": "Delibera 9/23/CONS, 25 gennaio 2023. Filtro gratuito dell’operatore di accesso a Internet; preattivo sulle offerte dedicate ai minori. Disattivazione, riattivazione e configurazione riservate al maggiorenne titolare del contratto e a chi esercita la potestà genitoriale. Guide sul sito dell’operatore e assistenza gratuita. Non è il menu di una singola app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Un pomeriggio basta per mettere al passo un nonno?",
+      "answer": "No. L’OCSE descrive programmi con gruppi per livello, istruzioni lente, compiti reali e un supporto dopo l’incontro, e scrive che mancano prove solide sugli effetti di lungo periodo, per esempio su autonomia e benessere. Il 4% di PASSI d’Argento è la quota di ultra 65enni che nel 2021-2022 frequentava un corso di formazione, non la misura di un pomeriggio in famiglia. Il pomeriggio può essere un compito vero — una videochiamata, un messaggio, un filtro — e un foglio che resta."
+    },
+    {
+      "question": "Perché non lo sistemo io in fretta e glielo consegno?",
+      "answer": "Nello studio di Portz e colleghi, 24 pazienti di 65 anni o più raccontavano di chiedere aiuto a nipoti e figli adulti, e anche che quei familiari faticavano a spiegare compiti semplici e si irritavano per la lentezza. Sistemare il telefono al posto suo non è la competenza che l’OCSE collega ai compiti ripetuti dalla persona, un passo alla volta. Il nipote mostra un passo. Il nonno lo rifà, sul suo dispositivo."
+    },
+    {
+      "question": "Che messaggio usiamo per l’esercizio sulla truffa?",
+      "answer": "Uno pubblicato dalla Polizia postale, non uno inventato. Il 23 dicembre 2022 la Postale descrive SMS su un pacco trattenuto o non consegnato, con un link verso un sito clone che chiede dati personali e bancari. La regola che pubblica è: controllare la spedizione solo dal sito su cui si è ordinato; se non c’è un ordine, cancellare il messaggio; non inserire dati dopo un link. Non si clicca il link per provare."
+    },
+    {
+      "question": "Il nonno deve seguire le stesse regole sullo schermo dei nipoti?",
+      "answer": "Se sta in casa in quei giorni, il Family Media Plan dell’AAP include ogni membro della famiglia, adulti compresi, e indica le vacanze come momento in cui rivederlo. Una zona senza schermo a tavola che vale solo per i bambini non è il piano descritto in quella pagina. Le competenze del pomeriggio — videochiamata, truffa, filtro — non sono un permesso a tenere il telefono acceso durante il pranzo."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Venerdì 18 dicembre 2026. Un nipote e un nonno hanno un pomeriggio. La scena solita è il nipote che sistema il telefono in dieci minuti, e il nonno che annuisce. Le fonti su competenze digitali e supporto in famiglia descrivono un altro ritmo. Descrivono anche un limite: un pomeriggio non è un corso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È per nonni, nipoti, genitori e docenti che vogliono un’attività concreta. Non promette che tre ore chiudano un divario, e non tratta i nonni come un pubblico che non sa niente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa misurano le fonti, e che cosa no",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il brief dell’OCSE sulle competenze digitali degli anziani, del 27 ottobre 2025, riporta che nel 2022, nei Paesi OCSE, il 98% delle persone di 16–24 anni usava Internet, contro l’81% di quelle di 55–74 anni. Il brief indica un intervallo dal 99% in Norvegia al 53% in Turchia, citando Society at a Glance 2024. Non è una statistica italiana. Usare Internet non è la stessa cosa che riconoscere una truffa o rifare una videochiamata il giorno dopo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Italia, PASSI d’Argento dell’Istituto Superiore di Sanità, dati 2021-2022 pubblicati il 28 settembre 2023, trova che il 4% degli ultra 65enni frequenta un corso di formazione. Gli esempi della pagina sono inglese, uso di dispositivi elettronici e università della terza età. Il 15% è a rischio di isolamento sociale, nel senso della sorveglianza: in una settimana normale non incontra né telefona a qualcuno e non partecipa ad attività con altri. Il 27% è una risorsa per i familiari o per la collettività. La pagina scrive che il gap tecnologico può aumentare l’isolamento, perché si perdono servizi online, messaggi di familiari e appuntamenti. Non misura le competenze di un nonno specifico. Il 4% non è la quota di chi non sa usare il telefono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Perché la spiegazione frettolosa si inceppa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Portz e colleghi hanno rianalizzato focus group con 24 pazienti di 65 anni o più, con più patologie croniche, in una clinica degli Stati Uniti. Il tema era il portale sanitario, e della famiglia non era stato chiesto nulla: è emerso in ogni gruppo. I partecipanti dicevano di chiamare nipoti e figli adulti quando serviva aiuto con la tecnologia. Dicevano anche che quei familiari faticavano a spiegare compiti semplici e si frustravano perché bisognava andare piano. È un campione piccolo, in un contesto di cura statunitense. Non prova che ogni nipote sia un cattivo insegnante. Mostra un attrito già descritto: chi sa fare la cosa in fretta fatica a insegnarla.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’OCSE, nello stesso brief, scrive che i corsi pensati per tutti spesso sono troppo tecnici e veloci, e che molti anziani si staccano o non trattengono quello che hanno visto. Tengono meglio i compiti della vita vera: una videochiamata, un appuntamento, riconoscere una truffa. Un passo alla volta, caratteri grandi, linguaggio semplice, un foglio che resta, e qualcuno a cui chiedere dopo. Il brief cita Cyber-Seniors come esempio di tutor giovani già formati, non come prova che un nipote non formato ottenga lo stesso risultato. E scrive che mancano prove solide sugli effetti di lungo periodo, autonomia e benessere compresi. Un pomeriggio in vacanza può essere il compito pratico. Non è il programma, e non sostituisce un supporto che resta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Competenza non è solo sbloccare lo schermo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "UNICEF Innocenti, in una rassegna di politiche di inclusione digitale pubblicata a Firenze nel settembre 2023, scrive che l’alfabetizzazione digitale non dovrebbe essere solo tecnica. Dovrebbe essere anche critica e creativa: non solo far funzionare uno strumento, ma saper giudicare quello che si trova e usarlo per partecipare. In casa la rassegna mette tra gli attori principali genitori, caregiver, fratelli e amici, e chiede di dare loro gli strumenti per mediare l’uso dei ragazzi verso esiti positivi. Formazione e supporto sono indicati per genitori e caregiver. Un nipote che sblocca lo schermo e se ne va ha fatto assistenza. Non ha fatto quella mediazione. La rassegna non valuta un pomeriggio delle feste.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’AAP, nel Family Media Plan aggiornato il 20 gennaio 2026, include ogni membro della famiglia e indica le vacanze come momento per rivedere le regole. Un nonno che in quei giorni sta in casa rientra nello stesso piano: stesse zone senza schermo, non un regime a parte perché è ospite. Il piano non è un corso per anziani. Evita due regole diverse nello stesso pranzo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un pomeriggio, tre compiti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un compito alla volta, sul dispositivo del nonno, non su quello del nipote. L’OCSE insiste su materiali che restano: un foglio con i passi, in caratteri grandi. Si chiude e si riprova una volta, piano. Poi ci si ferma.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Videochiamata. Si fa una chiamata vera a un genitore, e sul foglio si scrive dove si riapre. Si chiude e si rifà, con il nonno che tocca lo schermo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un messaggio truffa, senza cliccare. La Polizia postale, il 23 dicembre 2022, descrive SMS su un pacco trattenuto o non consegnato: il link porta a un sito clone che chiede dati personali e bancari. Il controllo si fa solo dal sito dell’ordine. Se non si è ordinato niente, il messaggio si cancella. Non si inseriscono dati dopo un link. A dicembre i pacchi ci sono: il compito è leggere insieme quel tipo di testo e dire ad alta voce che cosa non si fa. Se il messaggio non è un pacco ma una notizia da inoltrare, il pezzo accanto è ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/verificare-una-notizia-prima-di-inoltrarla",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "verificare una notizia prima di inoltrarla",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ".",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chi può spegnere un filtro. L’AGCOM, con la delibera 9/23/CONS, prevede che il parental control dell’operatore sia gratis e, sulle offerte per minori, già attivo. A disattivarlo può essere il maggiorenne titolare del contratto o chi ha la potestà genitoriale. Il pomeriggio serve a sapere se in quella casa il filtro c’è. Non a spegnerlo per vedere.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si ferma lì. L’OCSE scrive che senza un seguito molte persone finiscono l’incontro e poi non trattengono. Il foglio resta in cucina. Un’altra mezz’ora, dopo l’Epifania, vale più di un secondo tutorial lo stesso pomeriggio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un pomeriggio basta per mettere al passo un nonno?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. L’OCSE descrive programmi con gruppi per livello, istruzioni lente, compiti reali e un supporto dopo l’incontro, e scrive che mancano prove solide sugli effetti di lungo periodo, per esempio su autonomia e benessere. Il 4% di PASSI d’Argento è la quota di ultra 65enni che nel 2021-2022 frequentava un corso di formazione, non la misura di un pomeriggio in famiglia. Il pomeriggio può essere un compito vero — una videochiamata, un messaggio, un filtro — e un foglio che resta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Perché non lo sistemo io in fretta e glielo consegno?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nello studio di Portz e colleghi, 24 pazienti di 65 anni o più raccontavano di chiedere aiuto a nipoti e figli adulti, e anche che quei familiari faticavano a spiegare compiti semplici e si irritavano per la lentezza. Sistemare il telefono al posto suo non è la competenza che l’OCSE collega ai compiti ripetuti dalla persona, un passo alla volta. Il nipote mostra un passo. Il nonno lo rifà, sul suo dispositivo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che messaggio usiamo per l’esercizio sulla truffa?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Uno pubblicato dalla Polizia postale, non uno inventato. Il 23 dicembre 2022 la Postale descrive SMS su un pacco trattenuto o non consegnato, con un link verso un sito clone che chiede dati personali e bancari. La regola che pubblica è: controllare la spedizione solo dal sito su cui si è ordinato; se non c’è un ordine, cancellare il messaggio; non inserire dati dopo un link. Non si clicca il link per provare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il nonno deve seguire le stesse regole sullo schermo dei nipoti?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se sta in casa in quei giorni, il Family Media Plan dell’AAP include ogni membro della famiglia, adulti compresi, e indica le vacanze come momento in cui rivederlo. Una zona senza schermo a tavola che vale solo per i bambini non è il piano descritto in quella pagina. Le competenze del pomeriggio — videochiamata, truffa, filtro — non sono un permesso a tenere il telefono acceso durante il pranzo.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 6
+}
