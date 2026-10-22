@@ -132,25 +132,25 @@ export default async function ArticleDetailPage({ params }: Props) {
               ))}
             </div>
           )}
-        </div>
 
-        <div className="article-title-wrap">
-          <h1
-            className="article-title text-primary"
-            style={{
-              ['--title-scale' as string]: String(Math.min(2.2, 78 / article.title.length)),
-            }}
-          >
-            {article.title}
-          </h1>
-        </div>
+          <div className="article-title-wrap">
+            <h1
+              className="article-title text-primary"
+              style={{
+                ['--title-scale' as string]: String(Math.min(2.2, 78 / article.title.length)),
+              }}
+            >
+              {article.title}
+            </h1>
+          </div>
 
-        <div className="article-column mt-5">
           {article.excerpt && (
-            <p className="mb-5 text-[18px] leading-relaxed text-muted">{article.excerpt}</p>
+            <p className="mb-5 mt-5 text-[18px] leading-relaxed text-muted">{article.excerpt}</p>
           )}
 
-          <div className="flex flex-wrap items-center gap-x-5 gap-y-2">
+          <div
+            className={`flex flex-wrap items-center gap-x-5 gap-y-2 ${article.excerpt ? '' : 'mt-5'}`}
+          >
             {article.authors && article.authors.length > 0 && (
               <div className="flex items-center gap-4">
                 {article.authors.map((author) => (

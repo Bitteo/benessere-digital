@@ -177,15 +177,14 @@
   }
 
   .article-title-wrap {
-    width: min(50rem, calc(100% - 1.5rem));
-    margin-inline: auto;
+    width: 100%;
     container-type: inline-size;
   }
 
   .article-title {
     /* 3.7cqi tiene i titoli da ~90 caratteri su due righe. I titoli più corti crescono, con un tetto. */
     font-size: 1.5rem;
-    font-size: clamp(0.75rem, calc(3.7cqi * var(--title-scale, 1)), 2.5rem);
+    font-size: clamp(0.5625rem, calc(3.7cqi * var(--title-scale, 1)), 2.5rem);
     line-height: 1.15;
     letter-spacing: -0.02em;
     font-weight: 700;
