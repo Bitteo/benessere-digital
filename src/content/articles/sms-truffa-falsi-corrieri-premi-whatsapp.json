@@ -12,11 +12,11 @@
     "sicurezza-online",
     "genitori-e-scuola"
   ],
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "SMS truffa e WhatsApp: riconoscerli e cosa fare se hai cliccato",
     "metaDescription": "Smishing, falsi corrieri, falsi premi e furto dell’account WhatsApp: le indicazioni di Polizia postale, Garante privacy, CSIRT Italia, AGCOM e Banca d’Italia.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {

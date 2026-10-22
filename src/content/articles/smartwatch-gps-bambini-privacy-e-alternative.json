@@ -1,0 +1,474 @@
+{
+  "slug": "smartwatch-gps-bambini-privacy-e-alternative",
+  "title": "Smartwatch e GPS per bambini: che cosa tracciano, e quando servono",
+  "excerpt": "Un orologio con il GPS non è un telefono più piccolo. Che cosa registrano questi dispositivi, che cosa chiedono Garante, BSI e il Commento generale n. 25, e quali alternative ci sono prima di comprarne uno.",
+  "cover": "/images/covers/smartwatch-gps-bambini-privacy-e-alternative.png",
+  "coverAlt": "Illustrazione a linee: un bambino e un adulto seduti al tavolo, un orologio da polso e una piccola puntina di posizione; accenti corallo su fondo chiaro.",
+  "publishedAt": "2026-12-04T09:00:00.000+01:00",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "sicurezza-online",
+    "app-e-strumenti"
+  ],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Smartwatch e GPS per bambini: privacy e alternative",
+    "metaDescription": "Che cosa tracciano smartwatch e localizzatori per bambini, che cosa dicono Garante, BSI e il Commento generale n. 25, e quando basta un contatto in caso di emergenza.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "BSI — IT Security in the Digital Consumer Market: Focus on Children’s Smartwatches (PDF)",
+      "url": "https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Digital-Consumer-Protection/childrens-smartwatches.pdf?__blob=publicationFile&v=2",
+      "note": "Ufficio federale tedesco per la sicurezza informatica, versione 1.0 del 30 settembre 2026. Valutazione di tre orologi per bambini e delle app Android (Connect Neo, Garmin Bounce, Imoo Z3). Nessuno dei tre aveva una configurazione sicura di default completa; due su tre trasmettevano parte dei dati senza cifratura; tutti e tre avevano carenze nella messa fuori uso (cancellazione e ripristino); un solo produttore indicava per quanto tempo avrebbe fornito aggiornamenti di sicurezza. Un prodotto, in esaurimento a inizio 2026, non può ricevere aggiornamenti firmware. I produttori sono stati informati e hanno collaborato. L’orologio invia la posizione ai server del produttore; l’app del genitore la mostra. Possono esserci chiamate e messaggi vocali, di testo o video verso contatti preselezionati, più dati di sistema. Sensori possibili: fotocamera, microfono, altoparlante, tasto di emergenza e, in alcuni modelli, dati di salute. Chi può vedere i dati: genitori, altri adulti di cura, produttore e terzi, amici del bambino, persone non autorizzate. Usi che il BSI indica come possibili: sicurezza in più sul tragitto per la scuola, telefonata rapida in emergenza. Il monitoraggio continuo contrasta con l’articolo 16 della Convenzione ONU sui diritti dell’infanzia. Il Cyber Resilience Act si applica per intero dal 11 dicembre 2027."
+    },
+    {
+      "title": "Garante per la protezione dei dati personali — Minori",
+      "url": "https://www.garanteprivacy.it/temi/minori",
+      "note": "I minori sono persone vulnerabili (considerando 75 del GDPR) e meritano una protezione specifica perché possono essere meno consapevoli di rischi, conseguenze e diritti (considerando 38). L’articolo 12 chiede un’informativa chiara, in particolare se è destinata ai minori. L’articolo 8 riguarda solo l’offerta diretta di servizi della società dell’informazione quando il trattamento si basa sul consenso: soglia europea di 16 anni, con facoltà degli Stati di scendere non sotto i 13. In Italia l’articolo 2-quinquies del d.lgs. 196/2003 fissa 14 anni. Non cambia la capacità di agire e non copre i trattamenti con un’altra base giuridica."
+    },
+    {
+      "title": "Garante per la protezione dei dati personali — Minori e nuove tecnologie. Consigli ai «grandi» (PDF, febbraio 2021)",
+      "url": "https://www.garanteprivacy.it/documents/10160/0/MINORI+E+NUOVE+TECNOLOGIE+-+Consigli+ai+%C2%ABGRANDI%C2%BB+per+un+utilizzo+sicuro+da+parte+dei+%C2%ABPICCOLI%C2%BB.pdf/bea17fd1-3e37-981b-b4e1-de46ad37e8ad?version=2.0",
+      "note": "Scheda divulgativa. Un minore connesso può rivelare, anche senza volerlo, dove abita, dove va a scuola, i percorsi abituali e le abitudini. Il parental control può attivare la geolocalizzazione per rintracciare il dispositivo, e quindi eventualmente il minore, in caso di emergenza. Se il controllo è un’app, va letta l’informativa: quali dati, per quali fini, a chi possono essere trasmessi. Privacy by design e by default e minimizzazione, articolo 5, paragrafo 1, lettera c, del GDPR. Ribadisce i 14 anni per il consenso autonomo del minore."
+    },
+    {
+      "title": "OHCHR — General comment No. 25 (2021) on children’s rights in relation to the digital environment",
+      "url": "https://www.ohchr.org/en/documents/general-comments-and-recommendations/general-comment-no-25-2021-childrens-rights-relation",
+      "note": "Comitato ONU sui diritti dell’infanzia, 2 marzo 2021. Testo usato insieme alla traduzione italiana non ufficiale per i paragrafi 75 e 76."
+    },
+    {
+      "title": "Autorità garante per l’infanzia e l’adolescenza — Commento generale n. 25 (traduzione italiana, PDF)",
+      "url": "https://www.garanteinfanzia.org/wp-content/uploads/2025/06/commento-generale-25-web.pdf",
+      "note": "Traduzione non ufficiale curata da AGIA, CIDU e UNICEF Italia. Paragrafo 75: la sorveglianza digitale in contesti commerciali, educativi e di cura non dovrebbe essere di routine, indiscriminata o all’insaputa del minorenne. Paragrafo 76: tecnologie di monitoraggio e tracciamento usate senza attenzione possono impedire di contattare una linea di assistenza o di cercare informazioni sensibili; il monitoraggio dei genitori dovrebbe essere proporzionato e conforme alle capacità in evoluzione del minorenne."
+    },
+    {
+      "title": "Regolamento (UE) 2016/679, articoli 5 e 8, come illustrati dal Garante",
+      "url": "https://www.garanteprivacy.it/documents/10160/0/Guida+all+applicazione+del+Regolamento+UE+2016+679.pdf/2281f960-a7b2-4c53-a3f1-ad7578f8761d?version=2.0",
+      "note": "Guida del Garante all’applicazione del GDPR. Ogni trattamento ha bisogno di una base giuridica. Il consenso è libero, specifico, informato e inequivocabile; per i minori, in Italia, è valido dai 14 anni, prima serve chi esercita la responsabilità genitoriale. Per le categorie particolari di dati, articolo 9, e per le decisioni automatizzate, articolo 22, il consenso deve essere esplicito. La guida richiama le linee guida EDPB 5/2020 sul consenso."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Un GPS per bambini è già previsto dalla legge?",
+      "answer": "No. In Italia i 14 anni, fissati dall’articolo 2-quinquies del Codice privacy, sono l’età da cui un minore può dare da solo il consenso al trattamento dei dati quando un servizio della società dell’informazione glielo offre direttamente e la base è il consenso. Lo spiega la pagina del Garante sui minori. Non è un’autorizzazione a tracciare un figlio, e non copre i trattamenti che poggiano su un’altra base. Il vademecum del Garante, del febbraio 2021, parla di geolocalizzazione del dispositivo in caso di emergenza, dentro un parental control, dopo aver letto l’informativa."
+    },
+    {
+      "question": "I tre orologi provati dal BSI sono tutti i modelli in vendita?",
+      "answer": "No. Il rapporto del 30 settembre 2026 riguarda tre prodotti e le relative app Android. Nessuno dei tre aveva una configurazione sicura di default completa; due trasmettevano parte dei dati senza cifratura; tutti e tre avevano difetti nella cancellazione e nel ripristino. I produttori sono stati informati e hanno collaborato. Non è una classifica del mercato, e non dice quanti orologi per bambini ci siano in Italia."
+    },
+    {
+      "question": "Tenere la posizione sempre accesa protegge di più?",
+      "answer": "Il BSI scrive che un uso possibile è una sicurezza in più sul tragitto per la scuola, o una telefonata rapida in emergenza, e che il monitoraggio continuo della posizione o delle comunicazioni entra in conflitto con il diritto alla privacy del minore, richiamando l’articolo 16 della Convenzione ONU. Il Commento generale n. 25, al paragrafo 76, chiede un monitoraggio proporzionato alle capacità in evoluzione e avverte che un tracciamento usato senza attenzione può impedire di cercare aiuto. La posizione sempre accesa non è, in queste fonti, la misura più protettiva."
+    },
+    {
+      "question": "Che cosa posso usare al posto di un orologio nuovo?",
+      "answer": "Il vademecum del Garante descrive la geolocalizzazione come funzione di un parental control, per rintracciare il dispositivo in emergenza, e chiede di leggere quali dati tratta l’app, per quali fini e verso chi. Il BSI chiede di decidere prima quale bisogno concreto deve coprire l’oggetto: se il bisogno è una chiamata, la cronologia delle posizioni è un’altra funzione. Se si compra comunque, le impostazioni sicure vanno attivate a mano, i contatti vanno limitati a una lista, e prima di regalare o buttare l’orologio va controllato se i dati si cancellano."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Venerdì 4 dicembre 2026. In molte liste di regali c’è un orologio che «fa solo le cose sicure»: chiama casa e mostra dove si trova il bambino. Non è un telefono più piccolo. È un dispositivo che manda la posizione a un server e la restituisce a un’app. Questo pezzo dice che cosa registrano questi oggetti, quando le fonti aperte qui li considerano utili, e che cosa si può fare prima di comprarli.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È per ragazzi, genitori e chi compra un regalo al posto loro. Non è un parere medico e non dice che un modello sia sicuro solo perché è venduto come orologio per bambini.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa registra un orologio per bambini",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il rapporto del BSI, l’ufficio federale tedesco per la sicurezza informatica, pubblicato il 30 settembre 2026, descrive l’orologio per bambini come un orologio con funzioni di comunicazione e di sicurezza. Molti modelli hanno un ricevitore GPS e una SIM. Dopo la configurazione, il genitore acconsente all’invio della posizione ai server del produttore e la segue da un’app. Il bambino può chiamare e scambiare messaggi vocali, di testo o video con contatti già registrati. I dati passano di solito dal cloud del produttore, o da quello di un terzo: messaggi, dati di sistema, dati per l’analisi degli errori.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I pezzi sono quattro: l’orologio, con modulo di rete, GPS e sensori; il telefono dell’adulto con l’app; il cloud; il collegamento radio, Bluetooth, Wi-Fi o rete mobile. I sensori, a seconda del modello, possono includere fotocamera, microfono, altoparlante, un tasto di emergenza e, in alcuni casi, sensori di dati sulla salute. Chi può vedere i dati raccolti, scrive il BSI, non è solo il genitore: anche altri adulti di cura, il produttore e i suoi fornitori, gli amici del bambino e persone non autorizzate.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il BSI ha provato tre prodotti e le app Android collegate: Connect Neo, Garmin Bounce e Imoo Z3. Nessuno dei tre aveva una configurazione sicura già completa. Due su tre trasmettevano parte dei dati senza cifratura. Tutti e tre avevano carenze quando si spegne il servizio per sempre: cancellare i dati personali e tornare a uno stato iniziale sicuro non era affidabile. Un solo produttore diceva per quanto tempo avrebbe mandato aggiornamenti di sicurezza. Uno dei tre, in esaurimento a inizio 2026 mentre l’indagine era in corso, non può ricevere aggiornamenti del firmware. I difetti di configurazione non erano gli stessi. Sul Connect Neo il blocco delle chiamate da numeri non registrati era attivo, ma dopo un ripristino si spegneva: il produttore ha detto di averlo corretto. Sul Garmin Bounce un bambino poteva tornare alle impostazioni di fabbrica senza il consenso dei genitori, che non ricevono un avviso; il produttore conferma che, dopo il ripristino, l’orologio non manda più messaggi e non è più localizzabile finché non viene ricollegato all’account. Sull’Imoo Z3, di default, il bambino poteva aprire molte impostazioni, tra cui un Wi-Fi, e comporre numeri non approvati; il produttore ha confermato il risultato e ha definito un piano di correzione. Sono tre prodotti, non il mercato intero, e non una cifra sull’Italia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Privacy: che cosa chiede il GDPR, e che cosa non chiede",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina del Garante sui minori richiama due considerando del Regolamento europeo. Il 75 tratta i minori come persone vulnerabili. Il 38 dice che meritano una protezione specifica sui dati personali, perché possono essere meno consapevoli dei rischi, delle conseguenze e dei propri diritti. L’articolo 12 chiede che l’informativa sia concisa e comprensibile, soprattutto se è scritta per loro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’età dei 14 anni, in Italia, non è una licenza a localizzare un figlio. L’articolo 8 del GDPR, come lo spiega il Garante, vale solo in due casi insieme: il servizio della società dell’informazione è offerto direttamente al minore, e il trattamento si basa sul consenso. La soglia europea è 16 anni. Gli Stati possono abbassarla, non sotto i 13. L’articolo 2-quinquies del Codice privacy la fissa a 14. Sotto, il consenso lo dà chi esercita la responsabilità genitoriale. Se la base giuridica è un’altra, l’articolo 8 non si applica. Non cambia neppure la capacità di firmare un contratto. Un orologio comprato da un adulto, con un account dell’adulto, non diventa lecito solo perché il figlio ha meno di 14 anni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il vademecum del Garante di febbraio 2021, «Minori e nuove tecnologie», dice una cosa pratica: un minore connesso può rivelare, anche senza volerlo, dove abita, la scuola, i percorsi abituali. Chiede di leggere l’informativa, che deve esserci nella confezione, sul sito o nell’app, e di capire quali dati tratta il servizio, per quali fini e a chi possono andare. Richiama la privacy by design e by default, e la minimizzazione dell’articolo 5: si raccolgono i dati necessari, non la storia intera degli spostamenti «perché l’app lo permette». I dati sulla salute, se un sensore li raccoglie, sono un’altra categoria: la guida del Garante al GDPR ricorda che per le categorie particolari il consenso deve essere esplicito. La posizione, da sola, non è elencata lì come dato sanitario.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Commento generale n. 25 del Comitato ONU, del 2 marzo 2021, non vieta gli strumenti. Il paragrafo 75 dice che la sorveglianza digitale, anche nei contesti di cura, non dovrebbe essere di routine, indiscriminata o all’insaputa del minorenne. Il paragrafo 76 dice che le tecnologie di tracciamento, usate senza attenzione, possono impedire a un ragazzo di contattare una linea di assistenza o di cercare informazioni sensibili. La regola operativa è il monitoraggio proporzionato alle capacità che cambiano con l’età. Il testo italiano usato qui è la traduzione non ufficiale di AGIA, CIDU e UNICEF Italia, la stessa del pezzo sui ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/diritti-dei-bambini-online-commento-generale-25",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "diritti dei bambini online",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quando può essere utile",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il BSI non scrive che l’orologio sia inutile. Scrive di chiedersi, prima dell’acquisto, quale valore deve avere nella giornata. Gli usi che indica sono due: una sicurezza in più sul tragitto verso la scuola, e la possibilità di chiamare un genitore in fretta se succede qualcosa. Sono scopi diversi dalla cronologia continua. Lo stesso rapporto dice che la combinazione di comunicazione e sicurezza fa conoscere al bambino un dispositivo, e insieme lo espone a un monitoraggio costante e a rischi di sicurezza informatica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il conflitto, per il BSI, sta tra la cura del genitore e il diritto del bambino alla privacy. Il rapporto cita l’articolo 16 della Convenzione ONU sui diritti dell’infanzia: il minore ha diritto a non subire interferenze arbitrarie nella vita privata. La scelta delle funzioni, scrive, va fatta in base all’età, va spiegata al bambino, e va discussa con lui nei vantaggi e nei limiti. Le impostazioni più protettive, nei prodotti esaminati, non erano già attive: andavano accese a mano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il vademecum del Garante colloca la geolocalizzazione in un punto stretto: rintracciare il dispositivo, e quindi eventualmente il minore che lo usa, in caso di emergenza. Non descrive una mappa accesa per tutto il pomeriggio. Se il bisogno è «poter chiamare», la posizione storica è un dato in più. Se il bisogno è «sapere se è arrivato a scuola», il BSI parla di quel tragitto, non di ogni ora del giorno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa fare se lo comprate lo stesso",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le raccomandazioni del BSI ai genitori, nello stesso rapporto, sono operative. Prima di scegliere, guardare quali funzioni, sensori e porte ha l’oggetto, e quali dati tratta. Chiedere per quanto tempo arriveranno gli aggiornamenti di sicurezza, anche dopo che il modello non è più in vendita: uno dei tre prodotti provati non poteva più riceverli. Usare una password lunga e unica sull’account, e la verifica in due passaggi se c’è. Limitare chiamate e messaggi ai numeri approvati: di default, scrive il BSI nella parte sui requisiti, il bambino non dovrebbe ricevere contatti da numeri sconosciuti né scriverne ad altri non approvati. Prima di regalarlo o di buttarlo, verificare che i dati si cancellino e che si possa tornare alle impostazioni di fabbrica. Sui tre prodotti questa parte ha fallito.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dal 11 dicembre 2027 il Cyber Resilience Act, ricorda il BSI, imporrà requisiti di cybersicurezza a tutti i prodotti connessi venduti nell’Unione, orologi per bambini compresi. Fino a quella data la scheda tecnica non sostituisce il controllo delle impostazioni. Un’app che chiede microfono o posizione «per funzionare» va letta con la stessa attenzione dei ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/permessi-app-fotocamera-microfono-posizione",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "permessi di fotocamera, microfono e posizione",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Alternative, prima dell’acquisto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre domande, se restano vere dopo Natale. Qual è il bisogno di questa settimana: una chiamata, o la mappa di tutti gli spostamenti? Il parental control di un dispositivo che avete già, nel vademecum del Garante, può localizzare quel dispositivo in emergenza, dopo che avete letto l’informativa dell’app. Il bambino sa che la funzione c’è, e sapete quando la rivedrete, come chiede il paragrafo 76? Se la risposta alla prima domanda è solo la chiamata, la cronologia non serve per quel bisogno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il controllo dichiarato, e non la lettura di nascosto di messaggi e percorsi, è lo stesso confine del pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "come proteggere senza spiare",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Un orologio non lo sposta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un GPS per bambini è già previsto dalla legge?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. In Italia i 14 anni, fissati dall’articolo 2-quinquies del Codice privacy, sono l’età da cui un minore può dare da solo il consenso al trattamento dei dati quando un servizio della società dell’informazione glielo offre direttamente e la base è il consenso. Lo spiega la pagina del Garante sui minori. Non è un’autorizzazione a tracciare un figlio, e non copre i trattamenti che poggiano su un’altra base. Il vademecum del Garante, del febbraio 2021, parla di geolocalizzazione del dispositivo in caso di emergenza, dentro un parental control, dopo aver letto l’informativa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I tre orologi provati dal BSI sono tutti i modelli in vendita?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Il rapporto del 30 settembre 2026 riguarda tre prodotti e le relative app Android. Nessuno dei tre aveva una configurazione sicura di default completa; due trasmettevano parte dei dati senza cifratura; tutti e tre avevano difetti nella cancellazione e nel ripristino. I produttori sono stati informati e hanno collaborato. Non è una classifica del mercato, e non dice quanti orologi per bambini ci siano in Italia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tenere la posizione sempre accesa protegge di più?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il BSI scrive che un uso possibile è una sicurezza in più sul tragitto per la scuola, o una telefonata rapida in emergenza, e che il monitoraggio continuo della posizione o delle comunicazioni entra in conflitto con il diritto alla privacy del minore, richiamando l’articolo 16 della Convenzione ONU. Il Commento generale n. 25, al paragrafo 76, chiede un monitoraggio proporzionato alle capacità in evoluzione e avverte che un tracciamento usato senza attenzione può impedire di cercare aiuto. La posizione sempre accesa non è, in queste fonti, la misura più protettiva.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa posso usare al posto di un orologio nuovo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il vademecum del Garante descrive la geolocalizzazione come funzione di un parental control, per rintracciare il dispositivo in emergenza, e chiede di leggere quali dati tratta l’app, per quali fini e verso chi. Il BSI chiede di decidere prima quale bisogno concreto deve coprire l’oggetto: se il bisogno è una chiamata, la cronologia delle posizioni è un’altra funzione. Se si compra comunque, le impostazioni sicure vanno attivate a mano, i contatti vanno limitati a una lista, e prima di regalare o buttare l’orologio va controllato se i dati si cancellano.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 9
+}

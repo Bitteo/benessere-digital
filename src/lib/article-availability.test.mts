@@ -140,21 +140,55 @@ test('friday articles stay hidden until their publishedAt', () => {
   }
 })
 
-test('november and december friday drafts stay off the site even after their date', () => {
-  const after = new Date('2026-12-12T08:00:00.000Z')
-  for (const slug of [
-    'diritti-dei-bambini-online-commento-generale-25',
-    'sms-truffa-falsi-corrieri-premi-whatsapp',
-    'parental-control-console-switch-playstation-xbox',
-  ]) {
+test('approved november and december articles stay hidden until their publishedAt', () => {
+  const today = new Date('2026-10-22T08:00:00.000Z')
+  const publishedAtBySlug = {
+    'diritti-dei-bambini-online-commento-generale-25': '2026-11-20T09:00:00.000+01:00',
+    'sms-truffa-falsi-corrieri-premi-whatsapp': '2026-11-27T09:00:00.000+01:00',
+    'parental-control-console-switch-playstation-xbox': '2026-12-11T09:00:00.000+01:00',
+  } as const
+
+  for (const [slug, expectedPublishedAt] of Object.entries(publishedAtBySlug)) {
     const article = loadArticle(slug)
-    assert.equal(article.status, 'draft')
-    assert.equal(article.seo?.noIndex, true)
+    assert.equal(article.status, 'published')
+    assert.equal(article.publishedAt, expectedPublishedAt)
+    assert.equal(article.seo?.noIndex, false)
     assert.equal(article.cover, `/images/covers/${slug}.png`)
     assert.equal(
       existsSync(new URL(`../../public/images/covers/${slug}.png`, import.meta.url)),
       true,
     )
+    const publishedAt = new Date(article.publishedAt ?? '')
+    assert.equal(Number.isNaN(publishedAt.getTime()), false)
+    const before = new Date(publishedAt.getTime() - 1)
+    assert.equal(isPubliclyAvailable(article, before), false)
+    assert.equal(isPubliclyAvailable(article, publishedAt), true)
+    assert.equal(isIndexableArticle(article, before), false)
+    assert.equal(isIndexableArticle(article, publishedAt), true)
+    assert.equal(isPubliclyAvailable(article, today), false)
+    assert.equal(isIndexableArticle(article, today), false)
+    assert.equal(isPubliclyAvailable(article, future), false)
+    assert.equal(isIndexableArticle(article, future), false)
+  }
+})
+
+test('december hidden drafts stay off the site even after their date', () => {
+  const after = new Date('2026-12-20T08:00:00.000Z')
+  const publishedAtBySlug = {
+    'telefono-a-tavola-feste-phubbing': '2026-12-14T09:00:00.000+01:00',
+    'film-e-serie-in-famiglia-vacanze-eta-profili-autoplay': '2026-12-16T09:00:00.000+01:00',
+    'nonni-e-nipoti-competenze-digitali-feste': '2026-12-18T09:00:00.000+01:00',
+    'smartwatch-gps-bambini-privacy-e-alternative': '2026-12-04T09:00:00.000+01:00',
+    'eta-minima-social-australia-under-16': '2026-12-07T09:00:00.000+01:00',
+    'sfide-virali-parlarne-senza-amplificarle': '2026-12-09T09:00:00.000+01:00',
+  } as const
+
+  for (const [slug, expectedPublishedAt] of Object.entries(publishedAtBySlug)) {
+    const article = loadArticle(slug)
+    assert.equal(article.status, 'draft')
+    assert.equal(article.publishedAt, expectedPublishedAt)
+    assert.equal(article.seo?.noIndex, true)
+    assert.equal(article.cover, `/images/covers/${slug}.png`)
     assert.equal(isPubliclyAvailable(article, after), false)
     assert.equal(isIndexableArticle(article, after), false)
   }
