@@ -32,6 +32,11 @@ export const STATIC_PUBLIC_PATHS = [
   '/',
   '/articoli',
   '/categorie',
+  '/creator',
+  '/video',
+  '/podcast',
+  '/app',
+  '/libri',
   '/chi-siamo',
   '/collabora',
   '/contatti',
@@ -44,7 +49,16 @@ export const STATIC_PUBLIC_PATHS = [
 export type StaticPublicPath = (typeof STATIC_PUBLIC_PATHS)[number]
 
 const LEGAL_PATHS = new Set<string>(['/privacy', '/termini', '/cookie'])
-const HUB_PATHS = new Set<string>(['/', '/articoli', '/categorie'])
+const HUB_PATHS = new Set<string>([
+  '/',
+  '/articoli',
+  '/categorie',
+  '/creator',
+  '/video',
+  '/podcast',
+  '/app',
+  '/libri',
+])
 
 /** Absolute www URL for a site-relative path (`/` → origin, no trailing slash). */
 export function absoluteUrl(path: string): string {

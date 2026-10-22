@@ -35,82 +35,49 @@ const values = [
 export default function ChiSiamoPage() {
   return (
     <main>
-      {/* Hero */}
-      <section className="section-lg border-b border-border" aria-labelledby="about-heading">
-        <div className="container-md padding-global text-center">
-          <p className="text-meta text-primary opacity-50 mb-4">La nostra missione</p>
-          <h1
-            id="about-heading"
-            className="text-h1 sm:text-h2 mb-6 leading-tight"
-            style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-          >
-            Benessere digitale{' '}
-            <span className="text-pixel">per tutti</span>
+      <section className="section-lg bg-white" aria-labelledby="about-heading">
+        <div className="container-md padding-global">
+          <h1 id="about-heading" className="mb-6 text-h2 leading-tight sm:text-h3">
+            Benessere <span className="text-pixel">digitale</span> per tutti
           </h1>
-          <p className="text-md text-primary opacity-60 leading-relaxed max-w-2xl mx-auto">
+          <p className="max-w-2xl text-lg leading-relaxed text-muted">
             benessere.digital nasce con un obiettivo: rendere accessibile la conoscenza scientifica
-            sul benessere digitale per aiutare giovani, genitori ed educatori a costruire un rapporto
-            sano con la tecnologia.
+            sul benessere digitale per aiutare giovani, genitori ed educatori a costruire un
+            rapporto sano con la tecnologia.
           </p>
         </div>
       </section>
 
-      {/* Values */}
-      <section className="section-md border-b border-border" aria-label="I nostri valori">
+      <section className="section-md bg-surface-subtle" aria-label="I nostri valori">
         <div className="container-lg padding-global">
-          <div className="mb-10">
-            <p className="text-meta text-primary opacity-50 mb-2">I nostri principi</p>
-            <h2
-              className="text-h2 sm:text-h3"
-              style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-            >
-              Come lavoriamo
-            </h2>
-          </div>
-
-          <div className="grid grid-cols-2 sm:grid-cols-1 gap-6">
+          <h2 className="mb-8 text-h3 sm:text-h4">Come lavoriamo</h2>
+          <div className="grid grid-cols-2 gap-x-12 gap-y-8 sm:grid-cols-1">
             {values.map((v) => (
-              <div key={v.title} className="p-8 border border-border rounded-xl">
-                <h3
-                  className="text-h4 mb-3"
-                  style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-                >
-                  {v.title}
-                </h3>
-                <p className="text-base text-primary opacity-70 leading-relaxed">
-                  {v.description}
-                </p>
+              <div key={v.title}>
+                <h3 className="mb-2 text-h5">{v.title}</h3>
+                <p className="text-base leading-relaxed text-muted">{v.description}</p>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Team / background */}
-      <section className="section-md border-b border-border" aria-label="Il team">
+      <section className="section-md bg-white" aria-label="Il team">
         <div className="container-md padding-global">
-          <div className="mb-10">
-            <p className="text-meta text-primary opacity-50 mb-2">Chi c&apos;è dietro</p>
-            <h2
-              className="text-h2 sm:text-h3"
-              style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-            >
-              Il team
-            </h2>
-          </div>
-          <p className="text-md text-primary opacity-70 leading-relaxed mb-6">
+          <h2 className="mb-5 text-h3 sm:text-h4">Il team</h2>
+          <p className="mb-6 max-w-2xl text-lg leading-relaxed text-muted">
             benessere.digital è un progetto di{' '}
             <a
               href="https://jigo.it"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-cta-blue underline hover:text-cta-blue-hover"
+              className="font-semibold text-accent underline hover:text-accent-hover"
             >
               Jigo
             </a>
             , un&apos;agenzia digitale italiana specializzata in prodotti web per il settore
-            dell&apos;educazione e della salute. Il nostro team editoriale è composto da esperti
-            di comunicazione scientifica, psicologi e pedagogi.
+            dell&apos;educazione e della salute. Il nostro team editoriale è composto da esperti di
+            comunicazione scientifica, psicologi e pedagogi.
           </p>
           <Link href="/contatti" className="btn-primary inline-flex">
             Contattaci

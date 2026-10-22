@@ -1,9 +1,25 @@
 import type { Metadata, Viewport } from 'next'
+import localFont from 'next/font/local'
+import { Montserrat } from 'next/font/google'
 import { Analytics } from '@/components/analytics/Analytics'
 import { JsonLd } from '@/components/article/JsonLd'
 import { buildOrganizationJsonLd, buildWebSiteJsonLd } from '@/lib/seo/jsonld'
 import { CANONICAL_ORIGIN } from '@/lib/seo/site'
 import './globals.css'
+
+const montserrat = Montserrat({
+  subsets: ['latin', 'latin-ext'],
+  weight: ['400', '500', '600', '700'],
+  display: 'swap',
+  variable: '--font-montserrat',
+})
+
+const pixelify = localFont({
+  src: '../../public/fonts/PixelifySans-VariableFont_wght.ttf',
+  weight: '400 700',
+  display: 'swap',
+  variable: '--font-pixelify',
+})
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -48,8 +64,8 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="it">
-      <body>
+    <html lang="it" className={`${montserrat.variable} ${pixelify.variable}`}>
+      <body className={montserrat.className}>
         <JsonLd data={[buildOrganizationJsonLd(), buildWebSiteJsonLd()]} />
         {children}
         <Analytics />

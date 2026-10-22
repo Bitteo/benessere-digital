@@ -96,7 +96,7 @@ export function NewsletterForm({
   const linkClass =
     tone === 'onDark'
       ? 'underline decoration-white/60 underline-offset-2 hover:text-white'
-      : 'underline decoration-primary/40 underline-offset-2 hover:text-cta-blue'
+      : 'underline decoration-primary/40 underline-offset-2 hover:text-accent'
 
   return (
     <form
@@ -120,7 +120,7 @@ export function NewsletterForm({
           placeholder={placeholder}
           required
           disabled={disabled}
-          className="w-full rounded-md border-[1.5px] border-border px-4 py-2.5 text-lg text-primary transition-colors placeholder:text-base placeholder:text-placeholder focus:border-placeholder focus:outline-none disabled:cursor-not-allowed disabled:opacity-50"
+          className="w-full rounded-md bg-surface-subtle px-4 py-2.5 text-lg text-primary transition-colors placeholder:text-base placeholder:text-placeholder focus:outline-none disabled:cursor-not-allowed disabled:opacity-50"
           style={{ fontSize: '1.125rem' }}
         />
       </div>
@@ -128,7 +128,7 @@ export function NewsletterForm({
       <button
         type="submit"
         disabled={disabled}
-        className="btn-primary-lg flex-shrink-0 disabled:cursor-not-allowed disabled:opacity-50"
+        className={`${tone === 'onDark' ? 'btn-cta' : 'btn-primary-lg'} flex-shrink-0 disabled:cursor-not-allowed disabled:opacity-50`}
       >
         {status === 'loading' ? 'Invio…' : 'Iscriviti'}
       </button>

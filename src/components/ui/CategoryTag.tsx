@@ -6,24 +6,17 @@ type Props = {
   size?: 'sm' | 'md'
 }
 
-export function CategoryTag({ category, size = 'md' }: Props) {
+export function CategoryTag({ category }: Props) {
   return (
     <Link
       href={`/categoria/${category.slug}`}
-      className={`inline-block w-fit rounded-pill border border-text-dark font-semibold text-primary transition-colors duration-100 hover:border-primary hover:bg-primary hover:text-white ${size === 'sm' ? 'px-2 py-0.5 text-tiny' : 'px-3 py-1 text-sm'} `}
+      className="text-[13px] font-semibold text-accent hover:text-accent-hover"
     >
       {category.name}
     </Link>
   )
 }
 
-/** Plain pill without a link, for display purposes */
-export function CategoryPill({ name, size = 'md' }: { name: string; size?: 'sm' | 'md' }) {
-  return (
-    <span
-      className={`inline-block w-fit rounded-pill border border-text-dark font-semibold text-primary ${size === 'sm' ? 'px-2 py-0.5 text-tiny' : 'px-3 py-1 text-sm'} `}
-    >
-      {name}
-    </span>
-  )
+export function CategoryPill({ name }: { name: string; size?: 'sm' | 'md' }) {
+  return <span className="text-[13px] font-semibold text-accent">{name}</span>
 }

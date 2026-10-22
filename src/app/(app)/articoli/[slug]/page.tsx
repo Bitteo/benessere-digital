@@ -79,7 +79,6 @@ export default async function ArticleDetailPage({ params }: Props) {
         ? formatDate(article.updatedAt)
         : null
 
-  // Related articles — same category, excluding current
   const primaryCategory = article.categories?.[0]
   const { docs: relatedArticles } = primaryCategory
     ? await getArticles({ limit: 3, category: primaryCategory.slug })
@@ -103,57 +102,55 @@ export default async function ArticleDetailPage({ params }: Props) {
     <main>
       <JsonLd data={jsonLdBlocks} />
       <ArticleEngagement />
-      {/* Article header */}
-      <header className="section-md border-b border-border sm:py-8">
-        <div className="container-md padding-global">
-          {/* Breadcrumb */}
+      <header className="pb-8 pt-10 sm:pb-6 sm:pt-6">
+        <div className="article-column">
           <nav
-            className="mb-6 flex items-center gap-2 text-tiny text-primary opacity-50 sm:mb-3"
+            className="mb-5 flex flex-wrap items-center gap-2 text-[13px] text-muted"
             aria-label="Breadcrumb"
           >
-            <Link href="/" className="hover:opacity-80">
+            <Link href="/" className="hover:text-accent">
               Home
             </Link>
-            <span>/</span>
-            <Link href="/articoli" className="hover:opacity-80">
+            <span aria-hidden="true">/</span>
+            <Link href="/articoli" className="hover:text-accent">
               Articoli
             </Link>
             {primaryCategory && (
               <>
-                <span>/</span>
-                <Link href={`/categoria/${primaryCategory.slug}`} className="hover:opacity-80">
+                <span aria-hidden="true">/</span>
+                <Link href={`/categoria/${primaryCategory.slug}`} className="hover:text-accent">
                   {primaryCategory.name}
                 </Link>
               </>
             )}
           </nav>
 
-          {/* Categories */}
           {article.categories && article.categories.length > 0 && (
-            <div className="mb-4 flex flex-wrap gap-2 sm:mb-2">
+            <div className="mb-4 flex flex-wrap gap-2">
               {article.categories.map((cat) => (
                 <CategoryTag key={cat.id} category={cat} />
               ))}
             </div>
           )}
+        </div>
 
-          {/* Title */}
+        <div className="article-title-wrap">
           <h1
-            className="mb-6 text-h1 leading-tight md:mb-4 md:text-h3 sm:mb-3 sm:text-[1.75rem] sm:leading-[1.2]"
-            style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
+            className="article-title text-primary"
+            style={{
+              ['--title-scale' as string]: String(Math.min(2.2, 78 / article.title.length)),
+            }}
           >
             {article.title}
           </h1>
+        </div>
 
-          {/* Excerpt */}
+        <div className="article-column mt-5">
           {article.excerpt && (
-            <p className="mb-6 max-w-2xl text-md leading-relaxed text-primary opacity-70 md:mb-4 sm:mb-3 sm:text-base">
-              {article.excerpt}
-            </p>
+            <p className="mb-5 text-[18px] leading-relaxed text-muted">{article.excerpt}</p>
           )}
 
-          {/* Meta */}
-          <div className="flex flex-wrap items-center gap-6 border-t border-border pt-6 md:pt-4 sm:pt-3">
+          <div className="flex flex-wrap items-center gap-x-5 gap-y-2">
             {article.authors && article.authors.length > 0 && (
               <div className="flex items-center gap-4">
                 {article.authors.map((author) => (
@@ -162,12 +159,12 @@ export default async function ArticleDetailPage({ params }: Props) {
               </div>
             )}
             {publishDate && (
-              <time dateTime={article.publishedAt} className="text-sm text-primary opacity-60">
+              <time dateTime={article.publishedAt} className="text-[13px] text-muted">
                 {publishDate}
               </time>
             )}
             {updatedDate && (
-              <time dateTime={article.updatedAt} className="text-sm text-primary opacity-60">
+              <time dateTime={article.updatedAt} className="text-[13px] text-muted">
                 Aggiornato il {updatedDate}
               </time>
             )}
@@ -175,9 +172,8 @@ export default async function ArticleDetailPage({ params }: Props) {
         </div>
       </header>
 
-      {/* Featured image */}
       {article.featuredImage && (
-        <div className="relative h-[30rem] w-full bg-surface-subtle md:aspect-video md:h-auto">
+        <div className="relative mx-auto aspect-[2/1] w-full max-w-[1100px] bg-surface-subtle md:aspect-video">
           <Image
             src={imageUrl}
             alt={article.featuredImage.alt ?? article.title}
@@ -189,10 +185,12 @@ export default async function ArticleDetailPage({ params }: Props) {
         </div>
       )}
 
-      {/* Article body */}
-      <article className="container-md padding-global section-md">
-        <div className="article-body flex max-w-none flex-col gap-5 text-base leading-relaxed text-primary">
-          <LexicalContent content={article.content} />
+      <article className="article-column section-md">
+        <div className="article-body flex flex-col gap-5 text-primary">
+          <LexicalContent
+            content={article.content}
+            omitFromHeading={article.faq?.length ? 'Domande corte' : undefined}
+          />
         </div>
         {article.sources && article.sources.length > 0 ? (
           <ArticleSources sources={article.sources} />
@@ -201,10 +199,8 @@ export default async function ArticleDetailPage({ params }: Props) {
         <ArticleCommunity />
       </article>
 
-      {/* Author bios */}
       {article.authors && article.authors.length > 0 && (
-        <div className="container-md padding-global pb-12">
-          <h2 className="text-meta mb-4 text-primary opacity-50">Autore</h2>
+        <div className="article-column pb-12">
           <div className="flex flex-col gap-4">
             {article.authors.map((author) => (
               <AuthorBio key={author.id} author={author} variant="full" />
@@ -213,23 +209,19 @@ export default async function ArticleDetailPage({ params }: Props) {
         </div>
       )}
 
-      {/* Related articles */}
       {filteredRelated.length > 0 && (
-        <section className="section-md border-t border-border" aria-label="Articoli correlati">
-          <div className="container-lg padding-global">
-            <h2 className="mb-8 text-h3" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
-              Articoli correlati
-            </h2>
-            <div className="grid grid-cols-3 gap-4 lg:grid-cols-2 sm:grid-cols-1">
+        <section className="section-md bg-surface-subtle" aria-label="Articoli correlati">
+          <div className="container-md padding-global">
+            <h2 className="mb-6 text-h4">Articoli correlati</h2>
+            <div className="flex flex-col gap-6">
               {filteredRelated.map((a) => (
-                <ArticleCard key={a.id} article={a} variant="grid" />
+                <ArticleCard key={a.id} article={a} />
               ))}
             </div>
           </div>
         </section>
       )}
 
-      {/* Newsletter */}
       <NewsletterBanner />
     </main>
   )

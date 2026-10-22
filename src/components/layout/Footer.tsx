@@ -101,11 +101,10 @@ export function Footer() {
   return (
     <footer aria-label="Piè di pagina">
       {/* Upper footer */}
-      <div className="border-t border-border bg-surface-subtle">
-        <div className="container-lg padding-global py-16 md:py-12 sm:py-10">
-          <div className="grid grid-cols-[0.5fr_1fr] gap-12 lg:grid-cols-1">
-            {/* Brand column */}
-            <div className="flex flex-col gap-6">
+      <div className="bg-surface-subtle">
+        <div className="container-lg padding-global py-10 md:py-8 sm:py-6">
+          <div className="grid grid-cols-[0.7fr_1.3fr] gap-10 lg:grid-cols-1 lg:gap-6">
+            <div className="flex flex-col gap-4 sm:gap-3">
               <Link href="/" aria-label="Torna alla homepage">
                 <Image
                   src={ORGANIZATION_LOGO_PATH}
@@ -115,11 +114,8 @@ export function Footer() {
                   className="h-6 w-auto"
                 />
               </Link>
-              <p className="max-w-xs text-sm leading-relaxed text-primary opacity-70">
-                {SITE_TAGLINE}
-              </p>
-              {/* Social icons */}
-              <div className="flex gap-4">
+              <p className="max-w-xs text-base leading-relaxed text-muted">{SITE_TAGLINE}</p>
+              <div className="flex gap-1">
                 {socialLinks.map((s) => (
                   <a
                     key={s.label}
@@ -127,7 +123,7 @@ export function Footer() {
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label={s.label}
-                    className="-m-2 p-2 text-primary transition-colors transition-transform duration-200 hover:-translate-y-1 hover:text-cta-blue-hover"
+                    className="-m-1 p-2 text-primary transition-colors hover:text-accent"
                   >
                     {s.icon}
                   </a>
@@ -135,51 +131,45 @@ export function Footer() {
               </div>
             </div>
 
-            {/* Links columns */}
-            <div className="grid grid-cols-[0.75fr_1fr] gap-8 sm:grid-cols-1">
-              <div className="grid grid-cols-2 gap-8 sm:grid-cols-1">
-                {/* Contenuti */}
-                <div>
-                  <h3 className="text-meta-small mb-4 text-primary">Contenuti</h3>
-                  <ul className="flex flex-col gap-2.5">
-                    {footerLinks.contenuti.map((l) => (
-                      <li key={l.href}>
-                        <Link
-                          href={l.href}
-                          className="inline-block py-2 text-base font-medium text-primary underline transition-colors hover:text-cta-blue-hover"
-                        >
-                          {l.label}
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-                {/* Azienda */}
-                <div>
-                  <h3 className="text-meta-small mb-4 text-primary">Azienda</h3>
-                  <ul className="flex flex-col gap-2.5">
-                    {footerLinks.azienda.map((l) => (
-                      <li key={l.href}>
-                        <Link
-                          href={l.href}
-                          className="inline-block py-2 text-base font-medium text-primary underline transition-colors hover:text-cta-blue-hover"
-                        >
-                          {l.label}
-                        </Link>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              </div>
-              {/* Legale */}
+            <div className="grid grid-cols-3 gap-6 sm:gap-4">
               <div>
-                <h3 className="text-meta-small mb-4 text-primary">Legale</h3>
-                <ul className="flex flex-col gap-2.5">
+                <h3 className="mb-2 text-base font-semibold">Contenuti</h3>
+                <ul className="flex flex-col">
+                  {footerLinks.contenuti.map((l) => (
+                    <li key={l.href}>
+                      <Link
+                        href={l.href}
+                        className="inline-block py-1 text-base text-muted hover:text-accent"
+                      >
+                        {l.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <h3 className="mb-2 text-base font-semibold">Azienda</h3>
+                <ul className="flex flex-col">
+                  {footerLinks.azienda.map((l) => (
+                    <li key={l.href}>
+                      <Link
+                        href={l.href}
+                        className="inline-block py-1 text-base text-muted hover:text-accent"
+                      >
+                        {l.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div>
+                <h3 className="mb-2 text-base font-semibold">Legale</h3>
+                <ul className="flex flex-col">
                   {footerLinks.legale.map((l) => (
                     <li key={l.href}>
                       <Link
                         href={l.href}
-                        className="inline-block py-2 text-base font-medium text-primary underline transition-colors hover:text-cta-blue-hover"
+                        className="inline-block py-1 text-base text-muted hover:text-accent"
                       >
                         {l.label}
                       </Link>
@@ -194,12 +184,12 @@ export function Footer() {
 
       {/* Footer bar */}
       <div className="bg-primary">
-        <div className="container-lg padding-global py-8">
-          <div className="flex items-center justify-between sm:flex-col sm:gap-3 sm:text-center">
-            <p className="text-sm text-white opacity-70">
+        <div className="container-lg padding-global py-5 sm:py-4">
+          <div className="flex items-center justify-between sm:flex-col sm:gap-2 sm:text-center">
+            <p className="text-[13px] text-white/85">
               © {new Date().getFullYear()} benessere.digital. Tutti i diritti riservati.
             </p>
-            <p className="flex items-center gap-2 text-sm text-white opacity-50 sm:justify-center">
+            <p className="flex items-center gap-2 text-[13px] text-white/80 sm:justify-center">
               Un progetto{' '}
               <a
                 href="https://jigo.it"

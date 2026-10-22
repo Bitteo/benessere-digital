@@ -2,7 +2,7 @@ const faqs = [
   {
     question: "Cos'è il benessere digitale e perché è importante?",
     answer:
-      "Il benessere digitale si riferisce a un utilizzo equilibrato e consapevole della tecnologia, finalizzato a migliorare la qualità della vita senza compromettere la salute mentale e fisica. È importante perché un uso eccessivo o disorganizzato dei dispositivi digitali può portare a stress, ansia, problemi di sonno e diminuzione della produttività. Trovare un equilibrio digitale aiuta a migliorare il benessere generale e a mantenere un rapporto sano con la tecnologia.",
+      'Il benessere digitale si riferisce a un utilizzo equilibrato e consapevole della tecnologia, finalizzato a migliorare la qualità della vita senza compromettere la salute mentale e fisica. È importante perché un uso eccessivo o disorganizzato dei dispositivi digitali può portare a stress, ansia, problemi di sonno e diminuzione della produttività. Trovare un equilibrio digitale aiuta a migliorare il benessere generale e a mantenere un rapporto sano con la tecnologia.',
   },
   {
     question: 'Cosa significa fare un digital detox?',
@@ -15,7 +15,8 @@ const faqs = [
       "I principali segnali di una dipendenza da tecnologia includono l'incapacità di limitare il tempo passato online, ansia o irritabilità quando non si può accedere a dispositivi digitali, trascurare le relazioni personali e le attività quotidiane, e difficoltà a dormire a causa dell'uso eccessivo dello schermo. Riconoscere questi segnali è fondamentale per intraprendere azioni volte a migliorare il benessere digitale.",
   },
   {
-    question: 'Come posso migliorare il mio benessere digitale senza rinunciare completamente alla tecnologia?',
+    question:
+      'Come posso migliorare il mio benessere digitale senza rinunciare completamente alla tecnologia?',
     answer:
       "Per migliorare il benessere digitale senza abbandonare completamente la tecnologia, si possono adottare abitudini come usare app per il monitoraggio del tempo online, impostare delle pause digitali regolari, fare esercizi di mindfulness, e limitare l'uso dei social media. È utile anche definire orari specifici per controllare le email e dedicare del tempo per attività che non coinvolgono dispositivi digitali.",
   },
@@ -28,21 +29,21 @@ const faqs = [
 
 export function FaqSection() {
   return (
-    <section id="faq" className="section-md border-b border-border scroll-mt-24">
+    <section id="faq" className="section-md scroll-mt-24 bg-white">
       <div className="container-md padding-global">
-        <h2 className="text-h2 sm:text-h3 mb-8" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
+        <h2 className="mb-6 text-h3 sm:text-h4">
           Domande <span className="text-pixel">frequenti</span>
         </h2>
-        <div className="flex flex-col divide-y divide-border border-y border-border">
+        <div className="flex flex-col gap-2">
           {faqs.map((item) => (
-            <details key={item.question} className="group py-5">
-              <summary className="cursor-pointer list-none flex items-start justify-between gap-4 font-semibold text-primary">
+            <details key={item.question} className="group py-3">
+              <summary className="flex cursor-pointer list-none items-start justify-between gap-4 text-base font-semibold text-primary">
                 <span>{item.question}</span>
-                <span className="text-cta-blue group-open:rotate-45 transition-transform" aria-hidden>
+                <span className="text-accent transition-transform group-open:rotate-45" aria-hidden>
                   +
                 </span>
               </summary>
-              <p className="mt-3 text-base text-primary opacity-70 leading-relaxed">{item.answer}</p>
+              <p className="mt-3 text-base leading-relaxed text-muted">{item.answer}</p>
             </details>
           ))}
         </div>

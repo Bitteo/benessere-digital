@@ -6,18 +6,12 @@ type Props = {
   children: ReactNode
 }
 
-export function SimplePage({ kicker, title, children }: Props) {
+export function SimplePage({ title, children }: Props) {
   return (
     <main>
       <article className="container-md padding-global section-md">
-        {kicker && <p className="text-meta text-primary opacity-50 mb-3">{kicker}</p>}
-        <h1
-          className="text-h1 sm:text-h2 mb-8 leading-tight"
-          style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-        >
-          {title}
-        </h1>
-        <div className="flex flex-col gap-5 text-base text-primary opacity-80 leading-relaxed max-w-2xl">
+        <h1 className="mb-8 text-h2 leading-tight sm:text-h3">{title}</h1>
+        <div className="flex max-w-2xl flex-col gap-5 text-base leading-relaxed text-primary">
           {children}
         </div>
       </article>
