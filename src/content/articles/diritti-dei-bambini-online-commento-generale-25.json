@@ -12,11 +12,11 @@
     "genitori-e-scuola",
     "benessere-digitale"
   ],
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Diritti dei bambini online: il Commento generale n. 25",
     "metaDescription": "Il Commento generale n. 25 (2021) del Comitato ONU sui diritti dell’infanzia per genitori e docenti: principi, privacy, controllo parentale, gioco, scuola.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {

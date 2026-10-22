@@ -35,6 +35,9 @@ import parentalControlConsole from './articles/parental-control-console-switch-p
 import telefonoATavolaFeste from './articles/telefono-a-tavola-feste-phubbing.json'
 import filmSerieFamigliaVacanze from './articles/film-e-serie-in-famiglia-vacanze-eta-profili-autoplay.json'
 import nonniNipotiCompetenze from './articles/nonni-e-nipoti-competenze-digitali-feste.json'
+import smartwatchGpsBambini from './articles/smartwatch-gps-bambini-privacy-e-alternative.json'
+import etaMinimaSocialAustralia from './articles/eta-minima-social-australia-under-16.json'
+import sfideVirali from './articles/sfide-virali-parlarne-senza-amplificarle.json'
 
 export const articles = [
   brainRot,
@@ -73,4 +76,7 @@ export const articles = [
   telefonoATavolaFeste,
   filmSerieFamigliaVacanze,
   nonniNipotiCompetenze,
+  smartwatchGpsBambini,
+  etaMinimaSocialAustralia,
+  sfideVirali,
 ] as ArticleSource[]

@@ -12,11 +12,11 @@
     "app-e-strumenti",
     "genitori-e-scuola"
   ],
-  "status": "draft",
+  "status": "published",
   "seo": {
     "metaTitle": "Parental control console: Switch, PS5 e Xbox",
     "metaDescription": "Limiti di tempo, chat, amici ed eccezioni su Nintendo Switch 2, PS5 e Xbox, dalle pagine ufficiali Nintendo, PlayStation e Microsoft. Da impostare prima del 25.",
-    "noIndex": true
+    "noIndex": false
   },
   "sources": [
     {

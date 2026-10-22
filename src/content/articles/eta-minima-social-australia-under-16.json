@@ -1,0 +1,516 @@
+{
+  "slug": "eta-minima-social-australia-under-16",
+  "title": "Età minima sui social in Australia: che cosa è in vigore, e che cosa non sappiamo",
+  "excerpt": "Dal 10 dicembre 2025 le piattaforme australiane devono impedire gli account under 16. Che cosa ha pubblicato eSafety, che cosa ha chiesto il Parlamento europeo, e che cosa fa davvero l’AGCOM in Italia.",
+  "cover": "/images/covers/eta-minima-social-australia-under-16.png",
+  "coverAlt": "Illustrazione a linee: un ragazzo e un adulto, un telefono posato a faccia in giù e un varco chiuso senza scritte; accenti corallo su fondo chiaro.",
+  "publishedAt": "2026-12-07T09:00:00.000+01:00",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "social-media",
+    "genitori-e-scuola"
+  ],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Social under 16 in Australia: fatti e limiti delle prove",
+    "metaDescription": "La legge australiana sull’età minima dei social dal 10 dicembre 2025: dati eSafety, risoluzione del Parlamento europeo e verifica dell’età dell’AGCOM. Sugli effetti di lungo periodo non c’è ancora una prova.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "eSafety Commissioner — Social media age restrictions",
+      "url": "https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions",
+      "note": "Pagina aperta il 22 ottobre 2026. Obbligo in vigore dal 10 dicembre 2025: misure ragionevoli per impedire agli australiani under 16 di creare o tenere un account. Non è una sanzione per i ragazzi o i genitori. eSafety considera age-restricted, tra le altre e con lista che può cambiare: Facebook, Instagram, Snapchat, Threads, TikTok, Twitch, X, YouTube, Kick e Reddit. Giochi online e app di messaggistica autonoma sono tra i servizi esclusi dalle Rules del luglio 2025, modificate nel marzo 2026. Sanzione civile indicata sulla pagina: fino a 300.000 penalty unit per le società, equivalenti all’epoca a 109,2 milioni di dollari australiani. Revisione indipendente da avviare entro due anni dal 10 dicembre 2025. Il 10 settembre 2026 il Parlamento ha approvato l’Online Safety Amendment (Strengthening Enforcement for the Social Media Minimum Age) Bill 2026: più poteri di acquisizione, anche verso fornitori di age assurance e store, poteri di esame delle persone, e aumento del tetto delle sanzioni."
+    },
+    {
+      "title": "Online Safety Amendment (Social Media Minimum Age) Act 2024, n. 127",
+      "url": "https://www.legislation.gov.au/C2024A00127/asmade/2024-12-10/text/original/pdf",
+      "note": "Assenso reale il 10 dicembre 2024. L’intera legge entra in vigore il giorno dopo, l’11 dicembre 2024. Age-restricted user: bambino australiano che non ha compiuto 16 anni. Sezione 63D: il fornitore deve prendere misure ragionevoli per impedire che questi utenti abbiano un account. Sanzione civile nel testo originario: 30.000 penalty unit. Sezione 63E: la 63D ha effetto in un giorno fissato dal ministro con strumento, non oltre 12 mesi dall’entrata in vigore della sezione. Sezione 63DB: per adempiere non si raccolgono documenti di identità emessi dal governo né si usa un servizio accreditato dal Digital ID Act 2024, salvo mezzi alternativi ragionevoli. Entro due anni dal giorno di effetto della 63D il ministro deve far svolgere una revisione indipendente."
+    },
+    {
+      "title": "Online Safety (Day of Effect of Social Media Minimum Age) Instrument 2025",
+      "url": "https://www.legislation.gov.au/F2025N00628/asmade/2025-07-30/text/original/epub/OEBPS/document_1/document_1.html",
+      "note": "Anika Wells, ministra delle Comunicazioni, 29 luglio 2025, in base alla sezione 63E(2) dell’Online Safety Act 2021: fissa al 10 dicembre 2025 il giorno in cui la sezione 63D ha effetto."
+    },
+    {
+      "title": "eSafety — Social Media Minimum Age: Compliance Update, marzo 2026 (PDF)",
+      "url": "https://www.esafety.gov.au/sites/default/files/2026-03/SocialMediaMinimumAgeComplianceUpdateMarch2026.pdf",
+      "note": "Primi tre mesi. Dieci piattaforme nel fuoco dell’attività: Facebook, Instagram, Kick, Reddit, Snapchat, Threads, TikTok, Twitch, X e YouTube. Circa 4,7 milioni di account rimossi o limitati a metà dicembre 2025, cifra delle piattaforme raccolta con avvisi obbligatori e pubblicata il 16 gennaio 2026: sono account, non persone. A marzo 2026, più di 300.000 account ulteriori impediti nell’accesso, tra account preesistenti non visti subito e tentativi nuovi. 23 avvisi a 10 piattaforme. Indagini su Facebook, Instagram, Snapchat, TikTok e YouTube, con l’obiettivo di decidere su eventuali azioni entro la metà del 2026. Nel testo del rapporto la sanzione civile giudiziaria è indicata fino a 49,5 milioni di dollari. eSafety scrive che la presenza residua di under 16 non basta, da sola, a provare l’assenza di misure ragionevoli. Tra i genitori che dichiaravano un account del figlio prima del 10 dicembre 2025, circa 7 su 10 dicevano che l’account c’era ancora su Facebook (63,6%), Instagram (69,1%), Snapchat (69,4%) e TikTok (69,3%); su YouTube la quota era 48,5%."
+    },
+    {
+      "title": "eSafety — Early days, early insights: Understanding experiences of social media age restrictions at the three-month follow-up (PDF)",
+      "url": "https://www.esafety.gov.au/sites/default/files/2026-08/Early-days-Early-Insights-SMMA-Evaluation-Understanding-experiences-of-social-media-age-restrictions-August2026.pdf",
+      "note": "Primo rapporto della valutazione con lo Stanford Social Media Lab. Baseline novembre-dicembre 2025: 4.121 ragazzi di 10-16 anni e un genitore. Follow-up a tre mesi, marzo-aprile 2026: sottoinsieme di 1.021. Analisi limitata ai 10-15 anni presenti in entrambe le onde. Account su almeno una piattaforma soggetta: dal 52,4% al 42,1%, calo statisticamente significativo. Motivo principale, tra chi aveva ancora un account, di non essere stati ancora invitati a confermare l’età: 50,2%. Stima di età errata: 18,2%. La maggior parte riferiva poco o nessun cambiamento su attività offline, comportamenti associati a un uso problematico e benessere. Il 65,4% riteneva che le restrizioni non avessero avuto impatto su di sé. Sostegno dei genitori almeno in parte: 68,6% alla baseline, 68,1% a tre mesi. Il rapporto scrive che non è una valutazione di conformità delle piattaforme e che a tre mesi non è ancora possibile dire se gli esiti attesi potranno realizzarsi. La pagina eSafety data il rapporto al 31 luglio 2026."
+    },
+    {
+      "title": "Parlamento europeo — Minori e social media: il PE chiede di fissare l’età minima a 16 anni",
+      "url": "https://www.europarl.europa.eu/news/it/press-room/20251120IPR31496/minori-e-social-media-il-pe-chiede-di-fissare-l-eta-minima-a-16-anni",
+      "note": "Comunicato del 26 novembre 2025. Risoluzione non vincolante approvata con 483 voti favorevoli, 92 contrari e 86 astensioni. Età minima armonizzata di 16 anni per social, piattaforme di condivisione video e compagni di IA, con accesso dai 13 ai 16 anni con il consenso dei genitori. I sistemi di verifica dell’età devono essere accurati e rispettare la privacy, e non sollevano le piattaforme dal dovere di prodotti sicuri by design. Nel contesto il comunicato scrive che il 97% dei giovani usa Internet ogni giorno, che il 78% dei minori tra 13 e 17 anni controlla i dispositivi almeno una volta l’ora, e che un minore su quattro fa un uso «problematico» o «disfunzionale» dello smartphone. Eurobarometro 2025, citato nello stesso comunicato: oltre il 90% degli europei ritiene urgente proteggere i minori online; 93% per l’impatto dei social sulla salute mentale, 92% per il bullismo online, 92% per strumenti contro i contenuti non adatti all’età."
+    },
+    {
+      "title": "Commissione europea — The Commission, Australia’s eSafety Commissioner, and UK’s Ofcom share insights on age assurance measures",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-australias-esafety-commissioner-and-uks-ofcom-share-insights-age-assurance-measures",
+      "note": "Notizia del 3 febbraio 2026. Primo incontro del gruppo di cooperazione dopo la comunicazione congiunta del novembre 2025. eSafety ha riferito dell’applicazione australiana e della rimozione dell’accesso a circa 4,7 milioni di account under 16. Commissione e Ofcom hanno illustrato il proprio lavoro sulla verifica dell’età. Scambi previsti per tutto il 2026. La notizia non adotta una legge europea sull’età minima."
+    },
+    {
+      "title": "AGCOM — La tutela dei minori mediante i sistemi di age verification",
+      "url": "https://www.agcom.it/competenze/consumatori/interventi-regolamentari-tutela-degli-utenti-finali-attuazione-del-nuovo/tutela-minori-age-verification",
+      "note": "Articolo 13-bis del decreto-legge 123/2023, convertito dalla legge 159/2023 (decreto Caivano): divieto di accesso dei minori a contenuti pornografici e obbligo, per siti e piattaforme di video sharing che li diffondono in Italia, di verificare la maggiore età. Delibera 96/25/CONS dell’8 aprile 2025: prova dell’età tramite terzi certificati, identificazione e autenticazione separate, doppio anonimato. Obbligo dal 12 novembre 2025 per i gestori stabiliti in Italia o fuori dall’Unione europea; dal 1° febbraio 2026 per quelli stabiliti in un altro Stato membro. Non è una regola sull’età minima dei social."
+    }
+  ],
+  "faq": [
+    {
+      "question": "I ragazzi australiani under 16 prendono una multa se aprono un account?",
+      "answer": "No. La pagina eSafety dice che non è un divieto per le persone: non ci sono sanzioni per gli under 16 che accedono a una piattaforma soggetta, né per i genitori. L’obbligo, e l’eventuale sanzione civile, è del fornitore che non adotta misure ragionevoli per impedire gli account."
+    },
+    {
+      "question": "4,7 milioni è il numero di ragazzi usciti dai social?",
+      "answer": "No. eSafety, nel rapporto di conformità del marzo 2026, scrive che circa 4,7 milioni è il numero di account rimossi o limitati a metà dicembre 2025, comunicato dalle piattaforme, non il numero di persone. Una persona può avere più account. Lo stesso rapporto aggiunge che, in base agli avvisi di marzo 2026, più di 300.000 account ulteriori sono stati impediti nell’accesso dopo quella cifra. Nemmeno questo numero, scrive eSafety, dimostra da solo che le misure siano state ragionevoli."
+    },
+    {
+      "question": "Si sa già se la legge ha migliorato il benessere?",
+      "answer": "No, non da queste fonti. Il rapporto eSafety sui primi tre mesi, con dati raccolti tra marzo e aprile 2026 su un sottoinsieme di circa 1.021 ragazzi e un genitore, trova un calo degli account dal 52,4% al 42,1% tra i 10 e i 15 anni, e insieme scrive che la maggior parte dei ragazzi riferiva poco o nessun cambiamento su attività offline, comportamenti d’uso problematico e benessere. Il 65,4% riteneva che le restrizioni non avessero avuto un impatto su di sé. Gli autori scrivono che a tre mesi non è ancora possibile valutare se gli esiti attesi potranno realizzarsi. Non è uno studio sugli effetti di lungo periodo."
+    },
+    {
+      "question": "In Italia l’AGCOM ha già fissato i 16 anni per i social?",
+      "answer": "No, non nella pagina aperta qui. La delibera 96/25/CONS dell’8 aprile 2025 riguarda la verifica della maggiore età, quindi i 18 anni, per siti e piattaforme di video sharing che diffondono in Italia immagini e video pornografici. L’obbligo decorre dal 12 novembre 2025 per i gestori stabiliti in Italia o fuori dall’Unione europea, e dal 1° febbraio 2026 per quelli stabiliti in un altro Stato membro. Il Parlamento europeo, il 26 novembre 2025, ha chiesto con una risoluzione non vincolante un’età minima di 16 anni per social, piattaforme di video e compagni di IA, con possibile consenso dei genitori tra i 13 e i 16. Non è una legge europea in vigore."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lunedì 7 dicembre 2026. Da quasi un anno, in Australia, certe piattaforme devono impedire gli account a chi non ha 16 anni. In Europa se ne parla come di un modello, o come di un divieto. Le pagine ufficiali aperte per questo pezzo dicono una cosa più stretta: un obbligo per le piattaforme, pochi numeri sull’applicazione, e nessuna prova, a tre mesi, che il benessere dei ragazzi sia già cambiato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È per ragazzi, genitori e docenti. I fatti sono quelli di eSafety, del governo australiano, del Parlamento europeo, della Commissione e dell’AGCOM. Dove una cifra non c’è, non viene inventata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è un divieto per i ragazzi",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La legge è l’Online Safety Amendment (Social Media Minimum Age) Act 2024, n. 127. Ha ricevuto l’assenso reale il 10 dicembre 2024 ed è entrata in vigore il giorno dopo. L’utente soggetto al limite, nel testo, è un bambino australiano che non ha compiuto 16 anni. La sezione 63D obbliga il fornitore di una piattaforma social «age-restricted» a prendere misure ragionevoli per impedire che questi utenti abbiano un account. Nel testo del 2024 la sanzione civile è di 30.000 penalty unit.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’obbligo non è scattato con l’assenso. La sezione 63E rimanda il giorno a uno strumento del ministro, non oltre 12 mesi. Il 29 luglio 2025 la ministra Anika Wells ha fissato quel giorno al 10 dicembre 2025. Da allora la regola vale anche per gli account già aperti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "eSafety, sulla pagina delle restrizioni, scrive la frase che i titoli spesso perdono: non è un ban, è un rinvio degli account. Non ci sono sanzioni per gli under 16 che entrano, né per i genitori. La sanzione, se un tribunale ritiene che il fornitore non abbia preso misure ragionevoli, è della piattaforma. Sulla stessa pagina, dopo la legge di rafforzamento approvata il 10 settembre 2026, il tetto indicato è di 300.000 penalty unit per le società, equivalenti a 109,2 milioni di dollari australiani. Nel rapporto di conformità del marzo 2026, scritto prima di quella legge, eSafety indicava sanzioni giudiziarie fino a 49,5 milioni. Sono le cifre delle due fonti, in due momenti. Questo pezzo non ricalcola il valore di una penalty unit.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il testo del 2024 limita anche come si verifica l’età. Per adempiere alla 63D la piattaforma non raccoglie documenti di identità emessi dallo Stato e non usa un servizio accreditato dal Digital ID Act, a meno che offra anche un mezzo alternativo ragionevole. I dati personali raccolti per questo scopo, se usati per altro, sono un’interferenza nella privacy ai sensi del Privacy Act. La pagina eSafety aggiunge che il ministro può vietare, con regole, certi tipi di informazione, sentiti eSafety e l’Information Commissioner.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa è successo dal 10 dicembre 2025",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È opinione di eSafety che, tra le altre, siano piattaforme soggette Facebook, Instagram, Snapchat, Threads, TikTok, Twitch, X, YouTube, Kick e Reddit. La lista può cambiare. Le Rules del ministro, di luglio 2025 e modificate il 25 marzo 2026, escludono tra gli altri i giochi online e le app di messaggistica autonome. Una messaggistica con funzioni da social può invece rientrare. Il 25 marzo 2026 eSafety ha ricontrollato le dieci piattaforme già indicate: la valutazione non è cambiata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il criterio, sulla pagina, non è il marchio. Il servizio ha come scopo unico o significativo l’interazione sociale online, permette di collegarsi e di pubblicare materiale, ha una funzione di raccomandazione o una funzione che richiede l’accesso, e il materiale arriva a utenti in Australia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il rapporto di marzo 2026 racconta i primi tre mesi su quelle dieci piattaforme. I primi avvisi obbligatori sono del 11 dicembre 2025. Il 16 gennaio 2026 eSafety ha detto che, a metà dicembre, le piattaforme avevano rimosso o limitato circa 4,7 milioni di account. La cifra arriva dalle piattaforme. eSafety precisa che sono account, non persone: chi ne ha più di uno conta più volte, e alcuni account potevano essere inattivi. A marzo 2026, altri avvisi indicavano più di 300.000 account ulteriori a cui era stato impedito l’accesso, tra vecchi account non visti subito e tentativi di account nuovi. eSafety scrive che questi numeri non dimostrano, da soli, che le misure siano state ragionevoli. Contano i sistemi, non il singolo account.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nello stesso rapporto eSafety aveva in corso indagini su Facebook, Instagram, Snapchat, TikTok e YouTube, e puntava a decidere su eventuali azioni entro la metà del 2026. Aveva emesso 23 avvisi a dieci piattaforme. Scriveva anche che un numero ancora alto di under 16 era sui social, e che la sola presenza di alcuni account non prova la violazione: bisogna dimostrare che mancano sistemi e processi adeguati. Nelle pagine aperte per questo pezzo non risulta una sanzione giudiziaria già irrogata. Il 10 settembre 2026, secondo la cronologia di eSafety, il Parlamento ha invece ampliato i poteri di indagine, anche verso chi fa age assurance e verso gli store, e ha alzato il tetto delle sanzioni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un altro dato del rapporto di marzo, diverso dal sondaggio di valutazione: tra i genitori che dicevano che il figlio aveva un account prima del 10 dicembre 2025, circa sette su dieci dicevano che l’account c’era ancora su Facebook (63,6%), Instagram (69,1%), Snapchat (69,4%) e TikTok (69,3%). Su YouTube la quota di chi diceva che l’account c’era ancora era del 48,5%. È un campione di genitori che dichiaravano un account precedente, non di tutti i ragazzi australiani.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I numeri, e che cosa non misurano",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il primo rapporto di valutazione, «Early days, early insights», è datato dalla pagina eSafety al 31 luglio 2026. I dati di baseline sono di novembre e dicembre 2025: 4.121 ragazzi tra 10 e 16 anni e un genitore, campione descritto come rappresentativo a livello nazionale. A tre mesi, tra marzo e aprile 2026, è stato rintervistato un sottoinsieme di 1.021. I confronti usano chi ha risposto entrambe le volte, e solo i 10-15 anni. Non è un censimento.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La quota di 10-15enni con almeno un account su una piattaforma soggetta è passata dal 52,4% al 42,1%. eSafety definisce il calo statisticamente significativo. Molti di quelli che avevano un account alla baseline lo avevano ancora. Il motivo principale, nel 50,2% dei casi, era che la piattaforma non aveva ancora chiesto di confermare l’età. Un altro 18,2% diceva che la piattaforma aveva stimato l’età in modo sbagliato. Il rapporto parla di segnali di aggiramento, senza farne la spiegazione principale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sugli effetti, la frase del rapporto è netta. A tre mesi non si chiedeva se la politica avesse raggiunto gli obiettivi di lungo periodo. Si guardava se stessero comparendo le condizioni: meno account, e poi meno tempo e meno esposizione a rischi. La maggior parte dei ragazzi riferiva poco o nessun cambiamento nelle attività offline, nei comportamenti associati a un uso problematico e nel benessere. Il 65,4% riteneva che le restrizioni non avessero avuto un impatto su di sé. Il sostegno dei genitori restava intorno ai due terzi: 68,6% alla baseline, 68,1% a tre mesi, almeno «in parte». Gli autori scrivono che non è ancora possibile valutare se gli esiti attesi potranno realizzarsi, perché le condizioni non ci sono ancora ed è presto. Il rapporto non è neppure un giudizio di conformità sulle piattaforme.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Entro due anni dal 10 dicembre 2025 il ministro deve avviare una revisione indipendente della legge. La valutazione di eSafety, con il gruppo accademico guidato da Stanford e nominato il 25 settembre 2025, è un percorso parallelo, previsto su più di due anni. Un calo di account a tre mesi non è, in queste pagine, la prova di un effetto sul benessere.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Europa: una risoluzione, non una legge",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 26 novembre 2025 il Parlamento europeo ha approvato una risoluzione non vincolante: 483 voti favorevoli, 92 contrari, 86 astensioni. Chiede un’età minima armonizzata di 16 anni per accedere a social, piattaforme di condivisione di video e compagni virtuali basati sull’IA, con la possibilità per i 13-16enni di accedere con il consenso dei genitori. È il punto in cui la proposta europea e la legge australiana non coincidono: in Australia, sulla pagina eSafety, il consenso dei genitori non è un’eccezione all’obbligo delle piattaforme.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il comunicato del Parlamento cita, come contesto, il 97% di giovani che usano Internet ogni giorno, il 78% dei 13-17enni che controllano il dispositivo almeno una volta l’ora, e un minore su quattro con un uso dello smartphone descritto come «problematico» o «disfunzionale». Cita l’Eurobarometro 2025: oltre il 90% degli europei ritiene urgente intervenire; il 93% per l’impatto negativo dei social sulla salute mentale, il 92% per il bullismo online, il 92% per strumenti che limitino i contenuti non adatti all’età. Sono le cifre del comunicato, non una misura australiana e non un dato italiano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I deputati accolgono il lavoro della Commissione su un’app europea di verifica dell’età e sul portafoglio di identità digitale, e scrivono che questi sistemi devono essere accurati, rispettare la privacy e non sostituire la responsabilità delle piattaforme. Chiedono anche di disattivare di default, per i minori, funzioni come lo scorrimento infinito e la riproduzione automatica. Niente di questo, nel comunicato, è già legge.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 3 febbraio 2026 la Commissione, eSafety e l’Ofcom britannico si sono incontrati nel gruppo sulla age assurance, il primo dopo la comunicazione congiunta del novembre 2025. eSafety ha riferito i circa 4,7 milioni di account. La notizia della Commissione dice che gli scambi continueranno nel 2026, anche sul ruolo dei dati e della ricerca indipendente. Non annuncia un regolamento europeo che copi la legge australiana.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Italia: l’AGCOM verifica un’altra età",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sulla pagina dell’AGCOM aperta per questo pezzo non c’è un’età minima di 16 anni per i social. C’è la verifica della maggiore età per i contenuti pornografici. L’articolo 13-bis del decreto-legge 123/2023, convertito dalla legge 159/2023, vieta ai minori l’accesso a quei contenuti e obbliga siti e piattaforme di video sharing che li diffondono in Italia a verificare che l’utente abbia 18 anni. La delibera 96/25/CONS, dell’8 aprile 2025, fissa il modo: un terzo certificato, identificazione e autenticazione separate a ogni sessione, doppio anonimato. Chi verifica l’età non sa per quale servizio; il sito non riceve i dati identificativi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per i gestori nell’elenco, l’obbligo parte il 12 novembre 2025 se sono stabiliti in Italia o fuori dall’Unione europea, e il 1° febbraio 2026 se sono stabiliti in un altro Stato membro. Se non si adeguano, l’AGCOM può arrivare al blocco del sito. È un’età, 18 anni, e un tipo di contenuto. Non è la regola australiana, e non dice che effetto abbia avuto quella regola sui ragazzi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Italia, intanto, l’età da cui un minore può acconsentire da solo al trattamento dei dati per un servizio offerto direttamente a lui resta un’altra norma, raccontata nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/primo-smartphone-eta-e-regole",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "primo smartphone",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Non va letta come se l’AGCOM avesse già scelto i 16 anni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I ragazzi australiani under 16 prendono una multa se aprono un account?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. La pagina eSafety dice che non è un divieto per le persone: non ci sono sanzioni per gli under 16 che accedono a una piattaforma soggetta, né per i genitori. L’obbligo, e l’eventuale sanzione civile, è del fornitore che non adotta misure ragionevoli per impedire gli account.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "4,7 milioni è il numero di ragazzi usciti dai social?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. eSafety, nel rapporto di conformità del marzo 2026, scrive che circa 4,7 milioni è il numero di account rimossi o limitati a metà dicembre 2025, comunicato dalle piattaforme, non il numero di persone. Una persona può avere più account. Lo stesso rapporto aggiunge che, in base agli avvisi di marzo 2026, più di 300.000 account ulteriori sono stati impediti nell’accesso dopo quella cifra. Nemmeno questo numero, scrive eSafety, dimostra da solo che le misure siano state ragionevoli.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si sa già se la legge ha migliorato il benessere?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No, non da queste fonti. Il rapporto eSafety sui primi tre mesi, con dati raccolti tra marzo e aprile 2026 su un sottoinsieme di circa 1.021 ragazzi e un genitore, trova un calo degli account dal 52,4% al 42,1% tra i 10 e i 15 anni, e insieme scrive che la maggior parte dei ragazzi riferiva poco o nessun cambiamento su attività offline, comportamenti d’uso problematico e benessere. Il 65,4% riteneva che le restrizioni non avessero avuto un impatto su di sé. Gli autori scrivono che a tre mesi non è ancora possibile valutare se gli esiti attesi potranno realizzarsi. Non è uno studio sugli effetti di lungo periodo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Italia l’AGCOM ha già fissato i 16 anni per i social?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No, non nella pagina aperta qui. La delibera 96/25/CONS dell’8 aprile 2025 riguarda la verifica della maggiore età, quindi i 18 anni, per siti e piattaforme di video sharing che diffondono in Italia immagini e video pornografici. L’obbligo decorre dal 12 novembre 2025 per i gestori stabiliti in Italia o fuori dall’Unione europea, e dal 1° febbraio 2026 per quelli stabiliti in un altro Stato membro. Il Parlamento europeo, il 26 novembre 2025, ha chiesto con una risoluzione non vincolante un’età minima di 16 anni per social, piattaforme di video e compagni di IA, con possibile consenso dei genitori tra i 13 e i 16. Non è una legge europea in vigore.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 9
+}
