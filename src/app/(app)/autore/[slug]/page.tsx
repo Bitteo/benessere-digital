@@ -36,18 +36,21 @@ export default async function AutorePage({ params }: Props) {
 
   return (
     <main>
-      <section className="section-md">
+      <section className="section-md border-b border-border">
         <div className="container-md padding-global">
+          <p className="text-meta text-primary opacity-50 mb-4">Autore</p>
           <AuthorBio author={author} variant="full" />
         </div>
       </section>
       {byAuthor.length > 0 && (
-        <section className="section-md bg-surface-subtle">
+        <section className="section-md">
           <div className="container-lg padding-global">
-            <h2 className="mb-6 text-h4">Articoli</h2>
-            <div className="flex max-w-3xl flex-col gap-6">
+            <h2 className="text-h3 mb-8" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
+              Articoli
+            </h2>
+            <div className="grid grid-cols-3 lg:grid-cols-2 sm:grid-cols-1 gap-4">
               {byAuthor.map((article) => (
-                <ArticleCard key={article.id} article={article} />
+                <ArticleCard key={article.id} article={article} variant="grid" />
               ))}
             </div>
           </div>
