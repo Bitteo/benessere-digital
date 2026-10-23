@@ -21,7 +21,7 @@ export function HeroSection() {
                 Il benessere <span className="text-pixel">digitale</span> inizia qui
               </h1>
             </div>
-            <p className="text-md leading-relaxed text-primary opacity-60">
+            <p className="text-md leading-relaxed text-primary opacity-75">
               Articoli, guide e risorse scientifiche sul benessere digitale per giovani, genitori ed
               educatori. Gestione del tempo sullo schermo, salute mentale online, sicurezza
               digitale.
