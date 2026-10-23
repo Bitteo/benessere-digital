@@ -23,12 +23,14 @@ export default function TerminiPage() {
       <p>
         Il sito può essere aggiornato, sospeso o modificato in qualsiasi momento. Per segnalazioni
         sui contenuti scrivi a{' '}
-        <a href="mailto:ciao@benessere.digital" className="underline hover:text-cta-blue">
+        <a href="mailto:ciao@benessere.digital" className="underline hover:text-accent">
           ciao@benessere.digital
         </a>
         .
       </p>
-      <p className="text-sm opacity-60">Ultimo aggiornamento: settembre 2026. Testo da validare legalmente prima del go-live.</p>
+      <p className="text-[13px] text-muted">
+        Ultimo aggiornamento: settembre 2026. Testo da validare legalmente prima del go-live.
+      </p>
     </SimplePage>
   )
 }

@@ -48,11 +48,11 @@ export default async function NewsletterUnsubscribePage({ searchParams }: Props)
     <SimplePage kicker="Newsletter" title={copy.title}>
       <p>{copy.body}</p>
       <p>
-        <Link href="/privacy" className="underline hover:text-cta-blue">
+        <Link href="/privacy" className="underline hover:text-accent">
           Informativa privacy
         </Link>
         {' · '}
-        <Link href="/newsletter" className="underline hover:text-cta-blue">
+        <Link href="/newsletter" className="underline hover:text-accent">
           Newsletter
         </Link>
       </p>

@@ -14,59 +14,41 @@ export function AuthorBio({ author, variant = 'card' }: Props) {
   if (variant === 'card') {
     return (
       <div className="flex items-center gap-3">
-        <div className="relative w-9 h-9 rounded overflow-hidden flex-shrink-0 bg-surface-subtle">
-          <Image
-            src={avatarUrl}
-            alt={author.name}
-            fill
-            className="object-cover"
-            sizes="36px"
-          />
+        <div className="relative h-9 w-9 flex-shrink-0 overflow-hidden rounded-full bg-surface-subtle">
+          <Image src={avatarUrl} alt="" fill className="object-cover" sizes="36px" />
         </div>
-        <div>
-          <Link
-            href={`/autore/${author.slug}`}
-            className="text-sm font-semibold text-primary hover:text-cta-blue transition-colors"
-          >
-            {author.name}
-          </Link>
-        </div>
+        <Link
+          href={`/autore/${author.slug}`}
+          className="text-base font-semibold text-primary hover:text-accent"
+        >
+          {author.name}
+        </Link>
       </div>
     )
   }
 
-  // Full variant — used in article detail
   return (
-    <div className="flex gap-5 p-6 border border-border rounded-xl bg-surface-subtle">
-      <div className="relative w-16 h-16 rounded overflow-hidden flex-shrink-0 bg-surface-hover">
-        <Image
-          src={avatarUrl}
-          alt={author.name}
-          fill
-          className="object-cover"
-          sizes="64px"
-        />
+    <div className="flex gap-5 bg-surface-subtle p-5">
+      <div className="relative h-16 w-16 flex-shrink-0 overflow-hidden rounded-full bg-surface-hover">
+        <Image src={avatarUrl} alt="" fill className="object-cover" sizes="64px" />
       </div>
       <div className="flex flex-col gap-1.5">
         <Link
           href={`/autore/${author.slug}`}
-          className="font-semibold text-primary hover:text-cta-blue transition-colors"
-          style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
+          className="text-lg font-semibold text-primary hover:text-accent"
         >
           {author.name}
         </Link>
-        {author.bio && (
-          <p className="text-sm text-primary opacity-70 leading-relaxed">{author.bio}</p>
-        )}
+        {author.bio && <p className="text-base leading-relaxed text-muted">{author.bio}</p>}
         {author.socialLinks && author.socialLinks.length > 0 && (
-          <div className="flex gap-3 mt-1">
+          <div className="mt-1 flex gap-3">
             {author.socialLinks.map((sl) => (
               <a
                 key={sl.url}
                 href={sl.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-xs text-cta-blue hover:underline capitalize"
+                className="text-[13px] font-semibold capitalize text-accent hover:text-accent-hover"
               >
                 {sl.platform}
               </a>

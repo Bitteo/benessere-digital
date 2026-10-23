@@ -6,7 +6,10 @@ export default function NotFound() {
       <div className="text-center">
         <h1 className="mb-2 text-4xl font-bold text-gray-900">404</h1>
         <p className="text-gray-600">Pagina non trovata.</p>
-        <Link href="/" className="mt-4 inline-block text-brand-600 underline hover:text-brand-700">
+        <Link
+          href="/"
+          className="mt-4 inline-block text-base text-accent underline hover:text-accent-hover"
+        >
           Torna alla homepage
         </Link>
       </div>

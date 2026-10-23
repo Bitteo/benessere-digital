@@ -11,6 +11,8 @@ type LexicalNode = {
 
 type Props = {
   content: unknown
+  /** Drops this heading and everything after it. Used to hide the in-body FAQ duplicate. */
+  omitFromHeading?: string
 }
 
 const BOLD = 1
@@ -77,15 +79,28 @@ function renderNode(node: LexicalNode, key: number): ReactNode {
   }
 }
 
-export function LexicalContent({ content }: Props) {
+function nodeText(node: LexicalNode): string {
+  if (typeof node.text === 'string') return node.text
+  return (node.children ?? []).map(nodeText).join('')
+}
+
+export function LexicalContent({ content, omitFromHeading }: Props) {
   const root =
     content && typeof content === 'object' && 'root' in content
       ? (content as { root?: LexicalNode }).root
       : null
 
   if (!root?.children?.length) {
-    return <p className="text-primary opacity-50 italic">Contenuto in fase di pubblicazione…</p>
+    return <p className="italic text-muted">Contenuto in fase di pubblicazione…</p>
   }
 
-  return <>{renderChildren(root.children)}</>
+  let children = root.children
+  if (omitFromHeading) {
+    const cut = children.findIndex(
+      (node) => node.type === 'heading' && nodeText(node).trim() === omitFromHeading,
+    )
+    if (cut >= 0) children = children.slice(0, cut)
+  }
+
+  return <>{renderChildren(children)}</>
 }

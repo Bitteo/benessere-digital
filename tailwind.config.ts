@@ -17,53 +17,51 @@ const config: Config = {
     },
     extend: {
       colors: {
-        // Core brand
         primary: '#19242e',
+        muted: '#4a5966',
         'surface-subtle': '#fafbfc',
-        'surface-hover': '#f6f8fa',
+        'surface-hover': '#f3f5f7',
         border: '#e1e4e8',
-        // Accent
-        'accent-blue': '#2d62ff',
-        'cta-blue': '#0366d6',
-        'cta-blue-hover': '#1158c7',
-        'accent-pink': '#dd23bb',
-        // Coral scuro: passa il contrasto del testo sul fondo chiaro del box community
+        // Un solo accento: corallo delle cover, scurito quel tanto che basta
+        // perché il bianco in etichetta superi AA (5.2:1).
+        accent: '#c43c2c',
+        'accent-hover': '#a33224',
+        'accent-blue': '#c43c2c',
+        'cta-blue': '#c43c2c',
+        'cta-blue-hover': '#a33224',
+        'accent-pink': '#c43c2c',
         'accent-coral': '#c43c2c',
-        // Text variants
-        placeholder: '#959da5',
-        icon: '#43607a',
-        'nav-link': '#375066',
+        placeholder: '#5c6b78',
+        icon: '#19242e',
+        'nav-link': '#19242e',
         'text-dark': '#24292e',
-        // Semantic / state
-        'focus-ring': '#4d65ff',
-        'contact-bg': '#a3c4f326',
+        'focus-ring': '#c43c2c',
+        'contact-bg': '#fafbfc',
         'success-bg': '#cef5ca',
         'success-text': '#114e0b',
         'error-bg': '#f8e4e4',
         'error-text': '#3b0b0b',
-        'dark-section': '#181818',
+        'dark-section': '#19242e',
         shadow: '#c2c2c233',
       },
       fontFamily: {
-        // FuturaPT — self-hosted .woff (see /public/fonts/)
-        // NOTE: FuturaPT is a proprietary Linotype font. Verify license for benessere.digital domain.
-        futurapt: ['FuturaPT', 'Futura', 'Century Gothic', 'sans-serif'],
-        'futurapt-demi': ['FuturaPT-Demi', 'Futura', 'Century Gothic', 'sans-serif'],
-        // Pixelify Sans — variable font, for decorative accent text
-        pixelify: ['PixelifySans', 'monospace'],
+        sans: ['var(--font-montserrat)', 'Montserrat', 'sans-serif'],
+        pixelify: ['var(--font-pixelify)', 'sans-serif'],
       },
       fontSize: {
-        tiny: ['0.75rem', { lineHeight: '1rem' }],
-        sm: ['0.875rem', { lineHeight: '1.25rem' }],
+        // Note secondarie: minimo 13px. Il corpo non scende sotto i 16px.
+        xs: ['0.8125rem', { lineHeight: '1.125rem' }],
+        tiny: ['0.8125rem', { lineHeight: '1.25rem' }],
+        sm: ['1rem', { lineHeight: '1.5rem' }],
         base: ['1rem', { lineHeight: '1.5rem' }],
         md: ['1.25rem', { lineHeight: '1.5rem' }],
         lg: ['1.5rem', { lineHeight: '2rem' }],
         h6: ['1rem', { lineHeight: '1.5', fontWeight: '700' }],
-        h5: ['1.25rem', { lineHeight: '1.5', fontWeight: '700' }],
-        h4: ['1.5rem', { lineHeight: '1.4', fontWeight: '600' }],
-        h3: ['2rem', { lineHeight: '1.2', fontWeight: '600' }],
-        h2: ['3rem', { lineHeight: '1.2', fontWeight: '700' }],
-        h1: ['4rem', { lineHeight: '1.1', fontWeight: '700' }],
+        h5: ['1.25rem', { lineHeight: '1.35', fontWeight: '700' }],
+        h4: ['1.5rem', { lineHeight: '1.3', fontWeight: '700' }],
+        h3: ['2rem', { lineHeight: '1.2', fontWeight: '700' }],
+        h2: ['2.5rem', { lineHeight: '1.15', fontWeight: '700' }],
+        h1: ['3.5rem', { lineHeight: '1.05', fontWeight: '700' }],
       },
       borderRadius: {
         sm: '0.25rem',
@@ -95,7 +93,7 @@ const config: Config = {
         xxhuge: '12rem',
       },
       boxShadow: {
-        card: '0 4px 8px 0 #c2c2c233',
+        card: 'none',
       },
       transitionTimingFunction: {
         'bounce-sm': 'cubic-bezier(.165, .84, .44, 1)',

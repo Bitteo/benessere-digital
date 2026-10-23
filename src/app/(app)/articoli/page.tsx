@@ -30,28 +30,23 @@ export default async function ArticoliPage({ searchParams }: Props) {
     <main>
       <div className="container-lg padding-global section-md">
         {/* Page header */}
-        <div className="mb-10">
-          <p className="text-meta text-primary opacity-50 mb-2">Approfondimenti</p>
-          <h1
-            className="text-h1 sm:text-h2 mb-4"
-            style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
-          >
-            Articoli
-          </h1>
-          <p className="text-md text-primary opacity-60 max-w-xl">
-            Ricerca evidence-based su benessere digitale, salute mentale online e uso consapevole della tecnologia.
+        <div className="mb-8 max-w-2xl">
+          <h1 className="mb-3 text-h2 sm:text-h3">Articoli</h1>
+          <p className="text-lg leading-relaxed text-muted">
+            Ricerca evidence-based su benessere digitale, salute mentale online e uso consapevole
+            della tecnologia.
           </p>
         </div>
 
         {/* Category filter */}
         {categories.length > 0 && (
-          <div className="flex flex-wrap gap-2 mb-10">
+          <div className="mb-10 flex flex-wrap gap-2">
             <Link
               href="/articoli"
-              className={`inline-block px-4 py-1.5 rounded-pill text-sm font-semibold transition-colors ${
+              className={`inline-block rounded-pill px-4 py-1.5 text-base font-semibold transition-colors ${
                 !categoria
                   ? 'bg-primary text-white'
-                  : 'border border-border text-primary hover:bg-surface-hover'
+                  : 'bg-surface-subtle text-primary hover:bg-surface-hover'
               }`}
             >
               Tutti
@@ -60,10 +55,10 @@ export default async function ArticoliPage({ searchParams }: Props) {
               <Link
                 key={cat.id}
                 href={`/articoli?categoria=${cat.slug}`}
-                className={`inline-block px-4 py-1.5 rounded-pill text-sm font-semibold transition-colors ${
+                className={`inline-block rounded-pill px-4 py-1.5 text-base font-semibold transition-colors ${
                   categoria === cat.slug
                     ? 'bg-primary text-white'
-                    : 'border border-border text-primary hover:bg-surface-hover'
+                    : 'bg-surface-subtle text-primary hover:bg-surface-hover'
                 }`}
               >
                 {cat.name}
@@ -75,18 +70,15 @@ export default async function ArticoliPage({ searchParams }: Props) {
         {/* Articles grid */}
         {articles.length > 0 ? (
           <>
-            <div className="grid grid-cols-3 lg:grid-cols-2 sm:grid-cols-1 gap-4">
+            <div className="flex max-w-3xl flex-col gap-6">
               {articles.map((article) => (
-                <ArticleCard key={article.id} article={article} variant="grid" />
+                <ArticleCard key={article.id} article={article} />
               ))}
             </div>
 
             {/* Pagination */}
             {totalPages > 1 && (
-              <nav
-                className="flex justify-center gap-2 mt-12"
-                aria-label="Paginazione articoli"
-              >
+              <nav className="mt-12 flex justify-center gap-2" aria-label="Paginazione articoli">
                 {page > 1 && (
                   <Link
                     href={`/articoli?pagina=${page - 1}${categoria ? `&categoria=${categoria}` : ''}`}
@@ -95,7 +87,7 @@ export default async function ArticoliPage({ searchParams }: Props) {
                     ← Precedente
                   </Link>
                 )}
-                <span className="flex items-center px-4 text-sm text-primary opacity-60">
+                <span className="flex items-center px-4 text-base text-muted">
                   {page} / {totalPages}
                 </span>
                 {page < totalPages && (
@@ -111,7 +103,7 @@ export default async function ArticoliPage({ searchParams }: Props) {
           </>
         ) : (
           <div className="py-24 text-center">
-            <p className="text-md text-primary opacity-40">
+            <p className="text-lg text-muted">
               {categoria
                 ? 'Nessun articolo trovato per questa categoria.'
                 : 'Nessun articolo pubblicato ancora. Torna presto!'}

@@ -48,7 +48,7 @@ export default async function NewsletterConfirmedPage({ searchParams }: Props) {
     <SimplePage kicker="Newsletter" title={copy.title}>
       <p>{copy.body}</p>
       <p>
-        <Link href="/newsletter" className="underline hover:text-cta-blue">
+        <Link href="/newsletter" className="underline hover:text-accent">
           Torna alla newsletter
         </Link>
       </p>
