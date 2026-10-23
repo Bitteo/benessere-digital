@@ -38,6 +38,7 @@ import nonniNipotiCompetenze from './articles/nonni-e-nipoti-competenze-digitali
 import smartwatchGpsBambini from './articles/smartwatch-gps-bambini-privacy-e-alternative.json'
 import etaMinimaSocialAustralia from './articles/eta-minima-social-australia-under-16.json'
 import sfideVirali from './articles/sfide-virali-parlarne-senza-amplificarle.json'
+import telefonoNuovoNatale from './articles/telefono-nuovo-natale-primo-giorno.json'
 
 export const articles = [
   brainRot,
@@ -79,4 +80,5 @@ export const articles = [
   smartwatchGpsBambini,
   etaMinimaSocialAustralia,
   sfideVirali,
+  telefonoNuovoNatale,
 ] as ArticleSource[]

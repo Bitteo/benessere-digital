@@ -173,7 +173,7 @@ test('approved november and december articles stay hidden until their publishedA
 })
 
 test('december hidden drafts stay off the site even after their date', () => {
-  const after = new Date('2026-12-20T08:00:00.000Z')
+  const after = new Date('2026-12-22T08:00:00.000Z')
   const publishedAtBySlug = {
     'telefono-a-tavola-feste-phubbing': '2026-12-14T09:00:00.000+01:00',
     'film-e-serie-in-famiglia-vacanze-eta-profili-autoplay': '2026-12-16T09:00:00.000+01:00',
@@ -181,6 +181,7 @@ test('december hidden drafts stay off the site even after their date', () => {
     'smartwatch-gps-bambini-privacy-e-alternative': '2026-12-04T09:00:00.000+01:00',
     'eta-minima-social-australia-under-16': '2026-12-07T09:00:00.000+01:00',
     'sfide-virali-parlarne-senza-amplificarle': '2026-12-09T09:00:00.000+01:00',
+    'telefono-nuovo-natale-primo-giorno': '2026-12-21T09:00:00.000+01:00',
   } as const
 
   for (const [slug, expectedPublishedAt] of Object.entries(publishedAtBySlug)) {
