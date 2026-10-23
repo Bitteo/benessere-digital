@@ -12,10 +12,16 @@ export const metadata: Metadata = {
 export default function NewsletterPage() {
   return (
     <main>
-      <section className="section-lg">
+      <section className="section-lg border-b border-border">
         <div className="container-md padding-global">
-          <h1 className="mb-5 text-h2 leading-tight sm:text-h3">Newsletter</h1>
-          <p className="mb-8 max-w-2xl text-lg leading-relaxed text-muted">
+          <p className="text-meta text-primary opacity-50 mb-3">Resta aggiornato</p>
+          <h1
+            className="text-h1 sm:text-h2 mb-6 leading-tight"
+            style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
+          >
+            Newsletter
+          </h1>
+          <p className="text-md text-primary opacity-60 leading-relaxed max-w-2xl mb-8">
             Ricevi ogni settimana i migliori articoli, guide e risorse scientifiche sul benessere
             digitale, direttamente nella tua email.
           </p>

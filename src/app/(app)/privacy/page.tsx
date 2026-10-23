@@ -30,7 +30,7 @@ export default function PrivacyPage() {
       <p>{NEWSLETTER_FOOTER_LINE}</p>
       <p>
         Per richieste sui tuoi dati scrivi a{' '}
-        <a href="mailto:ciao@benessere.digital" className="underline hover:text-accent">
+        <a href="mailto:ciao@benessere.digital" className="underline hover:text-cta-blue">
           ciao@benessere.digital
         </a>
         .
@@ -60,7 +60,7 @@ export default function PrivacyPage() {
         Possiamo trattare dati tecnici di navigazione (log e cookie necessari al funzionamento) e,
         se ci scrivi, il contenuto del messaggio, per rispondere. I dati non vengono venduti. Per i
         cookie consulta la{' '}
-        <a href="/cookie" className="underline hover:text-accent">
+        <a href="/cookie" className="underline hover:text-cta-blue">
           Cookie Policy
         </a>
         .
@@ -73,7 +73,7 @@ export default function PrivacyPage() {
         protezione dei dati personali.
       </p>
 
-      <p className="text-[13px] text-muted">Ultimo aggiornamento: ottobre 2026.</p>
+      <p className="text-sm opacity-60">Ultimo aggiornamento: ottobre 2026.</p>
     </SimplePage>
   )
 }

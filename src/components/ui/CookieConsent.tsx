@@ -45,65 +45,70 @@ export function CookieConsent() {
 
   return (
     <div
-      className="fixed bottom-0 left-0 right-0 z-[1000] bg-surface-subtle pb-[env(safe-area-inset-bottom)]"
+      className="fixed bottom-0 left-0 right-0 z-[1000] border-t border-border bg-white pb-[env(safe-area-inset-bottom)]"
       role="dialog"
       aria-label="Consenso cookie"
       aria-describedby="cookie-consent-copy"
     >
-      <div className="container-nav padding-global flex items-center gap-4 py-3 sm:gap-3 sm:py-2">
-        <div className="min-w-0 flex-1">
-          <p id="cookie-consent-copy" className="text-[13px] leading-snug text-primary">
-            <span className="md:hidden">
-              {FULL_COPY} Consulta la{' '}
-              <Link href="/privacy" className="underline hover:text-accent">
-                Privacy Policy
-              </Link>{' '}
-              e la{' '}
-              <Link href="/cookie" className="underline hover:text-accent">
-                Cookie Policy
-              </Link>
-              .
-            </span>
-            <span className="hidden md:inline">
-              Cookie per statistiche e navigazione.{' '}
-              <Link href="/privacy" className="underline hover:text-accent">
-                Privacy
-              </Link>
-              {' · '}
-              <Link href="/cookie" className="underline hover:text-accent">
-                Cookie
-              </Link>
-              .{' '}
-              <button
-                type="button"
-                className="underline hover:text-accent"
-                aria-expanded={detailsOpen}
-                aria-controls={detailsId}
-                onClick={() => setDetailsOpen((open) => !open)}
-              >
-                {detailsOpen ? 'Nascondi' : 'Dettagli'}
-              </button>
-            </span>
+      <div className="container-lg padding-global flex items-center justify-between gap-6 py-5 md:flex-col md:items-stretch md:gap-3 md:py-3 sm:gap-2 sm:py-2.5">
+        <div className="min-w-0 max-w-3xl">
+          <p
+            id="cookie-consent-copy"
+            className="text-sm leading-relaxed text-primary opacity-80 md:hidden"
+          >
+            {FULL_COPY} Consulta la nostra{' '}
+            <Link href="/privacy" className="underline hover:text-cta-blue">
+              Privacy Policy
+            </Link>{' '}
+            e la{' '}
+            <Link href="/cookie" className="underline hover:text-cta-blue">
+              Cookie Policy
+            </Link>{' '}
+            per ulteriori dettagli.
           </p>
+
+          <p className="hidden text-tiny leading-snug text-primary opacity-80 md:block">
+            Usiamo cookie per analizzare il sito e migliorare la navigazione.{' '}
+            <Link href="/privacy" className="underline hover:text-cta-blue">
+              Privacy Policy
+            </Link>
+            {' · '}
+            <Link href="/cookie" className="underline hover:text-cta-blue">
+              Cookie Policy
+            </Link>
+            .{' '}
+            <button
+              type="button"
+              className="underline hover:text-cta-blue"
+              aria-expanded={detailsOpen}
+              aria-controls={detailsId}
+              onClick={() => setDetailsOpen((open) => !open)}
+            >
+              {detailsOpen ? 'Nascondi dettagli' : 'Dettagli'}
+            </button>
+          </p>
+
           <p
             id={detailsId}
-            className={`mt-1 text-[13px] leading-snug text-muted ${detailsOpen ? 'hidden md:block' : 'hidden'}`}
+            className={`mt-2 text-tiny leading-relaxed text-primary opacity-70 ${
+              detailsOpen ? 'hidden md:block' : 'hidden'
+            }`}
           >
             {FULL_COPY}
           </p>
         </div>
 
-        <div className="flex shrink-0 gap-2">
+        <div className="flex flex-shrink-0 gap-3 md:w-full md:gap-2">
           <button
             type="button"
-            className="btn-secondary h-10 px-3 text-base"
+            className="btn-secondary px-5 md:h-10 md:flex-1 md:px-4 md:text-sm"
             onClick={() => choose('reject')}
           >
             Rifiuto
           </button>
           <button
             type="button"
-            className="btn-primary h-10 px-3 text-base"
+            className="btn-primary px-5 md:h-10 md:flex-1 md:px-4"
             onClick={() => choose('accept')}
           >
             Accetto
