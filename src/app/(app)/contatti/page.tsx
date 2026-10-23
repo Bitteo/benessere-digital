@@ -8,38 +8,36 @@ export const metadata: Metadata = {
   alternates: { canonical: '/contatti' },
 }
 
-const reasons = [
-  'Vuoi collaborare con noi e capire come contribuire al progetto',
-  'Vuoi segnalare un contenuto rilevante da inserire nella pagina',
-  'Sei il proprietario di un contenuto e vorresti che lo rimuovessimo',
-]
-
 export default function ContattiPage() {
   return (
     <main>
-      <section className="section-lg">
+      <section className="section-lg border-b border-border">
         <div className="container-md padding-global">
-          <h1 className="mb-5 text-h2 leading-tight sm:text-h3">Teniamoci in contatto</h1>
-          <p className="mb-8 max-w-2xl text-lg leading-relaxed text-muted">
-            Una domanda, una segnalazione o un&apos;idea di collaborazione: scrivici e ti
-            rispondiamo.
+          <p className="text-meta text-primary opacity-50 mb-3">Parliamone</p>
+          <h1
+            className="text-h1 sm:text-h2 mb-6 leading-tight"
+            style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
+          >
+            Teniamoci in contatto
+          </h1>
+          <p className="text-md text-primary opacity-60 leading-relaxed max-w-2xl mb-8">
+            Una domanda, una segnalazione o un&apos;idea di collaborazione: scrivici e ti rispondiamo.
           </p>
-          <a href="mailto:ciao@benessere.digital" className="btn-primary mb-10 inline-flex">
+          <a href="mailto:ciao@benessere.digital" className="btn-primary inline-flex mb-10">
             Scrivi a ciao@benessere.digital
           </a>
-          <div className="mt-10">
-            <h2 className="mb-4 text-h4">Perché scriverci?</h2>
-            <ul className="flex max-w-2xl flex-col gap-3 text-base leading-relaxed">
-              {reasons.map((reason) => (
-                <li key={reason}>{reason}</li>
-              ))}
+          <div className="border-t border-border pt-8">
+            <h2 className="text-h3 mb-5" style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}>
+              Perché scriverci?
+            </h2>
+            <ul className="flex flex-col gap-3 text-base text-primary opacity-80">
+              <li>✓ &nbsp; Vuoi collaborare con noi e capire come contribuire al progetto</li>
+              <li>✓ &nbsp; Vuoi segnalare un contenuto rilevante da inserire nella pagina</li>
+              <li>✓ &nbsp; Sei il proprietario di un contenuto e vorresti che lo rimuovessimo :(</li>
             </ul>
-            <p className="mt-8 text-base text-muted">
+            <p className="mt-8 text-base text-primary opacity-70">
               Preferisci presentare una proposta strutturata? Vai alla pagina{' '}
-              <Link
-                href="/collabora"
-                className="font-semibold text-accent underline hover:text-accent-hover"
-              >
+              <Link href="/collabora" className="underline hover:text-cta-blue">
                 Collabora con noi
               </Link>
               .
