@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react'
+import { omitHeadingSection } from '@/lib/omit-heading-section'
 
 type LexicalNode = {
   type?: string
@@ -11,6 +12,8 @@ type LexicalNode = {
 
 type Props = {
   content: unknown
+  /** Drops this heading and its section. The next heading of the same level stays. */
+  omitHeadingSection?: string
 }
 
 const BOLD = 1
@@ -77,7 +80,7 @@ function renderNode(node: LexicalNode, key: number): ReactNode {
   }
 }
 
-export function LexicalContent({ content }: Props) {
+export function LexicalContent({ content, omitHeadingSection: headingToOmit }: Props) {
   const root =
     content && typeof content === 'object' && 'root' in content
       ? (content as { root?: LexicalNode }).root
@@ -87,5 +90,7 @@ export function LexicalContent({ content }: Props) {
     return <p className="text-primary opacity-50 italic">Contenuto in fase di pubblicazione…</p>
   }
 
-  return <>{renderChildren(root.children)}</>
+  const children = headingToOmit ? omitHeadingSection(root.children, headingToOmit) : root.children
+
+  return <>{renderChildren(children)}</>
 }

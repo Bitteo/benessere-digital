@@ -191,8 +191,12 @@ export default async function ArticleDetailPage({ params }: Props) {
 
       {/* Article body */}
       <article className="container-md padding-global section-md">
-        <div className="article-body flex max-w-none flex-col gap-5 text-base leading-relaxed text-primary">
-          <LexicalContent content={article.content} />
+        {/* FuturaPT “0” is wider than the average letter: 48ch is about 65–75 characters. */}
+        <div className="article-body flex max-w-[48ch] flex-col gap-5 text-[1.125rem] leading-[1.65] text-primary">
+          <LexicalContent
+            content={article.content}
+            omitHeadingSection={article.faq?.length ? 'Domande corte' : undefined}
+          />
         </div>
         {article.sources && article.sources.length > 0 ? (
           <ArticleSources sources={article.sources} />
