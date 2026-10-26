@@ -1,4 +1,6 @@
 import type { ReactNode } from 'react'
+import { articles } from '@/content/articles'
+import { articleFinder, lexicalArticleAnchor } from '@/lib/lexical-article-link'
 import { omitHeadingSection } from '@/lib/omit-heading-section'
 
 type LexicalNode = {
@@ -22,6 +24,8 @@ const STRIKETHROUGH = 4
 const UNDERLINE = 8
 const CODE = 16
 
+const findArticle = articleFinder(articles)
+
 function formatText(text: string, format = 0): ReactNode {
   let node: ReactNode = text
   if (format & CODE) node = <code>{node}</code>
@@ -30,6 +34,19 @@ function formatText(text: string, format = 0): ReactNode {
   if (format & UNDERLINE) node = <u>{node}</u>
   if (format & STRIKETHROUGH) node = <s>{node}</s>
   return node
+}
+
+function renderLexicalLink(node: LexicalNode, key: number): ReactNode {
+  const children = renderChildren(node.children)
+  const anchor = lexicalArticleAnchor(node.url, findArticle, new Date())
+  if (anchor.kind === 'span') {
+    return <span key={key}>{children}</span>
+  }
+  return (
+    <a key={key} href={anchor.href} target="_blank" rel="noopener noreferrer">
+      {children}
+    </a>
+  )
 }
 
 function renderChildren(children: LexicalNode[] | undefined): ReactNode {
@@ -61,17 +78,8 @@ function renderNode(node: LexicalNode, key: number): ReactNode {
     case 'listitem':
       return <li key={key}>{renderChildren(node.children)}</li>
     case 'link':
-      return (
-        <a key={key} href={node.url} target="_blank" rel="noopener noreferrer">
-          {renderChildren(node.children)}
-        </a>
-      )
     case 'autolink':
-      return (
-        <a key={key} href={node.url} target="_blank" rel="noopener noreferrer">
-          {renderChildren(node.children)}
-        </a>
-      )
+      return renderLexicalLink(node, key)
     default:
       if (node.children?.length) {
         return <div key={key}>{renderChildren(node.children)}</div>
