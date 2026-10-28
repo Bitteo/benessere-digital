@@ -39,6 +39,7 @@ import smartwatchGpsBambini from './articles/smartwatch-gps-bambini-privacy-e-al
 import etaMinimaSocialAustralia from './articles/eta-minima-social-australia-under-16.json'
 import sfideVirali from './articles/sfide-virali-parlarne-senza-amplificarle.json'
 import sonnoSchermiVacanza from './articles/sonno-e-schermi-in-vacanza-routine-ragazzi.json'
+import propositiDigitaliFineAnno from './articles/propositi-digitali-fine-anno-ragazzi.json'
 
 export const articles = [
   brainRot,
@@ -81,4 +82,5 @@ export const articles = [
   etaMinimaSocialAustralia,
   sfideVirali,
   sonnoSchermiVacanza,
+  propositiDigitaliFineAnno,
 ] as ArticleSource[]

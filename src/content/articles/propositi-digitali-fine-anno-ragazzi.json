@@ -1,0 +1,704 @@
+{
+  "slug": "propositi-digitali-fine-anno-ragazzi",
+  "title": "Propositi digitali di fine anno: un’abitudine piccola con i ragazzi",
+  "excerpt": "«Da gennaio niente telefono» dura quanto l’energia di gennaio. Come parlare con i ragazzi di un proposito su schermi, social, sonno e notifiche: un gesto con un momento, ancora dicibile a febbraio.",
+  "cover": "/images/covers/propositi-digitali-fine-anno-ragazzi.png",
+  "coverAlt": "Illustrazione a linee su fondo avorio, tratti charcoal e pochi accenti corallo: un adulto e un ragazzo al tavolo, un foglietto corto e un telefono appoggiato a faccia in giù accanto a un calendario.",
+  "publishedAt": "2026-12-28T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["schermo-e-tempo", "salute-mentale"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Propositi digitali di fine anno con i ragazzi",
+    "metaDescription": "Come parlare con i ragazzi di propositi realistici su schermi, social, sonno e notifiche: un gesto piccolo che regga a febbraio, non una lista del 1° gennaio.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Dai, Milkman e Riis — The Fresh Start Effect (2014)",
+      "url": "https://doi.org/10.1287/mnsc.2014.1901",
+      "note": "Management Science, 2014, 60(10), 2563–2582. DOI 10.1287/mnsc.2014.1901. Pubblicato online il 23 giugno 2014. Tre studi su dati d’archivio: ricerche Google per il termine «diet», visite in palestra e impegni presi su un sito di obiettivi aumentano dopo punti del calendario che segnano un inizio (settimana, mese, anno, semestre, compleanno, festa). Gli autori propongono che questi punti aprano un nuovo periodo mentale e lascino le imperfezioni in quello precedente. Non è un esperimento che assegni un proposito, non misura gli schermi e non è un campione di ragazzi."
+    },
+    {
+      "title": "Norcross, Mrykalo e Blagys — Auld lang syne (2002)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11920693/",
+      "note": "Journal of Clinical Psychology, 2002, 58(4), 397–405. DOI 10.1002/jclp.1151. Prima pubblicazione l’8 marzo 2002. Abstract su PubMed. 159 adulti con un proposito di Capodanno e 123 adulti confrontabili che volevano cambiare un problema più avanti, seguiti sei mesi con colloqui telefonici. I gruppi non differivano per demografia, storia del problema o tipo di obiettivo; i più frequenti erano peso, esercizio e smettere di fumare. A sei mesi, il 46% di chi aveva fatto il proposito si diceva riuscito in modo continuo, contro il 4% dell’altro gruppo. Prima del 1° gennaio, autoefficacia, abilità percepite e prontezza al cambiamento predicevano l’esito tra chi aveva fatto il proposito. Dentro l’anno, chi riusciva usava di più processi cognitivo-comportamentali e di meno processi centrati sulla consapevolezza o sull’emozione. Esiti riferiti dagli intervistati. Non sono schermi e non sono minori."
+    },
+    {
+      "title": "Oscarsson, Carlbring, Andersson e Rozental — A large-scale experiment on New Year’s resolutions (2020)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7725288/",
+      "note": "PLoS ONE, 9 dicembre 2020, 15(12), e0234097. DOI 10.1371/journal.pone.0234097. PMC7725288. 1.066 adulti svedesi, almeno 18 anni, iscritti da soli a un esperimento sul web. Quattro propositi incompleti esclusi: analisi su 1.062, età media 44,23 anni (deviazione standard 13,53). Tre gruppi: informazioni brevi e tre richiami (n = 392); qualche supporto, con una persona nominata, richiami mensili e un’email sugli ostacoli (n = 364); supporto esteso, con in più criteri SMART (specifici, misurabili, accettati, realistici, con scadenza), sei traguardi intermedi e altre email (n = 306). I propositi più frequenti: salute fisica, peso, alimentazione. A un anno, il 55% di chi rispondeva si considerava ancora riuscito. Avvicinamento contro evitamento, sulla variabile dicotomica riuscito/non riuscito: 58,9% contro 47,1%, χ² su N = 730, V di Cramér 0,11. Nel modello sul successo riferito (scala da 0 a 100), medie 62,3 (IC 95% 59,4–65,2), 55,9 (53,1–58,8) e 52,5 (49,3–55,7). Qualche supporto sopra il gruppo breve, d = 0,22, e sopra il supporto esteso, d = 0,34. Il supporto esteso non supera il gruppo breve. Gli autori discutono, tra le spiegazioni, che un obiettivo molto specifico renda visibile il mezzo fallimento, e una possibile saturazione. Campione auto-selezionato, successo autodichiarato, nessun adolescente, nessuno schermo. Lo studio non separa persona nominata, richiami ed email."
+    },
+    {
+      "title": "Moreno, Binger, Zhao e Eickhoff — Effect of a Family Media Use Plan (2021)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7835954/",
+      "note": "JAMA Pediatrics, 2021, 175(4). Online dal 25 gennaio 2021. DOI 10.1001/jamapediatrics.2020.5629. Trial randomizzato. 1.520 coppie genitore-adolescente; età media dei ragazzi 14,5 anni (deviazione standard 1,6), arruolati fra i 12 e i 17. Follow-up a circa due mesi. Rispetto delle regole riferito dagli adolescenti: differenza tra i gruppi −0,1 (intervallo di confidenza al 95% da −1,1 a 0,9). Nessuna differenza su sonno, attività fisica e depressione. Importanza percepita della tecnologia più bassa nel gruppo del piano (scala ADTI, differenza −2,2; IC 95% da −4,2 a −0,2): non è il rispetto delle regole. Perdite al follow-up vicine alla metà. Questionari, pannello online. Non è la fascia sotto i 12 anni."
+    },
+    {
+      "title": "Moreno, Radesky, Walsh e Tomopoulos — The Family Media Plan (2024)",
+      "url": "https://reachoutandread.org/wp-content/uploads/2025/06/Moreno_2024.pdf",
+      "note": "Pediatrics, 154(6), e2024067417. DOI 10.1542/peds.2024-067417. PDF aperto di Reach Out and Read dello stesso articolo. Sul trial del 2021: non ha aumentato il rispetto delle regole. Tra le spiegazioni possibili, famiglie che sceglievano troppe regole, difficili da ricordare e da far rispettare. Il piano rivisto chiede poche aree per volta e si può riaprire. Dal 2022 gli adulti sono nel piano. Gli autori scrivono che la ricerca sull’efficacia è ancora indietro e che i 5 C vanno ancora valutati. Non è un trial nuovo."
+    },
+    {
+      "title": "HealthyChildren — How to Make a Family Media Plan (20 gennaio 2026)",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Pagina dell’American Academy of Pediatrics aggiornata il 20 gennaio 2026. Regole discusse con i ragazzi, che stanno in quella famiglia, e che includono ogni membro, adulti compresi. Esempi: zone senza schermo a tavola, durante i compiti e prima di dormire; un solo schermo; spegnere autoplay e notifiche; contenuti di qualità; controlli genitoriali; spazio per sonno e gioco. Si rivede spesso, all’inizio della scuola, d’estate e nelle vacanze. Non chiede di adottare tutti gli esempi la sera del 31 dicembre."
+    },
+    {
+      "title": "AAP Center of Excellence — How to Use the 5 Cs of Media Use (26 aprile 2024)",
+      "url": "https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/how-to-use-the-5-cs-of-media-use-tips-for-pediatric-clinicians/",
+      "note": "Promemoria per i clinici, 26 aprile 2024: Child, Content, Calm, Crowding Out, Communication. Crowding out: invece delle ore, chiedere che cosa lo schermo sta togliendo, come sonno, tempo fuori, tempo insieme. Communication: parlarne spesso, con domande, non in un discorso unico. Moreno e colleghi 2024 scrivono che i 5 C vanno ancora valutati. Non è un intervento già misurato."
+    },
+    {
+      "title": "OMS — Linee guida su attività fisica e comportamento sedentario (2020)",
+      "url": "https://www.who.int/publications/i/item/9789240015128",
+      "note": "WHO guidelines on physical activity and sedentary behaviour. Ginevra, Organizzazione mondiale della sanità, 25 novembre 2020. ISBN 978-92-4-001512-8. Per i 5–17 anni: limitare il tempo da seduti, in particolare il tempo di schermo ricreativo. Raccomandazione forte, certezza bassa. Glossario: schermo ricreativo è il tempo davanti a TV, computer e dispositivi mobili per scopi diversi da studio o lavoro. Le prove non bastano a specificare limiti orari. Documento distinto dalle linee guida 2019 per i bambini sotto i 5 anni. Non fissa un tetto per il 1° gennaio."
+    },
+    {
+      "title": "ISS — Benessere in rete, FAQ",
+      "url": "https://benessereinrete.iss.it/faq",
+      "note": "FAQ del Centro nazionale dipendenze e doping, Istituto superiore di sanità. Tre risposte usate qui. Parlare dell’uso di Internet: momento tranquillo, senza giudizi né frasi colpevolizzanti; regole chiare e realistiche, costruite insieme, possono ridurre il conflitto. Prevenzione: regole condivise, coerenti e spiegate sono più utili di divieti rigidi; il solo controllo del tempo è meno promettente senza educazione, dialogo e autoregolazione. Punizione: togliere di colpo telefono o computer, senza spiegazioni e senza accordo, di solito non è la strategia più utile; può aumentare il conflitto, favorire usi nascosti e rendere più difficile il dialogo. Una sospensione temporanea può essere utile se l’uso interferisce con sonno, scuola, relazioni o sicurezza, se è proporzionata, prevedibile e dentro un accompagnamento. Non sono un trial sui propositi di Capodanno."
+    },
+    {
+      "title": "CDC — About Sleep",
+      "url": "https://www.cdc.gov/sleep/about/index.html",
+      "note": "Pagina About Sleep. In tabella: 9–12 ore per i 6–12 anni e 8–10 ore per i 13–17 anni; dai 18 ai 60 anni, 7 ore o più. Tra le abitudini: andare a letto e alzarsi alla stessa ora ogni giorno; spegnere i dispositivi elettronici almeno 30 minuti prima di dormire. Non fissa un tetto di schermo ricreativo e non è un calendario di Capodanno."
+    },
+    {
+      "title": "Paruthi e colleghi — Recommended amount of sleep for pediatric populations (2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877308/",
+      "note": "Journal of Clinical Sleep Medicine, 2016, 12(6), 785–786. DOI 10.5664/jcsm.5866. Consenso dell’American Academy of Sleep Medicine. Chi ha 13–18 anni dovrebbe dormire 8–10 ore ogni 24 ore, con regolarità. La tabella CDC sui teenager si ferma ai 13–17 anni. Gli esiti sanitari dello statement non sono ripresi in questo articolo."
+    },
+    {
+      "title": "ISS — Giornata mondiale del sonno, un buon sonno deve essere una priorità (14 marzo 2025)",
+      "url": "https://www.iss.it/-/world-sleep-day-un-buon-sonno-deve-essere-una-priorita",
+      "note": "Pagina dell’Istituto superiore di sanità, 14 marzo 2025. Raccomandazioni riportate per la popolazione in età scolare: tra 9 e 11 ore a 6–13 anni e tra 8 e 10 ore a 14–17. Gli adolescenti tendono a restare svegli fino a tardi per il cambiamento dei ritmi biologici, e può essere difficile per loro autoregolarsi nel ritmo sonno-veglia o nell’uso dei dispositivi, soprattutto la sera in camera. I genitori dovrebbero dare regole sui ritmi quotidiani. I tagli di età non coincidono con la tabella CDC. La pagina non fissa un tetto di schermo per il 1° gennaio."
+    },
+    {
+      "title": "AASM — Make Time to Sleep",
+      "url": "https://sleepeducation.org/get-involved/campaigns/make-time-to-sleep/",
+      "note": "Campagna dell’American Academy of Sleep Medicine. Tre gesti distinti: spegnere telefono, computer, tablet e TV almeno 30 minuti prima; silenziare le notifiche; tenere il telefono lontano dal letto. Non misura quale gesto conti di più. Le ore di sonno della campagna non sono rilette qui: per le fasce si usano CDC, Paruthi e la pagina ISS del 14 marzo 2025."
+    },
+    {
+      "title": "Fitz, Kushlev, Jagannathan, Lewis, Paliwal e Ariely — Batching smartphone notifications (2019)",
+      "url": "https://doi.org/10.1016/j.chb.2019.07.016",
+      "note": "Computers in Human Behavior, 2019. DOI 10.1016/j.chb.2019.07.016. Esperimento sul campo, due settimane, con un’app Android degli autori. Campione analizzato: 237 persone che hanno completato almeno tre quarti dei diari, reclutate online, residenti in India; età media del campione incluso 29,8 anni (nel reclutamento, 30,3). Quattro condizioni: notifiche come al solito; a blocchi ogni ora; tre volte al giorno, alle 9, alle 15 e alle 21; mai. Si poteva comunque aprire l’app. Rispetto al solito, i tre blocchi al giorno si associano a più attenzione, umore migliore, più senso di controllo del telefono, meno stress e meno interruzioni. Il blocco orario non dà lo stesso quadro. Nessuna notifica: pochi di quei benefici, più ansia e più paura di perdersi qualcosa sul telefono; la disattenzione media i benefici dei tre blocchi, la paura legata al telefono media l’ansia del silenzio. Non tutte le scale hanno i 237 rispondenti. Una bozza non corretta dell’abstract dice insieme «più produttivi» e «produttività più bassa»: discussione e mediazione parlano di produttività riferita più alta. Questo articolo non usa il risultato sulla produttività. Non sono adolescenti, non è un anno, e 9-15-21 non è un orario di famiglia."
+    },
+    {
+      "title": "Lally, van Jaarsveld, Potts e Wardle — How are habits formed (2010)",
+      "url": "https://doi.org/10.1002/ejsp.674",
+      "note": "European Journal of Social Psychology, 2010, 40(6), 998–1009. DOI 10.1002/ejsp.674. Prima pubblicazione online il 16 luglio 2009. 96 volontari adulti (età media 27 anni, da 21 a 45; in gran parte post-laurea) hanno scelto un comportamento su cibo, bevande o attività da ripetere ogni giorno nello stesso contesto, per 12 settimane. Esempio di contesto: dopo colazione. 82 con dati sufficienti. Una curva ad asintoto si adattava a 62 persone; per 39 l’adattamento era buono. In quei 39, mediana 66 giorni per arrivare al 95% del proprio plateau di automaticità, intervallo 18–254 (quartili 39 e 102). Saltare un’occasione non modificava in modo materiale il processo. Non è il telefono e non sono minori. 66 giorni è la mediana di quel sottogruppo, non una legge."
+    },
+    {
+      "title": "Singh, Murphy, Maher e Smith — Time to Form a Habit (2024)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/",
+      "note": "Healthcare, 2024. DOI 10.3390/healthcare12232488. PMC11641623. Revisione sistematica e meta-analisi. 20 studi, 2.601 partecipanti, età medie tra 21,5 e 73,5 anni. Criteri: adulti; erano esclusi gli studi che volevano far cessare un comportamento, tra cui ridurre l’uso dei social. Comportamenti inclusi, tra gli altri: attività fisica, acqua, filo interdentale, dieta. Quattro studi riportavano un tempo: mediane 59–66 giorni, medie 106–154 giorni, singoli casi da 4 a 335. Meta-analisi sul cambiamento pre-post dei punteggi di abitudine: differenza media standardizzata 0,69 (IC 95% 0,49–0,88). Undici studi con rischio di bias alto sulla scala PEDro, cinque con rischio basso. Abitudini scelte dalla persona e pratiche del mattino in genere più forti; contano anche frequenza, momento e contesto. L’idea dei 21 giorni è ricondotta al libro di Maltz e non a questi studi. Conclusione degli autori: un’abitudine può cominciare a formarsi in circa due mesi, con una variabilità ampia. Non misura un proposito digitale di un ragazzo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "«Dal 1° gennaio niente telefono» funziona meglio di un gesto piccolo?",
+      "answer": "Nello studio di Oscarsson, su adulti svedesi, i propositi di evitamento avevano un successo riferito più basso di quelli di avvicinamento: 47,1% contro 58,9%, effetto piccolo. Il pacchetto di istruzioni più lungo non superava un supporto più corto. Nel trial di Moreno un piano sui media non aumentava, a due mesi, il rispetto delle regole riferito da ragazzi di 12–17 anni; nel 2024 gli autori indicano, tra le spiegazioni, troppe regole insieme. Un gesto con un momento è la forma più dicibile. Non è una misura sui minori italiani."
+    },
+    {
+      "question": "Quanti giorni ci vogliono perché diventi un’abitudine?",
+      "answer": "Nello studio di Lally la mediana, su 39 adulti in cui il modello si adattava bene, era 66 giorni, da 18 a 254. La revisione di Singh, su abitudini da costruire e non sulla riduzione dei social, parla di circa due mesi per cominciare, con casi da 4 a 335 giorni. I 21 giorni non sono il risultato di questi studi, e nessuno dei due misura il telefono di un ragazzo."
+    },
+    {
+      "question": "Serve un numero massimo di ore di schermo?",
+      "answer": "Le linee guida OMS del 2020 chiedono di limitare lo schermo ricreativo dei 5–17 anni e scrivono che le prove non bastano a fissare i minuti. CDC, AASM e ISS danno fasce di sonno con tagli di età diversi, non un tetto di schermo. Se in casa serve un numero, si discute sulla routine e se ne tiene uno."
+    },
+    {
+      "question": "Se una sera si salta, si ricomincia da capo?",
+      "answer": "Nello studio di Lally, saltare un’occasione non modificava in modo materiale la formazione dell’abitudine, negli adulti e nei comportamenti misurati lì. Le FAQ dell’ISS dicono che togliere il dispositivo di colpo, come punizione e senza accordo, di solito non è la strada più utile. La sera saltata si riprende al momento successivo già scelto, non con una lista nuova."
+    },
+    {
+      "question": "Il proposito vale anche per i genitori?",
+      "answer": "Il Family Media Plan rivisto, come lo raccontano Moreno e colleghi nel 2024, include gli adulti: il confine vale per chi lo scrive. La pagina HealthyChildren chiede un piano di cui fa parte ogni membro della famiglia. Nello studio svedese sui propositi, il supporto che si associava al successo medio più alto comprendeva il nome di una persona concreta, insieme ai richiami. Un proposito solo per il ragazzo, con l’adulto al telefono nello stesso momento, non è il piano che queste pagine descrivono."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lunedì 28 dicembre 2026. Tra il pranzo di Natale e la mezzanotte del 31, in molte case compare una lista. «Da gennaio niente telefono.» «Chiudo i social.» «Dormo di più.» Il foglio si scrive in dieci minuti. A febbraio spesso non si ritrova. Questo pezzo è per genitori, e per chi a scuola, al rientro, si sente fare la stessa domanda: come parlare con i ragazzi di propositi realistici su schermi, social, sonno e notifiche. Il fuoco è un’abitudine piccola, scelta insieme, che possa restare dopo le feste.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il protocollo sul sonno delle vacanze, orari che slittano e rientro prima della campanella, sta nel pezzo «Vacanze di Natale: sonno, schermi e il rientro a gennaio». Il telefono ai pranzi di festa sta in «Il telefono a tavola durante le feste: che cosa dice la ricerca sul phubbing». Film, età e autoplay stanno in «Film e serie in famiglia nelle vacanze: età consigliate, profili e autoplay». Il loop per cui si resta connessi per non perdersi gli altri è il pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FOMO e JOMO",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Il reward dei feed, e che cosa non è un serbatoio da svuotare, è il pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/dopamina-la-guida-completa",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "dopamina e schermi",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Le regole del telefono sul comodino, per il resto dell’anno, sono il pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui il tema è il proposito di Capodanno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 1° gennaio mette in moto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dai, Milkman e Riis, su Management Science nel 2014, descrivono un effetto di nuovo inizio. In tre studi su dati d’archivio, le ricerche Google per la parola diet, le visite in palestra e gli impegni su un sito di obiettivi aumentano dopo punti del calendario: settimana, mese, anno, semestre, compleanno, festa. L’ipotesi è che questi punti aprano un periodo mentale nuovo. Sono associazioni su adulti, in gran parte dieta e movimento. Misurano la partenza, non la tenuta a marzo, e non il telefono di un ragazzo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Norcross, Mrykalo e Blagys, nel 2002, hanno seguito per sei mesi 159 adulti con un proposito di Capodanno e 123 adulti che volevano cambiare un problema più avanti, senza un proposito al 1° gennaio. Colloqui telefonici, esiti riferiti da loro. I gruppi si somigliavano; gli obiettivi più frequenti erano peso, esercizio e smettere di fumare. A sei mesi, il 46% di chi aveva fatto il proposito si diceva riuscito in modo continuo, contro il 4%. Prima del 1° gennaio predicevano l’esito la fiducia di farcela, le abilità percepite e la prontezza. Una data e un gesto, in quel campione, non erano il rimandare. La data da sola non dice il gesto. Non sono schermi e non sono minori.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Oscarsson, Carlbring, Andersson e Rozental, su PLoS ONE nel 2020, hanno iscritto 1.066 adulti svedesi, dai 18 anni. L’analisi è su 1.062 persone, età media 44,23 anni (deviazione standard 13,53), dopo quattro propositi incompleti. Scritti liberamente, i propositi riguardavano soprattutto salute fisica, peso e alimentazione. A un anno, il 55% di chi rispondeva si considerava ancora riuscito. Il campione si era iscritto da solo e il successo è un giudizio su una scala da 0 a 100. Non ci sono adolescenti né schermi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nello stesso studio, un proposito di avvicinamento, fare o ottenere qualcosa, si associava a un successo riferito del 58,9%, contro il 47,1% di un proposito di evitamento. Su 730 risposte l’effetto è piccolo (V di Cramér 0,11). «Smetto di scrollare» non dice che cosa succede alle 21. «Dopo cena il telefono si carica in cucina e facciamo una partita a carte» ha un momento e un gesto. Le percentuali svedesi non sono una previsione per una terza media.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Più istruzioni non hanno tenuto di più",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gli stessi partecipanti sono stati assegnati a caso. 392 persone ricevevano informazioni brevi e tre richiami, a fine gennaio, giugno e dicembre. 364 aggiungevano il nome di una persona, un richiamo al mese e un’email sugli ostacoli. 306 aggiungevano anche obiettivi specifici, misurabili, accettati, realistici e con scadenza, sei traguardi intermedi e altre email.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il successo medio riferito, da 0 a 100, è stato 62,3 con il supporto corto (intervallo di confidenza al 95% da 59,4 a 65,2), 55,9 con le informazioni brevi (da 53,1 a 58,8) e 52,5 con il pacchetto esteso (da 49,3 a 55,7). Il supporto corto sta sopra gli altri due, con effetti piccoli (d = 0,22 e d = 0,34). Il pacchetto esteso non supera le informazioni brevi. Gli autori, sorpresi, propongono che un obiettivo troppo specifico renda visibile ogni mezzo fallimento: sei traguardi sono sei scadenze da mancare. Lo studio non separa persona, richiami ed email, e il successo resta autodichiarato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È un avviso contro la lista lunga del 31 dicembre. Moreno, Binger, Zhao e Eickhoff, su JAMA Pediatrics nel 2021, hanno seguito 1.520 coppie genitore-adolescente, ragazzi di età media 14,5 anni, fra 12 e 17 anni. A circa due mesi il rispetto delle regole riferito dai ragazzi non differiva: differenza −0,1, intervallo di confidenza al 95% da −1,1 a 0,9. Nessuna differenza su sonno, attività fisica e depressione. Quasi metà del campione si è perso. Moreno e colleghi, nel 2024, rileggono il risultato: una spiegazione possibile è che le famiglie scegliessero troppe regole. Il piano rivisto chiede poche aree per volta, si può riaprire, e dal 2022 include gli adulti. La ricerca sull’efficacia, scrivono, è ancora indietro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina HealthyChildren, aggiornata il 20 gennaio 2026, chiede regole discusse con i ragazzi, riviste spesso e valide anche per gli adulti. Tra gli esempi: zone senza schermo ai pasti, durante i compiti e prima di dormire; un solo schermo; autoplay e notifiche spenti. Sono esempi, non una lista da firmare il 31. Il foglio corto per il resto dell’anno è il pezzo sugli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo per i ragazzi di 8–14 anni",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Schermi: che cosa tolgono, non un tetto di minuti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le linee guida dell’OMS del 2020, per i 5–17 anni, chiedono di limitare il tempo da seduti, in particolare lo schermo ricreativo: TV, computer e dispositivi mobili fuori da studio e lavoro. Raccomandazione forte, certezza bassa. Le prove non bastano a fissare i minuti. «Massimo un’ora dal 1° gennaio» non esce da lì.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il promemoria dei 5 C dell’AAP, del 26 aprile 2024, scritto per i clinici, sposta la domanda: che cosa lo schermo sta togliendo (sonno, tempo fuori, tempo insieme) e parlarne spesso, con domande, non in un discorso unico. Moreno e colleghi, nel 2024, scrivono che i 5 C vanno ancora valutati.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le FAQ di Benessere in rete, dell’Istituto superiore di sanità, chiedono un momento tranquillo, senza giudizi. Regole condivise e spiegate sono più utili di divieti rigidi, e il solo controllo del tempo è meno promettente se manca il dialogo. Togliere di colpo telefono o computer, senza spiegazione e senza accordo, di solito aumenta il conflitto e può spingere a nascondere l’uso. Una sospensione può servire se l’uso interferisce con sonno, scuola, relazioni o sicurezza, se è proporzionata e dentro un accompagnamento. Il proposito di Capodanno è la frase scritta insieme. La sospensione, se serve, è un altro passaggio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sonno e notifiche: un gesto solo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le fasce di sonno non coincidono, e nessuna è un orario di Capodanno. Il CDC indica 9–12 ore per i 6–12 anni e 8–10 per i 13–17, la stessa ora di letto e di sveglia, e i dispositivi spenti almeno 30 minuti prima di dormire. Il consenso AASM del 2016 dice 8–10 ore per i 13–18 anni. La pagina ISS del 14 marzo 2025 riporta 9–11 ore a 6–13 anni e 8–10 a 14–17, e ricorda lo spostamento biologico dell’adolescenza e la difficoltà a autoregolarsi sui dispositivi la sera in camera. «Otto ore e mezzo per tutti» è un numero che queste fonti non condividono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La campagna AASM Make Time to Sleep elenca tre gesti distinti, e non misura quale conti di più: spegnere telefono, computer, tablet e TV almeno 30 minuti prima; silenziare le notifiche; tenere il telefono lontano dal letto. Per gennaio se ne sceglie uno, si dice prima della prima sera, e vale anche per l’adulto. Gli altri, se già ci sono in casa, restano. Il riavvicinamento della sveglia dopo le vacanze sta nel pezzo sulle vacanze di Natale citato all’inizio. Il comodino, per il resto dell’anno, sta nel pezzo sul telefono in camera.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fitz, Kushlev e colleghi, su Computers in Human Behavior nel 2019, hanno seguito per due settimane 237 adulti reclutati online in India, età media 29,8 anni. Tre blocchi di notifiche al giorno, rispetto a riceverle come al solito, si associavano a più attenzione, umore migliore, più controllo del telefono, meno stress e meno interruzioni. Un blocco ogni ora no. Nessuna notifica si associava a più ansia e a più paura di perdersi un avviso. Non sono ragazzi, le app restavano apribili, e gli orari dello studio (9, 15, 21) non vanno copiati. In casa si possono scegliere pochi momenti, per una sola app.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quanto ci mette, e la sera che si salta",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lally, van Jaarsveld, Potts e Wardle, nel 2010, hanno chiesto a 96 adulti (età media 27 anni, dai 21 ai 45) di ripetere ogni giorno, nello stesso contesto, un comportamento su cibo, bevande o attività, per 12 settimane. L’esempio è «dopo colazione». Per 39 persone, quelle in cui la curva si adattava bene, la mediana per arrivare al 95% del proprio plateau era 66 giorni, da 18 a 254. Saltare un’occasione non modificava in modo materiale il processo. Non è il telefono e non sono minori. Sessantasei giorni è la mediana di quel sottogruppo, non una legge.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Singh, Murphy, Maher e Smith, su Healthcare nel 2024, hanno rivisto 20 studi e 2.601 adulti. I lavori sulla riduzione dei social erano esclusi: la rassegna guarda abitudini da costruire, come movimento e dieta. Quattro studi davano un tempo, con mediane di 59–66 giorni, medie di 106–154 e casi da 4 a 335. I punteggi di abitudine miglioravano tra prima e dopo (differenza media standardizzata 0,69; intervallo di confidenza al 95% da 0,49 a 0,88); undici studi su venti hanno un rischio di bias alto. Le abitudini scelte da chi le fa tendono a essere più forti. I 21 giorni, ricondotti al libro di Maltz, non sono il risultato. Può volerci circa due mesi, con tempi molto diversi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per la conversazione di fine anno, da queste due fonti si portano a casa tre cose, con i limiti appena scritti. Il gesto si aggancia a un momento che c’è già. Lo sceglie anche il ragazzo, dentro un menu corto. Una sera saltata non riazzera l’anno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La conversazione, tra il 28 e i primi di gennaio",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un menu corto, detto ad alta voce, può essere questo. Se ne tiene uno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Dopo cena il telefono si carica in un punto della casa che non è il letto. Lo fa anche l’adulto che propone la frase.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Le notifiche di una sola app, scelta dal ragazzo, arrivano in pochi momenti della giornata. Le altre si silenziano. Le chat che servono per la scuola restano fuori da questo proposito.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un tratto della giornata resta senza schermo ricreativo perché protegge una cosa nominata: il sonno, un pasto, o i compiti. Si dice quale. «Meno telefono» non nomina ancora il momento.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’adulto ne prende uno, lo stesso o un gemello. Nello studio svedese il supporto con il successo medio più alto includeva il nome di una persona. In casa è qualcuno che a febbraio chiede com’è andata la settimana, non qualcuno che apre la cronologia. Il piano rivisto dall’AAP include gli adulti: il confine vale per chi lo scrive.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La revisione si mette a febbraio, non la sera del 2 gennaio. Un mese è meno della mediana di Lally e meno dei due mesi della rassegna di Singh: serve a vedere se la frase è ancora dicibile. Se il gesto è troppo grande, si accorcia. Lo sgarro non diventa una punizione, ed è il punto delle FAQ dell’ISS.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A scuola, al rientro, la stessa misura. Queste fonti non misurano un compito in classe né una sfida di detox con un voto. Un educatore può chiedere che cosa lo schermo sta togliendo in quella classe, e fermarsi a un gesto condiviso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se l’uso interferisce già con sonno, scuola, relazioni o sicurezza, la sospensione di cui parla l’ISS può entrare in un accompagnamento, proporzionata e prevedibile. È un passaggio diverso dal proposito di Capodanno. Se il sonno resta corto anche quando la mattina è libera, se ne parla con il pediatra. Questo pezzo non è un parere medico.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Dal 1° gennaio niente telefono» funziona meglio di un gesto piccolo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nello studio di Oscarsson, su adulti svedesi, i propositi di evitamento avevano un successo riferito più basso di quelli di avvicinamento: 47,1% contro 58,9%, effetto piccolo. Il pacchetto di istruzioni più lungo non superava un supporto più corto. Nel trial di Moreno un piano sui media non aumentava, a due mesi, il rispetto delle regole riferito da ragazzi di 12–17 anni; nel 2024 gli autori indicano, tra le spiegazioni, troppe regole insieme. Un gesto con un momento è la forma più dicibile. Non è una misura sui minori italiani.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quanti giorni ci vogliono perché diventi un’abitudine?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nello studio di Lally la mediana, su 39 adulti in cui il modello si adattava bene, era 66 giorni, da 18 a 254. La revisione di Singh, su abitudini da costruire e non sulla riduzione dei social, parla di circa due mesi per cominciare, con casi da 4 a 335 giorni. I 21 giorni non sono il risultato di questi studi, e nessuno dei due misura il telefono di un ragazzo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Serve un numero massimo di ore di schermo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le linee guida OMS del 2020 chiedono di limitare lo schermo ricreativo dei 5–17 anni e scrivono che le prove non bastano a fissare i minuti. CDC, AASM e ISS danno fasce di sonno con tagli di età diversi, non un tetto di schermo. Se in casa serve un numero, si discute sulla routine e se ne tiene uno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se una sera si salta, si ricomincia da capo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nello studio di Lally, saltare un’occasione non modificava in modo materiale la formazione dell’abitudine, negli adulti e nei comportamenti misurati lì. Le FAQ dell’ISS dicono che togliere il dispositivo di colpo, come punizione e senza accordo, di solito non è la strada più utile. La sera saltata si riprende al momento successivo già scelto, non con una lista nuova.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il proposito vale anche per i genitori?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Family Media Plan rivisto, come lo raccontano Moreno e colleghi nel 2024, include gli adulti: il confine vale per chi lo scrive. La pagina HealthyChildren chiede un piano di cui fa parte ogni membro della famiglia. Nello studio svedese sui propositi, il supporto che si associava al successo medio più alto comprendeva il nome di una persona concreta, insieme ai richiami. Un proposito solo per il ragazzo, con l’adulto al telefono nello stesso momento, non è il piano che queste pagine descrivono.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 12
+}
