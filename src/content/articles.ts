@@ -40,6 +40,7 @@ import etaMinimaSocialAustralia from './articles/eta-minima-social-australia-und
 import sfideVirali from './articles/sfide-virali-parlarne-senza-amplificarle.json'
 import sonnoSchermiVacanza from './articles/sonno-e-schermi-in-vacanza-routine-ragazzi.json'
 import propositiDigitaliFineAnno from './articles/propositi-digitali-fine-anno-ragazzi.json'
+import rientroScuolaSchermi from './articles/rientro-a-scuola-dopo-le-feste-regole-schermi.json'
 
 export const articles = [
   brainRot,
@@ -83,4 +84,5 @@ export const articles = [
   sfideVirali,
   sonnoSchermiVacanza,
   propositiDigitaliFineAnno,
+  rientroScuolaSchermi,
 ] as ArticleSource[]
