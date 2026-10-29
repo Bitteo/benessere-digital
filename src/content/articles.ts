@@ -39,6 +39,9 @@ import smartwatchGpsBambini from './articles/smartwatch-gps-bambini-privacy-e-al
 import etaMinimaSocialAustralia from './articles/eta-minima-social-australia-under-16.json'
 import sfideVirali from './articles/sfide-virali-parlarne-senza-amplificarle.json'
 import telefonoNuovoNatale from './articles/telefono-nuovo-natale-primo-giorno.json'
+import sonnoSchermiVacanza from './articles/sonno-e-schermi-in-vacanza-routine-ragazzi.json'
+import propositiDigitaliFineAnno from './articles/propositi-digitali-fine-anno-ragazzi.json'
+import rientroScuolaSchermi from './articles/rientro-a-scuola-dopo-le-feste-regole-schermi.json'
 
 export const articles = [
   brainRot,
@@ -81,4 +84,7 @@ export const articles = [
   etaMinimaSocialAustralia,
   sfideVirali,
   telefonoNuovoNatale,
+  sonnoSchermiVacanza,
+  propositiDigitaliFineAnno,
+  rientroScuolaSchermi,
 ] as ArticleSource[]

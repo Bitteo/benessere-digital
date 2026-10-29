@@ -1,0 +1,790 @@
+{
+  "slug": "rientro-a-scuola-dopo-le-feste-regole-schermi",
+  "title": "Rientro a scuola: rimettere le regole sugli schermi senza lo scontro",
+  "excerpt": "La sveglia torna, il telefono è ancora in camera, i compiti riaprono. Come riavvicinare sonno e regole in pochi giorni, con un accordo corto, senza sequestrare il dispositivo la domenica.",
+  "cover": "/images/covers/rientro-a-scuola-dopo-le-feste-regole-schermi.png",
+  "coverAlt": "Illustrazione a linee su fondo avorio, tratti charcoal e pochi accenti corallo: un adulto e un ragazzo al tavolo, una sveglia, un telefono che si carica lontano da una porta di camera e un quaderno dei compiti aperto.",
+  "publishedAt": "2027-01-04T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["schermo-e-tempo", "genitori-e-scuola"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Rientro a scuola e regole sugli schermi",
+    "metaDescription": "Dopo le vacanze: sonno, telefono in camera e compiti. Un rientro in pochi giorni, un accordo corto con i ragazzi, e che cosa fare se lo scontro arriva.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Bei, Allen, Nicholas, Dudgeon, Murray e Trinder — Sonno in attoigrafia a scuola e in vacanza (2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23992480/",
+      "note": "Journal of Sleep Research, 2014, 23(1), 107–117. DOI 10.1111/jsr.12080. PMID 23992480. 146 adolescenti (47,3% maschi), età media 16,2 anni (deviazione standard 1,0), comunità generale, actigrafo per 4 settimane: ultima settimana di scuola, due di vacanza, prima del periodo successivo. Tolta la restrizione scolastica, l’orario del sonno si sposta in avanti di colpo e la durata aumenta. Poi ora di letto e ora di alzarsi slittano ancora, in modo lineare, per tutta la vacanza. Rispetto alla scuola, il sonno in vacanza è più tardi, più lungo, di qualità più bassa e più variabile. Il recupero della restrizione scolastica sembra completo entro le due settimane. Non è un campione italiano e non è il Natale."
+    },
+    {
+      "title": "Crowley e Carskadon — Il sonno di recupero del fine settimana sposta la fase circadiana (2010)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20795887/",
+      "note": "Chronobiology International, 2010, 27(7), 1469–1492. DOI 10.3109/07420528.2010.503293. PMID 20795887. Ragazzi di 15–17 anni, sonno a casa, DLMO in laboratorio il venerdì e la domenica. Fine settimana «tipico»: letto 1,5 ore più tardi, sveglia 3 ore più tardi, 1,5 ore in più a letto rispetto ai giorni di scuola, per due notti. Il DLMO si sposta in avanti di 45 ± 31 minuti nell’esperimento 1 (12 partecipanti, 4 maschi) e di 46 ± 34 minuti nell’esperimento 2 (33 partecipanti, 10 maschi). Condizione pisolino: sveglia solo 1 ora più tardi e pisolino pomeridiano di 2 ore; spostamento 41 ± 34 minuti, non diverso dal tipico. Condizione luce: 1 ora di luce a 454–484 nm al risveglio del fine settimana; spostamento 38 ± 28 minuti, non diverso dal tipico. Gli autori concludono che un fine settimana tardo e lungo sposta in ritardo la fase, e che in questo campione né la sveglia più presto né quella luce del mattino hanno stabilizzato l’orologio. Non è una vacanza di due settimane e non è un protocollo di rientro a scuola."
+    },
+    {
+      "title": "Harbard, Allen, Trinder e Bei — Comportamenti nell’ora prima di dormire, a scuola e in vacanza (2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26874590/",
+      "note": "Journal of Adolescent Health, 2016, 58(4), 426–432. DOI 10.1016/j.jadohealth.2015.12.011. PMID 26874590. Stessa coorte di Bei 2014: 146 adolescenti (47,26% maschi), età media 16,2 ± 1,0 anni. I videogiochi, controllando il cronotipo, si associano a un’ora di letto significativamente più tardi a scuola e in vacanza e a un sonno scolastico più corto. In vacanza i social online si associano a una latenza di addormentamento più lunga, relazione mediata da un arousal cognitivo più alto. Nelle notti di scuola, il tempo con la famiglia si associa a un letto più presto e a un sonno più lungo. La conclusione degli autori parla in generale di sonno più corto e peggiore: i risultati distinti per scuola e vacanza sono quelli sopra. Non misura un Natale italiano."
+    },
+    {
+      "title": "ISS — Giornata mondiale del sonno, un buon sonno deve essere una priorità (14 marzo 2025)",
+      "url": "https://www.iss.it/-/world-sleep-day-un-buon-sonno-deve-essere-una-priorita",
+      "note": "Pagina dell’Istituto superiore di sanità, pubblicata il 14 marzo 2025. Raccomandazioni riportate per la popolazione in età scolare: tra 9 e 11 ore a 6–13 anni e tra 8 e 10 ore a 14–17. Gli adolescenti tendono a restare svegli fino a tardi per il cambiamento dei ritmi biologici, e può essere difficile per loro autoregolarsi nel ritmo sonno-veglia o nell’uso dei dispositivi, soprattutto la sera in camera. I genitori dovrebbero dare regole sui ritmi quotidiani e cominciare a seguirle qualche giorno prima del suono della prima campanella. I tagli di età non coincidono con la tabella CDC. La pagina non fissa un tetto di schermo."
+    },
+    {
+      "title": "ISS — I consigli per un buon sonno (scheda PDF)",
+      "url": "https://www.iss.it/documents/20126/0/I+consigli+per+un+buon+sonno.pdf/008df51d-db6f-c466-e08a-ebbf71a5feb7?t=1725269070529",
+      "note": "Scheda dell’ISS sul rientro a scuola dopo l’estate, non sul Natale. Dice che ristabilire i ritmi richiede tempo: a chi per tre mesi è stato sveglio fino a tardi non si può chiedere di andare a letto alle 21 da un giorno all’altro. Propone di anticipare il riposo di 15–20 minuti alla volta, cominciando qualche giorno prima dell’inizio della scuola. Ricorda attività motoria ed esposizione al sole, con l’esempio di andare a scuola a piedi o in autobus. Chiede regole sui dispositivi valide anche per gli adulti, per esempio non usare il cellulare a tavola; tenere i dispositivi fuori dalla camera da letto; spegnere dispositivi e schermi almeno un’ora o due prima di dormire. Se un adolescente usa molto i supporti elettronici la sera, parlarne, regolamentare l’uso e diminuirlo soprattutto la sera e a letto. Limitare o eliminare caffè e bevande energetiche con caffeina. Non dà una soglia in milligrammi e non misura uno slittamento natalizio."
+    },
+    {
+      "title": "CDC — About Sleep",
+      "url": "https://www.cdc.gov/sleep/about/index.html",
+      "note": "Pagina About Sleep. In tabella: 9–12 ore per i 6–12 anni e 8–10 ore per i 13–17 anni. Tra le abitudini: spegnere i dispositivi elettronici almeno 30 minuti prima di dormire. Non è la stessa finestra della scheda ISS (un’ora o due) e i tagli di età non coincidono con la pagina ISS del 14 marzo 2025. Non chiede di togliere il telefono per tutto il giorno del rientro."
+    },
+    {
+      "title": "Bull e colleghi — Linee guida OMS 2020 su attività fisica e comportamento sedentario",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/",
+      "note": "British Journal of Sports Medicine, 2020, 54, 1451–1462. DOI 10.1136/bjsports-2020-102955. PMC7719906. Articolo aperto che descrive le WHO guidelines on physical activity and sedentary behaviour (Ginevra, 25 novembre 2020; scheda OMS ISBN 978-92-4-001512-8, https://www.who.int/publications/i/item/9789240015128). Per i 5–17 anni: limitare il tempo da seduti, in particolare lo schermo ricreativo. Raccomandazione forte, certezza bassa. Più comportamento sedentario si associa a effetti sfavorevoli su fitness, salute cardiometabolica, adiposità, comportamento e durata del sonno; l’associazione è in genere più forte per la televisione o lo schermo ricreativo che per il tempo sedentario totale. Le prove non bastano a fissare una soglia precisa di minuti di sedentarietà o di schermo ricreativo. Documento distinto dalle linee guida 2019 per i bambini sotto i 5 anni. Non parla di vacanze di Natale."
+    },
+    {
+      "title": "HealthyChildren — How to Make a Family Media Plan",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Pagina dell’American Academy of Pediatrics. In calce riporta Last Updated 1/20/2026. Regole discusse con i ragazzi e un piano per ogni membro della famiglia, adulti compresi. Tra gli esempi di zone senza schermo: la tavola, i compiti e il momento prima di dormire; un solo schermo; spegnere autoplay e notifiche. Si rivede spesso: l’inizio della scuola, l’estate e le vacanze sono i momenti indicati. Gli esempi non sono un esperimento sul quaderno di gennaio."
+    },
+    {
+      "title": "AAP Center of Excellence — How to Use the 5 Cs of Media Use (26 aprile 2024)",
+      "url": "https://www.aap.org/en/patient-care/media-and-children/center-of-excellence-on-social-media-and-youth-mental-health/how-to-use-the-5-cs-of-media-use-tips-for-pediatric-clinicians/",
+      "note": "Promemoria per i clinici. La pagina riporta Last Updated 04/26/2024. Child, Content, Calm, Crowding Out, Communication. Crowding out: invece delle ore, chiedere che cosa lo schermo sta togliendo, come sonno, tempo fuori, tempo insieme. Communication: parlarne spesso, con domande, non in un discorso unico. Moreno e colleghi 2024 scrivono che i 5 C vanno ancora valutati. Non è un intervento già misurato sul rientro a scuola."
+    },
+    {
+      "title": "Moreno, Binger, Zhao e Eickhoff — Effect of a Family Media Use Plan (2021)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7835954/",
+      "note": "JAMA Pediatrics, 2021, 175(4). Online dal 25 gennaio 2021. DOI 10.1001/jamapediatrics.2020.5629. Trial randomizzato. 1.520 coppie genitore-adolescente; età media dei ragazzi 14,5 anni (deviazione standard 1,6), arruolati fra i 12 e i 17. Reclutamento di base dall’8 aprile al 1° maggio 2019, follow-up dall’11 giugno al 2 luglio 2019. Rispetto delle regole riferito dagli adolescenti: differenza tra i gruppi −0,1 (intervallo di confidenza al 95% da −1,1 a 0,9). Al follow-up i dati sul rispetto delle regole riguardano 790 partecipanti (430 nel gruppo dell’intervento, 360 nel controllo). Importanza percepita della tecnologia più bassa nel gruppo del piano (scala ADTI, differenza −2,2; IC 95% da −4,2 a −0,2): non è il rispetto delle regole. Questionari, pannello online. Non è la fascia sotto i 12 anni."
+    },
+    {
+      "title": "Moreno, Radesky, Walsh e Tomopoulos — The Family Media Plan (2024)",
+      "url": "https://reachoutandread.org/wp-content/uploads/2025/06/Moreno_2024.pdf",
+      "note": "Pediatrics, 154(6), e2024067417. DOI 10.1542/peds.2024-067417. PDF aperto di Reach Out and Read dello stesso articolo. Sul trial del 2021: non ha aumentato il rispetto delle regole. Tra le spiegazioni possibili, famiglie che sceglievano troppe regole, difficili da ricordare e da far rispettare. Il piano rivisto chiede poche aree per volta e si può riaprire. Dal 2022 gli adulti sono nel piano. Gli autori scrivono che la ricerca sull’efficacia è ancora indietro e che i 5 C vanno ancora valutati. Non è un trial nuovo."
+    },
+    {
+      "title": "ISS — Benessere in rete, FAQ",
+      "url": "https://benessereinrete.iss.it/faq",
+      "note": "FAQ del Centro nazionale dipendenze e doping, Istituto superiore di sanità. Risposte usate qui. Età del telefono: non c’è un’età giusta per tutti; le raccomandazioni della Società Italiana di Pediatria, che la pagina cita, suggeriscono di rinviare lo smartphone personale almeno fino ai 13 anni e di evitare l’accesso non supervisionato a Internet prima di quell’età; l’introduzione graduale ha regole chiare e condivise su tempi, luoghi e contenuti, evitando pasti, il momento prima di dormire e la camera. Sonno: l’uso serale, a letto o di notte, può ritardare l’addormentamento, ridurre la durata e peggiorare la qualità; il rischio aumenta se il telefono resta in camera, se arrivano notifiche o se l’attività è coinvolgente (social, gaming, video, chat). Punizione: togliere di colpo telefono o computer, senza spiegazioni e senza accordo, di solito non è la strategia più utile; può aumentare il conflitto, favorire usi nascosti e rendere più difficile il dialogo. Una sospensione temporanea può essere utile se l’uso interferisce con sonno, scuola, relazioni o sicurezza, se è proporzionata, prevedibile e dentro un accompagnamento. Conversazione: momento tranquillo, senza giudizi né frasi colpevolizzanti; regole chiare e realistiche, costruite insieme, possono ridurre il conflitto. Prevenzione: regole condivise, coerenti e spiegate sono più utili di divieti rigidi; il solo controllo del tempo è meno promettente senza educazione, dialogo e autoregolazione. Non sono un trial sul rientro di gennaio."
+    },
+    {
+      "title": "Bozzola e colleghi — Digital media exposure and pediatric health (2026)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12910747/",
+      "note": "Italian Journal of Pediatrics, 23 gennaio 2026. DOI 10.1186/s13052-026-02198-6. PMC12910747. Revisione della Commissione Dipendenze Digitali della Società Italiana di Pediatria, ricerca su PubMed dal 1° gennaio 2018 al 1° aprile 2025. Raccomandazioni usate qui, dall’elenco della commissione: rinviare lo smartphone personale almeno fino ai 13 anni; evitare l’accesso a Internet senza supervisione prima dei 13 e abilitare i controlli genitoriali dopo; non usare i dispositivi durante i pasti, prima di dormire e in camera. La conclusione scrive anche l’ora prima di coricarsi. Il resto della revisione (obesità, miopia, neuroimaging, cyberbullismo) non è ripreso. Sono raccomandazioni su una letteratura in gran parte associativa, non un trial su un foglio firmato in cucina."
+    },
+    {
+      "title": "Generazioni Connesse / Save the Children — Educare al digitale tra i 5 e gli 8 anni",
+      "url": "https://www.generazioniconnesse.it/_file/documenti/News/2025/educare-al-digitale-tra-i-5-e-gli-8-anni.pdf",
+      "note": "Guida per docenti e genitori, Save the Children dentro il Safer Internet Centre Generazioni Connesse, coordinato dal Ministero dell’istruzione e del merito e cofinanziato dalla Commissione europea. PDF nel percorso News/2025 del sito. Fascia 5–8 anni. Sulle regole di famiglia: sono efficaci se condivise e se valgono per tutti, non solo per bambini e bambine; una routine funziona se i genitori ne fanno parte e danno l’esempio. Esempi sul foglio: divieto di dispositivi durante i pasti; schermi solo nelle aree comuni, non nelle stanze da soli; tempo commisurato all’età e all’attività; uso della rete raccontato e spiegato, anche il lavoro dell’adulto. I controlli delle piattaforme sono un supporto e non sostituiscono l’adulto. Non è uno studio sul rientro di gennaio e non è un copione per gli adolescenti."
+    },
+    {
+      "title": "Generazioni Connesse — Conoscere, vivere, scoprire",
+      "url": "https://www.generazioniconnesse.it/site/it/2019/09/03/conoscere-vivere-scoprire/",
+      "note": "Pagina della campagna del consorzio Generazioni Connesse, URL datato 3 settembre 2019. Nel paragrafo per i genitori: i ragazzi sono connessi e la vita relazionale è anche online, per questo il controllo non è una strategia efficace; bisogna puntare sul dialogo e sulla contrattazione delle regole, con coerenza e buon esempio. Per i più piccoli la pagina chiede di considerare il rinvio dell’accesso ai media portatili. È un testo di campagna, non un trial sul rientro a scuola."
+    }
+  ],
+  "faq": [
+    {
+      "question": "«Da domani si torna alle 21.30» funziona meglio di 15 minuti alla volta?",
+      "answer": "La scheda ISS sul rientro dopo l’estate dice di no, sull’esempio di chi è stato sveglio fino a tardi per tre mesi: non si chiede il letto delle 21 da un giorno all’altro. Il passo che scrive è di 15–20 minuti, cominciando qualche giorno prima della scuola. Uno slittamento di Natale non è quel protocollo, e non è un motivo per fare il salto in una sera. Nello studio di Bei l’orario continua a slittare per tutta la vacanza: la domenica non lo riporta da sola all’orario di scuola."
+    },
+    {
+      "question": "Il telefono può restare in camera se i compiti sono finiti?",
+      "answer": "La scheda ISS chiede i dispositivi fuori dalla camera da letto, come regola anche per gli adulti. La Società Italiana di Pediatria, nella revisione del 2026, mette la camera tra i luoghi in cui non usare i device, insieme ai pasti e al momento prima di dormire. Le FAQ dell’ISS dicono che il rischio per il sonno aumenta se il telefono resta in camera o se arrivano notifiche di notte. I compiti finiti non sono, in queste pagine, un’eccezione. Il punto in cui si carica è quello del pezzo sul telefono in camera."
+    },
+    {
+      "question": "Quante regole metto sul foglio?",
+      "answer": "Nel trial di Moreno del 2021 un piano sui media non aumentava, a circa due mesi, il rispetto delle regole riferito da ragazzi di 12–17 anni. Nel 2024 gli autori indicano, tra le spiegazioni, troppe regole insieme. Il piano rivisto chiede poche aree per volta. L’OMS chiede di limitare lo schermo ricreativo dei 5–17 anni e scrive che le prove non bastano a fissare i minuti. Se in casa serve un numero, si discute sulla routine e se ne tiene uno. Non si copia l’elenco intero la sera del 3 gennaio."
+    },
+    {
+      "question": "Se litighiamo, lo sequestra?",
+      "answer": "Le FAQ dell’ISS dicono che togliere telefono o computer di colpo, come punizione e senza accordo, di solito non è la strada più utile: può aumentare il conflitto e spingere a nascondere l’uso. Una sospensione può entrare se l’uso interferisce con sonno, scuola, relazioni o sicurezza, se è proporzionata, prevedibile e dentro un accompagnamento. La sera del rientro, da sola, non è quell’accompagnamento. La conversazione che le FAQ descrivono parte da un momento tranquillo e da una domanda, non dal rimprovero per i minuti."
+    },
+    {
+      "question": "Le regole valgono anche per i genitori?",
+      "answer": "Sì, nelle pagine usate qui. La scheda ISS scrive che le regole sui dispositivi le rispettano tutti, adulti compresi, con l’esempio del cellulare a tavola. Il Family Media Plan, come lo raccontano Moreno e colleghi nel 2024, include gli adulti. HealthyChildren chiede un piano per ogni membro della famiglia, chi lo scrive compreso. La guida di Generazioni Connesse per i 5–8 anni dice la stessa cosa sul foglio di casa: le regole valgono per tutti, e la routine funziona se i genitori ne fanno parte. Un rientro solo per il ragazzo non è quel piano."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lunedì 4 gennaio 2027. In molte case le vacanze stanno finendo, o sono finite da poco: la data della campanella sta sul calendario della scuola, non su un giorno unico per tutta Italia. La sveglia torna. Il telefono è ancora nel posto in cui ha dormito a dicembre. I compiti riaprono. Questo pezzo è per genitori di bambini e di adolescenti, e per chi a scuola si sente fare la stessa domanda alla porta: come rimettere orari, camera, sonno e compiti senza trasformare il rientro in uno scontro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è un parere medico. Gli studi sul sonno in vacanza citati sotto riguardano adolescenti intorno ai 16 anni, o ragazzi di 15–17 anni in laboratorio. Non descrivono da soli un bambino di 8 anni. Per i più piccoli restano le ore consigliate e le regole della casa. Il ritardo della sera che l’Istituto superiore di sanità lega al cambiamento dei ritmi biologici riguarda gli adolescenti, non la primaria.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il protocollo delle vacanze, orari che slittano e schermi della sera libera, sta nel pezzo «Vacanze di Natale: sonno, schermi e il rientro a gennaio». Il gesto piccolo di fine anno, ancora dicibile a febbraio, sta in «Propositi digitali di fine anno: un’abitudine piccola con i ragazzi». Qui la domanda è un’altra: nei giorni in cui la scuola ricomincia, che cosa si rimette, in che ordine, e che cosa si fa se diventa un litigio. Il telefono sul comodino, per il resto dell’anno, è il pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Come si scrive un accordo che regge sta nel pezzo sugli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". La voglia di restare sul feed non è un serbatoio da svuotare con un detox: che cosa la ricerca dice, e che cosa non dice, sta nel pezzo sulla ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/dopamina-la-guida-completa",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "dopamina",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Perché il rientro è difficile",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Bei, Allen, Nicholas, Dudgeon, Murray e Trinder hanno fatto indossare un actigrafo a 146 adolescenti, età media 16,2 anni (deviazione standard 1,0), 47,3% maschi, per quattro settimane: l’ultima di scuola, due di vacanza, la prima del periodo dopo. Non è un campione italiano e non è il Natale. Tolta la scuola, l’orario del sonno si sposta in avanti di colpo e la durata aumenta. Poi l’ora di andare a letto e l’ora di alzarsi continuano a slittare, in modo lineare, per tutta la vacanza. Rispetto ai giorni di scuola, il sonno in vacanza è più tardi, più lungo, di qualità più bassa e più variabile. Gli autori scrivono che il recupero della restrizione scolastica sembra completo dentro quelle due settimane. Durata e orario sono due misure: si può aver dormito di più e, insieme, aver spostato l’orologio. A gennaio la sveglia chiede l’orario, non solo le ore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non serve una vacanza intera perché l’orologio si muova. Crowley e Carskadon hanno misurato il DLMO, l’inizio della melatonina in luce fioca, in ragazzi di 15–17 anni: il venerdì e la domenica in laboratorio, il sonno del fine settimana a casa. Nel programma che chiamano tipico ci si corica un’ora e mezza più tardi, ci si alza tre ore più tardi e si resta a letto un’ora e mezza in più, per due notti. Il DLMO si sposta in avanti di 45 minuti (deviazione standard 31) su 12 partecipanti, e di 46 minuti (deviazione standard 34) su 33. Alzarsi solo un’ora più tardi e recuperare con un pisolino di due ore non lo ha evitato: 41 minuti (deviazione standard 34), non diverso dal fine settimana tipico. Un’ora di luce a 454–484 nanometri al risveglio di quel fine settimana: 38 minuti (deviazione standard 28), anche qui senza differenza. È un orario deciso dai ricercatori, non due settimane di Natale. Una serie di mattine tarde pesa sul ritmo. Lo studio non autorizza a moltiplicare 45 minuti per ogni weekend di dicembre, e non dice che la domenica sera prima della scuola lo raddrizzi da sola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sulla stessa coorte, Harbard, Allen, Trinder e Bei guardano l’ora prima di dormire. I videogiochi, tenuto conto del cronotipo, si associano a un’ora di letto più tardi sia a scuola sia in vacanza, e a un sonno più corto nei giorni di scuola. In vacanza i social online si associano a più tempo per addormentarsi, tramite una mente più accesa prima del sonno. Il tempo con la famiglia si associa a un letto più presto e a un sonno più lungo nelle notti di scuola, non come risultato della vacanza. Le FAQ di Benessere in rete, dell’Istituto superiore di sanità, dicono che l’uso serale, a letto o di notte, può ritardare l’addormentamento, ridurre la durata e peggiorare la qualità, soprattutto se il telefono resta in camera, se arrivano notifiche o se l’attività è coinvolgente: social, giochi, video, chat. A dicembre queste abitudini hanno avuto più sere libere. Il rientro le ritrova già in casa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le linee guida dell’Organizzazione mondiale della sanità del 2020, come le riporta il lavoro aperto di Bull e colleghi, chiedono a bambini e adolescenti di 5–17 anni di limitare il tempo da seduti, in particolare lo schermo ricreativo. È una raccomandazione forte, con certezza delle prove bassa. Più comportamento sedentario si associa, in quella sintesi, a effetti sfavorevoli anche sulla durata del sonno; l’associazione è in genere più forte per la televisione o lo schermo ricreativo che per tutto il tempo da seduti. Le prove non bastano a fissare una soglia di minuti. Non è un tetto da scrivere sul frigorifero il 4 gennaio, e non è una regola sul sonno. Il documento del 2019 sui bambini sotto i 5 anni è un altro testo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Pochi giorni, non la domenica in cui si spegne tutto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’Istituto superiore di sanità, nella pagina del 14 marzo 2025 sulla Giornata mondiale del sonno, chiede di cominciare le regole qualche giorno prima della prima campanella. Le ore che riporta, per la popolazione in età scolare, sono tra 9 e 11 a 6–13 anni e tra 8 e 10 a 14–17. La pagina dei CDC About Sleep usa altri tagli: 9–12 ore per i 6–12 anni e 8–10 per i 13–17. Non è la stessa tabella. Nessuna delle due è un calendario di Natale. Si tiene la fascia che corrisponde all’età, e si dice che i tagli non coincidono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La scheda ISS «I consigli per un buon sonno» è scritta per il rientro dopo l’estate, non per il Natale. Dice che ristabilire i ritmi richiede tempo: a chi per tre mesi è stato sveglio fino a tardi non si può chiedere di andare a letto alle 21 da un giorno all’altro. Propone di anticipare il riposo di 15–20 minuti alla volta, cominciando qualche giorno prima dell’inizio della scuola. Uno slittamento di dicembre, spesso più corto di tre mesi, non si raddrizza con la sera in cui si spegne tutto alle 21. Si anticipa un poco, per più sere, prima che la sveglia torni. La data è quella della scuola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sulla finestra senza schermi le due pagine non dicono la stessa cosa. CDC About Sleep chiede di spegnere i dispositivi elettronici almeno 30 minuti prima di dormire. La scheda ISS chiede almeno un’ora o due, e di tenere i dispositivi fuori dalla camera da letto: la regola, scrive, vale anche per gli adulti. Non è la stessa istruzione. Si sceglie la finestra che resta dicibile in quella casa, e la si dice prima della prima sera di rientro, non nel mezzo del litigio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I compiti rientrano insieme alla sveglia. La pagina HealthyChildren dell’American Academy of Pediatrics su come fare un Family Media Plan, che riporta Last Updated 1/20/2026, mette tra gli esempi di zone senza schermo la tavola, i compiti e il momento prima di dormire. È un esempio da discutere, non un esperimento sul quaderno di gennaio. Il feed accanto al libro non è il file che l’insegnante ha assegnato. Lo schermo del compito, se il compito è quello, resta il compito. Lo schermo ricreativo nello stesso tratto è la zona di cui parla la pagina.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La stessa scheda ISS, per dopo l’estate, ricorda attività motoria e luce del sole, con l’esempio di andare a scuola a piedi o in autobus. Al rientro la leva è la stessa, in piccolo: una mattina con luce e un tratto a piedi, non un programma di allenamento. Nello studio di Crowley, un’ora di luce a corta lunghezza d’onda al risveglio tardo del fine settimana non ha stabilizzato l’orologio. La luce del mattino non sostituisce l’anticipo di 15–20 minuti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Negoziare, invece di imporre il foglio",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina HealthyChildren chiede regole discusse con i ragazzi, adatte a quella famiglia, e un piano di cui fa parte ogni membro, adulti compresi. Si rivede spesso: l’inizio della scuola, l’estate e le vacanze sono i momenti che la pagina indica. Moreno, Binger, Zhao e Eickhoff, in un trial del 2021, hanno arruolato 1.520 coppie genitore-adolescente; età media dei ragazzi 14,5 anni (deviazione standard 1,6), fra i 12 e i 17. Il piano sui media non ha cambiato in modo statisticamente significativo il rispetto delle regole riferito dai ragazzi: differenza tra i gruppi −0,1 (intervallo di confidenza al 95% da −1,1 a 0,9). Al follow-up il rispetto delle regole è riferito da 790 ragazzi, su 1.520 arruolati. L’importanza percepita della tecnologia, scala ADTI, era più bassa nel gruppo del piano (differenza −2,2; intervallo da −4,2 a −0,2): non è il rispetto delle regole. Nel 2024 Moreno, Radesky, Walsh e Tomopoulos, rileggendo quello studio, indicano tra le spiegazioni possibili famiglie che sceglievano troppe regole, difficili da ricordare e da far rispettare. Il piano rivisto chiede poche aree per volta e si può riaprire. Dal 2022 gli adulti sono nel piano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I 5 C dell’AAP, nel promemoria per i clinici aggiornato il 26 aprile 2024, non sono un intervento già misurato: Moreno e colleghi nel 2024 scrivono che vanno ancora valutati. Due voci servono qui come domande, non come protocollo. Crowding out: invece delle ore, chiedere che cosa lo schermo sta togliendo, sonno, compiti, tempo insieme. Communication: parlarne con domande, non in un discorso unico la sera prima della campanella. Il come si scrive il foglio, età per età, sta negli accordi di schermo già citati.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Generazioni Connesse, il Safer Internet Centre italiano, ha una guida di Save the Children per docenti e genitori di bambini fra i 5 e gli 8 anni. Sul digitale in famiglia scrive che le regole efficaci sono condivise e valgono per tutti, non solo per bambini e bambine, e che una routine funziona se i genitori ne fanno parte e danno l’esempio. Tra gli esempi del foglio: niente dispositivi durante i pasti; schermi solo nelle aree comuni, non nelle stanze da soli; un tempo commisurato all’età e all’attività; l’uso della rete raccontato, anche quando è il lavoro dell’adulto. I controlli parentali, scrive, sono un supporto e non sostituiscono l’adulto. Non è uno studio sul rientro di gennaio e non è un copione per un quindicenne. Per i più grandi, la pagina della campagna «Conoscere, vivere, scoprire» (3 settembre 2019) dice un’altra cosa, sulla stessa linea: il controllo non è una strategia efficace, perché la vita relazionale è anche online; servono dialogo, contrattazione delle regole, coerenza e buon esempio. Per i più piccoli la stessa pagina chiede di considerare il rinvio dei media portatili.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Commissione Dipendenze Digitali della Società Italiana di Pediatria, nella revisione pubblicata il 23 gennaio 2026, elenca tra le raccomandazioni: rinviare lo smartphone personale almeno fino ai 13 anni; evitare l’accesso a Internet senza supervisione prima dei 13 e abilitare i controlli genitoriali dopo; non usare i dispositivi durante i pasti, prima di dormire e in camera. Nella conclusione gli autori scrivono anche l’ora prima di coricarsi. Sono raccomandazioni di una commissione su una letteratura in gran parte associativa, non un trial su un foglio firmato in cucina. Le FAQ dell’ISS, citando quella revisione, ripetono regole chiare e condivise su tempi, luoghi e contenuti, ed evitano l’uso durante i pasti, prima di dormire e in camera. I 13 anni non sono il pretesto per sequestrare il telefono la domenica del rientro: sono un’indicazione sull’introduzione, non una punizione di gennaio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un menu corto, detto ad alta voce prima che serva, può essere questo. Se ne tengono pochi, non tutti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il telefono si carica fuori dalla stanza in cui si dorme. Lo fa anche l’adulto che propone la frase. È la richiesta della scheda ISS, e una delle zone del piano AAP.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un solo tratto della giornata resta senza schermo ricreativo, e ha un nome: il pasto, l’ora prima del sonno, oppure i compiti. «Meno telefono» non nomina ancora il momento.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "L’ora di andare a letto e l’ora di alzarsi si avvicinano di quel passo già scelto, 15–20 minuti, per più sere. Non si torna all’orario di settembre in una notte.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’adulto ne prende uno, lo stesso o un gemello. Il piano rivisto dall’AAP include chi lo scrive. Un accordo solo per il ragazzo, con il genitore al telefono nello stesso tratto, non è il piano che queste pagine descrivono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se lo scontro arriva lo stesso",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le FAQ di Benessere in rete dicono che togliere di colpo telefono o computer come punizione, senza spiegazioni e senza un accordo, di solito non è la strategia più utile. Può aumentare il conflitto, favorire usi nascosti e rendere più difficile il dialogo. Meglio regole chiare, condivise e coerenti, con il perché, e un’alternativa concreta: un’attività, un tratto insieme, un momento senza schermi. Una sospensione temporanea può essere utile se l’uso interferisce con sonno, scuola, relazioni o sicurezza, se è proporzionata, prevedibile e dentro un accompagnamento. La sera del rientro, a freddo, non è quel percorso. La stessa pagina, sulla prevenzione, scrive che regole condivise, coerenti e spiegate sono più utili di divieti rigidi, e che il solo controllo del tempo è meno promettente senza educazione, dialogo e autoregolazione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sulla conversazione, le FAQ chiedono un momento tranquillo, senza giudizi né frasi colpevolizzanti, e domande aperte: che cosa piace fare online, se c’è un momento in cui è difficile staccarsi. Il punto di partenza è sonno, scuola, relazioni, non il rimprovero per i minuti. Coinvolgere il ragazzo in regole chiare e realistiche, scrivono, può ridurre il conflitto. Un filtro acceso di nascosto non è quella conversazione. Che cosa protegge e che cosa è sorveglianza sta nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "controllo genitori",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se, anche con la mattina libera, il sonno resta corto, o se dopo quel riavvicinamento l’orario non si muove, il passo successivo è il pediatra. Le vacanze non sono, da sole, la spiegazione di un anno intero. Questo pezzo non fa diagnosi e non sostituisce una visita.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per educatori, al rientro",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Queste fonti non misurano un compito in classe né una sfida di detox con un voto. Un educatore può fare una domanda, la stessa del crowding out: che cosa lo schermo sta togliendo in questa settimana, il sonno o l’ora dei compiti, e fermarsi a un gesto condiviso. Non si chiede a nessuno di riferire il contratto di casa, e non si nomina un compagno. Il telefono dentro l’orario scolastico è un altro pezzo, già pubblico: ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/smartphone-a-scuola-cosa-funziona",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "smartphone a scuola",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui il fuoco è la casa, non la nota dell’istituto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La guida di Generazioni Connesse per i 5–8 anni è scritta per docenti e genitori insieme: messaggi uguali fra scuola e famiglia, non due regolamenti che si contraddicono. Per i più grandi, la pagina del 2019 chiede dialogo e regole contrattate, non il controllo come strategia. In classe si può usare una scena generica, una sveglia e un telefono che si carica fuori dalla stanza, senza il nome di una famiglia. Si guarda che cosa il foglio di casa può tenere.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa tenere fermo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sei appigli, letti dalle fonti. Non sono un protocollo sperimentato sul Natale, e non chiedono di azzerare gli schermi il giorno della campanella.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La data del rientro è quella della scuola. Le regole cominciano qualche giorno prima, non la sera stessa, come chiede la pagina ISS del 14 marzo 2025.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Si anticipa di 15–20 minuti alla volta. L’esempio scritto della scheda ISS è l’estate di tre mesi, non un ordine di andare a letto alle 21 in una notte.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Si sceglie una finestra prima del sonno, 30 minuti oppure una o due ore, e la si dice. Le due pagine non coincidono: se ne tiene una.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il telefono non dorme nella stanza in cui dorme il ragazzo. La regola vale anche per l’adulto che la propone.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Sul foglio stanno poche zone, con un nome: pasto, compiti, o l’ora prima del sonno. Troppe regole insieme sono una delle spiegazioni che Moreno e colleghi danno al trial del 2021.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Lo scontro non si chiude sequestrando il dispositivo. Le FAQ dell’ISS tengono la sospensione per quando l’uso interferisce con sonno, scuola, relazioni o sicurezza, e solo se è proporzionata, prevedibile e accompagnata.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Da domani si torna alle 21.30» funziona meglio di 15 minuti alla volta?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La scheda ISS sul rientro dopo l’estate dice di no, sull’esempio di chi è stato sveglio fino a tardi per tre mesi: non si chiede il letto delle 21 da un giorno all’altro. Il passo che scrive è di 15–20 minuti, cominciando qualche giorno prima della scuola. Uno slittamento di Natale non è quel protocollo, e non è un motivo per fare il salto in una sera. Nello studio di Bei l’orario continua a slittare per tutta la vacanza: la domenica non lo riporta da sola all’orario di scuola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il telefono può restare in camera se i compiti sono finiti?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La scheda ISS chiede i dispositivi fuori dalla camera da letto, come regola anche per gli adulti. La Società Italiana di Pediatria, nella revisione del 2026, mette la camera tra i luoghi in cui non usare i device, insieme ai pasti e al momento prima di dormire. Le FAQ dell’ISS dicono che il rischio per il sonno aumenta se il telefono resta in camera o se arrivano notifiche di notte. I compiti finiti non sono, in queste pagine, un’eccezione. Il punto in cui si carica è quello del pezzo sul telefono in camera.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quante regole metto sul foglio?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel trial di Moreno del 2021 un piano sui media non aumentava, a circa due mesi, il rispetto delle regole riferito da ragazzi di 12–17 anni. Nel 2024 gli autori indicano, tra le spiegazioni, troppe regole insieme. Il piano rivisto chiede poche aree per volta. L’OMS chiede di limitare lo schermo ricreativo dei 5–17 anni e scrive che le prove non bastano a fissare i minuti. Se in casa serve un numero, si discute sulla routine e se ne tiene uno. Non si copia l’elenco intero la sera del 3 gennaio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se litighiamo, lo sequestra?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le FAQ dell’ISS dicono che togliere telefono o computer di colpo, come punizione e senza accordo, di solito non è la strada più utile: può aumentare il conflitto e spingere a nascondere l’uso. Una sospensione può entrare se l’uso interferisce con sonno, scuola, relazioni o sicurezza, se è proporzionata, prevedibile e dentro un accompagnamento. La sera del rientro, da sola, non è quell’accompagnamento. La conversazione che le FAQ descrivono parte da un momento tranquillo e da una domanda, non dal rimprovero per i minuti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le regole valgono anche per i genitori?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sì, nelle pagine usate qui. La scheda ISS scrive che le regole sui dispositivi le rispettano tutti, adulti compresi, con l’esempio del cellulare a tavola. Il Family Media Plan, come lo raccontano Moreno e colleghi nel 2024, include gli adulti. HealthyChildren chiede un piano per ogni membro della famiglia, chi lo scrive compreso. La guida di Generazioni Connesse per i 5–8 anni dice la stessa cosa sul foglio di casa: le regole valgono per tutti, e la routine funziona se i genitori ne fanno parte. Un rientro solo per il ragazzo non è quel piano.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 15
+}

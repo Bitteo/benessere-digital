@@ -46,48 +46,56 @@ export default async function CategoriaPage({ params, searchParams }: Props) {
   return (
     <main>
       <div className="container-lg padding-global section-md">
-        <nav
-          className="mb-6 flex flex-wrap items-center gap-2 text-[13px] text-muted"
-          aria-label="Breadcrumb"
-        >
-          <Link href="/" className="hover:text-accent">
-            Home
-          </Link>
-          <span aria-hidden="true">/</span>
-          <Link href="/categorie" className="hover:text-accent">
-            Categorie
-          </Link>
-          <span aria-hidden="true">/</span>
-          <span className="text-primary">{category.name}</span>
+        <nav className="flex items-center gap-2 text-tiny text-primary opacity-50 mb-8" aria-label="Breadcrumb">
+          <Link href="/" className="hover:opacity-80">Home</Link>
+          <span>/</span>
+          <Link href="/categorie" className="hover:opacity-80">Categorie</Link>
+          <span>/</span>
+          <span className="opacity-100">{category.name}</span>
         </nav>
 
-        <div className="mb-8 max-w-2xl">
-          <h1 className="mb-3 text-h2 sm:text-h3">{category.name}</h1>
+        <div className="mb-10 pb-10 border-b border-border">
+          <p className="text-meta text-primary opacity-50 mb-2">Categoria</p>
+          <h1
+            className="text-h1 sm:text-h2 mb-4"
+            style={{ fontFamily: 'FuturaPT-Demi, sans-serif' }}
+          >
+            {category.name}
+          </h1>
           {category.description && (
-            <p className="text-lg leading-relaxed text-muted">{category.description}</p>
+            <p className="text-md text-primary opacity-60 max-w-xl">{category.description}</p>
           )}
         </div>
 
         {articles.length > 0 ? (
           <>
-            <div className="flex max-w-3xl flex-col gap-6">
+            <div className="grid grid-cols-3 lg:grid-cols-2 sm:grid-cols-1 gap-4">
               {articles.map((article) => (
-                <ArticleCard key={article.id} article={article} />
+                <ArticleCard key={article.id} article={article} variant="grid" />
               ))}
             </div>
 
             {totalPages > 1 && (
-              <nav className="mt-12 flex justify-center gap-2" aria-label="Paginazione">
+              <nav
+                className="flex justify-center gap-2 mt-12"
+                aria-label="Paginazione"
+              >
                 {page > 1 && (
-                  <a href={`/categoria/${slug}?pagina=${page - 1}`} className="btn-secondary px-5">
+                  <a
+                    href={`/categoria/${slug}?pagina=${page - 1}`}
+                    className="btn-secondary px-5"
+                  >
                     ← Precedente
                   </a>
                 )}
-                <span className="flex items-center px-4 text-base text-muted">
+                <span className="flex items-center px-4 text-sm text-primary opacity-60">
                   {page} / {totalPages}
                 </span>
                 {page < totalPages && (
-                  <a href={`/categoria/${slug}?pagina=${page + 1}`} className="btn-secondary px-5">
+                  <a
+                    href={`/categoria/${slug}?pagina=${page + 1}`}
+                    className="btn-secondary px-5"
+                  >
                     Successivo →
                   </a>
                 )}
@@ -96,7 +104,7 @@ export default async function CategoriaPage({ params, searchParams }: Props) {
           </>
         ) : (
           <div className="py-24 text-center">
-            <p className="text-lg text-muted">
+            <p className="text-md text-primary opacity-40">
               Nessun articolo pubblicato in questa categoria ancora.
             </p>
             <Link href="/articoli" className="btn-primary mt-6 inline-flex">

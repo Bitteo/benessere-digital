@@ -1,4 +1,7 @@
 import type { ReactNode } from 'react'
+import { articles } from '@/content/articles'
+import { articleFinder, lexicalArticleAnchor } from '@/lib/lexical-article-link'
+import { omitHeadingSection } from '@/lib/omit-heading-section'
 
 type LexicalNode = {
   type?: string
@@ -11,8 +14,8 @@ type LexicalNode = {
 
 type Props = {
   content: unknown
-  /** Drops this heading and everything after it. Used to hide the in-body FAQ duplicate. */
-  omitFromHeading?: string
+  /** Drops this heading and its section. The next heading of the same level stays. */
+  omitHeadingSection?: string
 }
 
 const BOLD = 1
@@ -20,6 +23,8 @@ const ITALIC = 2
 const STRIKETHROUGH = 4
 const UNDERLINE = 8
 const CODE = 16
+
+const findArticle = articleFinder(articles)
 
 function formatText(text: string, format = 0): ReactNode {
   let node: ReactNode = text
@@ -29,6 +34,19 @@ function formatText(text: string, format = 0): ReactNode {
   if (format & UNDERLINE) node = <u>{node}</u>
   if (format & STRIKETHROUGH) node = <s>{node}</s>
   return node
+}
+
+function renderLexicalLink(node: LexicalNode, key: number): ReactNode {
+  const children = renderChildren(node.children)
+  const anchor = lexicalArticleAnchor(node.url, findArticle, new Date())
+  if (anchor.kind === 'span') {
+    return <span key={key}>{children}</span>
+  }
+  return (
+    <a key={key} href={anchor.href} target="_blank" rel="noopener noreferrer">
+      {children}
+    </a>
+  )
 }
 
 function renderChildren(children: LexicalNode[] | undefined): ReactNode {
@@ -60,17 +78,8 @@ function renderNode(node: LexicalNode, key: number): ReactNode {
     case 'listitem':
       return <li key={key}>{renderChildren(node.children)}</li>
     case 'link':
-      return (
-        <a key={key} href={node.url} target="_blank" rel="noopener noreferrer">
-          {renderChildren(node.children)}
-        </a>
-      )
     case 'autolink':
-      return (
-        <a key={key} href={node.url} target="_blank" rel="noopener noreferrer">
-          {renderChildren(node.children)}
-        </a>
-      )
+      return renderLexicalLink(node, key)
     default:
       if (node.children?.length) {
         return <div key={key}>{renderChildren(node.children)}</div>
@@ -79,28 +88,17 @@ function renderNode(node: LexicalNode, key: number): ReactNode {
   }
 }
 
-function nodeText(node: LexicalNode): string {
-  if (typeof node.text === 'string') return node.text
-  return (node.children ?? []).map(nodeText).join('')
-}
-
-export function LexicalContent({ content, omitFromHeading }: Props) {
+export function LexicalContent({ content, omitHeadingSection: headingToOmit }: Props) {
   const root =
     content && typeof content === 'object' && 'root' in content
       ? (content as { root?: LexicalNode }).root
       : null
 
   if (!root?.children?.length) {
-    return <p className="italic text-muted">Contenuto in fase di pubblicazione…</p>
+    return <p className="text-primary opacity-50 italic">Contenuto in fase di pubblicazione…</p>
   }
 
-  let children = root.children
-  if (omitFromHeading) {
-    const cut = children.findIndex(
-      (node) => node.type === 'heading' && nodeText(node).trim() === omitFromHeading,
-    )
-    if (cut >= 0) children = children.slice(0, cut)
-  }
+  const children = headingToOmit ? omitHeadingSection(root.children, headingToOmit) : root.children
 
   return <>{renderChildren(children)}</>
 }

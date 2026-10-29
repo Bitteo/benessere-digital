@@ -33,7 +33,7 @@ export function Navbar() {
 
   return (
     <nav
-      className={`fixed left-0 right-0 top-0 bg-white ${mobileOpen ? 'z-[1002]' : 'z-[999]'}`}
+      className={`fixed left-0 right-0 top-0 border-b border-border bg-white ${mobileOpen ? 'z-[1002]' : 'z-[999]'}`}
       aria-label="Navigazione principale"
     >
       <div className="container-nav padding-global">
@@ -69,7 +69,7 @@ export function Navbar() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="px-4 py-3 text-base font-semibold text-primary transition-colors duration-100 hover:text-accent"
+                className="px-4 py-3 text-base font-semibold text-primary transition-colors duration-100 hover:text-cta-blue"
               >
                 {link.label}
               </Link>
@@ -118,13 +118,13 @@ export function Navbar() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="block rounded px-4 py-4 text-lg font-semibold text-primary transition-colors hover:bg-surface-hover hover:text-accent"
+                className="block rounded px-4 py-4 text-lg font-semibold text-nav-link transition-colors hover:bg-surface-hover hover:text-cta-blue"
                 onClick={() => setMobileOpen(false)}
               >
                 {link.label}
               </Link>
             ))}
-            <div className="mt-6">
+            <div className="mt-4 border-t border-border pt-5">
               <Link
                 href="/newsletter"
                 className="btn-cta w-full py-3 text-center text-base"

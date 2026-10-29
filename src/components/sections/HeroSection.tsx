@@ -3,30 +3,37 @@ import { HeroVisual } from './HeroVisual'
 
 export function HeroSection() {
   return (
-    <section className="bg-white" aria-labelledby="hero-heading">
-      <div className="container-nav padding-global">
-        <div className="flex min-h-[calc(100dvh-4.5rem)] items-center gap-10 md:min-h-0 md:flex-col md:items-stretch md:gap-6 md:py-6 sm:gap-5 sm:py-5">
-          <div className="order-1 flex w-[46%] max-w-[36rem] flex-col justify-center gap-5 md:order-2 md:w-full md:max-w-none md:gap-4">
-            <h1
-              id="hero-heading"
-              className="text-[clamp(1.65rem,3.4vw,3.35rem)] leading-[1.05] tracking-tight"
-            >
-              Il benessere <span className="text-pixel">digitale</span>{' '}
-              <span className="whitespace-nowrap">inizia qui</span>
-            </h1>
-            <p className="max-w-[38rem] text-lg leading-relaxed text-muted">
+    <section
+      className="h-[60vh] border-b border-border md:h-auto"
+      aria-labelledby="hero-heading"
+    >
+      <div className="container-lg padding-global h-full md:h-auto">
+        {/* Webflow .layout4_component: height 60vh, place-items center end */}
+        <div className="flex h-full items-stretch gap-12 md:h-auto md:flex-col md:items-center md:gap-8 md:py-10 sm:gap-5 sm:py-6">
+          {/* Content */}
+          <div className="flex max-w-[37.5rem] flex-1 flex-col justify-center gap-6 sm:gap-4">
+            <div>
+              <h1
+                id="hero-heading"
+                className="text-[4.5rem] leading-[1.1] sm:text-3xl"
+                style={{ fontFamily: 'FuturaPT-Demi, sans-serif', fontWeight: 700 }}
+              >
+                Il benessere <span className="text-pixel">digitale</span> inizia qui
+              </h1>
+            </div>
+            <p className="text-md leading-relaxed text-primary opacity-75">
               Articoli, guide e risorse scientifiche sul benessere digitale per giovani, genitori ed
               educatori. Gestione del tempo sullo schermo, salute mentale online, sicurezza
               digitale.
             </p>
-            <div className="mt-1 max-w-[34rem]">
+
+            {/* Inline newsletter form */}
+            <div className="mt-2 sm:mt-0">
               <NewsletterForm layout="inline" />
             </div>
           </div>
 
-          <div className="order-2 h-[calc(100dvh-4.5rem)] w-[54%] self-stretch md:order-1 md:h-auto md:w-full">
-            <HeroVisual />
-          </div>
+          <HeroVisual />
         </div>
       </div>
     </section>

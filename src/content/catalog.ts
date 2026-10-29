@@ -156,6 +156,16 @@ export const apps: AppSource[] = [
     icon: '/images/apps/appblock.webp',
     featured: true,
   },
+  {
+    name: 'Brainrot',
+    slug: 'brainrot',
+    description:
+      'Blocca app e siti che ti fanno scorrere senza fine e mostra un cervello-avatar che si "rovina" quando esageri: un promemoria visivo e ironico per posare il telefono. Include timer di focus, programmazioni e statistiche; solo iPhone, funzioni complete in abbonamento.',
+    useCase: 'Screen time / Blocking',
+    appStoreUrl: 'https://apps.apple.com/it/app/brainrot-screen-time-control/id6744338972',
+    icon: '/images/apps/brainrot.webp',
+    featured: true,
+  },
 ]
 
 export const books: BookSource[] = [

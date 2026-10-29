@@ -1,0 +1,603 @@
+{
+  "slug": "sonno-e-schermi-in-vacanza-routine-ragazzi",
+  "title": "Vacanze di Natale: sonno, schermi e il rientro a gennaio",
+  "excerpt": "La sveglia sparisce, la sera si allunga, il telefono resta acceso. Che cosa misurano gli studi su scuola e vacanza, che cosa chiedono ISS, CDC e OMS, e come riavvicinare l’orario prima della campanella.",
+  "cover": "/images/covers/sonno-e-schermi-in-vacanza-routine-ragazzi.png",
+  "coverAlt": "Illustrazione a linee su fondo avorio, tratti charcoal e accenti corallo: un ragazzo e un adulto a un tavolo di festa stilizzato, una sveglia spenta e un telefono appoggiato lontano da un letto.",
+  "publishedAt": "2026-12-23T09:00:00.000+01:00",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "schermo-e-tempo",
+    "salute-mentale"
+  ],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Sonno e schermi nelle vacanze di Natale",
+    "metaDescription": "Orari che slittano e più schermi a Natale: studi su scuola e vacanza, ore di sonno ISS e CDC, e come riavvicinare la sveglia prima di gennaio.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Bei, Allen, Nicholas, Dudgeon, Murray e Trinder — Sonno in attoigrafia a scuola e in vacanza (2014)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23992480/",
+      "note": "Journal of Sleep Research, 2014, 23(1), 107–117. DOI 10.1111/jsr.12080. PMID 23992480. Prima pubblicazione online il 2 settembre 2013. 146 adolescenti (47,3% maschi), età media 16,2 anni (deviazione standard 1,0), comunità generale, actigrafo per 4 settimane: ultima settimana di scuola, due settimane di vacanza, prima settimana del periodo successivo. Tolta la restrizione scolastica, l’orario del sonno si sposta in avanti di colpo e la durata aumenta. Poi ora di letto e ora di alzarsi slittano ancora, in modo lineare, per tutta la vacanza; le variazioni del tempo a letto non sono significative. La latenza di addormentamento sale e ha il picco a metà della seconda settimana di vacanza. Nella prima settimana, dopo l’aumento iniziale, calano in modo lineare sonno totale ed efficienza, e sale la percentuale di veglia dopo l’addormentamento; nella seconda questi valori si stabilizzano. Età maggiore e un cronotipo più serale si associano a letto e alzata più tardi. Rispetto alla scuola, il sonno in vacanza è più tardi, più lungo, di qualità più bassa e più variabile. Il recupero della restrizione scolastica sembra completo entro le due settimane. Non è un campione italiano e non è il Natale."
+    },
+    {
+      "title": "Crowley e Carskadon — Il sonno di recupero del fine settimana sposta la fase circadiana (2010)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3415304/",
+      "note": "Chronobiology International, agosto 2010, 27(7), 1469–1492. DOI 10.3109/07420528.2010.503293. PMID 20795887. Ragazzi di 15–17 anni, sonno a casa, DLMO in laboratorio il venerdì e la domenica. Fine settimana «tipico»: letto 1,5 ore più tardi, sveglia 3 ore più tardi, 1,5 ore in più a letto rispetto ai giorni di scuola, per due notti. Il DLMO si sposta in avanti di 45 ± 31 minuti nell’esperimento 1 (12 partecipanti, 4 maschi) e di 46 ± 34 minuti nell’esperimento 2 (33 partecipanti, 10 maschi). Condizione pisolino: sveglia solo 1 ora più tardi e pisolino pomeridiano di 2 ore; spostamento 41 ± 34 minuti, non diverso dal tipico. Condizione luce: 1 ora di luce a 454–484 nm al risveglio del fine settimana; spostamento 38 ± 28 minuti, non diverso dal tipico. Gli autori concludono che un fine settimana tardo e lungo, come quello spesso osservato, sposta in ritardo la fase, e che in questo campione né la sveglia più presto né quella luce del mattino hanno stabilizzato l’orologio. Non è una vacanza di due settimane e non è un protocollo natalizio."
+    },
+    {
+      "title": "Harbard, Allen, Trinder e Bei — Comportamenti nell’ora prima di dormire, a scuola e in vacanza (2016)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26874590/",
+      "note": "Journal of Adolescent Health, 1 aprile 2016, 58(4), 426–432. DOI 10.1016/j.jadohealth.2015.12.011. PMID 26874590. Online dall’11 febbraio 2016. Stessa coorte di Bei 2014: 146 adolescenti (47,26% maschi), età media 16,2 ± 1,0 anni, actigrafo nell’ultima settimana di scuola e nelle due di vacanza, questionari sui comportamenti nell’ora prima di dormire e arousal cognitivo presonno (Presleep Arousal Scale), cronotipo con il Morningness–Eveningness Questionnaire. I videogiochi, controllando il cronotipo, si associano a un’ora di letto significativamente più tardi a scuola e in vacanza e a un sonno scolastico più corto. In vacanza i social online si associano a una latenza di addormentamento più lunga, relazione mediata da un arousal cognitivo più alto. Nelle notti di scuola, il tempo con la famiglia si associa a un letto più presto e a un sonno più lungo. La conclusione degli autori parla in generale di sonno più corto e peggiore: i risultati distinti per scuola e vacanza sono quelli sopra. Non misura un Natale italiano."
+    },
+    {
+      "title": "OMS — Linee guida su attività fisica e comportamento sedentario (2020)",
+      "url": "https://www.who.int/publications/i/item/9789240015128/",
+      "note": "WHO guidelines on physical activity and sedentary behaviour. Ginevra, Organizzazione mondiale della sanità, 25 novembre 2020. ISBN 978-92-4-001512-8. Scritte per bambini e adolescenti di 5–17 anni, adulti e altri gruppi. Il testo dice che queste linee guida non trattano il sonno come comportamento: era fuori dal mandato; il sonno è stato incluso come esito sanitario nel valutare attività fisica e comportamento sedentario. Per i 5–17 anni la raccomandazione sul sedentario è: limitare il tempo da seduti, in particolare il tempo di schermo ricreativo. Raccomandazione forte, certezza bassa. Glossario: schermo ricreativo è il tempo davanti a TV, computer e dispositivi mobili per scopi diversi da studio o lavoro. Il gruppo di sviluppo conclude che una maggiore durata di comportamento sedentario (tempo di schermo e TV) si associa, con certezza bassa, a effetti sfavorevoli sulla durata del sonno; nel riassunto delle rassegne, più schermo e più TV si associano a un sonno più corto, senza associazione tra uso del computer o videogiochi e durata del sonno. Conclude anche che le prove non bastano a specificare limiti orari. Documento distinto dalle linee guida 2019 per i bambini sotto i 5 anni. Non parla di vacanze di Natale."
+    },
+    {
+      "title": "CDC — About Sleep",
+      "url": "https://www.cdc.gov/sleep/about/index.html",
+      "note": "Pagina About Sleep. In tabella: 9–12 ore per i 6–12 anni e 8–10 ore per i 13–17 anni; dai 18 ai 60 anni, 7 ore o più. Tra le abitudini: andare a letto e alzarsi alla stessa ora ogni giorno; spegnere i dispositivi elettronici almeno 30 minuti prima di dormire. Non chiede di togliere il telefono per l’intera vacanza e non distingue i giorni di scuola dalle feste."
+    },
+    {
+      "title": "Paruthi e colleghi — Recommended amount of sleep for pediatric populations (2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877308/",
+      "note": "Journal of Clinical Sleep Medicine, 2016, 12(6), 785–786. DOI 10.5664/jcsm.5866. Consenso dell’American Academy of Sleep Medicine. Chi ha 13–18 anni dovrebbe dormire 8–10 ore ogni 24 ore, con regolarità. La tabella CDC sui teenager si ferma ai 13–17 anni. Gli esiti sanitari dello statement non sono ripresi in questo articolo."
+    },
+    {
+      "title": "ISS — Giornata mondiale del sonno, un buon sonno deve essere una priorità (14 marzo 2025)",
+      "url": "https://www.iss.it/-/world-sleep-day-un-buon-sonno-deve-essere-una-priorita",
+      "note": "Pagina dell’Istituto superiore di sanità, pubblicata il 14 marzo 2025. Riporta le raccomandazioni degli esperti per la popolazione in età scolare: tra 9 e 11 ore a 6–13 anni e tra 8 e 10 ore a 14–17. Gli adolescenti tendono a restare svegli fino a tardi per il cambiamento dei ritmi biologici, e può essere difficile per loro autoregolarsi nel ritmo sonno-veglia o nell’uso dei dispositivi, soprattutto la sera in camera. I genitori dovrebbero dare regole sui ritmi quotidiani e cominciare a seguirle qualche giorno prima del suono della prima campanella. La pagina non fissa un tetto di schermo per le vacanze di Natale."
+    },
+    {
+      "title": "ISS — I consigli per un buon sonno (scheda PDF)",
+      "url": "https://www.iss.it/documents/20126/0/I+consigli+per+un+buon+sonno.pdf/008df51d-db6f-c466-e08a-ebbf71a5feb7?t=1725269070529",
+      "note": "Scheda dell’ISS sul rientro a scuola dopo l’estate, non sul Natale. Dice che ristabilire i ritmi richiede tempo: a chi per tre mesi è stato sveglio fino a tardi non si può chiedere di andare a letto alle 21 da un giorno all’altro. Propone di anticipare il riposo di 15–20 minuti alla volta, cominciando qualche giorno prima dell’inizio della scuola. Ricorda attività motoria ed esposizione al sole, con l’esempio di andare a scuola a piedi o in autobus. Chiede regole sui dispositivi valide anche per gli adulti, per esempio non usare il cellulare a tavola; tenere i dispositivi fuori dalla camera da letto; spegnere dispositivi e schermi almeno un’ora o due prima di dormire. Se un adolescente usa molto i supporti elettronici la sera, parlarne, regolamentare l’uso e diminuirlo soprattutto la sera e a letto. Limitare o eliminare caffè e bevande energetiche con caffeina. Non dà una soglia in milligrammi e non misura uno slittamento natalizio."
+    },
+    {
+      "title": "ISS — Benessere in rete, FAQ su Internet e sonno",
+      "url": "https://benessereinrete.iss.it/faq",
+      "note": "FAQ del sito Benessere in rete dell’ISS. Sull’uso di Internet e il sonno: sì, soprattutto di sera, a letto o di notte. L’uso serale può ritardare l’addormentamento, ridurre la durata e peggiorare la qualità. Il rischio aumenta se il telefono resta in camera, se arrivano notifiche di notte o se l’attività è molto coinvolgente (social, gaming, video, chat). Sulla punizione: togliere di colpo telefono o computer, senza spiegazioni e senza un accordo educativo, di solito non è la strategia più utile; può aumentare il conflitto, favorire usi nascosti e rendere più difficile il dialogo. Meglio regole chiare, condivise e coerenti. Una sospensione temporanea può essere utile se l’uso interferisce con sonno, scuola, relazioni o sicurezza, purché proporzionata, prevedibile e dentro un accompagnamento. Le FAQ non sono una guida alle vacanze di Natale."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Dormire fino a tardi in vacanza è recupero o sregolatezza?",
+      "answer": "Nello studio di Bei e colleghi sono entrambe le misure, sugli stessi 146 adolescenti di circa 16 anni. Tolta la scuola, il sonno diventa subito più tardi e più lungo; poi ora di letto e ora di alzarsi continuano a slittare per le due settimane. Il recupero della restrizione scolastica sembra completo dentro quella vacanza, e il sonno è anche più variabile, con una qualità più bassa nella prima settimana. Per un bambino della primaria il ritardo biologico dell’adolescenza non si applica: senza una sveglia, l’orario di alzata tende comunque a scivolare."
+    },
+    {
+      "question": "Devo spegnere telefono e console per tutte le vacanze?",
+      "answer": "Le linee guida OMS del 2020 chiedono di limitare il tempo da seduti, in particolare lo schermo ricreativo, e scrivono che le prove non bastano a fissare un tetto orario. Non sono una regola sul sonno. Harbard e colleghi legano all’ora prima di dormire i videogiochi (letto più tardi, a scuola e in vacanza) e, in vacanza, i social online (più tempo per addormentarsi). Le FAQ dell’ISS dicono che togliere di colpo telefono o computer come punizione, senza spiegazione e senza accordo, di solito non è la strada più utile. Si tengono la finestra prima del sonno e il punto in cui il telefono si carica."
+    },
+    {
+      "question": "Meglio 30 minuti o due ore senza schermi prima di dormire?",
+      "answer": "La pagina CDC About Sleep dice di spegnere i dispositivi elettronici almeno 30 minuti prima di dormire. La scheda ISS «I consigli per un buon sonno» dice almeno un’ora o due, e di tenerli fuori dalla camera da letto. Non è la stessa istruzione. Si sceglie la finestra che resta dicibile anche a casa di parenti, e la si dice prima della prima sera."
+    },
+    {
+      "question": "Come si torna all’orario di scuola senza una domenica punitiva?",
+      "answer": "La pagina ISS del 14 marzo 2025 chiede di cominciare le regole qualche giorno prima della prima campanella. La scheda sul rientro propone di anticipare il riposo di 15–20 minuti alla volta: l’esempio scritto è chi è stato sveglio fino a tardi per tre mesi d’estate, non un protocollo misurato sul Natale. Il calendario del rientro è quello della scuola. Se il sonno resta corto anche con la mattina libera, se ne parla con il pediatra."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mercoledì 23 dicembre 2026. In molte famiglie la scuola è appena finita, o finisce in questi giorni: la data sta sul calendario della regione. Per un tratto non c’è la campanella. Si cena più tardi, si dorme da parenti, si guarda un episodio in più, si gioca quando a novembre la luce si sarebbe già spenta. Il protocollo del telefono sul comodino sta nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui il tema è l’orario che slitta perché la sveglia non suona, gli schermi della sera libera, e il rientro di gennaio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è un parere medico. Gli studi sul sonno in vacanza citati sotto riguardano adolescenti intorno ai 16 anni, o ragazzi di 15–17 anni in laboratorio. Non descrivono da soli un bambino di 8 anni. Per i più piccoli restano le ore consigliate e le regole della casa. Il ritardo della sera che l’ISS lega al cambiamento dei ritmi biologici riguarda gli adolescenti, non la primaria.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa fa una vacanza al sonno",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Bei, Allen, Nicholas, Dudgeon, Murray e Trinder hanno fatto indossare un actigrafo a 146 adolescenti, età media 16,2 anni, per quattro settimane: l’ultima di scuola, due di vacanza, la prima del periodo dopo. Non è un campione italiano e non è il Natale. È una vacanza scolastica di due settimane.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tolta la scuola, l’orario del sonno si sposta in avanti di colpo e la durata aumenta. Poi l’ora di andare a letto e l’ora di alzarsi continuano a slittare, in modo lineare, per tutta la vacanza. Il tempo passato a letto, dopo quel primo salto, non cambia in modo significativo. Nella prima settimana di vacanza, rispetto a quel salto iniziale, calano il sonno totale e l’efficienza, e sale la veglia dopo l’addormentamento; nella seconda questi tre valori si stabilizzano. Il tempo per addormentarsi aumenta e tocca il massimo a metà della seconda settimana. Rispetto ai giorni di scuola, il sonno in vacanza è più tardi, più lungo, di qualità più bassa e più variabile. Gli autori scrivono che il recupero della restrizione scolastica sembra completo dentro quelle due settimane. Durata e orario sono due misure dello stesso risultato: si può dormire di più e, insieme, spostare l’orologio giorno dopo giorno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un fine settimana basta a spostare l’orologio",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Crowley e Carskadon hanno misurato il DLMO, l’inizio della melatonina in luce fioca, in ragazzi di 15–17 anni: il venerdì e la domenica in laboratorio, il sonno del fine settimana a casa. Nel programma che chiamano tipico ci si corica un’ora e mezza più tardi, ci si alza tre ore più tardi e si resta a letto un’ora e mezza in più, per due notti. Il DLMO si sposta in avanti di 45 minuti (deviazione standard 31) su 12 partecipanti, e di 46 minuti (deviazione standard 34) su 33.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Due correzioni non lo hanno evitato. Alzarsi solo un’ora più tardi dei giorni di scuola e recuperare con un pisolino di due ore: spostamento medio di 41 minuti (deviazione standard 34), non diverso dal fine settimana tipico. Un’ora di luce a corta lunghezza d’onda, 454–484 nanometri, al risveglio di quel fine settimana: 38 minuti (deviazione standard 28), anche qui senza differenza. È un orario deciso dai ricercatori, non due settimane di Natale. Una serie di mattine tarde pesa sul ritmo. Lo studio non autorizza a moltiplicare 45 minuti per ogni weekend di dicembre.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Schermi nell’ora prima di dormire",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La stessa coorte è nello studio di Harbard, Allen, Trinder e Bei, Journal of Adolescent Health, 2016: che cosa si fa nell’ora prima di dormire, a scuola e in vacanza. I videogiochi, tenuto conto del cronotipo (la tendenza a essere più mattinieri o più serali), si associano a un’ora di letto più tardi sia a scuola sia in vacanza, e a un sonno più corto nei giorni di scuola. L’abstract non dice che in vacanza i giochi accorcino il sonno: la mattina è libera, e nello studio di Bei la durata in vacanza è più lunga. In vacanza i social online si associano a più tempo per addormentarsi, tramite una mente più accesa prima del sonno (arousal cognitivo, misurato con la Presleep Arousal Scale). Il tempo con la famiglia si associa a un letto più presto e a un sonno più lungo nelle notti di scuola, non come risultato della vacanza.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La conclusione degli autori è più larga dei risultati: videogiochi e social vengono chiamati fattori di rischio per un sonno più corto e peggiore. Qui si resta sui risultati. Un gioco che sposta l’ora di letto conta anche senza la scuola, perché è quell’ora che a gennaio va riavvicinata. Un feed che lascia la testa accesa allunga l’addormentamento anche se il giorno dopo si può dormire.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’OMS, nelle linee guida del 25 novembre 2020 su attività fisica e comportamento sedentario, scrive per bambini e adolescenti di 5–17 anni. Il documento dice che queste linee guida non trattano il sonno come comportamento: era fuori dal mandato. Il sonno entra come esito. La raccomandazione è limitare il tempo da seduti, in particolare lo schermo ricreativo, cioè televisione, computer e dispositivi mobili per scopi diversi dallo studio o dal lavoro. È una raccomandazione forte, con certezza delle prove bassa. Il gruppo che le ha redatte conclude che più tempo di schermo e più televisione si associano, con certezza bassa, a un sonno più corto, e che nella rassegna riassunta non risulta un’associazione tra uso del computer o dei videogiochi e durata del sonno. Sono misure diverse da quelle di Harbard, che guarda l’ora di letto e il tempo per addormentarsi. Le prove non bastano a fissare un limite orario. Non è il documento del 2019 sui bambini sotto i 5 anni, e non parla di Natale. Non autorizza la frase «massimo due ore».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quante ore, e da che ora si spengono gli schermi",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le fasce non coincidono. Vanno lette sull’età di chi dorme in casa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina CDC About Sleep indica 9–12 ore per i 6–12 anni e 8–10 ore per i 13–17. Tra le abitudini: andare a letto e alzarsi alla stessa ora ogni giorno, e spegnere i dispositivi elettronici almeno 30 minuti prima di dormire. Dai 18 anni la stessa pagina indica 7 ore o più: è un’altra fascia, e questo pezzo resta sui ragazzi in età scolare. Non chiede di togliere il telefono per tutte le vacanze.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il consenso dell’American Academy of Sleep Medicine, Paruthi e colleghi, 2016, dice che chi ha 13–18 anni dovrebbe dormire 8–10 ore ogni 24 ore, con regolarità. La tabella CDC sui teenager si ferma ai 17 anni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina dell’ISS per la Giornata mondiale del sonno, pubblicata il 14 marzo 2025, riporta le raccomandazioni degli esperti: tra 9 e 11 ore a 6–13 anni, tra 8 e 10 ore a 14–17. Gli adolescenti tendono a restare svegli fino a tardi per il cambiamento dei ritmi biologici, e può essere difficile autoregolarsi nel ritmo sonno-veglia e sui dispositivi, soprattutto la sera, in camera. Chiede regole sui ritmi quotidiani, da cominciare qualche giorno prima della prima campanella.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La scheda ISS «I consigli per un buon sonno» è scritta per il rientro dopo l’estate, non per il Natale. L’esempio è chi per tre mesi è stato sveglio fino a tardi: non gli si chiede di andare a letto alle 21 da un giorno all’altro. Il programma è anticipare il riposo di 15–20 minuti alla volta, cominciando qualche giorno prima della scuola. Chiede regole sui dispositivi che valgono anche per gli adulti, per esempio non usare il cellulare a tavola; tenere i dispositivi fuori dalla camera; spegnere dispositivi e schermi almeno un’ora o due prima di dormire. Se un adolescente li usa molto la sera, parlarne e diminuire l’uso soprattutto la sera e a letto. Chiede anche di limitare o eliminare caffè e bevande energetiche con caffeina. Non dà una soglia in milligrammi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Trenta minuti, sulla pagina CDC, e una o due ore, sulla scheda ISS, non sono la stessa istruzione. Si sceglie la finestra che si riesce a dire ad alta voce anche a casa di altri, e la si mantiene. Il telefono usato come sveglia, le notifiche e lo scrolling a letto stanno nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Feste, parenti, un’altra casa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La scheda ISS parla della casa, e include gli adulti. A Natale spesso si dorme altrove: un divano letto, una presa accanto al materasso, una cena che finisce tardi, cugini con regole diverse. Tra gli studi citati qui non ce n’è uno sulle notti dai nonni. Le due indicazioni che si portano sono quelle della scheda: il dispositivo non dorme nella stanza in cui dorme il ragazzo, e gli schermi si spengono nella finestra scelta, 30 minuti oppure una o due ore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un film insieme, sul divano, è un uso diverso dal feed a letto. Età del titolo, profilo con cui si entra e autoplay stanno nel pezzo «Film e serie in famiglia nelle vacanze: età consigliate, profili e autoplay». Finito il film, parte la finestra senza schermi: l’episodio successivo non si sposta in camera. Caffè e bevande energetiche, più frequenti alle feste che a novembre, la scheda chiede di limitarli o di eliminarli, e non indica una dose.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa tenere fermo in questi giorni",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quattro appigli, letti dalle fonti. Non sono un protocollo sperimentato sul Natale, e non chiedono di azzerare gli schermi per tutte le vacanze.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Un orario ultimo per alzarsi, non l’orario di scuola. Nello studio di Bei l’alzata continua a slittare per tutta la vacanza. Nello studio di Crowley l’alzata tre ore più tardi fa parte del fine settimana che sposta la melatonina. Un tetto scelto insieme, e tenibile, è il modo per non lasciare che ogni mattina scivoli ancora. In laboratorio non è bastato, da solo, svegliarsi un po’ prima con un pisolino, né un’ora di luce a 454–484 nanometri al risveglio tardo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Luce del giorno e un po’ di movimento al mattino. La scheda ISS, per dopo l’estate, ricorda attività motoria e sole, con l’esempio di andare a scuola a piedi o in autobus. In vacanza la stessa leva è uscire al mattino, non un programma di allenamento.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La finestra prima del sonno, detta prima che serva. Videogiochi e social in quell’ora sono i comportamenti che Harbard lega all’ora di letto o al tempo per addormentarsi. Il pomeriggio di vacanza, in queste fonti, non è il bersaglio.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il telefono che si carica fuori dalla stanza in cui si dorme, anche se la stanza è quella degli ospiti. È la richiesta della scheda ISS. Come tenerla per il resto dell’anno è il pezzo sul telefono in camera.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Togliere di colpo telefono o computer come punizione, senza una spiegazione e senza un accordo, di solito non è la strada più utile. Lo scrivono le FAQ di Benessere in rete, dell’ISS: può aumentare il conflitto, spingere a nascondere l’uso e rendere più difficile il dialogo. Una sospensione temporanea può servire se l’uso interferisce con sonno, scuola, relazioni o sicurezza, se è proporzionata, prevedibile e dentro un accompagnamento. Le vacanze non sono il momento in cui sequestrare il dispositivo per fare un punto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il rientro, qualche giorno prima della campanella",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’ISS, nella pagina del 14 marzo 2025, chiede di cominciare le regole qualche giorno prima della prima campanella. La scheda aggiunge i 15–20 minuti alla volta. L’esempio scritto è chi per tre mesi d’estate è stato sveglio fino a tardi: uno slittamento di Natale, spesso più corto, non si raddrizza con la domenica in cui si spegne tutto alle 21. Si anticipa un poco, per più sere, prima che la sveglia torni. In molte regioni il rientro cade nei primi giorni di gennaio. La data è quella della scuola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se, anche con la mattina libera, il sonno resta corto, o se dopo quel riavvicinamento l’orario non si muove, il passo successivo è il pediatra. La FAQ dell’ISS ricorda che l’uso serale, a letto o di notte, può ritardare l’addormentamento, ridurre la durata e peggiorare la qualità, soprattutto se il telefono resta in camera, se arrivano notifiche o se l’attività è molto coinvolgente: social, giochi, video, chat. Quando questo è l’anno intero, le vacanze non sono la causa. Non è una diagnosi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dormire fino a tardi in vacanza è recupero o sregolatezza?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nello studio di Bei e colleghi sono entrambe le misure, sugli stessi 146 adolescenti di circa 16 anni. Tolta la scuola, il sonno diventa subito più tardi e più lungo; poi ora di letto e ora di alzarsi continuano a slittare per le due settimane. Il recupero della restrizione scolastica sembra completo dentro quella vacanza, e il sonno è anche più variabile, con una qualità più bassa nella prima settimana. Per un bambino della primaria il ritardo biologico dell’adolescenza non si applica: senza una sveglia, l’orario di alzata tende comunque a scivolare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Devo spegnere telefono e console per tutte le vacanze?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le linee guida OMS del 2020 chiedono di limitare il tempo da seduti, in particolare lo schermo ricreativo, e scrivono che le prove non bastano a fissare un tetto orario. Non sono una regola sul sonno. Harbard e colleghi legano all’ora prima di dormire i videogiochi (letto più tardi, a scuola e in vacanza) e, in vacanza, i social online (più tempo per addormentarsi). Le FAQ dell’ISS dicono che togliere di colpo telefono o computer come punizione, senza spiegazione e senza accordo, di solito non è la strada più utile. Si tengono la finestra prima del sonno e il punto in cui il telefono si carica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Meglio 30 minuti o due ore senza schermi prima di dormire?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina CDC About Sleep dice di spegnere i dispositivi elettronici almeno 30 minuti prima di dormire. La scheda ISS «I consigli per un buon sonno» dice almeno un’ora o due, e di tenerli fuori dalla camera da letto. Non è la stessa istruzione. Si sceglie la finestra che resta dicibile anche a casa di parenti, e la si dice prima della prima sera.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Come si torna all’orario di scuola senza una domenica punitiva?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina ISS del 14 marzo 2025 chiede di cominciare le regole qualche giorno prima della prima campanella. La scheda sul rientro propone di anticipare il riposo di 15–20 minuti alla volta: l’esempio scritto è chi è stato sveglio fino a tardi per tre mesi d’estate, non un protocollo misurato sul Natale. Il calendario del rientro è quello della scuola. Se il sonno resta corto anche con la mattina libera, se ne parla con il pediatra.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 10
+}
