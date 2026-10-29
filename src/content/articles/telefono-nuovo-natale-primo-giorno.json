@@ -1,0 +1,1375 @@
+{
+  "slug": "telefono-nuovo-natale-primo-giorno",
+  "title": "Telefono nuovo a Natale: il primo giorno, tra impostazioni, controlli e accordi",
+  "excerpt": "Il telefono è già fuori dalla scatola. Che cosa fare il 25 e nei giorni dopo: account giusto, controlli di Apple o Google, acquisti, privacy, SIM, ricarica fuori dalla camera e un accordo scritto da rivedere a gennaio.",
+  "cover": "/images/covers/telefono-nuovo-natale-primo-giorno.png",
+  "coverAlt": "Illustrazione a linee: un genitore e un ragazzo seduti sul divano accanto all'albero, guardano insieme un telefono nuovo; sul tavolino una scatola aperta, un caricatore e un foglio con una penna.",
+  "publishedAt": "2026-12-21T09:00:00.000+01:00",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "genitori-e-scuola",
+    "schermo-e-tempo"
+  ],
+  "readingTime": 7,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Telefono nuovo a Natale: il primo giorno, passo passo",
+    "metaDescription": "Il telefono è già scartato? Account, Tempo di utilizzo o Family Link, acquisti, privacy, SIM e ricarica fuori camera. Checklist e accordo da firmare.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Apple — Utilizzare Tempo di utilizzo per gestire l'iPhone o l'iPad di tuo figlio o tua figlia (pubbl. 25/09/2026)",
+      "url": "https://support.apple.com/it-it/108806",
+      "note": "Pagina datata 25/09/2026. Usata per: In famiglia, account personale del figlio, gestione e codice dal dispositivo del genitore, Chiedi di navigare (<13), Limita siti per adulti (<18), Contatti consentiti, limiti, Sicurezza delle comunicazioni. Non usate le novità iOS 27."
+    },
+    {
+      "title": "Apple — Approvare gli acquisti e i download con Chiedi di acquistare (pubbl. 17/09/2026)",
+      "url": "https://support.apple.com/it-it/105055",
+      "note": "Pagina datata 17/09/2026. Usata per il percorso di Chiedi di acquistare e per l'eccezione dei codici riscattati. Non usata la regola dei Paesi dove è sempre attiva."
+    },
+    {
+      "title": "Apple — Regole specifiche per area geografica per la gestione di un Apple Account (pubbl. 18/09/2026)",
+      "url": "https://support.apple.com/it-it/125666",
+      "note": "Pagina datata 18/09/2026. Usata solo per l'età dell'account per bambini in Italia (sotto i 14 anni)."
+    },
+    {
+      "title": "Apple — Panoramica su «In famiglia» e sui controlli parentali per bambini e adolescenti (pubbl. 14/10/2026)",
+      "url": "https://support.apple.com/it-it/119854",
+      "note": "Pagina datata 14/10/2026. Usata per: il genitore sceglie i contatti ma non legge i messaggi; permesso per uscire da In famiglia tra 13 e 17 anni."
+    },
+    {
+      "title": "Google — Iniziare a usare Family Link",
+      "url": "https://support.google.com/families/answer/7101025?hl=it",
+      "note": "Usata per: età dell'account supervisionato, requisiti del genitore, niente supervisione su iPhone/iPad, approvazione acquisti solo su fatturazione Google Play, limiti per dispositivo."
+    },
+    {
+      "title": "Google — Gestire il tempo di utilizzo tramite Benessere digitale",
+      "url": "https://support.google.com/android/answer/9346420?hl=it",
+      "note": "Usata per: timer delle app azzerati a mezzanotte, Modalità Riposo con attivazione in ricarica, Niente distrazioni. I passaggi variano per produttore."
+    },
+    {
+      "title": "AGCOM — Tutela dei minori: parental control (delibera 9/23/CONS)",
+      "url": "https://www.agcom.it/agcom-per-te/i-miei-diritti/tutela-dei-minori-parental-control",
+      "note": "Delibera 9/23/CONS. Usata per: gratuità, preattivazione su offerte per minori, attivazione da parte del titolare, assistenza gratuita, categorie filtrate."
+    },
+    {
+      "title": "Garante per la protezione dei dati personali — Minori",
+      "url": "https://www.garanteprivacy.it/temi/minori",
+      "note": "Usata per la soglia dei 14 anni (art. 2-quinquies Codice privacy) e il consiglio di installare solo le app utili."
+    },
+    {
+      "title": "Polizia Postale (Commissariato di P.S. online) — Consigli per un uso più sicuro dei social",
+      "url": "https://www.commissariatodips.it/approfondimenti/social-network/consigli/index.html",
+      "note": "Usata per verifica in due passaggi, profilo privato, niente posizione in tempo reale, link sospetti."
+    },
+    {
+      "title": "SIP — Digitale e bambini: le nuove raccomandazioni (27/01/2026)",
+      "url": "https://sip.it/2026/01/27/digitale-e-bambini-le-nuove-raccomandazioni-sip/",
+      "note": "Comunicato del 27/01/2026. Usato per: smartphone personale non prima dei 13 anni, niente Internet non supervisionato prima dei 13, social il più tardi possibile, niente dispositivi a tavola e prima di dormire."
+    },
+    {
+      "title": "AAP / HealthyChildren — How to Make a Family Media Plan (agg. 20/01/2026)",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Aggiornata 20/01/2026. Usata per zone senza schermi, piano per tutta la famiglia adulti compresi, revisione durante le vacanze."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Il telefono è stato configurato da un parente col suo account: devo resettarlo?",
+      "answer": "Non sempre serve il ripristino. Si esce dall'account dell'adulto, si rimuove la carta e si accede con l'account del ragazzo, creato in In famiglia o in Family Link."
+    },
+    {
+      "question": "Il parental control della SIM sostituisce quello del telefono?",
+      "answer": "No. Il filtro dell'operatore, gratuito per la delibera AGCOM 9/23/CONS e già attivo sulle offerte per minori, lavora sulla rete mobile. I controlli di Apple o Google gestiscono app, acquisti, contatti e orari anche sul Wi-Fi. Servono entrambi."
+    },
+    {
+      "question": "Una gift card per l'App Store è sicura se ho attivato «Chiedi di acquistare»?",
+      "answer": "Su Apple no. La pagina di supporto spiega che un codice riscattato non genera una richiesta di approvazione. Va contata nel tetto di spesa."
+    },
+    {
+      "question": "Dove deve dormire il telefono?",
+      "answer": "Fuori dalla camera, con un caricatore fisso in un luogo comune. Va nella direzione di SIP e AAP: niente schermi prima di dormire. Vale di più se lo fanno anche gli adulti."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il pacco è aperto e il telefono è acceso. Se avete preparato tutto prima del nastro, come suggerisce la guida sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/primo-regalo-tech-natale",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "primo regalo tech di Natale",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", questa pagina serve a verificare. Se il regalo è arrivato da un nonno, da uno zio o da voi all'ultimo momento, serve a non perdere il primo giorno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non riprendiamo qui la domanda sull'età: è nella guida ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/primo-smartphone-eta-e-regole",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "primo smartphone, età e regole",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui c'è l'ordine delle cose da fare il 25 e nella prima settimana. L'idea è una sola: il telefono si consegna dopo che l'account è quello giusto, gli acquisti passano da un adulto e il caricatore ha un posto fuori dalla camera.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima di tutto: di chi è l'account",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il telefono è stato configurato con l'account di un adulto, i controlli per i minori non si attivano. Restano anche la carta memorizzata e gli acquisti già fatti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su iPhone",
+              "version": 1,
+              "format": 1
+            },
+            {
+              "type": "text",
+              "text": " Apple chiede il gruppo In famiglia e un Apple Account per il minore, personale e non condiviso con altri. In Italia, secondo la pagina Apple sulle regole per Paese, l'account per bambini vale sotto i 14 anni: lo crea un genitore o un tutore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Android",
+              "version": 1,
+              "format": 1
+            },
+            {
+              "type": "text",
+              "text": " Family Link crea un Account Google per un minore sotto i 13 anni (o sotto l'età minima del Paese). Può anche aggiungere la supervisione a un account che il ragazzo ha già. Il genitore deve avere almeno 18 anni e vivere nello stesso Paese del figlio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Due avvertenze pratiche:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "start": 1,
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Family Link non supervisiona iPhone e iPad.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Se il regalo è un iPhone, il percorso è In famiglia.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il nonno che ha già acceso il telefono col suo account",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " non ha sbagliato. Si esce dall'account, si toglie la carta e si rientra con l'account del ragazzo.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un numero da conoscere: per il Garante, in Italia la «maggiore età digitale» è a 14 anni (articolo 2-quinquies del Codice privacy). Sotto, il consenso ai servizi online lo dà il genitore. Non è un'età consigliata per il telefono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Checklist del primo giorno",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mezz'ora, seduti vicini, con il telefono in mano a chi lo riceve. Si imposta insieme e si spiega mentre si fa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "iPhone: Tempo di utilizzo dal telefono del genitore",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Apple consiglia di gestire Tempo di utilizzo ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "dal dispositivo del genitore",
+              "version": 1,
+              "format": 1
+            },
+            {
+              "type": "text",
+              "text": ", non da quello del figlio. Il percorso è: Impostazioni, Famiglia, il nome del ragazzo, Tempo di utilizzo. Da lì si regolano:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "start": 1,
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "App e siti web.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " «Chiedi di navigare» è attivo di default sotto i 13 anni. «Limita i siti web per adulti» è attivo di default sotto i 18.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Contatti consentiti.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Il messaggio di una persona nuova resta nascosto finché un genitore non lo approva.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 3,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Orari e limiti.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Limiti per categoria (giochi, social) e orari per scuola e sera.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 4,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Sicurezza delle comunicazioni.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Avvisa su foto e video con nudità ricevuti o inviati.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Apple scrive che, con questi controlli, il genitore può scegliere con chi il figlio comunica ma non può leggere i suoi messaggi. Conviene dirlo al ragazzo con queste parole.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Android: Family Link e Benessere digitale",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dall'app Family Link, sul telefono del genitore:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "start": 1,
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Limite giornaliero e ora di dormire.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Il limite vale per ogni dispositivo Android supervisionato: due ore significano due ore su ciascuno.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "App consentite o bloccate,",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " con le loro autorizzazioni.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 3,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Contenuti su Google Play",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " limitati in base all'età.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 4,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Posizione del dispositivo,",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " se la si attiva e se ne parla prima.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sul telefono del ragazzo c'è anche ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "Benessere digitale",
+              "version": 1,
+              "format": 1
+            },
+            {
+              "type": "text",
+              "text": " (Impostazioni, Benessere digitale e Controllo genitori). Serve ai più grandi, che lo gestiscono da soli:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "start": 1,
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Timer delle app,",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " che si azzerano a mezzanotte.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Modalità Riposo,",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " con l'opzione «Attiva durante la ricarica».",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 3,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Modalità Niente distrazioni,",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " per mettere in pausa le app che distraggono durante i compiti.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Acquisti in-app: il buco più comune",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Apple, «Chiedi di acquistare» si attiva dal telefono del genitore: Impostazioni, Famiglia, nome del figlio, App e siti web, Restrizioni, Chiedi di acquistare. Ogni download o acquisto in-app arriva al genitore come richiesta. Attenzione a un'eccezione scritta da Apple: ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "i codici regalo riscattati non passano dall'approvazione.",
+              "version": 1,
+              "format": 1
+            },
+            {
+              "type": "text",
+              "text": " Una gift card sotto l'albero è spesa già autorizzata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Android, Google precisa che l'approvazione degli acquisti di Family Link vale solo per ciò che passa dalla fatturazione di Google Play. Il resto è nell'articolo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/acquisti-in-app-microtransazioni-loot-box",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "acquisti in-app, microtransazioni e loot box",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Privacy e sicurezza dell'account",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "start": 1,
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Codice di sblocco",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " scelto dal ragazzo. Il genitore lo conosce solo se è parte dell'accordo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Verifica in due passaggi",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " sugli account principali, come raccomanda la Polizia Postale. Per password e passkey c'è la guida ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/password-passkey-una-chiave-per-account",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "una chiave per account",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ".",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 3,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Permessi delle app.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Posizione, microfono e fotocamera si concedono a un'app solo se le servono. Il Garante suggerisce di installare solo le app davvero utili. Il dettaglio è in ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/permessi-app-fotocamera-microfono-posizione",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "permessi delle app",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ".",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 4,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Profili privati e niente posizione in tempo reale",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " nelle app che la offrono, come chiede la Polizia Postale.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 5,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Link sospetti.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Come riconoscere il primo SMS «hai vinto» è in ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/sms-truffa-falsi-corrieri-premi-whatsapp",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "SMS truffa e falsi corrieri",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ".",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La SIM: il parental control che c'è già",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Con la delibera AGCOM 9/23/CONS gli operatori devono offrire gratis il parental control: attivazione, configurazione e disattivazione comprese. Sulle offerte dedicate ai minori il filtro è già attivo. Sulle altre, per esempio una SIM intestata a un genitore e data al figlio, lo attiva il titolare del contratto. L'assistenza è gratuita, anche con un operatore umano. È un filtro di rete (contenuti per adulti, azzardo, violenza): non sostituisce i controlli del telefono e non vale sul Wi-Fi di casa se lì non è attivo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Ricarica fuori dalla camera",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Società italiana di pediatria raccomanda di evitare i dispositivi durante i pasti e prima di andare a dormire. La guida AAP al piano media di famiglia propone zone senza schermi: la tavola, i compiti, la mezz'ora prima di dormire. Si decide il primo giorno, prima che nasca l'abitudine: un posto fisso per il caricatore in cucina o in corridoio. Perché il sonno conti più delle notifiche è spiegato in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per età: che cosa cambia",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sotto i 13 anni.",
+              "version": 1,
+              "format": 1
+            },
+            {
+              "type": "text",
+              "text": " La SIP invita a rinviare lo smartphone personale almeno fino ai 13 anni e a evitare Internet senza supervisione prima di quell'età. Se il telefono è comunque arrivato, il primo giorno pesa di più: contatti consentiti, «Chiedi di navigare» attivo, nessun negozio senza approvazione, nessun social. La SIP chiede di ritardare i social il più possibile.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "13–14 anni.",
+              "version": 1,
+              "format": 1
+            },
+            {
+              "type": "text",
+              "text": " Il passaggio è dal controllo all'accompagnamento. I limiti restano, ma si negoziano. Con i 14 anni arriva la soglia del consenso privacy: un buon momento per leggere insieme le impostazioni delle app. Su iPhone, tra i 13 e i 17 anni, se Tempo di utilizzo è impostato serve il permesso del genitore per uscire dal gruppo In famiglia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "15–17 anni.",
+              "version": 1,
+              "format": 1
+            },
+            {
+              "type": "text",
+              "text": " Più strumenti in mano al ragazzo, meno sul telefono del genitore. Restano fermi tre punti: niente carta memorizzata senza accordo, verifica in due passaggi, ricarica fuori dalla camera. Come cambia il controllo con l'età è nell'articolo ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "controllo genitori: proteggere senza spiare",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L'accordo scritto, in sei righe",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Bastano sei righe, scritte a mano e firmate da tutti, compreso chi le scrive. La guida AAP chiede un piano per ogni membro della famiglia, adulti inclusi, e indica le vacanze come momento buono per rivederlo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ol",
+          "listType": "number",
+          "start": 1,
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Account e acquisti.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " L'account è tuo. Gli acquisti passano da noi, i codici regalo compresi.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Caricatore.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " La notte il telefono dorme in cucina, il nostro pure.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 3,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Tavola.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " A tavola il telefono non c'è.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 4,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Contatti.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Rispondi solo a chi conosci. Se qualcuno ti mette a disagio, ne parli con noi e non ti togliamo il telefono per questo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 5,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Controlli.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Ti diciamo cosa vediamo: tempo e app, non i messaggi.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 6,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Revisione.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Il 10 gennaio rileggiamo tutto e cambiamo ciò che non funziona.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per la versione completa, divisa per fascia d'età, c'è la guida agli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo per ragazzi 8–14",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Se il nuovo telefono significa anche entrare nella chat di classe, prima c'è ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/chat-di-classe-whatsapp-regole-genitori-docenti",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "chat di classe su WhatsApp",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima settimana e revisione",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "start": 1,
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "26 dicembre.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Si apre insieme il riepilogo di Tempo di utilizzo o di Benessere digitale. Senza cercare colpe.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 2,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Primi giorni.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Le richieste di app arrivano a raffica: si risponde in giornata.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 3,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Rientro a scuola.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Si aggiungono gli orari scolastici prima della prima campanella.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "value": 4,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "10 gennaio.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Si rilegge il foglio. Se sonno, scuola e umore reggono, si allenta una cosa sola, e si scrive quale.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il telefono è stato configurato da un parente col suo account: devo resettarlo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non sempre serve il ripristino. Si esce dall'account dell'adulto, si rimuove la carta e si accede con l'account del ragazzo, creato in In famiglia o in Family Link.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il parental control della SIM sostituisce quello del telefono?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Il filtro dell'operatore, gratuito per la delibera AGCOM 9/23/CONS e già attivo sulle offerte per minori, lavora sulla rete mobile. I controlli di Apple o Google gestiscono app, acquisti, contatti e orari anche sul Wi-Fi. Servono entrambi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una gift card per l'App Store è sicura se ho attivato «Chiedi di acquistare»?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Apple no. La pagina di supporto spiega che un codice riscattato non genera una richiesta di approvazione. Va contata nel tetto di spesa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dove deve dormire il telefono?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fuori dalla camera, con un caricatore fisso in un luogo comune. Va nella direzione di SIP e AAP: niente schermi prima di dormire. Vale di più se lo fanno anche gli adulti.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
