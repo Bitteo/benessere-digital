@@ -42,6 +42,7 @@ import telefonoNuovoNatale from './articles/telefono-nuovo-natale-primo-giorno.j
 import sonnoSchermiVacanza from './articles/sonno-e-schermi-in-vacanza-routine-ragazzi.json'
 import propositiDigitaliFineAnno from './articles/propositi-digitali-fine-anno-ragazzi.json'
 import rientroScuolaSchermi from './articles/rientro-a-scuola-dopo-le-feste-regole-schermi.json'
+import capodannoConsensoRagazzi from './articles/capodanno-foto-video-consenso-ragazzi.json'
 
 export const articles = [
   brainRot,
@@ -87,4 +88,5 @@ export const articles = [
   sonnoSchermiVacanza,
   propositiDigitaliFineAnno,
   rientroScuolaSchermi,
+  capodannoConsensoRagazzi,
 ] as ArticleSource[]
