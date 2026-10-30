@@ -195,6 +195,17 @@ test('december hidden drafts stay off the site even after their date', () => {
   }
 })
 
+test('capodanno consent draft stays hidden and has no cover', () => {
+  const article = loadArticle('capodanno-foto-video-consenso-ragazzi')
+  assert.equal(article.status, 'draft')
+  assert.equal(article.publishedAt, '2026-12-30T09:00:00.000+01:00')
+  assert.equal(article.seo?.noIndex, true)
+  assert.equal(article.cover, '')
+  const atPublishedAt = new Date('2026-12-30T09:00:00.000+01:00')
+  assert.equal(isPubliclyAvailable(article, atPublishedAt), false)
+  assert.equal(isIndexableArticle(article, atPublishedAt), false)
+})
+
 test('an already-due published article is public', () => {
   const article = loadArticle('accordi-di-schermo-ragazzi-8-14')
   assert.equal(article.status, 'published')

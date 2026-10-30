@@ -1,0 +1,774 @@
+{
+  "slug": "capodanno-foto-video-consenso-ragazzi",
+  "title": "Capodanno tra ragazzi: foto, storie e il consenso prima di postare",
+  "excerpt": "A Capodanno si filmano gli amici, non solo i genitori. Come chiedere il sì prima di una storia, che cosa non si pubblica, come funziona la posizione in tempo reale, e che cosa fare se un video gira senza consenso.",
+  "cover": "",
+  "coverAlt": "",
+  "publishedAt": "2026-12-30T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["sicurezza-online", "genitori-e-scuola"],
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Capodanno: foto, storie e consenso tra ragazzi",
+    "metaDescription": "Foto e video di Capodanno tra ragazzi: chiedere il sì prima di postare un amico, posizione in tempo reale, e che cosa fare se un contenuto gira senza consenso.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Generazioni Connesse — Pieghevole ragazzi, Safer Internet Centre",
+      "url": "https://www.generazioniconnesse.it/_file/documenti/Comunicazione/leaflet_2020/SIC_RAGAZZI%20copia.pdf",
+      "note": "PDF del progetto. Tra le regole: «Fotografare è bene, chiedere prima di postare è meglio». Comparire in una foto è presentato come qualcosa di personale, accostato all’indirizzo di casa o al telefono. Non condividere informazioni altrui senza permesso. Il pieghevole chiede anche di pensare alle immagini troppo spinte e al fatto che, anche dopo una cancellazione, qualcuno può farle ancora girare."
+    },
+    {
+      "title": "Generazioni Connesse — Cyberbullismo",
+      "url": "https://www.generazioniconnesse.it/site/it/2019/09/04/cyberbullismo--4/",
+      "note": "Pagina «Che fare?»: usare i social per comunicare con gli amici e rispettare la propria privacy e la loro, per esempio chiedendo prima di taggare i compagni se le immagini li riguardano, e non caricando video che potrebbero creare imbarazzo o vergogna anche se sembrano divertenti. Tra le domande proposte: che cosa può succedere se si posta una foto riservata del fidanzato, della fidanzata o dei compagni."
+    },
+    {
+      "title": "Generazioni Connesse — Materiale per adolescenti (2015)",
+      "url": "https://www.generazioniconnesse.it/_file/documenti/KIt_Didattico/2015/GenerazioniConnesse-Teens.pdf",
+      "note": "PDF del kit. Chiede il permesso prima di condividere qualcosa che non riguarda solo te, perché non è detto che ciò che piace a chi pubblica piaccia a tutti. Propone, come filtro prima di un aggiornamento, di domandarsi che cosa succederebbe se lo vedesse proprio chi non si vorrebbe. Scrive che un upload può diventare un download in un secondo."
+    },
+    {
+      "title": "Generazioni Connesse — Amore al primo selfie",
+      "url": "https://www.generazioniconnesse.it/site/it/2019/01/20/amore-al-primo-selfie/",
+      "note": "Una foto postata o inviata può restare: toglierla non impedisce che qualcuno l’abbia scaricata o già girata. Sul contenuto intimo, la pagina attribuisce lo sbaglio a chi fa circolare le immagini senza il consenso di chi le aveva condivise in privato, e chiede di non giudicare chi si è fatto il selfie e di non infierire. Scrive che far girare immagini di quel tipo, anche tra minori, è considerato diffusione di materiale pedopornografico. Se qualcosa va storto, non vergognarsi."
+    },
+    {
+      "title": "Generazioni Connesse — Helpline",
+      "url": "https://www.generazioniconnesse.it/site/it/2019/09/02/helpline/",
+      "note": "Linea di ascolto 1.96.96 e chat di Telefono Azzurro, per bambini e ragazzi fino ai 18 anni e per adulti che vogliono confrontarsi su un minore. Servizio descritto come riservato, gratuito e sicuro. Il numero è indicato come attivo 24 ore al giorno, 365 giorni l’anno. Tra i temi: uso di Internet e dei social, cyberbullismo, sexting, violazione della privacy."
+    },
+    {
+      "title": "Telefono Azzurro — Home",
+      "url": "https://azzurro.it/",
+      "note": "Il sito mostra il numero 1.96.96 (19696). La Linea di Ascolto è descritta come gratuita, h24 e 7 giorni su 7, per bambini e adolescenti fino ai 18 anni e per famiglie e adulti che vogliono confrontarsi su infanzia e adolescenza."
+    },
+    {
+      "title": "Telefono Azzurro — Ragazzi 13–18 anni",
+      "url": "https://azzurro.it/ragazzi-13-18/",
+      "note": "Conferma il 19696, gratuito, 24 ore su 24, tutti i giorni, da rete fissa e mobile, anche via chat. Il cyberbullismo è descritto come violenza tramite le tecnologie, con pretesti che includono immagini rubate e video imbarazzanti; chiedere aiuto non è fare la spia, e rispondere colpo su colpo di solito peggiora. Sul bullismo di persona la pagina dice che non basta un episodio. Il materiale dannoso o pedopornografico va su Clicca e segnala, non sulla linea di ascolto: https://azzurro.it/clicca-e-segnala/"
+    },
+    {
+      "title": "Better Internet for Kids — Safer Internet Centre Italia",
+      "url": "https://better-internet-for-kids.europa.eu/en/sic/italy",
+      "note": "Scheda del centro italiano, Generazioni Connesse. La helpline 1.96.96 è descritta come gestita da Telefono Azzurro: spazio gratuito e riservato, al telefono o online, per minori, genitori e altri adulti, su problemi legati alle tecnologie e alla sicurezza in rete. Tra i temi indicati ci sono privacy, cyberbullismo e sexting. Il servizio telefonico è indicato come attivo 24 ore su 24."
+    },
+    {
+      "title": "UNICEF Parenting — What you need to know about “sharenting”",
+      "url": "https://www.unicef.org/parenting/child-care/sharenting",
+      "note": "Intervista a Stacey Steinberg. Chiedere il consenso ai figli è presentato anche come modello: quando useranno i social, l’auspicio è che rispettino la privacy dei coetanei e non pubblichino foto di altri bambini e adulti senza consenso. La pagina chiede inoltre di non condividere immagini di minori in qualsiasi stato di svestizione. È una pagina per genitori: qui se ne usa la frase sui coetanei, non la guida allo sharenting."
+    },
+    {
+      "title": "EU Kids Online 2020 — Survey results from 19 countries",
+      "url": "https://www.lse.ac.uk/media-and-communications/assets/documents/research/eu-kids-online/reports/EU-Kids-Online-2020-10Feb2020.pdf",
+      "note": "Rapporto EU Kids Online, 2020. DOI del rapporto: https://doi.org/10.21953/lse.47fdeqj01ofo. Tabella 16, sharenting, base: bambini di 12–16 anni che usano internet. Domanda sull’anno precedente: un genitore o chi si prende cura del ragazzo ha pubblicato in rete informazioni (testo, foto o video) su di lui senza chiedere prima se andava bene. Per l’Italia la prima colonna indica 16: percentuale di chi ha risposto qualche volta, almeno ogni mese, almeno ogni settimana, oppure ogni giorno o quasi. Raccolta in Italia: novembre–dicembre 2017, campione di famiglie, interviste CAPI. Non misura i coetanei che si postano a vicenda e non è un dato del 2026."
+    },
+    {
+      "title": "Normattiva — Legge 22 aprile 1941, n. 633, artt. 96 e 97",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633",
+      "note": "Legge sul diritto d’autore, testo vigente. Art. 96: il ritratto di una persona non può essere esposto, riprodotto o messo in commercio senza il suo consenso, salve le disposizioni dell’articolo seguente. Art. 97: il consenso non occorre per notorietà o ufficio pubblico, necessità di giustizia o di polizia, scopi scientifici, didattici o culturali, o quando la riproduzione è collegata a fatti, avvenimenti, cerimonie di interesse pubblico o svoltisi in pubblico. Il secondo comma vieta comunque l’esposizione o il commercio se ne viene pregiudizio all’onore, alla reputazione o al decoro. Questo articolo non qualifica una singola storia di Capodanno."
+    },
+    {
+      "title": "Garante Privacy — Minori",
+      "url": "https://www.garanteprivacy.it/temi/minori",
+      "note": "Il GDPR, art. 8, fissa a 16 anni il consenso del minore per l’offerta diretta di servizi della società dell’informazione quando il trattamento si basa sul consenso, e consente agli Stati un’età più bassa non inferiore a 13. In Italia il limite è 14 anni, art. 2-quinquies del d.lgs. 196/2003. La pagina scrive che l’art. 8 non riguarda tutti i trattamenti di dati dei minori e non tocca la capacità di agire. Sulla stessa pagina, il revenge porn è distinto e rinviato alla procedura dedicata, utilizzabile anche dai minori ultraquattordicenni."
+    },
+    {
+      "title": "Regolamento (UE) 2016/679 — articolo 8",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679",
+      "note": "Testo italiano del GDPR su EUR-Lex, CELEX 32016R0679. Art. 8: condizioni del consenso dei minori per i servizi della società dell’informazione, quando si applica l’art. 6, paragrafo 1, lettera a). Soglia di 16 anni, età nazionale non inferiore a 13, dovere di adoperarsi ragionevolmente per verificare il consenso di chi ha la responsabilità genitoriale, salve le norme nazionali sui contratti dei minori."
+    },
+    {
+      "title": "Normattiva — Decreto legislativo 30 giugno 2003, n. 196",
+      "url": "https://www.normattiva.it/eli/id/2003/07/29/003G0218/CONSOLIDATED",
+      "note": "Codice in materia di protezione dei dati personali, testo consolidato. È il codice in cui sta l’art. 2-quinquies, richiamato dal Garante per l’età di 14 anni."
+    },
+    {
+      "title": "Normattiva — Decreto legislativo 10 agosto 2018, n. 101",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-08-10;101",
+      "note": "Adeguamento della normativa nazionale al regolamento (UE) 2016/679. È il decreto con cui il Codice privacy è stato raccordato al GDPR, compreso il regime del consenso dei minori per i servizi della società dell’informazione."
+    },
+    {
+      "title": "Garante Privacy — Codice, testo coordinato (informativo)",
+      "url": "https://www.garanteprivacy.it/documents/10160/0/Codice+in+materia+di+protezione+dei+dati+personali+%28Testo+coordinato%29",
+      "note": "PDF, versione 12.0, aprile 2026. Il file stesso dice che è informativo e che ha valore ufficiale solo il testo in Gazzetta. In apertura richiama il d.lgs. 10 agosto 2018, n. 101. Riproduce l’art. 2-quinquies: il minore che ha compiuto i quattordici anni può esprimere il consenso al trattamento dei propri dati per l’offerta diretta di servizi della società dell’informazione; sotto i 14, se la base è l’art. 6, paragrafo 1, lettera a), del regolamento, il consenso lo presta chi esercita la responsabilità genitoriale."
+    },
+    {
+      "title": "Garante Privacy — Sharenting",
+      "url": "https://www.garanteprivacy.it/temi/minori/sharenting",
+      "note": "Pagina sui genitori che condividono contenuti sui figli. Serve qui solo per tenere i due gesti distinti: quella scheda non è la regola della festa tra coetanei. Il pezzo sullo sharenting di questo sito la usa per il consenso dei genitori."
+    },
+    {
+      "title": "Garante Privacy — Revenge porn",
+      "url": "https://www.garanteprivacy.it/temi/revengeporn",
+      "note": "Scheda divulgativa, con il testo dell’art. 144-bis. Riguarda immagini o video a contenuto sessualmente esplicito destinati a restare privati. Segnalazione online; decisione entro 48 ore se la richiesta rientra nella norma; anche i minori ultraquattordicenni; per i minori, anche genitori o tutori. L’intervento non assicura in assoluto che la diffusione non avvenga. Chi riceve quel materiale su altre persone non deve diffonderlo. La Polizia postale resta disponibile, anche per minacce o richieste estorsive. Non è il modulo di un video soltanto imbarazzante."
+    },
+    {
+      "title": "Polizia di Stato — Il contrasto al revenge porn",
+      "url": "https://www.poliziadistato.it/articolo/385e9817dc03344594873789",
+      "note": "La Polizia postale descrive il reato come diffusione, cessione o invio di immagini o video a contenuto sessuale senza il consenso delle persone interessate. Una volta in rete, la rimozione definitiva è difficile. La pagina indica la denuncia tempestiva per limitare l’ulteriore divulgazione."
+    },
+    {
+      "title": "Polizia di Stato — L’ammonimento del Questore",
+      "url": "https://www.poliziadistato.it/articolo/lammonimento-del-questore",
+      "note": "Misura di prevenzione, gratuita, senza obbligo di avvocato, chiedibile in un ufficio di Polizia o dei Carabinieri. Per la diffusione illecita di immagini o video a contenuto sessualmente esplicito, la vittima può chiederla se non ha già sporto querela per gli stessi fatti. Non sostituisce, da sola, le altre tutele."
+    },
+    {
+      "title": "Polizia postale — Segnala online",
+      "url": "https://www.commissariatodips.it/segnalazioni/segnala-online/index.html",
+      "note": "Il modulo non è una querela né una denuncia e non sostituisce il pronto intervento. Per un contatto urgente la pagina indica il 112 o il 113."
+    },
+    {
+      "title": "Polizia di Stato — YouPol",
+      "url": "https://youpol.poliziadistato.it/landing",
+      "note": "App per segnalare bullismo, cyberbullismo, spaccio di droga e violenza domestica. La pagina dice che le segnalazioni possono essere anonime e che si possono allegare foto, video e audio. Indica anche la geolocalizzazione della segnalazione."
+    },
+    {
+      "title": "Normattiva — Legge 29 maggio 2017, n. 71",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-05-29;71",
+      "note": "Disposizioni a tutela dei minori per la prevenzione e il contrasto del bullismo e del cyberbullismo, testo vigente. Citata per il quadro, non per qualificare un singolo video di festa. La definizione di Telefono Azzurro sul bullismo di persona, nella pagina 13–18, non è il testo di questa legge."
+    },
+    {
+      "title": "Snapchat — Promemoria su privacy e sicurezza di Snap Map",
+      "url": "https://help.snapchat.com/hc/it/articles/24547077410580-Promemoria-sulla-privacy-e-sulla-sicurezza-di-Snap-Map",
+      "note": "Pagina di assistenza in italiano. Due modalità: «Solo durante l’utilizzo», che non aggiorna la posizione a app chiusa, e condivisione in background, visibile in tempo reale anche a app chiusa. La condivisione è disattivata di default. La Modalità fantasma nasconde la posizione agli altri sulla mappa, ma la posizione resta condivisa con Snap. Gli Snap inviati alla mappa possono comparire comunque. Il consiglio della pagina: solo persone fidate, solo per il tempo necessario, non in background più a lungo del necessario."
+    },
+    {
+      "title": "WhatsApp — Risposte sulla privacy",
+      "url": "https://www.whatsapp.com/privacyquestions?lang=it",
+      "note": "Alla domanda se WhatsApp può vedere la posizione: la posizione generale (Paese o città) può essere stimata da indirizzo IP e numero; la posizione esatta in una chat è una scelta dell’utente, basata sul GPS, protetta dalla crittografia end-to-end, e WhatsApp scrive che né WhatsApp né Meta possono vederla. La pagina non indica una durata e non dice che un gruppo sia un pubblico ristretto."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Ha compiuto 14 anni: può postare gli amici senza chiedere?",
+      "answer": "No. I 14 anni, come li spiega il Garante, sono l’età per il consenso ai propri dati su un servizio della società dell’informazione offerto direttamente al minore, quando la base è il consenso: art. 2-quinquies, in attuazione dell’art. 8 del GDPR. Non è il permesso di pubblicare il ritratto di un altro. Quello sta nell’art. 96, con le eccezioni dell’art. 97. Generazioni Connesse chiede comunque il permesso prima di postare o di taggare."
+    },
+    {
+      "question": "Se tolgo la storia, il problema è chiuso?",
+      "answer": "No. Generazioni Connesse scrive che togliere una foto non toglie la copia già scaricata o inoltrata. Un profilo riservato restringe il pubblico di partenza, non uno screenshot."
+    },
+    {
+      "question": "Il modulo del Garante sul revenge porn vale anche per un video solo imbarazzante?",
+      "answer": "No. L’art. 144-bis riguarda contenuti sessualmente espliciti destinati a restare privati. Per un video in cui si balla o si inciampa si chiede la rimozione alla piattaforma, non si inoltra il file, e se ne parla con un adulto o con il 1.96.96. Se può essere un reato, Garante e Polizia indicano la Polizia postale."
+    },
+    {
+      "question": "Se ricevo il video, lo mando a casa per farlo vedere?",
+      "answer": "Non lo si fa girare. Per le immagini sessualmente esplicite di altre persone il Garante chiede di non diffonderle. Dire a un adulto che cosa è successo non è inoltrare il file. Il materiale pedopornografico, scrive Telefono Azzurro, si segnala su Clicca e segnala, non sulla linea di ascolto."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mercoledì 30 dicembre 2026. Manca un giorno a mezzanotte. In salotto un telefono è alzato, e non è quello di un genitore: è di un ragazzo, o di una ragazza, che inquadra gli amici. Il tag è già pronto. Nessuno ha chiesto niente, perché a una festa chiedere sembra spegnere la festa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per genitori e per ragazzi dai 12 ai 17 anni. Parla di foto, storie e video di Capodanno, del consenso prima di pubblicare un amico, della posizione in tempo reale, dei contenuti che il giorno dopo non vorresti rivedere, e di che cosa fare se un video circola lo stesso. Non è una lista di divieti. Le pagine citate dicono che cosa prevedono, non se il video di ieri notte è un reato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo sharenting — i genitori che pubblicano i figli — sta nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/sharenting-foto-dei-figli-online",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "foto dei figli online",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Lì il gesto è di chi ha la responsabilità genitoriale. Qui sono i coetanei a postarsi l’un l’altro. EU Kids Online 2020 ha chiesto ai 12–16 anni che usano internet se, nell’anno precedente, un genitore avesse pubblicato un testo, una foto o un video su di loro senza chiedere. Nella tabella del rapporto l’Italia è al 16 per cento, almeno qualche volta. In Italia il lavoro sul campo è di novembre e dicembre 2017. Quella cifra riguarda i genitori, non gli amici.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sonno, telefono a tavola e propositi di gennaio stanno in tre bozze vicine: «Vacanze di Natale: sonno, schermi e il rientro a gennaio», «Il telefono a tavola durante le feste: che cosa dice la ricerca sul phubbing», «Propositi digitali di fine anno: un’abitudine piccola con i ragazzi». Il loop per cui si resta in una storia per non restarne fuori è il pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FOMO e JOMO",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima della storia, il sì di chi è nell’inquadratura",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fotografare una festa non è il problema. Il problema è pubblicare qualcuno che non ha detto sì.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Generazioni Connesse, nel pieghevole per i ragazzi, scrive: fotografare è bene, chiedere prima di postare è meglio. Comparire in una foto è personale, come l’indirizzo o il telefono. Nella pagina sul cyberbullismo chiede di domandare prima di taggare e di non caricare video imbarazzanti, anche se in quel momento fanno ridere. Nel materiale per gli adolescenti il filtro è: e se lo vedesse proprio chi non vorresti?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "UNICEF, nell’intervista a Stacey Steinberg sullo sharenting, dice che chiedere il consenso ai figli è anche un modello. L’auspicio è che, da soli sui social, non pubblichino foto di altri bambini e di adulti senza consenso. La pagina è scritta per i genitori. Quella frase è il ponte con questa notte.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il ritratto ha una regola più vecchia dei social. L’art. 96 della legge 22 aprile 1941, n. 633, vieta di esporre, riprodurre o mettere in commercio il ritratto senza consenso, salvo l’art. 97: notorietà o ufficio pubblico, giustizia o polizia, scopi scientifici, didattici o culturali, fatti e cerimonie di interesse pubblico o in pubblico. Anche allora è vietato se ne viene pregiudizio all’onore, alla reputazione o al decoro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una festa in casa non è una di quelle voci. Un conto alla rovescia in piazza può sembrare, a qualcuno, un fatto svoltosi in pubblico: questo pezzo non chiude quel caso, e non decide se una storia rientra nei verbi della legge. La regola usabile a mezzanotte è quella di Generazioni Connesse. Un sì per la foto sul divano non è un sì per la storia, né per il gruppo di classe. Se la persona esita, non si pubblica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quello che a mezzanotte fa ridere",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Telefono Azzurro, nella pagina per i 13–18 anni, descrive il cyberbullismo come violenza via chat e social, con immagini rubate e video imbarazzanti tra i pretesti. Chi è dietro lo schermo a volte non misura il male; chi subisce esita, per paura di una vendetta o dei genitori. Non sentirsi in colpa, non rispondere colpo su colpo, chiedere aiuto: non è fare la spia. La stessa pagina, sul bullismo di persona, dice che non basta un episodio. La legge 29 maggio 2017, n. 71, è la norma di prevenzione e contrasto, e non copia quella frase.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Anche a Capodanno restano fuori i contenuti che quelle pagine mettono insieme: qualcuno che dorme o sta male, che non è vestito, un litigio, il numero sulla porta, la scuola riconoscibile. UNICEF chiede di non condividere immagini di minori in qualsiasi stato di svestizione. Togliere la foto dal profilo, scrive Generazioni Connesse, non toglie la copia già scaricata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La posizione in tempo reale non è un invito",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una storia con il nome del locale è un indizio. La posizione che si aggiorna mentre ti sposti è un’altra cosa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Snapchat, nel promemoria italiano su Snap Map, distingue «Solo durante l’utilizzo», che non si aggiorna a app chiusa, e la condivisione in background, in tempo reale anche a app chiusa. È disattivata di default. La Modalità fantasma la nasconde agli altri, ma Snap continua a ricevere la posizione, e gli Snap inviati alla mappa possono comparire comunque. Solo persone fidate, e solo per il tempo necessario.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "WhatsApp, nelle risposte sulla privacy, separa due posizioni. Quella generale, Paese o città, può essere stimata da indirizzo IP e numero. Quella esatta in una chat è una scelta tua, basata sul GPS, protetta dalla crittografia end-to-end: WhatsApp scrive che né WhatsApp né Meta possono vederla. La pagina non dice per quanti minuti resta accesa, né che il gruppo della festa sia un pubblico piccolo. Una posizione lasciata accesa dopo mezzanotte può indicare la casa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il controllo di un genitore è un altro discorso, quello del pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "proteggere senza spiare",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": la posizione utile è detta ad alta voce, per esempio fino al rientro, non letta di nascosto. Qui il pin lo accende il ragazzo, verso i coetanei. Spegnere di nascosto la mappa di un amico non sostituisce il sì sulla foto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I quattordici anni non sono un permesso sugli altri",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si sente dire: «Ha 14 anni, decide lui». Decide, in un caso preciso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’articolo 8 del regolamento (UE) 2016/679 riguarda il consenso ai dati quando un servizio della società dell’informazione è offerto direttamente a un minore e la base è il consenso. Sotto i 16 anni quel consenso è lecito solo se lo presta o lo autorizza chi ha la responsabilità genitoriale. Gli Stati possono scendere, non sotto i 13. Non è una norma sul ritratto, e non cambia la capacità di agire.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Italia il Garante, nella pagina sui minori, fissa il limite a 14 anni: art. 2-quinquies del Codice privacy, decreto legislativo 30 giugno 2003, n. 196, in attuazione dell’art. 8. Il decreto legislativo 10 agosto 2018, n. 101 adegua il Codice al regolamento. Nel testo coordinato del Garante (versione 12.0, aprile 2026), dichiarato informativo e non ufficiale, dai quattordici anni il minore può consentire al trattamento dei propri dati per l’offerta diretta di quei servizi; sotto i 14, se la base è il consenso, lo presta chi ha la responsabilità genitoriale. L’art. 8 non copre tutti i trattamenti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Avere l’età per l’informativa di un social non è il diritto di pubblicare la faccia di un amico. L’art. 96 chiede il consenso di chi è ritratto. Generazioni Connesse chiede il permesso prima del tag. Sono due sì diversi: uno sull’account, uno sull’inquadratura, a 12 anni come a 17. Un terzo sì, quello dei genitori che pubblicano i figli, sta nella pagina del Garante sullo sharenting. È l’altro pezzo, non questa notte.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il video gira lo stesso",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La prima mossa è non inoltrarlo. Generazioni Connesse, nella pagina sul selfie, scrive che lo sbaglio è di chi fa circolare un’immagine intima senza consenso, non di chi si è fatto la foto: non infierire, e non vergognarsi. La stessa pagina considera pedopornografia far girare immagini di quel tipo anche tra minori: non si contribuisce.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Garante tiene stretto il perimetro: immagini o video sessualmente espliciti, destinati a restare privati. Non è un video in cui qualcuno balla. Con un fondato timore si usa il modulo online dell’art. 144-bis. La decisione, se la richiesta rientra nella norma, è entro 48 ore. Possono segnalare i minori dai 14 anni e, per un minore, anche i genitori o chi ha la tutela. L’intervento non garantisce che la diffusione non avvenga. Chi riceve quel materiale su altri non lo diffonde: lo cancella e, se ritiene, segnala alla Polizia postale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Polizia di Stato descrive quel reato come diffusione, cessione o invio di immagini o video a contenuto sessuale senza il consenso delle persone interessate. Indica la denuncia tempestiva, perché una volta in rete toglierle del tutto è difficile. L’ammonimento del Questore è un’altra strada: gratuita, senza obbligo di avvocato, in un ufficio di Polizia o dei Carabinieri, se per gli stessi fatti non è già stata sporta querela. Questo pezzo non sceglie tra ammonimento e querela.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Segnala online» della Polizia postale non è una denuncia e non sostituisce il 112 o il 113. YouPol serve a segnalare bullismo e cyberbullismo, anche in forma anonima e con allegati; la pagina indica anche la geolocalizzazione. Un video solo imbarazzante non va al modulo del Garante sul revenge porn: si chiede la rimozione, e non si rilancia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La linea 1.96.96 è la helpline di Generazioni Connesse, gestita da Telefono Azzurro: lo confermano la pagina della helpline, il sito Azzurro, la pagina 13–18 anni e la scheda europea del Safer Internet Centre. È gratuita e attiva 24 ore su 24, per ragazzi fino ai 18 anni e per adulti. Tra i temi: social, cyberbullismo, sexting, privacy. Il materiale pedopornografico si segnala su Clicca e segnala, non in quella linea. Non sostituisce il 112 né la Polizia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una checklist prima del pulsante",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cinque controlli, presi dalle fonti già aperte.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "version": 1,
+          "children": [
+            {
+              "type": "list",
+              "tag": "ul",
+              "listType": "bullet",
+              "version": 1,
+              "children": [
+                {
+                  "type": "listitem",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Il sì è per questo posto. ",
+                      "version": 1,
+                      "format": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Chi è nell’inquadratura ha accettato questa storia o questo video, non «i social» in generale. Se esita, non si pubblica.",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "listitem",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Il filtro del giorno dopo. ",
+                      "version": 1,
+                      "format": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Se lo vedesse chi non vorresti, non si carica. Un video che mette in imbarazzo non diventa a posto perché in quel momento fa ridere.",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "listitem",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Niente di intimo, niente che identifica la casa. ",
+                      "version": 1,
+                      "format": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Nudità, immagini sessualmente esplicite, numero civico, scuola riconoscibile.",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "listitem",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "La posizione live è una scelta corta. ",
+                      "version": 1,
+                      "format": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Spenta, oppure accesa solo per il tragitto e solo verso chi conosci. Su Snap Map è disattivata di default.",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "listitem",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Se è già online e non doveva, non si inoltra. ",
+                      "version": 1,
+                      "format": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Poi un adulto, il 1.96.96, la rimozione sulla piattaforma. Se è sessualmente esplicito o può essere un reato: Garante, art. 144-bis, e Polizia postale.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Ha compiuto 14 anni: può postare gli amici senza chiedere?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. I 14 anni, come li spiega il Garante, sono l’età per il consenso ai propri dati su un servizio della società dell’informazione offerto direttamente al minore, quando la base è il consenso: art. 2-quinquies, in attuazione dell’art. 8 del GDPR. Non è il permesso di pubblicare il ritratto di un altro. Quello sta nell’art. 96, con le eccezioni dell’art. 97. Generazioni Connesse chiede comunque il permesso prima di postare o di taggare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se tolgo la storia, il problema è chiuso?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Generazioni Connesse scrive che togliere una foto non toglie la copia già scaricata o inoltrata. Un profilo riservato restringe il pubblico di partenza, non uno screenshot.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il modulo del Garante sul revenge porn vale anche per un video solo imbarazzante?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. L’art. 144-bis riguarda contenuti sessualmente espliciti destinati a restare privati. Per un video in cui si balla o si inciampa si chiede la rimozione alla piattaforma, non si inoltra il file, e se ne parla con un adulto o con il 1.96.96. Se può essere un reato, Garante e Polizia indicano la Polizia postale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se ricevo il video, lo mando a casa per farlo vedere?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non lo si fa girare. Per le immagini sessualmente esplicite di altre persone il Garante chiede di non diffonderle. Dire a un adulto che cosa è successo non è inoltrare il file. Il materiale pedopornografico, scrive Telefono Azzurro, si segnala su Clicca e segnala, non sulla linea di ascolto.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "readingTime": 10
+}
