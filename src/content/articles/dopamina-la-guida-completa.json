@@ -5,35 +5,72 @@
   "cover": "/images/covers/dopamina.png",
   "coverAlt": "Illustrazione editoriale sul tema dopamina, motivazione e schermi.",
   "publishedAt": "2024-12-20T17:27:13.817Z",
-  "updatedAt": "2026-10-05T18:00:00.000+02:00",
-  "authorSlugs": [
-    "matteo-foroni"
-  ],
-  "categorySlugs": [
-    "benessere-digitale",
-    "salute-mentale"
-  ],
-  "readingTime": 8,
+  "updatedAt": "2026-11-02T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["benessere-digitale", "salute-mentale"],
+  "readingTime": 9,
   "status": "published",
   "seo": {
     "metaTitle": "Dopamina e schermi: cosa sappiamo (e cosa no)",
-    "metaDescription": "Guida chiara su dopamina, reward e social: miti da smontare, abitudini utili, niente claim medici. Aggiornata ottobre 2026."
+    "metaDescription": "Guida chiara su dopamina, reward e social: miti da smontare, abitudini utili, niente claim medici. Aggiornata novembre 2026."
   },
   "sources": [
     {
-      "title": "Lindström et al., A computational reward learning account of social media engagement (Nature Communications, 2021)",
+      "title": "Berridge e Robinson — Liking, wanting and the incentive-sensitization theory of addiction (American Psychologist, 2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5171207/",
+      "note": "American Psychologist, 2016, 71(8), 670–679. Testo aperto su PMC. Il «volere» (incentive salience) è dissociabile dal «piacere» di consumare una ricompensa; il piacere non dipende dalla dopamina. Gli studi citati dagli autori riguardano gusto, cibo e farmaci, non i social. La teoria dell’incentive-sensitization non è usata qui per dire che lo scroll sia una dipendenza."
+    },
+    {
+      "title": "Schultz — Dopamine reward prediction error coding (Dialogues in Clinical Neuroscience, 2016)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4826767/",
+      "note": "Dialogues in Clinical Neuroscience, 2016, 18(1), 23–32. Testo aperto su PMC. La maggior parte dei neuroni dopaminergici del mesencefalo segnala un errore di previsione: attivazione se la ricompensa è meglio del previsto, baseline se è come previsto, attività ridotta se è peggio. Sostituisce la sintesi del 1998 su Journal of Neurophysiology, la cui pagina non si apre (403). Non descrive un livello unico da azzerare con un digiuno."
+    },
+    {
+      "title": "Harvard Health — Dopamine fasting: Misunderstanding science spawns a maladaptive fad (26 febbraio 2020)",
+      "url": "https://www.health.harvard.edu/blog/dopamine-fasting-misunderstanding-science-spawns-a-maladaptive-fad-2020022618917",
+      "note": "Peter Grinspoon, Harvard Health Publishing, 26 febbraio 2020. Il «dopamine fast» di Cameron Sepah ha poco a che fare con il digiuno e con la dopamina. La pagina riporta che Sepah, al New York Times, ha detto che il titolo non va preso alla lettera. Evitare attività molto stimolanti non abbassa i livelli di dopamina. Le versioni estreme (non mangiare, non parlare, evitare le persone) sono descritte come un fraintendimento. La dopamina può comunque aumentare davanti a una ricompensa."
+    },
+    {
+      "title": "Lindström et al. — A computational reward learning account of social media engagement (Nature Communications, 2021)",
       "url": "https://www.nature.com/articles/s41467-020-19607-x",
-      "note": "Comportamento online e principi di reward learning (like, latenze di posting). Verificato open access."
+      "note": "Nature Communications, 2021, articolo 1311. Open access. Oltre un milione di post di oltre 4.000 persone: la latenza tra un post e il successivo si accorcia quando la ricompensa sociale media è più alta, in linea con il reward learning. È un risultato su chi pubblica, non una misura della dopamina di chi scrolla e non una diagnosi."
     },
     {
-      "title": "Schultz, Predictive reward signal of dopamine neurons (Journal of Neurophysiology, 1998)",
-      "url": "https://journals.physiology.org/doi/full/10.1152/jn.1998.80.1.1",
-      "note": "Sintesi classica sul prediction error dei neuroni dopaminergici."
+      "title": "APA — Health advisory on social media use in adolescence (2023)",
+      "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+      "note": "Health advisory dell’American Psychological Association, 2023. I social non sono di per sé benefici o dannosi. Tra le funzioni da adattare all’età: like, contenuti raccomandati, tempi senza limite, scroll senza fine. Uso problematico: continuare anche volendo smettere, più tempo del previsto, perdita di relazioni o di occasioni scolastiche. Limitare l’uso che interferisce con sonno e movimento. Per i 10–14 anni: monitoraggio con discussione e coaching, bilanciato con la privacy. Gli studi causali, scrive l’advisory, sono ancora rari."
     },
     {
-      "title": "Niv, Daw, Joel & Dayan, Tonic dopamine: opportunity costs and the control of response vigor (Psychopharmacology, 2007)",
-      "url": "https://link.springer.com/article/10.1007/s00213-006-0502-4",
-      "note": "Rate di ricompensa, opportunity cost e vigore delle risposte."
+      "title": "ISS — FAQ di benessereinrete",
+      "url": "https://benessereinrete.iss.it/faq",
+      "note": "Centro Nazionale Dipendenze e Doping, Istituto Superiore di Sanità. FAQ usate qui: come riconoscere un uso problematico (funzionamento, non solo le ore; i segnali non significano da soli una dipendenza); a chi chiedere aiuto (pediatra, medico, psicologo); come prevenire (regole condivise, coerenti e spiegate, più utili dei divieti rigidi); se sia utile togliere il telefono come punizione (di solito no, se è improvviso e senza accordo). Non è un trial sul dopamine detox."
+    },
+    {
+      "title": "HealthyChildren — How to Make a Family Media Plan (aggiornata il 20 gennaio 2026)",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Pagina dell’American Academy of Pediatrics per le famiglie, ultimo aggiornamento 20 gennaio 2026. Zone senza schermo (tavola, compiti, prima di dormire), un solo schermo alla volta, autoplay e notifiche spenti perché tengono i ragazzi agganciati più a lungo, alternative già nel piano, piano che include gli adulti e si rivede. Non indica una soglia di minuti e non parla di dopamina."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Cos’è il dopamine detox?",
+      "answer": "È un’etichetta virale, non una pratica clinica e non un modo per abbassare la dopamina. Harvard Health scrive che il «dopamine fast» ha poco a che fare sia con il digiuno sia con la dopamina, e che evitare le attività molto stimolanti non ne abbassa i livelli. Stare un po’ senza scroll può essere una pausa da un’abitudine. Non ripulisce i recettori."
+    },
+    {
+      "question": "La dopamina è la molecola del piacere?",
+      "answer": "Non in quel senso. Berridge e Robinson distinguono il «volere» una ricompensa, in cui entra la dopamina, dal piacere di consumarla, che non dipende dalla dopamina. Schultz descrive la maggior parte dei neuroni dopaminergici del mesencefalo come un segnale di errore di previsione: meglio, uguale o peggio di quanto atteso. Non è un termometro della felicità."
+    },
+    {
+      "question": "I social creano dipendenza da dopamina?",
+      "answer": "Non risulta una diagnosi con questo nome. L’APA scrive che i social non sono di per sé benefici o dannosi, e descrive un uso problematico quando si continua anche volendo smettere, oppure si perdono sonno, scuola o relazioni. Uno studio su oltre un milione di post trova che i like possono accorciare l’intervallo tra un post e l’altro: è reward learning su chi pubblica, non una misura della dopamina di chi scrolla."
+    },
+    {
+      "question": "Come ridurre lo scroll compulsivo nei ragazzi?",
+      "answer": "Si parte dall’ambiente, non dalla chimica. La pagina dell’AAP sul Family Media Plan indica zone senza schermo (tavola, compiti, prima di dormire), un solo schermo alla volta, autoplay e notifiche spenti, e alternative già scritte nel piano. Per i 10–14 anni l’APA consiglia monitoraggio e dialogo, con spazio alla privacy. L’ISS preferisce regole condivise e spiegate al telefono tolto di colpo."
+    },
+    {
+      "question": "Si può esaurire la dopamina passando la giornata sullo schermo?",
+      "answer": "No. Nelle fonti usate qui non c’è un budget giornaliero che i feed svuotano. Harvard Health scrive che un digiuno non abbassa la dopamina. La metafora del budget può servire a spostare i compiti prima del feed. Non è un esame del sangue e non è una diagnosi."
     }
   ],
   "content": {
@@ -46,7 +83,7 @@
           "children": [
             {
               "type": "text",
-              "text": "La dopamina torna spesso nei reel sul «digital detox» e nei post sul «cervello hijacked». A volte è utile. A volte è uno slogan: se qualcosa ti piace, «è la dopamina»; se ti stanchi, «hai saturato i recettori». Questa guida fa un passo indietro. Cosa sappiamo con ragionevole certezza, cosa resta semplificazione, e cosa puoi fare — senza cure fai-da-te — quando lo schermo tira più del dovuto.",
+              "text": "La dopamina torna spesso nei reel sul «digital detox» e nei post sul «cervello hijacked». A volte il gesto è sensato: posare il telefono. L’etichetta chimica, quasi mai. Se qualcosa ti piace, «è la dopamina»; se ti stanchi, «hai saturato i recettori». Questa guida fa un passo indietro. Cosa si può dire con una fonte, cosa resta uno slogan, e cosa puoi cambiare nell’ambiente — senza cure fai-da-te — quando lo schermo tira più del dovuto.",
               "version": 1
             }
           ]
@@ -63,7 +100,7 @@
             },
             {
               "type": "text",
-              "text": "non è un testo medico e non sostituisce un professionista. Se sospetti un problema di salute, ansia grave o dipendenza, parla con un medico o uno specialista.",
+              "text": "non è un testo medico e non sostituisce un professionista. Se sospetti un problema di salute, ansia grave o un uso che non riesci a fermare, parla con un medico o uno specialista.",
               "version": 1,
               "format": 2
             }
@@ -87,18 +124,29 @@
           "children": [
             {
               "type": "text",
-              "text": "Nei libri popolari la dopamina è «la molecola del piacere». In neuroscienze del reward è più precisa: molti neuroni dopaminergici del mesencefalo segnalano un ",
+              "text": "Nei libri popolari la dopamina è «la molecola del piacere». Una review di Berridge e Robinson (American Psychologist, 2016) separa due cose che quel modo di dire incolla. Il ",
               "version": 1
             },
             {
               "type": "text",
-              "text": "errore di previsione della ricompensa",
+              "text": "volere",
               "version": 1,
               "format": 2
             },
             {
               "type": "text",
-              "text": " — se un esito è meglio, uguale o peggio di quanto ti aspettavi. Serve ad apprendere e a spingere verso obiettivi, non a «riempire un serbatoio di felicità».",
+              "text": " una ricompensa — loro lo chiamano incentive salience, una forma di motivazione in cui entra la dopamina mesolimbica — non è il ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "piacere",
+              "version": 1,
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": " di consumarla. Il piacere, scrivono, sta in circuiti più piccoli e non dipende dalla dopamina. È una distinzione nata da esperimenti sul gusto e, più tardi, da studi su farmaci e cibo in cui ridurre la trasmissione dopaminergica abbassava il desiderio di continuare senza abbassare il giudizio di piacere. Non è uno studio sui social. Serve a non scambiare per piacere ogni apertura di un’app.",
               "version": 1
             }
           ]
@@ -109,7 +157,29 @@
           "children": [
             {
               "type": "text",
-              "text": "È un modello utile, non una photo del tuo umore di martedì. Il cervello non ha un unico «livello dopamina» che alzi o abbassi con un digiuno di 24 ore. Ci sono circuiti diversi, tempi diversi (segnali rapidi e tonici più lenti), e molti altri sistemi in gioco.",
+              "text": "Il segnale più studiato nei neuroni dopaminergici del mesencefalo è un altro. Schultz, in una review del 2016, riassume un risultato classico: la maggior parte di questi neuroni, in esseri umani, scimmie e roditori, segnala un ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "errore di previsione della ricompensa",
+              "version": 1,
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": ". Si attivano se l’esito è meglio del previsto, restano intorno alla baseline se è come previsto, e riducono l’attività se è peggio. Serve a imparare che cosa ha pagato. Non è, in quella review, un livello di felicità da svuotare con un digiuno di 24 ore, né un unico «livello dopamina» della giornata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Harvard Health, in un pezzo del 26 febbraio 2020 sul «dopamine fasting», tiene insieme due frasi che i reel separano. La dopamina è un neurotrasmettitore del sistema di ricompensa, motivazione, apprendimento e piacere, e può aumentare davanti a una ricompensa o a un’attività piacevole. Evitare le attività molto stimolanti, però, non la abbassa: un «digiuno» non svuota una scorta. Non si può digiunare da una sostanza che il corpo produce comunque.",
               "version": 1
             }
           ]
@@ -132,7 +202,7 @@
           "children": [
             {
               "type": "text",
-              "text": "I social non «iniettano dopamina» come un farmaco. Usano però meccaniche di ricompensa variabile: like, nuovi clip, notifiche a intermittenza. Studi computazionali su milioni di post mostrano che il comportamento online può seguire principi di ",
+              "text": "I social non «iniettano dopamina» come un farmaco. Qui non c’è una misura della dopamina di chi scrolla. Il dato solido è più stretto, e riguarda chi pubblica. Lindström e colleghi (Nature Communications, 2021) hanno analizzato oltre un milione di post di oltre 4.000 persone, su più piattaforme: il tempo tra un post e il successivo tende ad accorciarsi quando la ricompensa sociale media — i like — è più alta. È il tipo di relazione che i modelli di ",
               "version": 1
             },
             {
@@ -143,7 +213,7 @@
             },
             {
               "type": "text",
-              "text": ": quando la «ricompensa sociale» media è alta, le persone tendono a postare con latenze più corte. Non è una diagnosi di dipendenza. È un indizio sul perché lo scroll si allunga senza che tu lo decida a tavolino.",
+              "text": " prevedono tra tasso di ricompensa e latenza della risposta. Non è una diagnosi di dipendenza. Non dice che lo scroll svuoti qualcosa.",
               "version": 1
             }
           ]
@@ -154,7 +224,18 @@
           "children": [
             {
               "type": "text",
-              "text": "In pratica: il pollice non è «rotto». Sta facendo quello per cui il sistema è bravo — inseguire segnali di novità e approvazione. Per questo aiuta ridisegnare l’ambiente (",
+              "text": "L’American Psychological Association, nell’health advisory del 2023, scrive che usare i social non è di per sé benefico o dannoso: l’effetto dipende dalla persona, da ciò che vede e dal contesto. Tra le funzioni da adattare all’età elenca il pulsante like, i contenuti raccomandati, i tempi senza limite e lo scroll senza fine. Chiede di limitare l’uso quando interferisce con il sonno o con il movimento. E ricorda che, in questa letteratura, gli studi che dimostrano un nesso causale sono ancora rari.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In pratica il pollice non è rotto. Lo scroll senza fine, quello che l’APA mette tra le funzioni da adattare all’età, non ha un fondo pagina. Per questo aiuta ridisegnare l’ambiente — ",
               "version": 1
             },
             {
@@ -171,7 +252,41 @@
             },
             {
               "type": "text",
-              "text": ", pause sul feed) più che «resetare la chimica» con un mantra.",
+              "text": ", e il loop descritto nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/doomscrolling-perche-il-pollice-non-si-ferma",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "doomscrolling",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — più che «resettare la chimica» con un mantra. La paura di perdere un aggiornamento, di cui parliamo in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FOMO e JOMO",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", è un altro motivo per riaprire. Non è una prova chimica.",
               "version": 1
             }
           ]
@@ -206,7 +321,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Come protocollo virale (zero stimoli per giorni, «ripulire i recettori») non è una pratica clinica standard. Evitare per un po’ scroll, pornografia o snack non è sbagliato in sé: è un ",
+              "text": "Come protocollo virale — zero stimoli per giorni, «ripulire i recettori» — non è una pratica clinica. Harvard Health scrive che il «dopamine fast» lanciato dallo psichiatra Cameron Sepah ha poco a che fare sia con il digiuno sia con la dopamina. La pagina riporta ciò che Sepah ha detto al New York Times: nel titolo la dopamina è un meccanismo con cui le abitudini si rinforzano, e il titolo non va preso alla lettera. L’idea che lui descriveva somiglia a una pausa da stimoli compulsivi, notifiche e beep, non a un azzeramento chimico. Le versioni estreme — non mangiare, non parlare, evitare le persone — sono, per quella pagina, un fraintendimento: il contatto con gli altri doveva sostituire lo scroll, non essere il nemico. Stare un po’ senza feed è un ",
               "version": 1
             },
             {
@@ -217,7 +332,30 @@
             },
             {
               "type": "text",
-              "text": ", non un azzeramento della dopamina. La dopamina serve anche a muoversi, motivarsi e apprendere. L’obiettivo sensato non è «toglierla», è ridurre le scorciatoie a basso costo che rubano tempo a sonno, compiti e relazioni.",
+              "text": ". Toglie una scorciatoia. Non toglie una molecola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«I social creano dipendenza da dopamina»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Dipendenza da dopamina» non è il nome di una diagnosi. L’APA parla di uso problematico dei social quando, per esempio, si continua anche volendo smettere, si passa più tempo del previsto, oppure si perdono relazioni o occasioni di scuola. Sono segnali su come va la giornata, non un dosaggio. L’Istituto Superiore di Sanità, nelle FAQ di benessereinrete, dice una cosa vicina: difficoltà a smettere, sonno o scuola trascurati, irritabilità forte se si limita l’accesso, attività offline che spariscono. Quei segnali non significano da soli una dipendenza.",
               "version": 1
             }
           ]
@@ -240,7 +378,7 @@
           "children": [
             {
               "type": "text",
-              "text": "È una metafora. Può aiutarti a pianificare la giornata (compiti noiosi prima, feed dopo). Non è una misura fisiologica. Usala come promemoria, non come diagnosi.",
+              "text": "È una metafora. Può aiutarti a pianificare la giornata: compiti noiosi prima, feed dopo. Non è una misura fisiologica. Né la review di Schultz né quella di Berridge descrivono un budget giornaliero che i reel svuotano. Usala come promemoria, non come diagnosi.",
               "version": 1
             }
           ]
@@ -263,7 +401,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Promesse di «alzare la baseline» con pillole o stack non verificati restano fuori da questa guida. Se c’è un sospetto clinico (ADHD, depressione, disturbi del sonno), la strada è un professionista, non un carrello Amazon.",
+              "text": "Promesse di «alzare la baseline» con pillole o stack non verificati restano fuori da questa guida. Se c’è un sospetto clinico — un problema di sonno, di umore o di attenzione — la strada è un professionista, non un carrello. Questo pezzo non valuta integratori.",
               "version": 1
             }
           ]
@@ -275,7 +413,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Cosa tenere: abitudini, non mantram",
+              "text": "Cosa tenere: abitudini, non mantra",
               "version": 1
             }
           ]
@@ -286,41 +424,18 @@
           "children": [
             {
               "type": "text",
-              "text": "Se lo schermo vince troppo spesso, queste leve sono banali e spesso sufficienti — le stesse che tornano negli articoli su ",
+              "text": "Se lo schermo vince troppo spesso, le leve che reggono sono banali e riguardano l’ambiente. HealthyChildren.org, la pagina dell’American Academy of Pediatrics su come fare un Family Media Plan (aggiornata il 20 gennaio 2026), propone regole da discutere in famiglia: zone senza schermo, come la tavola, i compiti e il momento prima di dormire; un solo schermo alla volta; autoplay e notifiche spenti, perché quelle funzioni sono fatte per tenere i ragazzi agganciati più a lungo; spazio già scritto per lettura, gioco all’aperto, giochi in famiglia e hobby. Il piano include anche gli adulti, e si rivede quando il ragazzo cambia.",
               "version": 1
-            },
-            {
-              "type": "link",
-              "url": "/articoli/10-semplici-strategie-per-un-digital-detox-quotidiano",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "detox quotidiano",
-                  "version": 1
-                }
-              ]
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
             {
               "type": "text",
-              "text": " e ",
-              "version": 1
-            },
-            {
-              "type": "link",
-              "url": "/articoli/brain-rot",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "brain rot",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "text",
-              "text": ":",
+              "text": "L’APA, per la prima adolescenza (in genere dai 10 ai 14 anni), consiglia un monitoraggio fatto di revisione, discussione e coaching, bilanciato con la privacy: l’autonomia può crescere con l’età e con le competenze. L’Istituto Superiore di Sanità, sulla prevenzione, preferisce regole condivise, coerenti e spiegate ai divieti rigidi. Togliere il telefono di colpo, senza spiegazione e senza un accordo, di solito non è la strada più utile: può aumentare il conflitto e i comportamenti nascosti.",
               "version": 1
             }
           ]
@@ -343,7 +458,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Ricarica fuori dalla camera, silenzioso di notte, una sola app di messaggi in primo piano.",
+                  "text": "Ricarica fuori dalla camera, silenzioso di notte, una sola app di messaggi in primo piano. La camera e l’ora prima di dormire sono tra le zone senza schermo della pagina AAP.",
                   "version": 1
                 }
               ]
@@ -354,13 +469,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Friction. ",
+                  "text": "Attrito. ",
                   "version": 1,
                   "format": 1
                 },
                 {
                   "type": "text",
-                  "text": "Togli l’icona del feed dalla home, usa limiti di schermo, apri i social da browser se ti frena.",
+                  "text": "Togli l’icona del feed dalla home. Spegni autoplay e notifiche non necessarie: è il consiglio esplicito di quella pagina. Aprire i social dal browser, se quel passo in più ti frena, è un attrito in più, non una cura.",
                   "version": 1
                 }
               ]
@@ -377,7 +492,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "40 minuti di compiti senza seconda finestra; poi una pausa vera, non un reel «di due minuti».",
+                  "text": "Un tratto di compiti senza seconda finestra; poi una pausa vera, non un reel «di due minuti». Un solo schermo alla volta è una delle regole che l’AAP mette tra gli esempi.",
                   "version": 1
                 }
               ]
@@ -394,7 +509,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Se il feed mangia mezz’ora dopo le 23, il problema non è solo «motivazione»: è ritardo al sonno.",
+                  "text": "Se il feed ruba mezz’ora dopo le 23, è un esempio di interferenza, non una soglia clinica. L’APA chiede che i social non interferiscano con il sonno.",
                   "version": 1
                 }
               ]
@@ -411,7 +526,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Camminata, sport, chiamata vocale, hobby a bassa intensità. Non devono essere eroici: devono essere disponibili quando sei annoiato.",
+                  "text": "Camminata, sport, chiamata, hobby a bassa intensità. Devono essere già disponibili quando arriva la noia. La pagina AAP chiede di scriverle nel piano — lettura, fuori, giochi, hobby — così lo schermo non occupa il resto.",
                   "version": 1
                 }
               ]
@@ -464,7 +579,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Segnali da prendere sul serio: sonno cronicamente corto, voti o lavoro in picchiata, isolamento, umore molto basso, o l’impossibilità di stare senza lo schermo anche per brevi impegni. Non etichettarli da soli come «dipendenza da dopamina». Portali a un adulto di fiducia o a un professionista. Questo sito resta educativo: non fa diagnosi.",
+              "text": "Segnali da prendere sul serio, quelli che elenca l’ISS: fatica a interrompere, sonno trascurato, scuola o lavoro che peggiorano, isolamento, irritabilità forte se si limita l’accesso, attività che prima piacevano e che spariscono. Non etichettarli da soli come «dipendenza da dopamina». L’ISS scrive che non significano necessariamente una dipendenza, e che se il disagio resta — sonno, studio, lavoro, relazioni — ha senso parlarne con un pediatra, un medico o uno psicologo. Questo sito resta educativo: non fa diagnosi.",
               "version": 1
             }
           ]
@@ -487,7 +602,7 @@
           "children": [
             {
               "type": "text",
-              "text": "La dopamina aiuta a spiegare perché novità e like tirano. Non spiega tutta la vita digitale e non si «cura» con un digiuno virale. Cambia l’ambiente, riduci le scorciatoie, proteggi sonno e attenzione. Se serve aiuto clinico, chiedilo. Il resto — motivazione, determinazione, «mantra» — viene dopo che il telefono smette di decidere la sera al posto tuo.",
+              "text": "La dopamina aiuta a spiegare un segnale di apprendimento e una spinta a volere, non un serbatoio di piacere da detox. I like possono accorciare il tempo tra un post e l’altro: è un dato su chi pubblica, non una malattia di chi scrolla. Cambia l’ambiente, proteggi sonno e il resto della giornata. Se la vita si è ristretta, chiedi aiuto a un professionista. Il resto — determinazione, «mantra» — viene dopo che il telefono smette di decidere la sera al posto tuo.",
               "version": 1
             }
           ]
