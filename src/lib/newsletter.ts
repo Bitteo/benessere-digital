@@ -1,4 +1,6 @@
 import {
+  ALREADY_SUBSCRIBED_MESSAGE,
+  CONFIRMATION_EMAIL_SUBJECT,
   DEFAULT_NEWSLETTER_FROM,
   NEWSLETTER_FOOTER_LINE,
   PRIVACY_PATH,
@@ -30,6 +32,7 @@ export type NewsletterFailureReason = 'config' | 'invalid' | 'expired' | 'upstre
 
 export type NewsletterResult =
   | { ok: true }
+  | { ok: true; alreadySubscribed: true; message: string }
   | { ok: false; status: number; reason: NewsletterFailureReason }
 
 export type NewsletterContext = {
@@ -38,7 +41,23 @@ export type NewsletterContext = {
   fetchImpl?: typeof fetch
   env?: NewsletterEnv
   now?: number
+  /**
+   * Registro dei reinvii (email normalizzata → timestamp dell'ultimo invio).
+   * Se assente si usa la mappa di processo. I test passano una mappa propria.
+   */
+  confirmationResendLog?: Map<string, number>
 }
+
+/**
+ * Reinvio della conferma a un contatto già presente e non ancora confermato.
+ * Limite: una email ogni 10 minuti per indirizzo.
+ * La mappa è in memoria di processo: non è condivisa tra istanze serverless e si azzera al riavvio.
+ * La prima creazione del contatto invia sempre. Dentro la finestra il POST resta un successo
+ * (`{ ok: true }`, come una nuova iscrizione) e non parte una seconda email.
+ */
+export const CONFIRMATION_RESEND_COOLDOWN_MS = 10 * 60 * 1000
+
+const processConfirmationResendLog = new Map<string, number>()
 
 type ResendErrorBody = {
   name?: string
@@ -117,26 +136,58 @@ async function resendCall(
   })
 }
 
+type StoredPending =
+  | { ok: true; existed: boolean }
+  | { ok: false; status: number; reason: 'upstream' }
+
 /**
  * Crea il contatto come non iscritto e fuori dal segmento.
  * Se esiste già non ne cambia lo stato: un POST non autenticato non deve disiscrivere
  * chi è già confermato. L'ingresso nel segmento avviene solo dopo il link di conferma.
  */
-async function storePendingContact(
-  ctx: NewsletterContext,
-  email: string,
-): Promise<NewsletterResult> {
+async function storePendingContact(ctx: NewsletterContext, email: string): Promise<StoredPending> {
   const res = await resendCall(ctx, '/contacts', {
     method: 'POST',
     body: { email, unsubscribed: true },
   })
 
-  if (res.ok) return { ok: true }
+  if (res.ok) return { ok: true, existed: false }
 
   const body = await resendJson<ResendErrorBody>(res)
-  if (isExistingContact(res.status, body)) return { ok: true }
+  if (isExistingContact(res.status, body)) return { ok: true, existed: true }
 
   return { ok: false, status: upstreamStatus(res.status), reason: 'upstream' }
+}
+
+/** `unsubscribed: false` è l'unico segnale di conferma. Un 404 è trattato come non confermato. */
+async function readContactConfirmed(
+  ctx: NewsletterContext,
+  email: string,
+): Promise<{ ok: true; confirmed: boolean } | { ok: false; status: number; reason: 'upstream' }> {
+  const res = await resendCall(ctx, `/contacts/${encodeURIComponent(email)}`, { method: 'GET' })
+  if (res.status === 404) return { ok: true, confirmed: false }
+  if (!res.ok) return { ok: false, status: upstreamStatus(res.status), reason: 'upstream' }
+
+  const body = await resendJson<{ unsubscribed?: boolean }>(res)
+  return { ok: true, confirmed: body.unsubscribed === false }
+}
+
+function confirmationResendLog(ctx: NewsletterContext): Map<string, number> {
+  return ctx.confirmationResendLog ?? processConfirmationResendLog
+}
+
+function canResendConfirmation(email: string, now: number, log: Map<string, number>): boolean {
+  const sentAt = log.get(email)
+  if (sentAt === undefined) return true
+  return now - sentAt >= CONFIRMATION_RESEND_COOLDOWN_MS
+}
+
+function noteConfirmationSent(email: string, now: number, log: Map<string, number>): void {
+  const cutoff = now - CONFIRMATION_RESEND_COOLDOWN_MS
+  for (const [key, sentAt] of log) {
+    if (sentAt <= cutoff) log.delete(key)
+  }
+  log.set(email, now)
 }
 
 async function addContactToSegment(
@@ -196,7 +247,7 @@ export function buildConfirmationEmail(params: { confirmUrl: string; privacyUrl:
   html: string
   text: string
 } {
-  const subject = "Conferma l'iscrizione alla newsletter di benessere.digital"
+  const subject = CONFIRMATION_EMAIL_SUBJECT
   const text = [
     "Conferma l'iscrizione alla newsletter di benessere.digital.",
     '',
@@ -266,6 +317,9 @@ function assertConfigured(ctx: NewsletterContext): NewsletterResult | null {
 /**
  * Double opt-in: salva il contatto come non iscritto (fuori dal segmento) e invia
  * l'email di conferma. Non crea broadcast e non iscrive al segmento.
+ * Se il contatto esiste già ed è ancora non confermato, reinvia la stessa conferma
+ * rispettando CONFIRMATION_RESEND_COOLDOWN_MS. Se è già confermato non invia nulla
+ * e non ne cambia lo stato.
  */
 export async function requestNewsletterOptIn(
   email: string,
@@ -280,6 +334,18 @@ export async function requestNewsletterOptIn(
   const pending = await storePendingContact(ctx, normalized)
   if (!pending.ok) return pending
 
+  const now = ctx.now ?? Date.now()
+  const log = confirmationResendLog(ctx)
+
+  if (pending.existed) {
+    const contact = await readContactConfirmed(ctx, normalized)
+    if (!contact.ok) return contact
+    if (contact.confirmed) {
+      return { ok: true, alreadySubscribed: true, message: ALREADY_SUBSCRIBED_MESSAGE }
+    }
+    if (!canResendConfirmation(normalized, now, log)) return { ok: true }
+  }
+
   const token = signNewsletterToken({
     email: normalized,
     purpose: 'confirm',
@@ -288,7 +354,9 @@ export async function requestNewsletterOptIn(
   })
   if (!token) return { ok: false, status: 503, reason: 'config' }
 
-  return sendConfirmationEmail(ctx, normalized, token)
+  const sent = await sendConfirmationEmail(ctx, normalized, token)
+  if (sent.ok) noteConfirmationSent(normalized, now, log)
+  return sent
 }
 
 async function withVerifiedEmail(
