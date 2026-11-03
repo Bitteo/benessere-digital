@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { useEffect, useId, useState } from 'react'
 import { ANALYTICS_EVENTS, trackEvent } from '@/lib/analytics'
+import { ALREADY_SUBSCRIBED_MESSAGE, newsletterSignupSuccessCopy } from '@/lib/newsletter-legal'
 
 type Props = {
   layout?: 'inline' | 'stacked'
@@ -58,7 +59,11 @@ export function NewsletterForm({
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, consent: true }),
       })
-      const data = (await res.json().catch(() => ({}))) as { error?: string }
+      const data = (await res.json().catch(() => ({}))) as {
+        error?: string
+        alreadySubscribed?: boolean
+        message?: string
+      }
 
       if (!res.ok) {
         setStatus(res.status === 503 ? 'disabled' : 'error')
@@ -69,6 +74,7 @@ export function NewsletterForm({
       setStatus('success')
       setEmail('')
       setConsent(false)
+      setMessage(data.alreadySubscribed ? data.message || ALREADY_SUBSCRIBED_MESSAGE : '')
       trackEvent(ANALYTICS_EVENTS.newsletterSubmit)
     } catch {
       setStatus('error')
@@ -83,7 +89,7 @@ export function NewsletterForm({
         style={{ backgroundColor: '#cef5ca', color: '#114e0b' }}
         role="status"
       >
-        Quasi fatto! Controlla la tua email per confermare l&apos;iscrizione.
+        {message || newsletterSignupSuccessCopy()}
       </div>
     )
   }

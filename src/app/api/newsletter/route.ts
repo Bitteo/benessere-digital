@@ -50,6 +50,16 @@ export async function POST(request: Request) {
       )
     }
 
+    // Già confermato: messaggio generico, senza email né id del contatto.
+    // Nuova iscrizione e reinvio (anche se il cooldown lo sopprime) restano `{ ok: true }`.
+    if ('alreadySubscribed' in result && result.alreadySubscribed) {
+      return NextResponse.json({
+        ok: true,
+        alreadySubscribed: true,
+        message: result.message,
+      })
+    }
+
     return NextResponse.json({ ok: true })
   } catch {
     return NextResponse.json(

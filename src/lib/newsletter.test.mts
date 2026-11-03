@@ -5,10 +5,17 @@ import {
   signNewsletterToken,
   verifyNewsletterToken,
 } from './newsletter-token.ts'
-import { DEFAULT_NEWSLETTER_FROM, NEWSLETTER_FOOTER_LINE } from './newsletter-legal.ts'
+import {
+  ALREADY_SUBSCRIBED_MESSAGE,
+  CONFIRMATION_EMAIL_SUBJECT,
+  DEFAULT_NEWSLETTER_FROM,
+  NEWSLETTER_FOOTER_LINE,
+  newsletterSignupSuccessCopy,
+} from './newsletter-legal.ts'
 import {
   buildConfirmationEmail,
   confirmNewsletterSubscription,
+  CONFIRMATION_RESEND_COOLDOWN_MS,
   isRfc8058OneClick,
   newsletterFromAddress,
   newsletterSignupEnabled,
@@ -129,10 +136,12 @@ test('opt-in stores an unsubscribed contact and sends the confirmation email', a
   const email = JSON.parse(calls[1].body ?? '{}') as {
     from: string
     to: string[]
+    subject: string
     html: string
     text: string
   }
   assert.equal(email.from, DEFAULT_NEWSLETTER_FROM)
+  assert.equal(email.subject, CONFIRMATION_EMAIL_SUBJECT)
   assert.deepEqual(email.to, ['person@example.com'])
   assert.equal(email.html.includes(NEWSLETTER_FOOTER_LINE), true)
   assert.equal(email.text.includes(NEWSLETTER_FOOTER_LINE), true)
@@ -148,24 +157,158 @@ test('opt-in stores an unsubscribed contact and sends the confirmation email', a
   )
 })
 
-test('an existing contact is not modified or segmented before confirmation', async () => {
+test('an existing pending contact is not modified or segmented and the confirmation is resent', async () => {
   const { fetchImpl, calls } = mockFetch((call) => {
     if (call.method === 'POST' && call.url === 'https://api.resend.com/contacts') {
       return { status: 409, json: { message: 'Contact already exists' } }
+    }
+    if (
+      call.method === 'GET' &&
+      call.url === 'https://api.resend.com/contacts/person%40example.com'
+    ) {
+      return { status: 200, json: { unsubscribed: true } }
     }
     if (call.method === 'POST' && call.url === 'https://api.resend.com/emails')
       return { status: 200 }
     return undefined
   })
 
-  const result = await requestNewsletterOptIn('person@example.com', ctx(fetchImpl))
-  assert.equal(result.ok, true)
+  const result = await requestNewsletterOptIn('person@example.com', {
+    ...ctx(fetchImpl),
+    confirmationResendLog: new Map(),
+  })
+  assert.deepEqual(result, { ok: true })
+  assert.equal(
+    calls.filter((call) => call.method === 'POST' && call.url === 'https://api.resend.com/emails')
+      .length,
+    1,
+  )
   assert.equal(
     calls.some((call) => call.method === 'PATCH'),
     false,
   )
   assert.equal(
     calls.some((call) => call.url.includes('/segments/')),
+    false,
+  )
+})
+
+test('a confirmed contact gets a generic already-subscribed response and no email', async () => {
+  const { fetchImpl, calls } = mockFetch((call) => {
+    if (call.method === 'POST' && call.url === 'https://api.resend.com/contacts') {
+      return { status: 409, json: { message: 'Contact already exists' } }
+    }
+    if (
+      call.method === 'GET' &&
+      call.url === 'https://api.resend.com/contacts/person%40example.com'
+    ) {
+      return { status: 200, json: { unsubscribed: false } }
+    }
+    return undefined
+  })
+
+  const result = await requestNewsletterOptIn('person@example.com', {
+    ...ctx(fetchImpl),
+    confirmationResendLog: new Map(),
+  })
+  assert.deepEqual(result, {
+    ok: true,
+    alreadySubscribed: true,
+    message: ALREADY_SUBSCRIBED_MESSAGE,
+  })
+  assert.equal(JSON.stringify(result).includes('person@example.com'), false)
+  assert.equal(
+    calls.some((call) => call.url.includes('/emails') || call.method === 'PATCH'),
+    false,
+  )
+  assert.equal(
+    calls.some((call) => call.url.includes('/segments/')),
+    false,
+  )
+})
+
+test('a pending contact is resent at most once per 10 minutes', async () => {
+  const log = new Map<string, number>()
+  const { fetchImpl, calls } = mockFetch((call) => {
+    if (call.method === 'POST' && call.url === 'https://api.resend.com/contacts') {
+      return { status: 409, json: { message: 'Contact already exists' } }
+    }
+    if (
+      call.method === 'GET' &&
+      call.url === 'https://api.resend.com/contacts/person%40example.com'
+    ) {
+      return { status: 200, json: { unsubscribed: true } }
+    }
+    if (call.method === 'POST' && call.url === 'https://api.resend.com/emails')
+      return { status: 200 }
+    return undefined
+  })
+
+  const base = ctx(fetchImpl)
+  const first = await requestNewsletterOptIn('person@example.com', {
+    ...base,
+    now: NOW,
+    confirmationResendLog: log,
+  })
+  const blocked = await requestNewsletterOptIn('person@example.com', {
+    ...base,
+    now: NOW + CONFIRMATION_RESEND_COOLDOWN_MS - 1,
+    confirmationResendLog: log,
+  })
+  const again = await requestNewsletterOptIn('person@example.com', {
+    ...base,
+    now: NOW + CONFIRMATION_RESEND_COOLDOWN_MS,
+    confirmationResendLog: log,
+  })
+
+  assert.deepEqual(first, { ok: true })
+  assert.deepEqual(blocked, { ok: true })
+  assert.deepEqual(again, { ok: true })
+  assert.equal(
+    calls.filter((call) => call.method === 'POST' && call.url === 'https://api.resend.com/emails')
+      .length,
+    2,
+  )
+  assert.equal(
+    calls.some((call) => call.method === 'PATCH' || call.url.includes('/segments/')),
+    false,
+  )
+})
+
+test('creating a contact sends the confirmation even inside the resend window', async () => {
+  const log = new Map<string, number>([['person@example.com', NOW]])
+  const { fetchImpl, calls } = mockFetch((call) => {
+    if (call.method === 'POST' && call.url === 'https://api.resend.com/contacts')
+      return { status: 201 }
+    if (call.method === 'POST' && call.url === 'https://api.resend.com/emails')
+      return { status: 200 }
+    return undefined
+  })
+
+  const result = await requestNewsletterOptIn('person@example.com', {
+    ...ctx(fetchImpl),
+    confirmationResendLog: log,
+  })
+  assert.deepEqual(result, { ok: true })
+  assert.equal(calls.filter((call) => call.url === 'https://api.resend.com/emails').length, 1)
+})
+
+test('an existing contact that cannot be read does not receive another email', async () => {
+  const { fetchImpl, calls } = mockFetch((call) => {
+    if (call.method === 'POST' && call.url === 'https://api.resend.com/contacts') {
+      return { status: 409, json: { message: 'Contact already exists' } }
+    }
+    if (call.method === 'GET') return { status: 500 }
+    return undefined
+  })
+
+  const result = await requestNewsletterOptIn('person@example.com', {
+    ...ctx(fetchImpl),
+    confirmationResendLog: new Map(),
+  })
+  assert.deepEqual(result, { ok: false, status: 502, reason: 'upstream' })
+  assert.equal(
+    calls.some((call) => call.url.includes('/emails')),
     false,
   )
 })
@@ -304,11 +447,20 @@ test('unsubscribe of an unknown contact is already complete', async () => {
   assert.equal(calls.length, 1)
 })
 
+test('signup success copy names sender, subject, spam folder, and the confirm link', () => {
+  const copy = newsletterSignupSuccessCopy()
+  assert.equal(copy.includes(DEFAULT_NEWSLETTER_FROM), true)
+  assert.equal(copy.includes(CONFIRMATION_EMAIL_SUBJECT), true)
+  assert.equal(copy.includes('Spam/Promozioni'), true)
+  assert.equal(copy.includes('solo dopo il clic sul link'), true)
+})
+
 test('confirmation email footer carries the controller line', () => {
   const message = buildConfirmationEmail({
     confirmUrl: `${ORIGIN}/api/newsletter/confirm?token=abc`,
     privacyUrl: `${ORIGIN}/privacy`,
   })
+  assert.equal(message.subject, CONFIRMATION_EMAIL_SUBJECT)
   assert.equal(message.html.includes(NEWSLETTER_FOOTER_LINE), true)
   assert.equal(message.text.includes('P.IVA 17075981005'), true)
   assert.equal(message.text.includes('Via Cesare Beccaria 11, Roma'), true)
