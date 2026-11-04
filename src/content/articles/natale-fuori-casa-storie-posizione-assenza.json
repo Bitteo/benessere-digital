@@ -1,0 +1,749 @@
+{
+  "slug": "natale-fuori-casa-storie-posizione-assenza",
+  "title": "Natale fuori casa: storie, gruppi e la posizione che dice che non ci siete",
+  "excerpt": "Il 25 dicembre molti sono dai nonni. Una storia, un gruppo e una posizione in tempo reale possono dire che la casa è vuota. Che cosa scrivono Polizia e Garante, e che cosa resta dopo aver interrotto la condivisione.",
+  "cover": "",
+  "coverAlt": "",
+  "publishedAt": "2026-12-25T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["sicurezza-online", "genitori-e-scuola"],
+  "readingTime": 10,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Natale fuori casa: storie, gruppi e posizione",
+    "metaDescription": "Storie, gruppi WhatsApp e posizione il giorno di Natale: che cosa dicono Polizia e Garante sull’assenza da casa, e che cosa resta dopo lo stop.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Polizia di Stato — Quando sei assente",
+      "url": "https://www.poliziadistato.it/articolo/quando-sei-assente",
+      "note": "Pagina «In casa». In calce: 31/12/2014, modificato il 08/08/2024. Due blocchi, senza una soglia in giorni. Periodi brevi: luce, radio o tv anche con timer; porta a chiave; niente chiavi sotto lo zerbino; un messaggio sulla porta dimostra che non c’è nessuno; fotografare gli oggetti di valore; vicini e, se serve, 113 o 112; se al rientro la porta è aperta o chiusa dall’interno, non entrare e chiamare il 113 o il 112. Periodi lunghi: non far sapere a estranei i programmi di viaggio; evitare di pubblicare su social network (Facebook o altri) i programmi di viaggio perché possono arrivare indirettamente a persone poco raccomandabili; timer per luci, radio o tv; un vicino ritira la posta; non divulgare la data del rientro, nemmeno in segreteria. Non è una circolare sul 25 dicembre e non conta i furti."
+    },
+    {
+      "title": "Garante Privacy — E-state in privacy (doc. web 9020684)",
+      "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9020684",
+      "note": "Scheda del 20 luglio 2023. Titolo: suggerimenti su selfie e foto, smartphone e tablet, acquisti, app, chat e social «quando si è in vacanza (e non solo)». Il corpo è scritto per l’estate. Punto 1: non tutti vogliono apparire o far sapere dove sono e con chi; accordo delle persone in foto, specie con tag di nome e cognome; le immagini dei minori pubblicate online possono finire nelle mani di malintenzionati. Punto 2: disattivare la geolocalizzazione di smartphone e tablet se non indispensabile, e quella di social e app, per non far sapere a tutti dove si trascorrono le vacanze. Punto 3, «I social-ladri non vanno in vacanza»: postare informazioni sulle vacanze può far sapere che in casa non c’è nessuno; il pericolo aumenta se si scrive quando si parte e per quanto tempo; evitare sempre indirizzo di casa e foto dell’appartamento, da cui si possono ricavare serrature, finestre, telecamere, allarmi, inferriate o oggetti di valore. Più avanti: visibilità limitata agli amici; autenticazione a due fattori."
+    },
+    {
+      "title": "Garante Privacy — Vademecum Social privacy 2025 (doc. web 10190269)",
+      "url": "https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10190269",
+      "note": "Scheda del 12 novembre 2025, con il PDF «Social privacy. Come tutelarsi nell’epoca dei social media». Il file, pubblicazione a cura del Servizio relazioni esterne e media, novembre 2025: https://www.garanteprivacy.it/documents/10160/0/VADEMECUM+-+Social+Privacy+-+Come+tutelarsi+nell%27epoca+dei+social+media+-+2025.pdf/6fa4e17b-835e-80d4-d2c6-533adb2bd6ea?version=5.0 . Punto «Attenzione al check-in»: condividere la posizione online può essere rischioso; se non è necessario segnalarsi, disattivare la localizzazione e rinunciare al check-in. Un contenuto pubblicato sarà difficile da rimuovere definitivamente. Trattare i dati degli altri come i propri e, se chi è ritratto lo chiede, eliminare foto o video. Domanda nel testo: far sapere a chiunque dove ci si trova (geolocalizzazione) e chi si sta incontrando."
+    },
+    {
+      "title": "Garante Privacy — Fatti smart",
+      "url": "https://www.garanteprivacy.it/temi/smartphone/fatti-smart",
+      "note": "Pagina su smartphone e tablet. Sulla geolocalizzazione: sei tu a decidere se, quando e chi può conoscere la tua posizione. Si può disattivare il GPS o il Wi-Fi quando non si usano quei servizi, e conviene controllare anche le impostazioni di geolocalizzazione dei social. Non è una pagina sul Natale e non dice che spegnere il GPS cancelli una didascalia."
+    },
+    {
+      "title": "WhatsApp — Come usare la posizione in tempo reale",
+      "url": "https://faq.whatsapp.com/480865177351335/?cms_platform=android&locale=it_IT",
+      "note": "Centro assistenza in italiano. La posizione in tempo reale si condivide con i membri di una chat di gruppo o individuale. Si sceglie se e per quanto tempo; si può interrompere. Interrotta o scaduto il tempo, non è più condivisa. Crittografia end-to-end: la vede solo chi l’ha ricevuta in quella chat. Il percorso indicato per Android è Allega, Posizione, Condividi la posizione in tempo reale. Per fermarla in una chat: Interrompi condivisione, Interrompi. Per fermarla in tutte: Impostazioni, Privacy, Posizione in tempo reale."
+    },
+    {
+      "title": "WhatsApp — Informazioni sulla condivisione della posizione del tuo dispositivo",
+      "url": "https://faq.whatsapp.com/6780014865351544/?locale=it_IT",
+      "note": "Centro assistenza in italiano. Dopo l’interruzione o la scadenza, i membri della chat continuano a vedere una miniatura statica della posizione iniziale e, toccandola, l’ultimo aggiornamento. «Posizione attuale» è il punto nel momento dell’invio, non un tracciamento. Lo stato con posizione, al momento solo su Android, mostra una puntina statica del luogo selezionato, non si aggiorna con gli spostamenti ed è visibile al pubblico dello stato per 24 ore."
+    },
+    {
+      "title": "WhatsApp — Risposte sulla privacy",
+      "url": "https://www.whatsapp.com/privacyquestions?lang=it",
+      "note": "Alla domanda se WhatsApp può vedere la posizione: da indirizzo IP e numero stima una posizione generale, non precisa, come Paese o città. La posizione esatta condivisa in una chat usa il GPS ed è protetta dalla crittografia end-to-end: né WhatsApp né Meta possono vederla. La pagina non dice che un gruppo sia un pubblico ristretto e non parla della miniatura che resta."
+    },
+    {
+      "title": "Apple — Gestire i metadati relativi alle posizioni in Foto",
+      "url": "https://support.apple.com/it-it/guide/personal-safety/ips0d7a5df82/web",
+      "note": "Manuale alla sicurezza personale, data di pubblicazione settembre 2026. Con Localizzazione attiva, Fotocamera ricava le coordinate da reti cellulari, Wi-Fi, GPS e Bluetooth e le integra in ogni foto e video. Chi riceve il file potrebbe leggere quel luogo. Per non raccoglierli più, su iPhone o iPad: Impostazioni > Privacy e sicurezza > Localizzazione > Fotocamera > Mai. Per toglierli da una foto: Foto > Album > Regola le informazioni > Regola posizione > Posizione: no. In condivisione: Opzioni, disattivare Posizione; compare «Posizione non inclusa»."
+    },
+    {
+      "title": "Google Foto — Comprendere, trovare e modificare le posizioni delle tue foto",
+      "url": "https://support.google.com/photos/answer/6153599?hl=it",
+      "note": "Guida in italiano. Una posizione può arrivare dalla fotocamera, da un inserimento manuale o da una stima di Foto basata su punti di riferimento e sulle altre foto. Si modificano o si rimuovono solo le posizioni stimate e quelle aggiunte a mano. Una posizione scritta in automatico dalla fotocamera non si aggiorna e non si rimuove in Google Foto. La pagina avvisa che può includere una traduzione con tecnologia AI, con possibili errori."
+    },
+    {
+      "title": "Google Foto — How Google Photos protects your location data",
+      "url": "https://support.google.com/photos/answer/11190100?hl=en",
+      "note": "Pagina in inglese. Per impostazione predefinita le posizioni sono private: Foto le condivide solo se si sceglie di includerle in una nuova conversazione o in un album condiviso, o con la condivisione con un contatto speciale (partner sharing). Anche senza il dato, chi guarda può indovinare il luogo dai punti di riferimento. Le posizioni stimate non si condividono nemmeno quando si sceglie di condividere i dettagli di posizione. La versione italiana, https://support.google.com/photos/answer/11190100?hl=it , riporta gli stessi punti e avvisa che la pagina può includere una traduzione automatica. Il default descritto è quello di Google Foto, non di un invio su WhatsApp."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Una storia visibile solo agli amici basta?",
+      "answer": "Il Garante, nella scheda del 20 luglio 2023, consiglia di limitare visibilità e condivisione ai soli amici. Un profilo ristretto riduce il pubblico di partenza. Il punto 3 della stessa scheda resta: un post che dice quando si parte e per quanto tempo può far sapere che la casa è vuota anche a chi è già tra i contatti. Uno screenshot esce da quel perimetro."
+    },
+    {
+      "question": "Se interrompo la posizione in tempo reale, il punto sparisce?",
+      "answer": "La pagina «Come usare la posizione in tempo reale» dice che, interrotta la condivisione o scaduto il tempo, la posizione in tempo reale non è più condivisa. La pagina sulla condivisione della posizione del dispositivo aggiunge la miniatura statica della posizione iniziale: toccandola si vede l’ultimo aggiornamento. Lo stop ferma il tracciamento e non cancella l’ultimo punto dalla chat."
+    },
+    {
+      "question": "Il pranzo dai nonni è un’assenza lunga, per la Polizia?",
+      "answer": "La pagina «Quando sei assente» non fissa un numero di giorni. I social e la data di rientro stanno nel blocco dei periodi lunghi. Il blocco breve parla di luci, serratura, chiavi, messaggio sulla porta, vicini e del 113 o del 112. «Fino al 6» è l’informazione che il blocco lungo chiede di non pubblicare. Un rientro in serata non diventa, da solo, quel blocco."
+    },
+    {
+      "question": "La foto dei bambini è lo stesso problema?",
+      "answer": "Il volto, il nome, l’età e il consenso stanno nel pezzo sullo sharenting. La scheda del Garante sulle vacanze aggiunge che le immagini dei minori pubblicate online possono finire nelle mani di malintenzionati, e che chi compare in foto deve essere d’accordo, specie con un tag. Qui la domanda è se la stessa foto dice che la casa è vuota, o se mostra l’interno e il civico."
+    },
+    {
+      "question": "Spegnere il GPS toglie anche la frase «siamo via fino a Santo Stefano»?",
+      "answer": "No. «Fatti smart» e il punto 2 della scheda sulle vacanze parlano della geolocalizzazione del telefono, dei social e delle app. Una frase scritta resta una frase. I metadati sono un terzo canale: la guida Apple di settembre 2026 spiega che le coordinate possono stare nel file, e indica come toglierle o non allegarle da iPhone. In Google Foto, una posizione scritta dalla fotocamera non si rimuove."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Venerdì 25 dicembre 2026. La macchina è dai nonni, oppure è ancora in viaggio. In salotto qualcuno alza il telefono: la storia «arrivati», la posizione in tempo reale nel gruppo di famiglia «così non state in pensiero», la foto del tavolo già apparecchiato. Il gesto è affettuoso. La casa lasciata indietro non è nel gruppo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per chi quel giorno esce di casa con dei figli, e per chi nel gruppo riceve la foto e la inoltra. Il volto del bambino, il nome, l’età e il consenso stanno nel pezzo sullo ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/sharenting-foto-dei-figli-online",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "sharenting",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", già online. I ragazzi che a Capodanno filmano gli amici sono un’altra scena. Qui la domanda è che cosa un post di Natale dice di una casa vuota, di una data di rientro, di un indirizzo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa la Polizia mette per iscritto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina della Polizia di Stato «Quando sei assente» è un consiglio di prevenzione. In calce: 31 dicembre 2014, modificata l’8 agosto 2024. Non è una circolare sul 25 dicembre e non conta i furti partiti da una storia. Due blocchi, e nessun numero di giorni che renda un periodo «lungo».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per i periodi brevi: luce, radio o televisione accese, anche con un timer; porta a chiave; niente chiavi sotto lo zerbino. Un messaggio sulla porta dimostra che non c’è nessuno. I vicini vanno avvisati e, se qualcosa non torna, si chiama il 113 o il 112. Se al rientro la porta è aperta o chiusa dall’interno, non si entra: si chiama subito.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per i periodi lunghi: non far sapere a estranei i programmi di viaggio, ed evitare di pubblicarli sui social network. La formula della pagina è «Facebook o altri». Il motivo che scrive: quelle informazioni possono arrivare indirettamente a persone poco raccomandabili. Se è possibile, un dispositivo accende a intervalli luci, radio o televisione. La posta la ritira un vicino. Non si divulga la data del rientro, nemmeno in segreteria telefonica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Dai nonni fino al 6» è l’informazione del blocco lungo. Un rientro la sera stessa cade nel blocco breve, che dei social non parla. Un biglietto sulla porta e una storia pubblica mostrano entrambi che la casa è vuota. «È solo Natale» non è il permesso di scrivere quando le luci di casa si riaccendono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Garante, d’estate e sui social",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«E-state in privacy», doc. web 9020684, è del 20 luglio 2023. Il titolo dice «quando si è in vacanza (e non solo)». Il testo è scritto per l’estate. A Natale se ne usano le frasi sull’assenza, e si dice da dove vengono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il punto 3, «I social-ladri non vanno in vacanza», dice che postare informazioni sulle vacanze può far sapere che in casa non c’è nessuno. Il pericolo aumenta se si scrive quando si parte e per quanto tempo. Si evita sempre l’indirizzo e le foto dell’appartamento: serrature, finestre, telecamere, allarmi, inferriate, oggetti di valore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il punto 2 chiede di disattivare la geolocalizzazione di smartphone e tablet se non serve a un servizio preciso, e anche quella dei social e delle app, così da non far sapere a tutti dove si trascorrono le vacanze. Spegnere il GPS non cancella una didascalia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il punto 1: non tutti vogliono apparire o far sapere dove sono e con chi. Per le altre persone in foto serve il sì, specie con un tag di nome e cognome. Le immagini dei figli pubblicate online possono finire nelle mani di malintenzionati. Consenso e impronta stanno nel pezzo sullo sharenting. La stessa foto può mostrare un bambino e una casa vuota.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sulla stessa scheda, l’autenticazione a due fattori è indicata come prassi per gli account. Come si tiene una chiave, e perché non si consegna, è il pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/password-passkey-una-chiave-per-account",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "password e passkey",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il vademecum «Social privacy» del novembre 2025, doc. web 10190269, nel PDF del Servizio relazioni esterne e media ha il punto «Attenzione al check-in»: condividere la posizione può essere rischioso; se non serve segnalarsi, si disattiva la localizzazione e si rinuncia al check-in. Un contenuto pubblicato sarà difficile da rimuovere del tutto. Se chi è ritratto lo chiede, la foto o il video si elimina. La guida chiede se si vuole davvero far sapere dove ci si trova — la chiama geolocalizzazione — e chi si incontra.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Fatti smart» dice che sei tu a decidere se, quando e chi conosce la tua posizione. Si possono spegnere GPS o Wi-Fi quando non servono, e controllare la geolocalizzazione dei social. Non è una pagina di Natale e non dice che il GPS spento nasconda la frase «siamo via fino a Santo Stefano».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il gruppo di famiglia non è una busta chiusa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Come usare la posizione in tempo reale», in italiano, dice che il punto va ai membri di una chat individuale o di gruppo, per il tempo scelto, e si può interrompere. Allo stop o alla scadenza non è più condivisa. È crittografata end-to-end: la vedono solo le persone di quella chat. Quaranta cugini non diventano, per questo, due genitori.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina sulla posizione del dispositivo aggiunge la miniatura: dopo lo stop i membri vedono ancora la posizione iniziale e, toccandola, l’ultimo aggiornamento. «Posizione attuale» è il punto nell’istante dell’invio, non un tracciamento. Nello stato, al momento solo su Android, una puntina del luogo scelto resta 24 ore per il pubblico dello stato e non segue gli spostamenti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nelle risposte sulla privacy, da IP e numero WhatsApp stima una posizione generale, non precisa, come Paese o città. La posizione esatta in chat usa il GPS e la crittografia end-to-end: né WhatsApp né Meta la vedono. Non dice chi fotografa lo schermo. Uno screenshot porta la mappa fuori dal gruppo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il file può dire il luogo anche se la didascalia no",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La guida Apple «Gestire i metadati relativi alle posizioni in Foto», settembre 2026, dice che con Localizzazione attiva Fotocamera scrive nelle foto le coordinate da reti cellulari, Wi-Fi, GPS e Bluetooth, e chi riceve il file potrebbe leggerle. Su iPhone o iPad: Impostazioni, Privacy e sicurezza, Localizzazione, Fotocamera, «Mai». Da una foto: Foto, Album, Regola le informazioni, Regola posizione, Posizione: no. In condivisione, da Opzioni si disattiva Posizione e compare «Posizione non inclusa».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nella guida italiana di Google Foto il luogo può arrivare dalla fotocamera, da un inserimento a mano o da una stima su punti di riferimento e sulle altre foto. Si tolgono solo stime e posizioni aggiunte a mano. Quella scritta dalla fotocamera, lì, non si rimuove. La pagina avvisa che la traduzione automatica può contenere errori.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina inglese sulla protezione dei dati di posizione, e quella italiana con lo stesso avviso, dice che in Google Foto le posizioni restano private salvo una scelta: conversazione, album condiviso o contatto speciale. Un punto di riferimento visibile può far indovinare il luogo anche senza il dato. Il default è di Google Foto: un file mandato altrove può portare ancora la posizione scritta dalla fotocamera. Se WhatsApp toglie i metadati, queste pagine non lo dicono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il civico, il nome di una scuola, il cartello di una via e le stanze vuote si leggono senza aprire il file. Nella scheda del luglio 2023 il Garante scrive che la foto dell’appartamento può mostrare serrature e oggetti di valore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una frase prima di uscire",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La frase si dice il giorno prima, non a tavola. Le foto del pranzo restano tra chi è nella stanza. Niente posizione in tempo reale nel gruppo largo: se qualcuno aspetta, un messaggio «siamo arrivati», senza la mappa. Niente data di rientro, niente civico, niente foto delle stanze o della serratura.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se a pubblicare è un ragazzo o una ragazza tra gli 8 e i 14 anni, la frase si scrive insieme. Il metodo per un accordo che a quell’età regga sta nel pezzo sugli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": si co-progetta, non si attacca un divieto al frigo. Quel pezzo non parla di geolocalizzazione. Qui il soggetto della frase è l’assenza, non le ore di schermo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il post è già online, si chiede in privato di toglierlo. Il vademecum del novembre 2025 dice di eliminare foto o video se chi è ritratto lo chiede, e scrive che un contenuto pubblicato è difficile da rimuovere del tutto. Su WhatsApp la miniatura può restare dopo lo stop.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sapere che un figlio è arrivato non è leggere le sue chat. La linea tra proteggere e spiare sta nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "proteggere senza spiare",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Una posizione mandata a un genitore per il tragitto, detta ad alta voce e interrotta all’arrivo, non è un pin lasciato nel gruppo «così stanno tutti tranquilli». Volto, nome ed età restano il pezzo sullo sharenting.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quattro controlli, prima del tasto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quattro controlli, letti dalle fonti già citate.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "quote",
+          "version": 1,
+          "children": [
+            {
+              "type": "list",
+              "tag": "ul",
+              "listType": "bullet",
+              "version": 1,
+              "children": [
+                {
+                  "type": "listitem",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "La didascalia. ",
+                      "version": 1,
+                      "format": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Dice che non ci siete, dove, fino a quando. Ne parlano il blocco lungo della Polizia e il punto 3 della scheda del Garante.",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "listitem",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "La chat. ",
+                      "version": 1,
+                      "format": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "La posizione in tempo reale arriva a ogni membro. Interromperla ferma l’aggiornamento. La miniatura della posizione iniziale resta, e da lì si riapre l’ultimo punto.",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "listitem",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Il file. ",
+                      "version": 1,
+                      "format": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Su iPhone la guida Apple dice che la posizione può stare nella foto, che si può togliere, e che in condivisione si può escludere. In Google Foto una posizione scritta dalla fotocamera non si rimuove da lì.",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "listitem",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "L’inquadratura. ",
+                      "version": 1,
+                      "format": 1
+                    },
+                    {
+                      "type": "text",
+                      "text": "Numero civico, interno, oggetti di valore, una scuola riconoscibile. Un punto di riferimento visibile, scrive Google, può bastare anche senza il dato nel file.",
+                      "version": 1
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una storia visibile solo agli amici basta?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Garante, nella scheda del 20 luglio 2023, consiglia di limitare visibilità e condivisione ai soli amici. Un profilo ristretto riduce il pubblico di partenza. Il punto 3 della stessa scheda resta: un post che dice quando si parte e per quanto tempo può far sapere che la casa è vuota anche a chi è già tra i contatti. Uno screenshot esce da quel perimetro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se interrompo la posizione in tempo reale, il punto sparisce?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina «Come usare la posizione in tempo reale» dice che, interrotta la condivisione o scaduto il tempo, la posizione in tempo reale non è più condivisa. La pagina sulla condivisione della posizione del dispositivo aggiunge la miniatura statica della posizione iniziale: toccandola si vede l’ultimo aggiornamento. Lo stop ferma il tracciamento e non cancella l’ultimo punto dalla chat.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il pranzo dai nonni è un’assenza lunga, per la Polizia?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina «Quando sei assente» non fissa un numero di giorni. I social e la data di rientro stanno nel blocco dei periodi lunghi. Il blocco breve parla di luci, serratura, chiavi, messaggio sulla porta, vicini e del 113 o del 112. «Fino al 6» è l’informazione che il blocco lungo chiede di non pubblicare. Un rientro in serata non diventa, da solo, quel blocco.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La foto dei bambini è lo stesso problema?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il volto, il nome, l’età e il consenso stanno nel pezzo sullo sharenting. La scheda del Garante sulle vacanze aggiunge che le immagini dei minori pubblicate online possono finire nelle mani di malintenzionati, e che chi compare in foto deve essere d’accordo, specie con un tag. Qui la domanda è se la stessa foto dice che la casa è vuota, o se mostra l’interno e il civico.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Spegnere il GPS toglie anche la frase «siamo via fino a Santo Stefano»?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. «Fatti smart» e il punto 2 della scheda sulle vacanze parlano della geolocalizzazione del telefono, dei social e delle app. Una frase scritta resta una frase. I metadati sono un terzo canale: la guida Apple di settembre 2026 spiega che le coordinate possono stare nel file, e indica come toglierle o non allegarle da iPhone. In Google Foto, una posizione scritta dalla fotocamera non si rimuove.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa queste pagine non misurano",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nessuna fonte citata conta i furti di Natale causati da una storia, e qui non se ne inventa una cifra. La Polizia dà un consiglio con due elenchi, modificato l’8 agosto 2024. La scheda del Garante è del luglio 2023, scritta per l’estate, e il titolo aggiunge «e non solo». Prima della storia del tavolo la decisione è se la casa lasciata indietro fa parte della foto.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

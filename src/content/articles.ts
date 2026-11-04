@@ -43,6 +43,7 @@ import sonnoSchermiVacanza from './articles/sonno-e-schermi-in-vacanza-routine-r
 import propositiDigitaliFineAnno from './articles/propositi-digitali-fine-anno-ragazzi.json'
 import rientroScuolaSchermi from './articles/rientro-a-scuola-dopo-le-feste-regole-schermi.json'
 import capodannoConsensoRagazzi from './articles/capodanno-foto-video-consenso-ragazzi.json'
+import nataleFuoriCasa from './articles/natale-fuori-casa-storie-posizione-assenza.json'
 
 export const articles = [
   brainRot,
@@ -86,6 +87,7 @@ export const articles = [
   sfideVirali,
   telefonoNuovoNatale,
   sonnoSchermiVacanza,
+  nataleFuoriCasa,
   propositiDigitaliFineAnno,
   rientroScuolaSchermi,
   capodannoConsensoRagazzi,
