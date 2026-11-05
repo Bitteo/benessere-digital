@@ -44,6 +44,7 @@ import propositiDigitaliFineAnno from './articles/propositi-digitali-fine-anno-r
 import rientroScuolaSchermi from './articles/rientro-a-scuola-dopo-le-feste-regole-schermi.json'
 import capodannoConsensoRagazzi from './articles/capodanno-foto-video-consenso-ragazzi.json'
 import nataleFuoriCasa from './articles/natale-fuori-casa-storie-posizione-assenza.json'
+import saferInternetDay2027 from './articles/safer-internet-day-2027-scuola-famiglia.json'
 
 export const articles = [
   brainRot,
@@ -91,4 +92,5 @@ export const articles = [
   propositiDigitaliFineAnno,
   rientroScuolaSchermi,
   capodannoConsensoRagazzi,
+  saferInternetDay2027,
 ] as ArticleSource[]
