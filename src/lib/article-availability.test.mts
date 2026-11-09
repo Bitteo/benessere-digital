@@ -228,6 +228,20 @@ test('safer internet day 2027 draft stays hidden and has no cover', () => {
   assert.equal(isIndexableArticle(article, atPublishedAt), false)
 })
 
+test('family emergency scam draft stays off listings, sitemap, index and the public page', () => {
+  const article = loadArticle('truffa-emergenza-familiare-voce-clonata')
+  assert.equal(article.status, 'draft')
+  assert.equal(article.publishedAt, '2027-01-20T09:00:00.000+01:00')
+  assert.equal(article.seo?.noIndex, true)
+  assert.equal(article.cover, '')
+  const atPublishedAt = new Date('2027-01-20T09:00:00.000+01:00')
+  const after = new Date('2027-02-01T09:00:00.000+01:00')
+  assert.equal(isPubliclyAvailable(article, atPublishedAt), false)
+  assert.equal(isPubliclyAvailable(article, after), false)
+  assert.equal(isIndexableArticle(article, atPublishedAt), false)
+  assert.equal(isIndexableArticle(article, after), false)
+})
+
 test('an already-due published article is public', () => {
   const article = loadArticle('accordi-di-schermo-ragazzi-8-14')
   assert.equal(article.status, 'published')

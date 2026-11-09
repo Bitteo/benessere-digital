@@ -45,6 +45,7 @@ import rientroScuolaSchermi from './articles/rientro-a-scuola-dopo-le-feste-rego
 import capodannoConsensoRagazzi from './articles/capodanno-foto-video-consenso-ragazzi.json'
 import nataleFuoriCasa from './articles/natale-fuori-casa-storie-posizione-assenza.json'
 import saferInternetDay2027 from './articles/safer-internet-day-2027-scuola-famiglia.json'
+import truffaEmergenzaFamiliare from './articles/truffa-emergenza-familiare-voce-clonata.json'
 
 export const articles = [
   brainRot,
@@ -93,4 +94,5 @@ export const articles = [
   rientroScuolaSchermi,
   capodannoConsensoRagazzi,
   saferInternetDay2027,
+  truffaEmergenzaFamiliare,
 ] as ArticleSource[]
