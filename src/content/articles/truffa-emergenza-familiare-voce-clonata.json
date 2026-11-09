@@ -1,0 +1,818 @@
+{
+  "slug": "truffa-emergenza-familiare-voce-clonata",
+  "title": "Truffa dell’emergenza familiare: voce clonata, «nuovo numero» e che cosa fare nei primi minuti",
+  "excerpt": "Un messaggio «ho un nuovo numero», una voce che sembra di tuo figlio, un finto poliziotto: la truffa dell’emergenza familiare. Due regole, i segnali e i primi minuti, con le indicazioni di Banca d’Italia, Polizia Postale e Garante.",
+  "cover": "",
+  "coverAlt": "",
+  "publishedAt": "2027-01-20T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["sicurezza-online", "genitori-e-scuola"],
+  "readingTime": 8,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Truffa emergenza familiare: voce clonata e che fare",
+    "metaDescription": "Messaggio «nuovo numero», chiamata con voce familiare, finto poliziotto: come riconoscerla (Banca d’Italia, Polizia Postale, Garante) e cosa fare nei primi minuti.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Banca d’Italia — L’economia per tutti — «Cos’è la truffa dell’emergenza familiare e come difenderci»",
+      "url": "https://economiapertutti.bancaditalia.it/notizie-e-rubriche/notizie/cos-la-truffa-dell-emergenza-familiare-e-come-difenderci/",
+      "note": "Pubblicato 02/10/2026. Definizione; esempi (figlio con nuovo numero; finto agente/medico); deepfake vocale da pochi secondi di audio; regole calma + verifica su rubrica; spoofing; richiamo dal cellulare se la chiamata era sul fisso; segnalazione a Polizia Postale / 112."
+    },
+    {
+      "title": "Banca d’Italia — L’economia per tutti — «Truffe: come difendersi»",
+      "url": "https://economiapertutti.bancaditalia.it/aree-tematiche/pagamenti/truffe-nei-pagamenti-e-cybersicurezza/index.html",
+      "note": "Phishing / smishing / vishing / spoofing; manipolazione a pagare (familiare in difficoltà) distinta da operazioni con credenziali sottratte; banca non chiede dati di pagamento; segnalazione alla banca; percorsi di tutela non automatici e legati alle circostanze."
+    },
+    {
+      "title": "Polizia Postale / Commissariato di P.S. online — Brochure «Un calcio alle frodi»",
+      "url": "https://www.commissariatodips.it/docs/0276_Brochure_UncalcioalleFrodi_101024.pdf",
+      "note": "PDF, file 0276_Brochure_UncalcioalleFrodi_101024.pdf. Scheda FAMILY EMERGENCY SCAM; «cellulare rotto»; esempi di messaggi; richiesta di bonifico/ricarica/credenziali; difesa (contatto su altri canali; attenzione al deepfake audio; non rispondere / cancellare / togliere numero se è solo un tentativo); uso di info pubbliche su viaggi/vita privata."
+    },
+    {
+      "title": "Polizia Postale — «Combating Cyber Crime… report 2025»",
+      "url": "https://www.commissariatodips.it/notizie/articolo/combating-cyber-crime-limpegno-della-polizia-di-stato-nel-report-2025-della-polizia-postale/index.html",
+      "note": "10/01/2026. Deepfake e IA come fattore che rende più sofisticate le truffe economico-finanziarie; ruolo del Commissariato online per le segnalazioni."
+    },
+    {
+      "title": "Garante per la protezione dei dati personali — Vishing",
+      "url": "https://www.garanteprivacy.it/temi/cybersecurity/vishing",
+      "note": "Definizione di vishing; leva sulla paura; indizi (toni ultimativi); istituzioni/banche non chiedono PIN/password/codici; contattare banca da canali affidabili e chiedere blocco se serve."
+    },
+    {
+      "title": "Garante per la protezione dei dati personali — Phishing (hub)",
+      "url": "https://www.garanteprivacy.it/temi/cybersecurity/phishing",
+      "note": "Inquadramento phishing e rimandi a vishing/smishing (contesto rispetto al pezzo SMS già online)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Se la voce è identica a quella di mio figlio, posso fidarmi?",
+      "answer": "No. La Banca d’Italia e la Polizia Postale descrivono deepfake audio costruiti con pochi secondi di registrazione reale. La voce non prova l’identità. Conta la chiamata (o un messaggio) al numero già salvato in rubrica, o a una persona vicina se non risponde."
+    },
+    {
+      "question": "Il messaggio arriva da un contatto in rubrica: allora è sicuro?",
+      "answer": "No. Può essere spoofing del numero, oppure — in altri schemi trattati nel pezzo sugli SMS truffa e WhatsApp — un account preso con un codice OTP. Qui lo schema tipico della brochure è un numero nuovo presentato come sostituto. In entrambi i casi la verifica è fuori da quella chat."
+    },
+    {
+      "question": "Mi hanno detto di non chiamare perché «il telefono non fa le chiamate». È normale?",
+      "answer": "È proprio il passaggio descritto dalla Polizia Postale: evitare che tu richiami il numero vero. Tratta quell’ordine come un segnale, non come una spiegazione."
+    },
+    {
+      "question": "Ho già fatto un bonifico istantaneo. Mi rimborsano?",
+      "answer": "Contatta subito la banca, spiega che il pagamento è partito sotto una falsa emergenza, chiedi se è ancora possibile un richiamo o altre misure urgenti, e conserva messaggi, numeri e ricevute. Un rimborso non è automatico: dipende dalle circostanze del caso e dalle norme che la banca applica. Segnala anche alla Polizia Postale. Se serve un passo successivo (reclamo, eventuali altre vie), parti da ciò che la banca ti comunica per iscritto, senza aspettarti una risposta uguale per tutti."
+    },
+    {
+      "question": "Questa truffa riguarda solo i nonni?",
+      "answer": "No. Genitori di adolescenti, ragazzi che gestiscono piccoli pagamenti, docenti che ricevono messaggi «urgenti» su chat di classe: lo schema punta su chi reagisce per affetto. Per questo conviene parlarne prima, a tavola, non dopo il bonifico."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mercoledì 20 gennaio 2027. Le feste sono finite, i ragazzi sono tornati a scuola, qualcuno è ancora fuori città. Arriva un messaggio: «Mamma, ho rotto il cellulare, questo è il mio nuovo numero». Oppure una chiamata: la voce sembra quella di tuo figlio, e chiede un bonifico adesso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non è lo stesso trucco dei ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/sms-truffa-falsi-corrieri-premi-whatsapp",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "falsi corrieri e dei falsi premi via SMS",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui la leva non è il pacco in giacenza. È la paura per un familiare. La Banca d’Italia, nella pagina pubblicata il 2 ottobre 2026, la chiama truffa dell’emergenza familiare. La Polizia Postale, nella brochure «Un calcio alle frodi», la etichetta ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "Family emergency scam",
+              "version": 1,
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per genitori, nonni e ragazzi, da leggere insieme. Serve a riconoscere lo schema, a capire perché una voce familiare non basta più, e a sapere che cosa fare nei primi minuti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cos’è",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il truffatore vuole far credere che un familiare è in difficoltà e chiede denaro: bonifico istantaneo, ricarica di una prepagata, consegna a un complice, oppure le credenziali del conto. Si spaccia per il familiare, oppure per qualcuno autorevole: poliziotto, carabiniere, medico, avvocato. Il «problema» può essere un incidente, un arresto, un’emergenza medica, un pagamento urgente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Banca d’Italia spiega che oggi il messaggio può essere «su misura»: chi attacca raccoglie indizi sui social (viaggi, scuola, parentela) e può usare l’intelligenza artificiale per riprodurre la voce del familiare, con pochi secondi di audio trovato online. Quel deepfake serve a telefonare o a mandare messaggi vocali.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Garante per la protezione dei dati personali descrive il vishing (phishing telefonico) come truffa che usa il telefono per carpire dati, soprattutto bancari, facendo leva sul timore di un rischio imminente. La falsa emergenza familiare è una variante centrata sui sentimenti, non sul «conto bloccato» del finto operatore di banca — anche se le due cose a volte si mischiano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Schema 1: «ho un nuovo numero»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nella brochure della Polizia Postale, la forma più diffusa è quella del cellulare rotto: «mamma/papà ho rotto il cellulare». Parte un SMS o un messaggio WhatsApp che sembra del figlio o della figlia. Esempi riportati dalla stessa brochure:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "«Mamma questo è il mio nuovo numero salvalo e scrivimi su WhatsApp…»",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "«Papà ho perso il telefono, questo è il mio nuovo numero…»",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Varianti con link ",
+                  "version": 1
+                },
+                {
+                  "type": "text",
+                  "text": "wa.me",
+                  "version": 1,
+                  "format": 16
+                },
+                {
+                  "type": "text",
+                  "text": " o con errori di ortografia voluti.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Spesso arriva in orari in cui chi legge è stanco o ancora assonnato. Poi l’«apparente figlio» evita la chiamata a voce: telefono limitato, stress, numeri persi. Così non si richiama né il nuovo numero né quello vero. Dopo pochi messaggi arriva la richiesta urgente di denaro: nuovo telefono, multa, fattura, conto bloccato. Mezzo tipico: bonifico istantaneo o ricarica in tabaccheria, oppure le credenziali del conto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La regola non è «fidati del tono». È: il numero nuovo non è un familiare finché non lo verifichi su un canale che conoscevi già.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Schema 2: la voce che sembra familiare",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Qui entra il deepfake audio. La Banca d’Italia scrive che bastano pochi secondi di audio online per riprodurre la voce e usarla in chiamata o in messaggio vocale. La Polizia Postale, nella stessa brochure, avverte di non fermarsi alla sola chiamata: nelle ipotesi più sofisticate può esserci proprio la voce del familiare riprodotta con l’IA (cadenza, timbro, tono).",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel report 2025 della Polizia Postale (pagina del 10 gennaio 2026) si legge che l’impiego dell’intelligenza artificiale, in particolare attraverso i deepfake, ha reso più sofisticati i tentativi di truffa ai danni dei cittadini. Per questo verificare su un secondo canale non è «paranoia»: è la difesa che resta quando la voce da sola non basta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se la chiamata arriva sul fisso, la Banca d’Italia aggiunge un dettaglio pratico: dopo aver «chiuso», chi attacca può tenere aperta la linea. Qualsiasi numero composto subito dopo sul fisso può far parlare di nuovo con lui. Si richiama il familiare dal cellulare, sul numero già in rubrica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Schema 3: il finto agente o il finto medico",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Seconda variante descritta dalla Banca d’Italia: qualcuno chiama fingendosi poliziotto, carabiniere, avvocato o medico. Dice che il familiare ha causato un incidente e rischia arresto o ricovero, e chiede soldi per «risolvere».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Garante, sulla pagina del vishing, ricorda che amministrazioni, banche e gestori di carte non dovrebbero chiedere PIN, password o codici di autorizzazione. Toni ultimativi, chiusura del conto, sanzioni immediate se non si agisce subito: sono indizi. Un numero sul display non è garanzia: esiste lo spoofing, cioè il camuffamento dell’origine della chiamata o del messaggio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Due regole, prima di qualsiasi pagamento",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Banca d’Italia le riassume così:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ol",
+          "listType": "number",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Mantieni la calma.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " L’urgenza è lo strumento. Non bonificare, non ricaricare, non cliccare, non dettare codici nell’immediato.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Verifica.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Contatta il familiare al numero che hai già in rubrica, anche se «perdi qualche minuto». Anche se messaggio o chiamata sembrano arrivare da quel numero: i truffatori possono camuffarlo (spoofing). Se non risponde, prova una persona a lui vicina — come scrive anche la Polizia Postale.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il messaggio è solo un tentativo e non hai risposto, la brochure della Postale consiglia di non rispondere, cancellare la conversazione e, se l’hai salvato, togliere il numero nuovo dalla rubrica. Se invece hai già interagito o temete di essere vittime, le prove servono: messaggi, numeri, ricevute e screenshot vanno conservati per la banca e, se serve, per la denuncia. Poi si segnala e si blocca.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Attenzione anche a ciò che si pubblica online: dire che un figlio è all’estero o in viaggio rende la storia più credibile. Audio, video e dettagli di vita privata sono materiale utile a chi costruisce un messaggio «su misura»; ne parla, in un altro pezzo, la guida sullo ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/sharenting-foto-dei-figli-online",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "sharenting",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Hai già pagato, o hai dato un codice. I primi minuti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per i ragazzi: dirlo subito a un adulto non è una colpa. Conta il tempo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Hai solo ricevuto il messaggio e non hai risposto.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Non rispondere, non salvare il numero, avvisa in famiglia (e, se serve, in una ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/chat-di-classe-whatsapp-regole-genitori-docenti",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "chat di classe",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " gestita con regole chiare) che gira questa truffa. In questo caso puoi cancellare la chat dopo aver avvisato chi deve saperlo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Hai parlato, ti hanno chiesto un codice OTP o i dati del conto, oppure è partito un pagamento.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Prima di tutto conserva ciò che hai: chat, numeri, orari, ricevute, screenshot. Poi contatta subito la banca o l’emittente della carta da un canale ufficiale (app, numero sul retro della carta), non dal numero della chiamata. Spiega che cosa è successo, chiedi se è ancora possibile un tentativo di richiamo o di blocco, e segui le istruzioni che ti danno. Il Garante, sulla pagina del vishing, consiglia di segnalare l’accaduto su canali affidabili e, se c’è sottrazione di denaro, di chiedere il blocco delle transazioni. Per password e verifica in due passaggi resta la guida su ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/password-passkey-una-chiave-per-account",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "password e passkey",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ".",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Bonifico che hai disposto tu e operazione fatta da altri non sono la stessa cosa.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Se hai autorizzato tu un bonifico o una ricarica credendo all’emergenza, stai segnalando un pagamento fatto sotto inganno. Se invece qualcuno ha usato le tue credenziali o la tua carta senza che tu abbia disposto quel pagamento, stai segnalando un’operazione non autorizzata. Alla banca conviene dire con precisione quale dei due casi è il tuo: le tutele e i percorsi non sono automatici e dipendono dalle circostanze e dalle norme applicabili. Nessuna pagina ufficiale garantisce un esito in queste righe.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Dopo la banca.",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": " Segnala alla Polizia Postale dallo sportello web (commissariatodips.it) o, in emergenza, al 112, come indica anche la Banca d’Italia per i tentativi di questa truffa. Porta con te le prove che hai conservato. Se la risposta della banca non ti convince, puoi informarti sulle vie di reclamo previste dal tuo contratto e, dove previsto, sull’Arbitro Bancario Finanziario: non è una scorciatoia legale da riassumere qui, ed è meglio partire da ciò che ti comunica la banca per iscritto.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il dubbio è «è vero quel fatto?» più che «mi chiedono soldi», il metodo per non inoltrare a catena sta in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/verificare-una-notizia-prima-di-inoltrarla",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "verificare una notizia prima di inoltrarla",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una frase da scrivere in famiglia",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una riga basta: «Nessun bonifico per un’emergenza finché non richiamiamo noi il numero già in rubrica. Nessun codice a voce.»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se volete un controllo in più, concordate una domanda semplice a cui solo chi è in famiglia sa rispondere — un dettaglio banale, non una password del conto. Non sostituisce la chiamata al numero vero: la rafforza, se la voce al telefono non convince.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se la voce è identica a quella di mio figlio, posso fidarmi?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. La Banca d’Italia e la Polizia Postale descrivono deepfake audio costruiti con pochi secondi di registrazione reale. La voce non prova l’identità. Conta la chiamata (o un messaggio) al numero già salvato in rubrica, o a una persona vicina se non risponde.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il messaggio arriva da un contatto in rubrica: allora è sicuro?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Può essere spoofing del numero, oppure — in altri schemi trattati nel pezzo sugli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/sms-truffa-falsi-corrieri-premi-whatsapp",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "SMS truffa e WhatsApp",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — un account preso con un codice OTP. Qui lo schema tipico della brochure è un ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "numero nuovo",
+              "version": 1,
+              "format": 1
+            },
+            {
+              "type": "text",
+              "text": " presentato come sostituto. In entrambi i casi la verifica è fuori da quella chat.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mi hanno detto di non chiamare perché «il telefono non fa le chiamate». È normale?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "È proprio il passaggio descritto dalla Polizia Postale: evitare che tu richiami il numero vero. Tratta quell’ordine come un segnale, non come una spiegazione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Ho già fatto un bonifico istantaneo. Mi rimborsano?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Contatta subito la banca, spiega che il pagamento è partito sotto una falsa emergenza, chiedi se è ancora possibile un richiamo o altre misure urgenti, e conserva messaggi, numeri e ricevute. Un rimborso non è automatico: dipende dalle circostanze del caso e dalle norme che la banca applica. Segnala anche alla Polizia Postale. Se serve un passo successivo (reclamo, eventuali altre vie), parti da ciò che la banca ti comunica per iscritto, senza aspettarti una risposta uguale per tutti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questa truffa riguarda solo i nonni?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Genitori di adolescenti, ragazzi che gestiscono piccoli pagamenti, docenti che ricevono messaggi «urgenti» su chat di classe: lo schema punta su chi reagisce per affetto. Per questo conviene parlarne prima, a tavola, non dopo il bonifico.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
