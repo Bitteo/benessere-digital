@@ -46,6 +46,7 @@ import capodannoConsensoRagazzi from './articles/capodanno-foto-video-consenso-r
 import nataleFuoriCasa from './articles/natale-fuori-casa-storie-posizione-assenza.json'
 import saferInternetDay2027 from './articles/safer-internet-day-2027-scuola-famiglia.json'
 import truffaEmergenzaFamiliare from './articles/truffa-emergenza-familiare-voce-clonata.json'
+import notificheSmartphone from './articles/notifiche-smartphone-meno-interruzioni.json'
 
 export const articles = [
   brainRot,
@@ -95,4 +96,5 @@ export const articles = [
   capodannoConsensoRagazzi,
   saferInternetDay2027,
   truffaEmergenzaFamiliare,
+  notificheSmartphone,
 ] as ArticleSource[]
