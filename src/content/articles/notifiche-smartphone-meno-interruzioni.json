@@ -1,0 +1,1094 @@
+{
+  "slug": "notifiche-smartphone-meno-interruzioni",
+  "title": "Notifiche dello smartphone: meno interruzioni, senza spegnere tutto",
+  "excerpt": "13 gennaio 2027. Suoni, badge, riepilogo e Full immersion su iPhone e Android, e che cosa possono fare Tempo di utilizzo e Family Link sugli account dei figli.",
+  "cover": "",
+  "coverAlt": "",
+  "publishedAt": "2027-01-13T09:00:00.000+01:00",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "schermo-e-tempo",
+    "genitori-e-scuola"
+  ],
+  "readingTime": 22,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Notifiche smartphone: meno interruzioni",
+    "metaDescription": "Come ridurre i ping su iPhone e Android: Full immersion, riepilogo, Benessere digitale, e gli account dei figli con Tempo di utilizzo e Family Link.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Stothart, Mitchum e Yehnert — The attentional cost of receiving a cell phone notification (2015)",
+      "url": "https://doi.org/10.1037/xhp0000100",
+      "note": "Journal of Experimental Psychology: Human Perception and Performance, 2015, 41(4), 893–897. DOI 10.1037/xhp0000100. Abstract: le sole notifiche del cellulare, senza interazione con il telefono, hanno disturbato un compito di attenzione; la grandezza dell’effetto è descritta come paragonabile a quella osservata quando si usa il telefono per chiamate o messaggi. Non è un compito scolastico e non riporta, nell’abstract, un campione di adolescenti."
+    },
+    {
+      "title": "Cary Stothart — The Attentional Cost of Receiving a Cell Phone Notification",
+      "url": "https://carystothart.com/publications/attentional-cost-cell-phone-notification/",
+      "note": "Pagina dell’autore sullo stesso studio del 2015. Compito SART: premere un tasto per ogni numero tranne il 3; due blocchi da 360 prove. Nel secondo blocco, quattro chiamate, quattro messaggi, o niente. Esclusi dai dati chi guardava o maneggiava il telefono. Cautele dell’autore sul gruppo dei messaggi: partiva da meno errori del controllo e nel secondo blocco gli errori erano simili, quindi l’aumento è meno conclusivo di quello delle chiamate. Il gruppo delle chiamate aumenta anche le «anticipazioni». Non è la pagina della rivista."
+    },
+    {
+      "title": "Kushlev, Proulx e Dunn — “Silence Your Phones” (CHI 2016)",
+      "url": "https://interruptions.net/literature/Kushlev-CHI16.pdf",
+      "note": "PDF del paper di CHI ’16, 7–12 maggio 2016, San Jose. DOI nel PDF: http://dx.doi.org/10.1145/2858036.2858359. Pagine 1011–1020. 221 studenti undergraduate della University of British Columbia, età media 19,89 anni, dal participant pool generale, non da un pool con diagnosi di ADHD. Disegno entro i soggetti, due settimane, ordine controbilanciato. Settimana Interrupt: avvisi uditivi, tattili e/o visivi accesi e telefono a vista o a portata. Settimana Do-Not-Interrupt: quegli avvisi spenti (Non disturbare) e telefono fuori vista. Disattenzione: M 2,38 (DS 0,58) contro 2,27 (DS 0,56), t(189) = 3,02, d = 0,44. Iperattività: M 2,11 (DS 0,59) contro 2,01 (DS 0,55), t(189) = 3,12, d = 0,45. Scala 1 mai – 4 spesso, voci ispirate ai criteri DSM-5, non una diagnosi. Gli autori scrivono che la storia introduttiva non suggerisce che le distrazioni digitali causino l’ADHD. Le due manipolazioni (avvisi e vicinanza del telefono) non sono separate."
+    },
+    {
+      "title": "Fitz, Kushlev, Jagannathan, Lewis, Paliwal e Ariely — Batching smartphone notifications can improve well-being (2019)",
+      "url": "https://scholars.duke.edu/publication/1402953",
+      "note": "Scheda Scholars@Duke del paper su Computers in Human Behavior, 2019, volume 101, pagine 84–94. DOI 10.1016/j.chb.2019.07.016. Esperimento sul campo randomizzato, n = 237: notifiche come al solito, a blocchi, o mai. Chi le riceveva tre volte al giorno, rispetto al controllo, si descriveva più attento, di umore migliore, con più controllo del telefono; la scheda riporta anche meno stress e meno interruzioni. La stessa scheda scrive sia «more … productive» sia «lower productivity»: il risultato sulla produttività non è usato. Nessuna notifica: pochi di quei benefici, più ansia e più fear of missing out. La scheda non dice età, Paese, né che il campione siano adolescenti."
+    },
+    {
+      "title": "Apple — Modificare le impostazioni delle notifiche su iPhone",
+      "url": "https://support.apple.com/it-it/guide/iphone/iph7c3d96bab/ios",
+      "note": "Guida iPhone. Per un’app: Impostazioni, Notifiche, l’app sotto «Stile notifiche». Voci: Consenti notifiche, Avvisi (schermata di blocco, Centro Notifiche, banner), Suoni se l’app li offre, Badge, Aspetto Schermo di blocco per anteprime e raggruppamento, Recapito notifiche (Recapito immediato o Riepilogo programmato) se si usa il riepilogo. Aspetto di tutto il telefono: Conteggio, Raccolta, Elenco; si può anche pizzicare le notifiche sulla schermata di blocco. Riepilogo programmato: Impostazioni, Notifiche, Riepilogo programmato, orari, app da includere. Mostra anteprime: Sempre, Quando sbloccato, Mai. Con una full immersion il recapito è ritardato. Apple Intelligence, per riassumere notifiche lunghe o in pile e per gli avvisi urgenti, è indicato su iOS 27 o successivi, su iPhone 15 Pro, 15 Pro Max e iPhone 16 o successivi compatibili, non in tutte le lingue e zone; l’italiano è nell’elenco delle lingue della nota, con limiti di utilizzo."
+    },
+    {
+      "title": "Apple — Visualizzare le notifiche e rispondere su iPhone",
+      "url": "https://support.apple.com/it-it/guide/iphone/iph6534c01bc/ios",
+      "note": "In Centro Notifiche e sulla schermata di blocco le notifiche si raggruppano per app, in pile, la più recente in cima. Alcune app le raggruppano anche per argomento o thread. Si tocca la pila per espanderla e «Mostra di meno» per richiuderla. Mentre si usa un’app può arrivare la domanda se ricevere le notifiche subito, mai o in un riepilogo programmato: si cambia poi in Impostazioni, Notifiche. Scorrendo a sinistra su un avviso: disattivare per un’ora o per un giorno, oppure Disattiva."
+    },
+    {
+      "title": "Apple — Configurare una full immersion su iPhone",
+      "url": "https://support.apple.com/it-it/guide/iphone/iphd6288a67f/ios",
+      "note": "La full immersion riduce le distrazioni: si silenziano le notifiche o se ne lasciano alcune. Esempi: Guida, Personale, Sonno, Lavoro, o una personalizzata. Centro di Controllo, Full immersion, Non disturbare, per spegnerle in fretta. Impostazioni, Full immersion, poi la modalità: Persone, App, Opzioni. Per l’attivazione automatica la pagina dice di toccare «Aggiungi orario». «Meno interruzioni» usa Apple Intelligence e la nota ripete i limiti di iOS 27 e dei modelli. La stessa pagina, nel punto sull’orario, ha la frase «la full immersioni»: è la grafia della guida, non un secondo menu."
+    },
+    {
+      "title": "Apple — Attivare o programmare una full immersion su iPhone",
+      "url": "https://support.apple.com/it-it/guide/iphone/iph5c3f5b77b/ios",
+      "note": "Centro di Controllo, Full immersion, poi la modalità. Se una è già attiva, la nuova la sostituisce. In Messaggi lo stato è visibile e chi scrive può far arrivare una notifica se è urgente. Programmazione: Impostazioni, Full immersion, la modalità; se sotto «Imposta gli orari» c’è un orario lo si tocca, altrimenti «Aggiungi automazione» (orario, luogo o app). L’etichetta non coincide con «Aggiungi orario» dell’altra guida. La full immersion Sonno segue gli orari di riposo dell’app Salute; la pagina rimanda a «Apri Sonno nell’app Salute» e alla sveglia in Orologio."
+    },
+    {
+      "title": "Apple — Utilizzare Tempo di utilizzo per gestire l’iPhone o l’iPad di tuo figlio o tua figlia",
+      "url": "https://support.apple.com/it-it/108806",
+      "note": "Data di pubblicazione in calce: 29 ottobre 2026. I controlli descritti sono quelli di iOS 27, iPadOS 27, macOS 27, watchOS 27 e visionOS 27. Se non tutti i dispositivi del gruppo si aggiornano, si può continuare a usare la versione precedente di Tempo di utilizzo. Serve «In famiglia» e un Apple Account proprio del minore. Percorso: Impostazioni, Famiglia, il nome, Tempo di utilizzo. Se l’account è gestito dal gruppo, il codice di Tempo di utilizzo si imposta sul dispositivo del genitore o di chi è responsabile, non su quello del ragazzo. «Limiti di tempo» sulle categorie di app. «Orari di “Tempo di utilizzo”» per quali app sono disponibili nei momenti della giornata, feriali e fine settimana. Pausa rapida, uso illimitato o modifica degli orari dalla stessa schermata. La pagina non descrive un riepilogo delle notifiche ereditato dal genitore."
+    },
+    {
+      "title": "Apple — Configurare i controlli parentali per gestire l’iPhone o l’iPad dei figli",
+      "url": "https://support.apple.com/it-it/105121",
+      "note": "Data di pubblicazione in calce: 28 ottobre 2026. Stessi sistemi in versione 27. Non tutti i controlli sono su tutti i dispositivi; in alcune aree alcune impostazioni per i minori non si possono disattivare. Orari: Impostazioni, Famiglia, il nome, Orari di “Tempo di utilizzo”, attiva Orari, Aggiungi orario, giorni. Limiti di tempo: stesso percorso, Limiti di tempo, Aggiungi. Contatti consentiti, Durante “Tempo di utilizzo”: Solo contatti, Contatti e gruppi quando è presente almeno un contatto, o Tutti. È la comunicazione in Messaggi, FaceTime e Telefono, non il badge delle app."
+    },
+    {
+      "title": "Android — Controllare le notifiche su Android",
+      "url": "https://support.google.com/android/answer/9079661?hl=it",
+      "note": "La pagina avvisa che alcuni passaggi variano in base al dispositivo. Impostazioni, Notifiche, Notifiche app: si spegne tutto o si scelgono le categorie. Se manca «Inviate di recente», la pagina dice che è una versione precedente. Dalla notifica: tieni premuto, Impostazioni, Tutte le notifiche oppure Consenti indicatore di notifica. Indicatore di notifica su icona app, in Notifiche. Avvisi oppure Modalità silenziosa; un percorso passa da App e notifiche. Attenuazione delle notifiche, in Generali: riduce audio e popup se arrivano troppi avvisi insieme; eccezioni scritte: chiamate, sveglie, conversazioni prioritarie, avvisi di emergenza. La pagina non ha un «Riepilogo programmato»."
+    },
+    {
+      "title": "Android — Gestire il tempo di utilizzo dello smartphone con Benessere digitale",
+      "url": "https://support.google.com/android/answer/9346420?hl=it",
+      "note": "Alcuni passaggi variano in base al dispositivo. Il grafico in Benessere digitale mostra tempo di utilizzo, numero di aperture e notifiche ricevute, per app. Modalità Niente distrazioni (in inglese, sulla guida in lingua inglese della stessa scheda, Focus mode): Impostazioni, Benessere digitale, Modalità Niente distrazioni. Con la modalità attiva le app scelte non si usano e non mandano notifiche. Attiva ora, Disattiva ora, Imposta una programmazione, Fai una pausa. Su alcuni dispositivi si aggiunge alle Impostazioni rapide. La guida in italiano non usa «Modalità concentrazione». Modalità Riposo, Routine Buonanotte: programmazione (inizio, fine, giorni) oppure attivazione durante la ricarica. Tra le personalizzazioni: Non disturbare per modalità Riposo. Scala di grigi e schermo scuro sono opzioni, non un obbligo."
+    },
+    {
+      "title": "Android — Limitare le interruzioni con le modalità e Non disturbare",
+      "url": "https://support.google.com/android/answer/9069335?hl=it",
+      "note": "Alcuni passaggi solo da Android 14. Attivazione rapida: scorri dall’alto, Non disturbare. Filtri: Impostazioni, Modalità, la modalità, Filtri per le notifiche (persone, con Chiamate ripetute entro 15 minuti; app; sveglie e altre interruzioni). Le notifiche critiche, per esempio di sicurezza del sistema, non si bloccano. Durata delle Impostazioni rapide: fino alla disattivazione, per un tempo (esempi della pagina: 2 ore, 15 minuti), o chiedi ogni volta. Modalità Riposo: Impostazioni, Modalità, Riposo, Imposta la modalità Riposo, Routine Buonanotte o ricarica. Su Android 8.1 e precedenti, se compare Preferenze Non disturbare: Impostazioni, Audio. Silenzio totale rende silenziose anche le sveglie e i contenuti multimediali. Solo sveglie non spegne musica, video e giochi. Si disattiva dalle Impostazioni rapide o dal tasto volume, Disattiva ora. La pagina dice che le impostazioni possono variare e rimanda al produttore."
+    },
+    {
+      "title": "Google For Families — Imposta una programmazione sul dispositivo di tuo figlio",
+      "url": "https://support.google.com/families/answer/15938652?hl=it",
+      "note": "Tempo senza schermo e orario scolastico da Android 7. Family Link: figlio in alto a sinistra, Tempo di utilizzo, Programmazioni. In un altro punto la stessa pagina scrive Pianificazioni e, per l’orario scolastico, «Tempo di utilizzo Pianificazioni». Durante l’orario scolastico le notifiche, chiamate e messaggi compresi, vengono silenziate; il ragazzo può chiamare e inviare messaggi. La pagina non dice che una chiamata in arrivo squilli. Nel tempo senza schermo, per scrivere, l’app di messaggistica deve essere senza limiti; le chiamate sono sempre disponibili. Non si mettono limiti di tempo alle app di sistema. Sul dispositivo del figlio, da Android 8.1: Impostazioni, Benessere digitale e Controllo genitori. Prima: Impostazioni, Google, Tutti i servizi, Bambini e famiglia, Controllo genitori. Da Android 14 o Wear OS 5 si possono gestire i contatti di chiamate e messaggi, su un’altra scheda della stessa guida."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Il riepilogo programmato blocca anche i messaggi di casa?",
+      "answer": "No. Sulla guida iPhone, per ogni app si sceglie «Recapito immediato» o «Riepilogo programmato». Messaggi e la chat che deve arrivare restano immediati. Il riepilogo riguarda le app che avete incluso, agli orari che avete messo. Se è attiva una full immersion, il recapito delle altre notifiche è ritardato: passano le persone e le app che avete lasciato in Persone e App. Chi scrive in Messaggi può comunque far arrivare un avviso se lo segna come urgente. Non è un blocco delle chiamate."
+    },
+    {
+      "question": "Su Android non trovo «Modalità concentrazione». Dove sta?",
+      "answer": "Sulla guida Benessere digitale in italiano la funzione che in inglese si chiama Focus mode è «Modalità Niente distrazioni»: Impostazioni, Benessere digitale, Modalità Niente distrazioni. Quella pagina non usa la scritta «Modalità concentrazione». Se non la vedi, il nome può essere un altro, del produttore o di una versione precedente, oppure la funzione può non esserci: la guida dice che i passaggi variano in base al dispositivo. Non disturbare, nella guida delle modalità, è un menu diverso: filtra suoni e avvisi, non mette in pausa le app."
+    },
+    {
+      "question": "Spegnere il badge basta a smettere di aprire il telefono?",
+      "answer": "No. Il badge è il numerino o il pallino sull’icona. Su iPhone si chiama Badge, dentro le notifiche di quell’app. Su Android la voce della guida è «Indicatore di notifica su icona app». Spento, l’icona smette di contare. Suono, banner e schermata di blocco sono altre voci. Aprire l’app anche quando nessuno ha scritto è un’altra abitudine: sta nel pezzo sul doomscrolling, non in questo interruttore."
+    },
+    {
+      "question": "Non disturbare di notte sostituisce il telefono fuori dalla camera?",
+      "answer": "No. Filtra o ritarda gli avvisi. Non decide dove sta l’apparecchio e non spegne lo schermo se qualcuno lo sblocca. Su iPhone la full immersion Sonno segue gli orari di riposo dell’app Salute. Su Android la Modalità Riposo ha una routine Buonanotte, a orario o durante la ricarica. Il resto della notte sta nel pezzo sul telefono in camera. Su Android 8.1 e precedenti, «Silenzio totale» rende silenziose anche le sveglie: per la scuola non è la voce da lasciare accesa. La prova della sveglia si fa la sera prima, non la prima mattina di lezione."
+    },
+    {
+      "question": "Tempo di utilizzo e Family Link spengono le notifiche una per una?",
+      "answer": "No, non nel senso del menu Notifiche. Su iPhone, nelle pagine di ottobre 2026 per i sistemi in versione 27, «Orari di “Tempo di utilizzo”» scelgono quali app sono disponibili nei momenti della giornata e «Limiti di tempo» mettono un tetto alle categorie. Il percorso è Impostazioni, Famiglia, il nome, Tempo di utilizzo. Se un dispositivo non si aggiorna, resta la versione precedente, con i suoi nomi. Su Family Link, durante l’orario scolastico le notifiche vengono silenziate e il ragazzo può comunque chiamare e scrivere: la guida non dice che una chiamata in arrivo squilli. Nel tempo senza schermo, per scrivere, l’app di messaggistica deve essere senza limiti; le chiamate restano disponibili. Suono e badge delle singole app, se il menu è raggiungibile, si sistemano ancora in Notifiche."
+    },
+    {
+      "question": "Conviene azzerare le notifiche per tutto gennaio?",
+      "answer": "Nello studio di Fitz e colleghi, chi non riceveva nessuna notifica non ha avuto i benefici di chi le riceveva tre volte al giorno, e ha riportato più ansia e più paura di perdersi qualcosa. Non sono ragazzi, e l’abstract non è un consiglio clinico. A gennaio è più aderente a quel risultato lasciare subito le chiamate di casa e la chat che serve, e mettere il resto in un riepilogo o in una modalità a orario. Il silenzio totale è la condizione che, in quello studio, è andata peggio sull’ansia."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mercoledì 13 gennaio 2027. La scuola è già ripresa, i gruppi hanno ricominciato a scrivere, e il telefono che tra Natale e l’Epifania suonava di meno torna a vibrare sul banco, sul tavolo dei compiti e sul comodino. Non è un difetto di carattere. È il modo in cui le app sono lasciate: ogni messaggio, ogni like, ogni promozione chiede un pezzo di attenzione subito.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo è il ritocco di gennaio, per chi usa un iPhone o un Android e per chi tiene l’account di un figlio. Il tema è uno solo: quali avvisi arrivano nel momento, quali possono aspettare, quali non servono. Il tetto delle ore, e dove il telefono non entra, sta negli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". La notte, luce e comodino compresi, sta nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Fotocamera, microfono, posizione e contatti sono un altro menu, quello dei ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/permessi-app-fotocamera-microfono-posizione",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "permessi delle app",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui si toccano suoni, badge, riepiloghi e le modalità che trattengono gli avvisi. Non è una cura, e non è un mese senza telefono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa costa un avviso, anche se non lo apri",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Stothart, Mitchum e Yehnert hanno pubblicato nel 2015, sul Journal of Experimental Psychology: Human Perception and Performance, un esperimento di attenzione. Il compito era premere un tasto a ogni numero che compariva, tranne al 3. Nel secondo blocco, a un gruppo arrivavano chiamate, a un altro messaggi, a un terzo niente. Chi guardava o toccava il telefono è stato escluso dai dati: restava il costo dell’avviso, non quello di rispondere. Le notifiche, da sole, hanno aumentato gli errori rispetto al gruppo di controllo. L’abstract della rivista parla di un effetto di grandezza paragonabile a quello osservato quando si usa il telefono per chiamare o per scrivere. Sulla pagina in cui l’autore riassume lo studio c’è una cautela in più sul gruppo dei messaggi: partiva da meno errori del controllo, e nel secondo blocco i due gruppi si assomigliavano, quindi l’aumento è meno conclusivo di quello delle chiamate. È un laboratorio, con un compito noioso e lungo. Non è un’ora di compiti a casa. Il punto che si può portare in casa è stretto: l’avviso pesa anche se il telefono resta sul tavolo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Kushlev, Proulx e Dunn, negli atti del CHI 2016, hanno seguito 221 studenti universitari della University of British Columbia, età media 19,9 anni, presi dal bacino generale dei partecipanti, non da un elenco di persone con diagnosi di ADHD. Per una settimana gli avvisi sonori, tattili o visivi restavano accesi e il telefono a vista o a portata di mano. Per l’altra, quegli avvisi erano spenti e il telefono fuori vista. A fine settimana, su una scala da 1 (mai) a 4 (spesso), nella settimana con gli avvisi la disattenzione media era 2,38 contro 2,27, e l’iperattività 2,11 contro 2,01. Il confronto, su chi aveva dati per entrambe le settimane, è t(189). Lo studio non separa il suono dal fatto di tenere il telefono vicino: le due richieste andavano insieme. Gli autori scrivono che non è una prova che il telefono causi l’ADHD. Non è un protocollo da copiare su un ragazzo di tredici anni. Dice che, in quel campione di studenti, una settimana di avvisi accesi e telefono a vista si accompagna a un aumento piccolo, e misurato, di sintomi riferiti di disattenzione e irrequietezza.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il costo di saltare da un compito all’altro mentre si studia sta nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/multitasking-digitale-scuola-e-compiti",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "multitasking digitale",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Quello che succede dopo, quando il pallino fa aprire un feed che non si chiude, sta nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/doomscrolling-perche-il-pollice-non-si-ferma",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "doomscrolling",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". La dopamina raccontata come un serbatoio da svuotare non spiega un badge: quella semplificazione sta nella guida sulla ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/dopamina-la-guida-completa",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "dopamina",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", e lì si ferma.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Perché il silenzio totale non è la mossa di gennaio",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fitz, Kushlev, Jagannathan, Lewis, Paliwal e Ariely, su Computers in Human Behavior nel 2019, hanno condotto un esperimento sul campo con 237 persone. Le notifiche arrivavano come al solito, a blocchi, oppure mai. Chi le riceveva tre volte al giorno, rispetto a chi le riceveva come al solito, si descriveva più attento, di umore migliore, con più controllo del telefono, meno stress e meno interruzioni. Chi non ne riceveva nessuna aveva pochi di quei benefici, e più ansia e più paura di perdersi qualcosa. La scheda di Scholars@Duke, che riporta l’abstract, scrive nella stessa zona sia una produttività più alta sia una produttività più bassa. Questo pezzo non usa il risultato sulla produttività: le due frasi non possono essere citate insieme. Non sono adolescenti, non dura un anno scolastico, e l’app dello studio non è il menu di iPhone o di Android. Il dato che serve in casa è un altro. Un blocco di avvisi, in pochi momenti, non è la stessa cosa che spegnere tutto. La paura di restare fuori dalle chat, quando il silenzio è totale, sta nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FOMO e JOMO",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre colonne, prima di aprire Impostazioni",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il telefono è di un ragazzo, le tre colonne si dicono ad alta voce. Se è il tuo, si scrivono lo stesso. Servono a non spegnere, per sbaglio, la cosa che deve arrivare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Subito: le chiamate di casa, e la chat che la scuola usa davvero.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Più tardi: like, storie, newsletter, giochi, negozi. Possono finire in un riepilogo, o in silenzio, e si leggono quando si apre l’app.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Per ora no: promozioni, app aperte da settimane solo perché l’icona ha un numerino, avvisi di cui non sai dire a che cosa servono.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Come si tiene la chat di classe, senza che diventi l’unica aula, sta nel pezzo sulle ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/chat-di-classe-whatsapp-regole-genitori-docenti",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "chat di classe",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Non è un proposito da firmare il 13 e dimenticare a febbraio. È il foglio con cui, tra una settimana, si controlla se il menu ha fatto quello che si era deciso. Ore, pasti e camera restano negli accordi già citati. Questo foglio è solo sugli avvisi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "iPhone: un’app alla volta, poi il riepilogo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I nomi sono quelli della guida iPhone «Modificare le impostazioni delle notifiche». Su una versione precedente la stessa voce può stare un livello più su, o chiamarsi in un altro modo. Se un passaggio non c’è, non si insiste: si torna all’elenco delle app.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per una sola app: Impostazioni, Notifiche, l’app sotto «Stile notifiche».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "«Consenti notifiche» spento: quell’app non avvisa.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Sotto Avvisi la guida dice di scegliere se mostrarla sulla schermata di blocco, in Centro Notifiche o come banner. Se sul telefono sono interruttori separati, si può togliere il banner e lasciare il Centro Notifiche: si legge dopo, non a metà frase. Se è una scelta unica, si tiene il posto meno invadente tra quelli che compaiono.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Suoni, se la voce c’è: l’app non la offre sempre. Si può cambiare il suono o toglierlo. È il suono di quell’app, non l’interruttore silenzioso di tutto il telefono.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Badge: il numerino sull’icona. Spento, l’icona non conta. Se gli avvisi restano accesi, il messaggio può arrivare lo stesso.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Sotto «Aspetto Schermo di blocco» si impostano le anteprime e il modo in cui le notifiche di quell’app sono raggruppate.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per tutto il telefono, sulla stessa guida: Impostazioni, Notifiche, poi Conteggio, Raccolta o Elenco. Conteggio mostra solo il numero. Raccolta mette le notifiche in pile, per app. Elenco le mostra una sotto l’altra. Si può anche pizzicare le notifiche sulla schermata di blocco per cambiare il layout. La guida «Visualizzare le notifiche e rispondere» dice che in Centro Notifiche e sulla schermata di blocco le notifiche si raggruppano per app, in pile, con la più recente in cima, e che alcune app le raggruppano anche per argomento o per thread. Si tocca la pila per aprirla, «Mostra di meno» per richiuderla. Non c’è, in questi passaggi della guida iPhone, una voce unica che valga per tutti i modelli e tutte le versioni con le stesse tre etichette. Se sul tuo telefono il raggruppamento ha un altro nome, usa quello: la funzione è la pila, non la parola esatta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il riepilogo programmato, sulla guida delle impostazioni, serve a ridurre le interruzioni durante il giorno. Impostazioni, Notifiche, «Riepilogo programmato», si attiva, si fissano gli orari, poi si scelgono le app da includere. Per un’app che usa il riepilogo, in «Recapito notifiche» si sceglie «Recapito immediato» o «Riepilogo programmato». Messaggi di casa e la chat di classe restano immediati. Il resto può aspettare l’orario che avete messo, uno che non cada nel sonno. «Mostra anteprime» ha tre scelte: Sempre, Quando sbloccato, Mai. Le anteprime possono contenere testo di Messaggi e di Mail. Su un telefono che passa di mano, «Quando sbloccato» è la scelta più stretta. Mentre usi un’app, il telefono può chiedere se vuoi gli avvisi subito, mai, o nel riepilogo. Si cambia dopo, dallo stesso menu Notifiche.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Apple Intelligence, sulla stessa guida, è un’altra funzione: riassume notifiche lunghe o raggruppate in pile, e può mettere in evidenza avvisi urgenti. La nota limita Apple Intelligence a iOS 27 o successivi, su iPhone 15 Pro, iPhone 15 Pro Max e modelli di iPhone 16 o successivi compatibili, non in tutte le lingue e le zone, con limiti di utilizzo. L’italiano è nell’elenco delle lingue della nota, ma il telefono deve rientrare nei modelli. La full immersion «Meno interruzioni», nella guida per configurare una full immersion, usa Apple Intelligence per mostrare solo alcune notifiche. Non è il riepilogo programmato, e non è il primo menu da cercare su un iPhone più vecchio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Full immersion, e che cosa lascia passare",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La guida «Configurare una full immersion» la descrive come un modo per concentrarsi su un’attività e ridurre le distrazioni. Si possono silenziare le notifiche, oppure lasciarne alcune, di persone o di app. Percorso: Impostazioni, «Full immersion», poi una voce, per esempio «Non disturbare», Personale, Sonno, Lavoro, o una personalizzata da «Personalizza». Dentro: Persone, App, Opzioni. In Centro di Controllo: «Full immersion», poi per esempio «Non disturbare». Se una full immersion è già attiva, attivarne un’altra spegne la prima. L’icona compare nella barra di stato e sulla schermata di blocco. In Messaggi, chi scrive può vedere che hai disattivato le notifiche e, scrive la guida per programmarla, può comunque fartene arrivare una se è urgente. Non è un muro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sull’orario automatico le due guide non usano la stessa etichetta. Quella per configurare dice di toccare «Aggiungi orario». Quella per attivare o programmare dice: se sotto «Imposta gli orari» c’è già un orario, lo si tocca; altrimenti «Aggiungi automazione», per un orario, un luogo o un’app. Se sul telefono vedi una sola delle due scritte, è quella. La full immersion Sonno segue gli orari di riposo dell’app Salute: per cambiarli, la guida dice di toccare «Apri Sonno nell’app Salute». La sveglia si controlla a parte, nell’app Orologio. Silenziare la notte non spegne da solo una sveglia impostata lì, ma non va dato per scontato su una versione che non hai ancora provato: la prova è la sveglia del mattino dopo, a volume che senti, non la prima mattina di scuola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Con una full immersion attiva, la guida delle notifiche scrive che il recapito è ritardato. Il riepilogo a orari fissi resta il menu «Riepilogo programmato», non un orologio nascosto dentro Sonno. La notte intera, schermo spento prima e telefono lontano dal letto, non sta in questo menu. Sta nel pezzo sul telefono in camera.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Android: suono, badge, categorie",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La guida «Controllare le notifiche su Android» apre con una frase che vale per tutto il capitolo: alcuni passaggi variano in base al dispositivo. Un Samsung o uno Xiaomi non copia sempre i menu descritti per il sistema di Google. Se una voce non c’è, la pagina rimanda al produttore. Non si inventa un percorso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per un’app: Impostazioni, Notifiche, Notifiche app, poi l’app, tra le più recenti o in «Tutte le app». Si spengono tutte le notifiche, oppure solo alcune categorie. Se non vedi «Inviate di recente», la stessa guida dice che sei su una versione precedente: Notifiche app, l’app, e da lì notifiche, indicatori e categorie. Da una notifica già arrivata: scorri dall’alto, tieni premuto, Impostazioni. Si può spegnere «Tutte le notifiche», oppure lasciare «Consenti indicatore di notifica».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’indicatore, il pallino o il numerino sull’icona: Impostazioni, Notifiche, «Indicatore di notifica su icona app». È separato dal suono. Si può avere l’avviso senza il pallino, se il telefono offre entrambe le voci.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Suono o silenzio, su alcuni dispositivi della stessa guida: Avvisi (suono, schermata di blocco, icona nella barra di stato) oppure Modalità silenziosa (niente suono né vibrazione; la notifica si vede scorrendo dall’alto). Un percorso indicato è Impostazioni, App e notifiche, Notifiche, l’app, il tipo di notifica. Un altro parte dalla notifica stessa, con un piccolo scorrimento e Impostazioni, poi Avvisi o Modalità silenziosa. Sono due strade scritte sulla stessa pagina, non la garanzia che il tuo telefono le abbia entrambe.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Attenuazione delle notifiche», in Impostazioni, Notifiche, sezione Generali, riduce audio e popup quando arrivano troppi avvisi in poco tempo. Restano fuori, scrive la guida, chiamate, sveglie, conversazioni prioritarie e avvisi di emergenza. Serve quando si spegne la modalità aereo e il telefono si svuota addosso. Non è un riepilogo a orari scelti. In queste guide Android non c’è la voce «Riepilogo programmato» di iPhone. Il «più tardi» si fa con una modalità e con Benessere digitale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Niente distrazioni, Riposo, Non disturbare",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La guida di Benessere digitale dice anche lei che alcuni passaggi variano in base al dispositivo. Il grafico, in Impostazioni, Benessere digitale, mostra il tempo di utilizzo, quante volte si è sbloccato il telefono e quante notifiche sono arrivate, per app. Serve a vedere quale icona avvisa di più, prima di spegnerla. Non è un voto sul ragazzo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La funzione che in inglese si chiama Focus mode, sulla guida in italiano, si chiama «Modalità Niente distrazioni». Percorso: Impostazioni, Benessere digitale, Modalità Niente distrazioni. Si scelgono le app da mettere in pausa. Con la modalità attiva non si aprono e non mandano notifiche. «Attiva ora» e «Disattiva ora», oppure «Imposta una programmazione». «Fai una pausa» le riapre per un tempo che scegli. Su alcuni dispositivi si aggiunge alle Impostazioni rapide. La guida di oggi non usa la scritta «Modalità concentrazione». Se sul telefono cerchi quella frase e non la trovi, il nome può essere un altro, del produttore o di una versione precedente: non è detto che la funzione manchi, e non è detto che ci sia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La notte, sulla stessa guida: Impostazioni, Benessere digitale, Modalità Riposo, Routine Buonanotte. Due modi. Una programmazione, con inizio, fine e giorni. Oppure l’attivazione durante la ricarica, con un orario «dopo» e un orario «prima». Tra le personalizzazioni la pagina elenca «Non disturbare per modalità Riposo» e rimanda a come evitare le interruzioni. Scala di grigi, schermo scuro e luminosità dello sfondo sono opzioni di quella modalità, non un passaggio obbligato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non disturbare sta nella guida delle modalità, ed è un menu diverso dalla pausa delle app. La pagina avvisa che alcuni passaggi funzionano solo su Android 14 e successivi. Attivazione rapida: scorri dall’alto, tocca Non disturbare. Per decidere che cosa passa: Impostazioni, Modalità, la modalità, poi «Filtri per le notifiche». Persone: chiamate, messaggi, conversazioni, e «Consenti chiamate ripetute» se la stessa persona chiama due volte in 15 minuti. App: quali possono ancora notificare. Sveglie e altre interruzioni: sveglie, contenuti multimediali, suoni alla pressione, promemoria, calendario. Le notifiche critiche restano comunque, per esempio quelle di sicurezza del sistema. La durata, quando la accendi dalle Impostazioni rapide, si sceglie in Impostazioni, Modalità, Non disturbare, «Durata delle Impostazioni rapide»: fino alla disattivazione, per un tempo (la pagina fa gli esempi di 2 ore e di 15 minuti), o chiedi ogni volta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Modalità Riposo compare anche in questa guida: Impostazioni, Modalità, Riposo, «Imposta la modalità Riposo», con Routine Buonanotte, una programmazione, oppure l’attivazione durante la ricarica. Se sul telefono Benessere digitale e Modalità portano a due schermate diverse, imposta la routine dove la trovi e controlla i filtri nell’altra. Se ne vedi una sola, usa quella.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Android 8.1 e precedenti la stessa guida cambia strada. Se in Impostazioni, Audio, Non disturbare vedi «Preferenze Non disturbare», sei su quella versione. Le regole automatiche stanno lì, e tra gli esempi c’è una notte dei giorni feriali. Attenzione a «Silenzio totale»: la guida dice che le sveglie sono silenziose, che il telefono non vibra per chiamate e messaggi, e che non si sentono musica, video e giochi. Per un telefono che deve svegliare per la scuola, la voce descritta è «Solo sveglie», che non spegne i contenuti multimediali. «Solo con priorità» lascia passare ciò che hai segnato in Preferenze Non disturbare. Si disattiva dalle Impostazioni rapide o dal tasto del volume, «Disattiva ora».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Account dei figli: due sistemi, non un interruttore solo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su iPhone l’account del ragazzo è un Apple Account nel gruppo «In famiglia». Su Android supervisionato è l’account Google che gestisci con Family Link. I menu non si mescolano. Il senso, in entrambi, è lo stesso del pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "controllo dei genitori",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": proteggere senza spiare. Le ore e i luoghi, se non sono già detti, stanno negli accordi di schermo. Qui si aggiunge solo che cosa può suonare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "iPhone. Le pagine «Utilizzare Tempo di utilizzo per gestire l’iPhone o l’iPad di tuo figlio o tua figlia» e «Configurare i controlli parentali per gestire l’iPhone o l’iPad dei figli», con data di pubblicazione 29 e 28 ottobre 2026, descrivono i controlli di iOS 27, iPadOS 27, macOS 27, watchOS 27 e visionOS 27. Se un dispositivo della famiglia non si aggiorna, la prima pagina dice che si continua a usare la versione precedente di Tempo di utilizzo: i nomi, lì, non sono per forza questi. Percorso scritto per la versione nuova, dal telefono di chi è responsabile, genitore o tutore: Impostazioni, Famiglia, il nome, Tempo di utilizzo. Serve «In famiglia» e un Apple Account del ragazzo, non un account condiviso con un fratello. Se l’account del minore è gestito dal gruppo, il codice di Tempo di utilizzo si imposta sul dispositivo del genitore, non su quello del ragazzo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Orari di “Tempo di utilizzo”»: si attiva Orari, si tocca «Aggiungi orario», si scelgono i giorni. La pagina dice che così si decide a quali app il ragazzo accede nei momenti della giornata, per esempio prima della scuola, durante, dopo, con routine diverse per i feriali e il fine settimana. «Limiti di tempo» mette un tetto alle categorie, come intrattenimento, giochi e social, non al suono di una singola chat. C’è anche una pausa rapida dell’uso del dispositivo, dalle impostazioni di Tempo di utilizzo. Queste pagine non descrivono un riepilogo programmato che il genitore accende al posto del figlio. Suono e badge, se il menu Notifiche è ancora raggiungibile sul suo telefono, si sistemano lì. Se lo avete chiuso con le restrizioni, va detto prima, non scoperto la sera dei compiti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Contatti consentiti», sulla pagina dei controlli, ha una voce «Durante “Tempo di utilizzo”»: Solo contatti, Contatti e gruppi quando c’è almeno un contatto, o Tutti. È la lista di chi può scrivere e chiamare in Messaggi, FaceTime e Telefono, non l’elenco dei badge. Non tutti i controlli esistono su tutti i dispositivi, e in alcune aree, scrive la pagina, alcune impostazioni per i minori non si possono disattivare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Android. La guida «Imposta una programmazione sul dispositivo di tuo figlio» vale, per il tempo senza schermo e l’orario scolastico, sui dispositivi con Android 7 e successivi. Nell’app Family Link: in alto a sinistra il figlio, in basso a sinistra Tempo di utilizzo, poi Programmazioni. In un altro punto la stessa pagina scrive Pianificazioni. Se vedi una delle due, è quella. Si attiva Tempo senza schermo oppure Orario scolastico. Per la giornata in corso: Tempo senza schermo, Stanotte, oppure Orario scolastico, Oggi, poi ora di inizio e di fine. Per la settimana: Programmazione settimanale, i giorni, inizio e fine.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Durante l’orario scolastico la guida dice che le notifiche del ragazzo, per esempio quelle di chiamate e messaggi, vengono silenziate, e che lui può comunque chiamare e inviare messaggi. Non è scritto che una chiamata in arrivo squilli. Se ti serve raggiungerlo a voce in quelle ore, si prova sul suo telefono, non si deduce dalla frase. Durante il tempo senza schermo, per scrivere, l’app di messaggistica deve essere un’app senza limiti. Le chiamate, scrive la guida, sono sempre disponibili. Le app di sistema non accettano un limite di tempo. Le app senza limiti si scelgono in App consentite, o in Seleziona app, con «Tempo illimitato».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sul telefono del figlio, da Android 8.1: Impostazioni, Benessere digitale e Controllo genitori, poi Tempo senza schermo o Orario scolastico. Per modificarli serve l’accesso del genitore o il codice. Su versioni precedenti il percorso della guida passa da Impostazioni, Google, Tutti i servizi, Bambini e famiglia, Controllo genitori. Da Android 14, o Wear OS 5, la stessa pagina dice che si possono gestire i contatti con cui il ragazzo chiama e scrive: è un’altra scheda, da aprire se quel telefono ce l’ha. La chat di classe, se è lo strumento che la scuola usa, va tra le app senza limiti nelle ore in cui deve funzionare. Like, giochi e negozi possono restare fuori. Family Link non sostituisce quella frase detta a voce.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una sera, non dieci interruttori",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sul telefono di chi lo usa, con le tre colonne accanto. Una sola tornata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Si tolgono suono e badge alle app che non sono in «subito». Su iPhone, app per app, in Notifiche. Su Android, la categoria se c’è, e l’indicatore sull’icona.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Si accende un solo contenitore per «più tardi». Su iPhone, il riepilogo programmato, con le app della seconda colonna e un orario che non cada nel sonno. Su Android, Modalità Niente distrazioni in programmazione, per quelle app, nelle ore di compiti o di scuola, se la voce c’è.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Di notte, Full immersion Sonno o Non disturbare su iPhone, Modalità Riposo su Android, con una sveglia che avete sentito almeno una volta. Il telefono fuori dal letto resta l’altro pezzo.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Sull’account del figlio si imposta un orario, non tutti i limiti nella stessa sera. Tra una settimana si rilegge: su Android, il grafico delle notifiche in Benessere digitale; su iPhone, l’elenco in Notifiche. Si corregge una voce, non il foglio intero.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se dopo quella settimana il ragazzo apre lo stesso le app a mano, il menu ha fatto la parte che può fare. Il resto del loop non è un badge. Sta nel pezzo sul doomscrolling.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il riepilogo programmato blocca anche i messaggi di casa?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Sulla guida iPhone, per ogni app si sceglie «Recapito immediato» o «Riepilogo programmato». Messaggi e la chat che deve arrivare restano immediati. Il riepilogo riguarda le app che avete incluso, agli orari che avete messo. Se è attiva una full immersion, il recapito delle altre notifiche è ritardato: passano le persone e le app che avete lasciato in Persone e App. Chi scrive in Messaggi può comunque far arrivare un avviso se lo segna come urgente. Non è un blocco delle chiamate.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Android non trovo «Modalità concentrazione». Dove sta?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sulla guida Benessere digitale in italiano la funzione che in inglese si chiama Focus mode è «Modalità Niente distrazioni»: Impostazioni, Benessere digitale, Modalità Niente distrazioni. Quella pagina non usa la scritta «Modalità concentrazione». Se non la vedi, il nome può essere un altro, del produttore o di una versione precedente, oppure la funzione può non esserci: la guida dice che i passaggi variano in base al dispositivo. Non disturbare, nella guida delle modalità, è un menu diverso: filtra suoni e avvisi, non mette in pausa le app.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Spegnere il badge basta a smettere di aprire il telefono?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Il badge è il numerino o il pallino sull’icona. Su iPhone si chiama Badge, dentro le notifiche di quell’app. Su Android la voce della guida è «Indicatore di notifica su icona app». Spento, l’icona smette di contare. Suono, banner e schermata di blocco sono altre voci. Aprire l’app anche quando nessuno ha scritto è un’altra abitudine: sta nel pezzo sul doomscrolling, non in questo interruttore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non disturbare di notte sostituisce il telefono fuori dalla camera?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Filtra o ritarda gli avvisi. Non decide dove sta l’apparecchio e non spegne lo schermo se qualcuno lo sblocca. Su iPhone la full immersion Sonno segue gli orari di riposo dell’app Salute. Su Android la Modalità Riposo ha una routine Buonanotte, a orario o durante la ricarica. Il resto della notte sta nel pezzo sul telefono in camera. Su Android 8.1 e precedenti, «Silenzio totale» rende silenziose anche le sveglie: per la scuola non è la voce da lasciare accesa. La prova della sveglia si fa la sera prima, non la prima mattina di lezione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tempo di utilizzo e Family Link spengono le notifiche una per una?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No, non nel senso del menu Notifiche. Su iPhone, nelle pagine di ottobre 2026 per i sistemi in versione 27, «Orari di “Tempo di utilizzo”» scelgono quali app sono disponibili nei momenti della giornata e «Limiti di tempo» mettono un tetto alle categorie. Il percorso è Impostazioni, Famiglia, il nome, Tempo di utilizzo. Se un dispositivo non si aggiorna, resta la versione precedente, con i suoi nomi. Su Family Link, durante l’orario scolastico le notifiche vengono silenziate e il ragazzo può comunque chiamare e scrivere: la guida non dice che una chiamata in arrivo squilli. Nel tempo senza schermo, per scrivere, l’app di messaggistica deve essere senza limiti; le chiamate restano disponibili. Suono e badge delle singole app, se il menu è raggiungibile, si sistemano ancora in Notifiche.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Conviene azzerare le notifiche per tutto gennaio?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nello studio di Fitz e colleghi, chi non riceveva nessuna notifica non ha avuto i benefici di chi le riceveva tre volte al giorno, e ha riportato più ansia e più paura di perdersi qualcosa. Non sono ragazzi, e l’abstract non è un consiglio clinico. A gennaio è più aderente a quel risultato lasciare subito le chiamate di casa e la chat che serve, e mettere il resto in un riepilogo o in una modalità a orario. Il silenzio totale è la condizione che, in quello studio, è andata peggio sull’ansia.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
