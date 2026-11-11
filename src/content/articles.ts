@@ -47,6 +47,7 @@ import nataleFuoriCasa from './articles/natale-fuori-casa-storie-posizione-assen
 import saferInternetDay2027 from './articles/safer-internet-day-2027-scuola-famiglia.json'
 import truffaEmergenzaFamiliare from './articles/truffa-emergenza-familiare-voce-clonata.json'
 import notificheSmartphone from './articles/notifiche-smartphone-meno-interruzioni.json'
+import cuffieVolumeGennaio from './articles/cuffie-volume-ascolto-sicuro-gennaio.json'
 
 export const articles = [
   brainRot,
@@ -97,4 +98,5 @@ export const articles = [
   saferInternetDay2027,
   truffaEmergenzaFamiliare,
   notificheSmartphone,
+  cuffieVolumeGennaio,
 ] as ArticleSource[]
