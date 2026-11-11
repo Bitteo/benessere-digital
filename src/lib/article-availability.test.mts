@@ -242,6 +242,20 @@ test('family emergency scam draft stays off listings, sitemap, index and the pub
   assert.equal(isIndexableArticle(article, after), false)
 })
 
+test('january 2027 headphone draft stays off listings, sitemap, index and the public page', () => {
+  const article = loadArticle('cuffie-volume-ascolto-sicuro-gennaio')
+  assert.equal(article.status, 'draft')
+  assert.equal(article.publishedAt, '2027-01-11T09:00:00.000+01:00')
+  assert.equal(article.seo?.noIndex, true)
+  assert.equal(article.cover, '')
+  const atPublishedAt = new Date('2027-01-11T09:00:00.000+01:00')
+  const after = new Date('2027-02-01T09:00:00.000+01:00')
+  assert.equal(isPubliclyAvailable(article, atPublishedAt), false)
+  assert.equal(isPubliclyAvailable(article, after), false)
+  assert.equal(isIndexableArticle(article, atPublishedAt), false)
+  assert.equal(isIndexableArticle(article, after), false)
+})
+
 test('january 2027 notification draft stays off listings, sitemap, index and the public page', () => {
   const article = loadArticle('notifiche-smartphone-meno-interruzioni')
   assert.equal(article.status, 'draft')

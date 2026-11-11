@@ -1,0 +1,737 @@
+{
+  "slug": "cuffie-volume-ascolto-sicuro-gennaio",
+  "title": "Cuffie nuove a gennaio: volume, quota settimanale e che cosa non misura",
+  "excerpt": "11 gennaio 2027. Le cuffie di Natale sono già sul bus e sui compiti. Quota OMS-ITU per adulti e per i bambini, cursore e notifiche su iPhone, avviso del Pixel.",
+  "cover": "",
+  "coverAlt": "",
+  "publishedAt": "2027-01-11T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "schermo-e-tempo"],
+  "readingTime": 13,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Cuffie e volume: la quota settimanale",
+    "metaDescription": "Come leggere il limite delle cuffie su iPhone e l’avviso del Pixel: quota OMS-ITU per adulti e bambini, e che cosa il numero non misura.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "OMS — Safe listening devices and systems: a WHO-ITU standard",
+      "url": "https://www.who.int/publications/i/item/9789241515276",
+      "note": "Scheda della pubblicazione, ISBN 978-92-4-151527-6. Riassume i due modi della quota: modo 1 per gli adulti, 80 dB per 40 ore alla settimana; modo 2 per i bambini, 75 dB per 40 ore alla settimana. Descrive il tracciamento dell’esposizione come percentuale della sound allowance, la riduzione automatica del volume e un controllo parentale del volume protetto da password. Il testo completo, con tabelle e cautele, è il PDF indicato sotto."
+    },
+    {
+      "title": "OMS — Safe listening devices and systems (PDF, IRIS)",
+      "url": "https://iris.who.int/bitstream/handle/10665/280085/9789241515276-eng.pdf",
+      "note": "Testo dello standard. Principio dell’energia uguale: un suono a 100 dB per 16 minuti ha lo stesso impatto di un suono a 80 dB per 40 ore, come applicazione del modello, non come misura su una persona. Modo 1: 1,6 Pa²h in 7 giorni, da 80 dBA per 40 ore alla settimana. Modo 2, «sensitive users (e.g. children)»: 0,51 Pa²h in 7 giorni, da 75 dB per 40 ore alla settimana. Tabella 2, dB(A): a 75, 40 ore; a 80, 12 ore e 30 minuti. Il conteggio include i media in cuffia; le chiamate vocali possono essere escluse. La quota ignora le sorgenti che non sono il dispositivo. Sulla stima: incertezze, ed è meglio non segnalare «safe» o «no risk» sotto una soglia. Controllo parentale raccomandato: massimo fissabile e bloccabile, anche con password. Non indica un’età di passaggio fra i due modi."
+    },
+    {
+      "title": "ITU-T H.870 (V2) (03/2022) — Guidelines for safe listening devices/systems",
+      "url": "https://www.itu.int/epublications/publication/itu-t-h-870-v2-2022-03-guidelines-for-safe-listening-devices-systems",
+      "note": "Raccomandazione da cui lo standard OMS-ITU discende. Nota 2: l’esposizione dalle console di gioco portatili è motivo di attenzione ed è lasciata a uno studio successivo. Nel testo, il focus immediato è la musica; gioco e realtà virtuale sono per uno studio successivo. Per questo le console non hanno qui un percorso di menu."
+    },
+    {
+      "title": "Apple — Notifiche su cuffie o auricolari per iPhone, iPad o Apple Watch",
+      "url": "https://support.apple.com/it-it/108968",
+      "note": "Data di pubblicazione in pagina: 18 settembre 2026. Avviso al 100% del limite di esposizione di 7 giorni. Esempio: oltre 80 decibel (dB) per un totale di 40 ore negli ultimi 7 giorni. Nota: il limite vale per l’audio dei contenuti multimediali; le chiamate non si contano. Alla connessione successiva il volume parte più basso e si può rialzare. In alcuni Paesi o aree le notifiche non si disattivano. Percorso iPhone: Impostazioni, Suoni e feedback aptico, Salute dell’udito, Notifiche cuffie. Su iPad: Suoni. Cronologia: Salute, Sfoglia, Udito, Notifiche cuffie. La stessa pagina cita «Riduci audio intenso» come abbassamento automatico oltre una soglia."
+    },
+    {
+      "title": "Apple — Controllare i livelli dell’audio delle cuffie su iPhone",
+      "url": "https://support.apple.com/it-it/guide/iphone/iph0596a9152/ios",
+      "note": "Percorso del cursore: Impostazioni, Suoni e feedback aptico, Salute dell’udito, Riduci audio intenso, poi il cursore. iPhone riduce i suoni oltre il limite. Cuffie Apple o Beats: misure più accurate. Altri tipi: calcolo in base al volume di iPhone. Centro di Controllo, Aggiungi un controllo, Accessibilità uditiva, Udito: indicatore «Livello volume cuffie». «Ascolto dal vivo» è il microfono sull’ambiente e di solito non si usa insieme al monitoraggio. Blocco per un membro della famiglia: Impostazioni, Tempo di utilizzo, Restrizioni contenuti e privacy, «Riduci audio suoni intensi», Non consentire. L’etichetta del blocco non coincide con «Riduci audio intenso»."
+    },
+    {
+      "title": "Apple — Regolare il volume su iPhone",
+      "url": "https://support.apple.com/it-it/guide/iphone/iphb71f9b54d/ios",
+      "note": "Percorso cuffie diverso dall’altra guida: Suoni e feedback aptico, sezione Cuffie, Salute dell’udito, Riduci audio intenso. Altoparlante: sotto Altoparlante integrato, Limite volume e «Limita volume massimo», più «Riduci audio suoni intensi» per i suoni intensi dell’altoparlante. La nota su Tempo di utilizzo di questa pagina blocca «Limite volume altoparlante», non il cursore delle cuffie. Se un’etichetta non c’è, vale il nome sullo schermo."
+    },
+    {
+      "title": "Google Pixel — Cambia i suoni e la vibrazione delle notifiche",
+      "url": "https://support.google.com/pixelphone/answer/16785703?hl=it",
+      "note": "Sezione «Informazioni relative alle notifiche di esposizione al suono». Da Android 15. Avviso se il suono supera i 100 dB SPL per 5 minuti e i 105 dB SPL al minuto. Tocchi: «Continua ad ascoltare» e «Abbassa il volume». Senza risposta, il volume si abbassa. Un aumento improvviso viene abbassato a un livello che la pagina chiama sicuro. Su Pixel le notifiche si attivano da sole e la pagina dice che non si possono disattivare. Nota: misura in linea con EN 50332-3 per l’ascolto in cuffia. Non è la quota settimanale OMS-ITU da 75 o 80 dB."
+    },
+    {
+      "title": "Android — Trova e configura dispositivi Bluetooth",
+      "url": "https://support.google.com/android/answer/9417604?hl=it",
+      "note": "Tipo di dispositivo audio: Impostazioni, Dispositivi connessi, Dispositivi multimediali, impostazioni del dispositivo, «Tipo di dispositivo audio», voce Cuffie (anche Non impostato, Altoparlante, Auto, Protesi uditiva, Altro). Il tipo giusto può servire alle funzionalità per la salute dell’udito e alla misurazione dell’intensità sonora. Alcuni passaggi solo da Android 15 e solo con hardware che li supporta; altrimenti la pagina rimanda al produttore. Non descrive un cursore a 75 dB."
+    }
+  ],
+  "faq": [
+    {
+      "question": "80 decibel per 40 ore valgono anche per un ragazzo di 10 anni?",
+      "answer": "Quella coppia è il modo 1 dello standard OMS-ITU, il riferimento per gli adulti: 80 dBA per 40 ore alla settimana. Il modo 2, per le persone più sensibili, con l’esempio dei bambini nel testo, è ricavato da 75 dB per 40 ore. Nella tabella 2, a 80 dB(A) il modo 2 arriva a 12 ore e 30 minuti alla settimana, non a 40. L’esempio sulla pagina Apple delle notifiche cuffie, «oltre 80 decibel (dB) per un totale di 40 ore negli ultimi 7 giorni», è l’esempio di Apple. Le pagine iPhone usate qui non hanno un interruttore chiamato «modo bambini». Lo standard non scrive, in questi passaggi, un’età in cui si passa dal modo 2 al modo 1."
+    },
+    {
+      "question": "«Riduci audio intenso» è già la quota settimanale dei bambini?",
+      "answer": "No, è un tetto sul suono che passa in quel momento. La guida dei livelli dice che iPhone analizza l’audio delle cuffie e riduce qualsiasi suono oltre il limite del cursore. La quota settimanale è un altro conto: energia per sette giorni. Le notifiche cuffie, sulla pagina del 18 settembre 2026, avvisano al 100% di quel limite di 7 giorni, con l’esempio degli 80 decibel per 40 ore di audio multimediale. Le chiamate, in quella nota, non si contano. Il cursore non sostituisce il grafico, e il grafico non sostituisce il cursore."
+    },
+    {
+      "question": "Su Android non trovo «Salute dell’udito». Manca la protezione?",
+      "answer": "La guida Android in italiano usata qui non ha il menu iPhone con quel nome, né un modo a 75 dB per 40 ore. Su Pixel, da Android 15, le notifiche di esposizione al suono sono attive e la pagina dice che non si possono disattivare. Scattano se il suono supera i 100 dB SPL per 5 minuti e i 105 dB SPL al minuto: una soglia breve e alta, con «Continua ad ascoltare» o «Abbassa il volume». Non è la quota settimanale del modo 2. Sugli altri telefoni il nome è quello del produttore, oppure la funzione può non esserci. Dove c’è «Tipo di dispositivo audio», la voce Cuffie è quella che la guida collega alla misura dell’intensità."
+    },
+    {
+      "question": "Le chiamate e il rumore del bus entrano nel conteggio?",
+      "answer": "Le chiamate possono restare fuori. Lo standard OMS-ITU dice che le chiamate vocali possono essere escluse perché altre norme le trattano a parte, e la nota Apple dice che il limite di 7 giorni vale per l’audio dei contenuti multimediali. Il bus, la palestra, un concerto sono altre sorgenti: la quota del dispositivo ignora l’esposizione che non viene dalle cuffie di quel dispositivo. Una settimana sotto il 100% può essere comunque una settimana rumorosa. Il documento aggiunge che nella stima ci sono incertezze, e che è meglio non segnalare «sicuro» o «nessun rischio» solo perché la lettura sta sotto una soglia."
+    },
+    {
+      "question": "Posso bloccare il cursore, così sul bus non si rialza?",
+      "answer": "Sulla guida dei livelli iPhone, se Tempo di utilizzo è configurato per un membro della famiglia, si può impedire di modificare «Riduci audio suoni intensi»: Impostazioni, Tempo di utilizzo, Restrizioni contenuti e privacy, quella voce, Non consentire. L’etichetta non coincide con «Riduci audio intenso». La guida del volume, nella nota sulla famiglia, blocca «Limite volume altoparlante», che è l’altoparlante, non le cuffie. Se compare Famiglia al posto di Tempo di utilizzo, o se la riga non c’è, vale il nome sullo schermo. Lo standard raccomanda un massimo fissabile e bloccabile, anche con una password: è una richiesta ai produttori, non la prova che ogni Android abbia la stessa riga. Il blocco non legge i messaggi."
+    },
+    {
+      "question": "Un fischio dopo una sera a volume alto è già un danno?",
+      "answer": "Questo pezzo non lo stabilisce. Lo standard serve a ridurre il rischio di una perdita d’udito legata al suono dei dispositivi personali. Non assegna un disturbo a una persona perché una settimana ha superato la quota, e la percentuale non è un esame. Un fischio, un suono che sembra ovattato, la fatica a seguire una frase sono un motivo per abbassare e, se restano, per chiedere a un medico. La conclusione clinica non si legge sul grafico del telefono."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lunedì 11 gennaio 2027. La scuola è ripresa da qualche giorno, e le cuffie arrivate a Natale sono già sul bus, sui compiti e, in qualche casa, sul cuscino. In un posto rumoroso il volume sale per coprire il resto. È il gesto di un auricolare quando fuori è forte.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per chi vive con un ragazzo o una ragazza tra gli 8 e i 16 anni, e per chi le cuffie le porta. Dice che cosa misura un limite settimanale, dove sta su iPhone, che cosa avvisa un Pixel, e che cosa quel numero lascia fuori. La musica resta. Il numero è una quota di energia, da leggere insieme.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il limite è un’energia della settimana",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo standard OMS-ITU sui dispositivi di ascolto personale chiede al dispositivo di contare l’esposizione nel tempo. La chiama sound allowance: la quota di energia sonora di un periodo, qui la settimana. Il principio è quello dell’energia uguale. Nel testo, in termini pratici, ascoltare un suono a 100 dB per 16 minuti ha lo stesso impatto di un suono a 80 dB per 40 ore. Vale dentro quel modello, come effetto atteso di una stessa energia. Non è una misura fatta sull’orecchio di un ragazzo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I modi sono due. Il modo 1, per gli adulti, usa 1,6 Pa²h in 7 giorni, ricavato da 80 dBA per 40 ore alla settimana. Il modo 2 usa 0,51 Pa²h in 7 giorni, ricavato da 75 dB per 40 ore alla settimana. Nel testo completo il modo 2 è per le persone più sensibili, e l’esempio scritto è ",
+              "version": 1
+            },
+            {
+              "type": "text",
+              "text": "sensitive users (e.g. children)",
+              "version": 1,
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": ". La scheda di pubblicazione dell’OMS lo riassume come livello per i bambini: 75 dB per 40 ore alla settimana. La tabella 2, in dB(A), dà al modo 2 40 ore a 75 dB(A) e 12 ore e 30 minuti a 80 dB(A). Quaranta ore a 80 dBA sono la riga degli adulti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il conteggio prende i media ascoltati in cuffia su quel dispositivo, che siano sul telefono o in streaming. Le chiamate vocali possono restare fuori: lo standard dice che altre norme le trattano a parte. Il bus, la palestra, un concerto non entrano nella quota. Una settimana sotto il 100% può essere comunque una settimana rumorosa, per via di ciò che il telefono non misura.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il documento aggiunge una cautela sulla stima: ci sono incertezze, ed è meglio non segnalare «sicuro» o «nessun rischio» solo perché la lettura sta sotto una soglia. Il numero orienta l’ascolto di quella settimana. Non certifica un orecchio. In questi passaggi lo standard non scrive un’età in cui si passa dal modo 2 al modo 1. Nessuna riga mette un sedicenne nel modo degli adulti. Un bambino di otto anni rientra nell’esempio che il testo fa per il modo 2.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La raccomandazione ITU-T H.870, da cui lo standard discende, nella nota 2 segnala una preoccupazione per l’esposizione dalle console di gioco portatili e la lascia a uno studio successivo. Un’altra nota dice che il focus immediato è la musica, e che gioco e realtà virtuale restano per dopo. Le cuffie di questo pezzo sono quelle collegate al telefono. Il volume della console non ha qui un menu.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su iPhone le due voci non fanno lo stesso lavoro",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina «Notifiche su cuffie o auricolari», con data di pubblicazione 18 settembre 2026, descrive un avviso quando si supera il 100% del limite di esposizione di 7 giorni. L’esempio scritto è «oltre 80 decibel (dB) per un totale di 40 ore negli ultimi 7 giorni». È l’esempio di Apple. Coincide con la riga adulta del modo 1, e la pagina non lo presenta come il modo per i bambini. La nota in calce limita il conto all’audio dei contenuti multimediali: le chiamate non si contano.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dopo la notifica, alla connessione successiva delle cuffie, via cavo o Bluetooth, il volume parte più basso. Si può rialzare. In alcuni Paesi o aree geografiche le notifiche non si possono disattivare, per le norme di quel posto. Il percorso su iPhone, in quella pagina: Impostazioni, Suoni e feedback aptico, Salute dell’udito, Notifiche cuffie. Su iPad la stessa pagina scrive Suoni, non Suoni e feedback aptico. Per rivedere gli avvisi: app Salute, su iPhone la scheda Sfoglia, Udito, Notifiche cuffie.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Riduci audio intenso» è l’altra voce. Abbassa in automatico il suono che supera una soglia scelta col cursore. Le due guide iPhone in italiano non scrivono lo stesso percorso, e i nomi vanno presi come sono sullo schermo di quella versione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Guida «Controllare i livelli dell’audio delle cuffie»: Impostazioni, Suoni e feedback aptico, Salute dell’udito, poi si attiva Riduci audio intenso e si trascina il cursore. iPhone analizza l’audio delle cuffie e riduce qualsiasi suono oltre il limite impostato.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Guida «Regolare il volume su iPhone»: Suoni e feedback aptico, sezione Cuffie, Salute dell’udito, Riduci audio intenso. Sulla stessa pagina il limite dell’altoparlante è un’altra voce, Limite volume, sotto Altoparlante integrato. C’è anche, per l’altoparlante, «Riduci audio suoni intensi»: tre parole, per l’altoparlante.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se una di queste etichette non compare, è la versione o il dispositivo che hai in mano. Non c’è un secondo nome da indovinare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Con cuffie Apple o Beats la guida dei livelli dice che le misure sono più accurate. Con gli altri tipi, l’audio viene calcolato in base al volume di iPhone. Il decibel in Centro di Controllo, controllo Udito, indicatore «Livello volume cuffie», è quella stima, non un fonometro messo nell’orecchio. Il controllo si aggiunge da Centro di Controllo, Aggiungi un controllo, Accessibilità uditiva, Udito. «Ascolto dal vivo», sotto l’indicatore, usa il microfono per sentire l’ambiente: la guida dice che di solito non sta insieme al monitoraggio delle cuffie.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per tenere ferma la soglia, la guida dei livelli scrive un blocco dentro Tempo di utilizzo. Se Tempo di utilizzo è configurato per un membro della famiglia, si può impedire di modificare «Riduci audio suoni intensi»: Impostazioni, Tempo di utilizzo, Restrizioni contenuti e privacy, Riduci audio suoni intensi, Non consentire. L’etichetta del blocco non è identica a «Riduci audio intenso». La guida del volume, nella nota sulla famiglia, blocca «Limite volume altoparlante». Sono due righe diverse. Se il telefono mostra Famiglia dove la guida scrive Tempo di utilizzo, o se la riga non è in elenco, si usa la riga presente, col nome presente.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Android l’avviso del Pixel è un’altra soglia",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La guida Android in italiano non descrive un menu «Salute dell’udito» con il modo 2 a 75 dB per 40 ore. I percorsi di Samsung, Xiaomi e degli altri produttori non si ricavano da quella pagina: dove la guida lo dice, i passaggi variano in base al dispositivo, in parte da Android 15, e solo se l’hardware li supporta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sul Telefono Pixel, la pagina in italiano sulle suonerie e la vibrazione delle notifiche descrive le notifiche di esposizione al suono, da Android 15 in poi. Se il suono supera i 100 dB SPL per 5 minuti e i 105 dB SPL al minuto, compare un avviso sul rischio di un’esposizione che la pagina chiama pericolosa. I tocchi scritti sono «Continua ad ascoltare» e «Abbassa il volume». Senza una risposta, il volume si abbassa. Se il suono aumenta all’improvviso, il telefono lo porta a un livello che la stessa pagina chiama sicuro. Le notifiche si attivano da sole e, su quella pagina, non si possono disattivare. La nota le collega allo standard EN 50332-3 per l’ascolto in cuffia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cento e centocinque decibel SPL, per minuti, sono una soglia breve e alta. Restano lontane dai 75 dB per 40 ore del modo 2 e dagli 80 dB per 40 ore del modo 1. Un Pixel che non ha ancora avvisato non ha detto che la settimana sta dentro la quota dei bambini.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La guida Android sull’accoppiamento Bluetooth ha un passaggio sulla misura, non sul tetto. Impostazioni, Dispositivi connessi, sezione Dispositivi multimediali, impostazioni del dispositivo, «Tipo di dispositivo audio». Tra le voci c’è Cuffie. La pagina dice che il tipo giusto può servire alle funzionalità per la salute dell’udito e alla misurazione dell’intensità sonora. Alcuni passaggi solo da Android 15, e solo con l’hardware che li supporta. Se il tipo non c’è, la stessa pagina rimanda al produttore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quando il telefono non offre un cursore da bloccare, il tetto è l’accordo di casa. Lo standard chiede ai produttori un massimo fissabile e bloccabile, anche con una password, così un adulto può limitare l’uscita del dispositivo di un bambino. È una caratteristica raccomandata. Non è l’elenco dei menu di ogni marca.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lunedì mattina, con le cuffie collegate",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si fa insieme, cuffie collegate, in una stanza quieta. Il volume che sul bus «si sente bene» è già un volume alzato per coprire il motore: la soglia si sceglie prima, non in corsa. Su iPhone si attiva Riduci audio intenso, col percorso che compare tra i due scritti nelle guide, e si lasciano accese le Notifiche cuffie se la zona consente di gestirle. Una volta si apre Salute, Udito, Livelli audio cuffie: è la cronologia di quel telefono.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Poi si dice, a voce, il confine del cursore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La musica durante i compiti si decide nel pezzo sul ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/multitasking-digitale-scuola-e-compiti",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "multitasking",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Il cursore del volume non spegne e non autorizza la playlist.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "La notte sta nel pezzo sul ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "telefono in camera",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Un volume più basso lascia il telefono dov’è. Il cuscino non diventa un posto d’ascolto perché i decibel sono scesi.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "In classe vale il regolamento, nel pezzo sullo ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/smartphone-a-scuola-cosa-funziona",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "smartphone a scuola",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Il limite delle cuffie è per il bus e per casa.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il blocco, se la riga c’è, evita di rifare la soglia a ogni fermata. Non apre le chat. Quanto controllo ha senso, e a quale età, sta nel pezzo su ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "proteggere senza spiare",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " e negli ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "accordi di schermo",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Lo standard chiede due cose insieme: un massimo che un adulto possa bloccare, e informazioni a chi ascolta. Con un bambino di otto anni il blocco è la parte che si usa subito. Con un sedicenne il grafico, spiegato, è la parte che gli resta in mano. L’età in cui si passa dall’una all’altra non è scritta nello standard: si sceglie in casa e si mette negli accordi.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La frase da scrivere è corta. Quale soglia, su quale telefono, e in quale giorno si riguarda il grafico. Si cambia una cosa sola, quando si riguarda: la soglia, o l’orario in cui le cuffie stanno nel cassetto. Non tutte e due.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa il numero non conclude",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo standard riduce il rischio di una perdita d’udito legata al suono dei dispositivi personali. Una settimana oltre la quota non è, in queste pagine, la diagnosi di una persona. Un fischio, un suono ovattato, la fatica a seguire una frase si portano a un medico se restano. Si abbassa intanto il volume. Il grafico non sostituisce la visita, e una lettura sotto la soglia non è il «sicuro» che il documento chiede di non scrivere.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il limite dell’altoparlante resta il limite dell’altoparlante. La notifica che la pagina dice obbligatoria in una zona si lascia com’è. Il 100% è il pieno della quota scelta, adulta o più cauta. È un contatore della settimana in cuffia, su quel telefono, con le incertezze che il testo dichiara.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "80 decibel per 40 ore valgono anche per un ragazzo di 10 anni?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quella coppia è il modo 1 dello standard OMS-ITU, il riferimento per gli adulti: 80 dBA per 40 ore alla settimana. Il modo 2, per le persone più sensibili, con l’esempio dei bambini nel testo, è ricavato da 75 dB per 40 ore. Nella tabella 2, a 80 dB(A) il modo 2 arriva a 12 ore e 30 minuti alla settimana, non a 40. L’esempio sulla pagina Apple delle notifiche cuffie, «oltre 80 decibel (dB) per un totale di 40 ore negli ultimi 7 giorni», è l’esempio di Apple. Le pagine iPhone usate qui non hanno un interruttore chiamato «modo bambini». Lo standard non scrive, in questi passaggi, un’età in cui si passa dal modo 2 al modo 1.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Riduci audio intenso» è già la quota settimanale dei bambini?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No, è un tetto sul suono che passa in quel momento. La guida dei livelli dice che iPhone analizza l’audio delle cuffie e riduce qualsiasi suono oltre il limite del cursore. La quota settimanale è un altro conto: energia per sette giorni. Le notifiche cuffie, sulla pagina del 18 settembre 2026, avvisano al 100% di quel limite di 7 giorni, con l’esempio degli 80 decibel per 40 ore di audio multimediale. Le chiamate, in quella nota, non si contano. Il cursore non sostituisce il grafico, e il grafico non sostituisce il cursore.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Su Android non trovo «Salute dell’udito». Manca la protezione?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La guida Android in italiano usata qui non ha il menu iPhone con quel nome, né un modo a 75 dB per 40 ore. Su Pixel, da Android 15, le notifiche di esposizione al suono sono attive e la pagina dice che non si possono disattivare. Scattano se il suono supera i 100 dB SPL per 5 minuti e i 105 dB SPL al minuto: una soglia breve e alta, con «Continua ad ascoltare» o «Abbassa il volume». Non è la quota settimanale del modo 2. Sugli altri telefoni il nome è quello del produttore, oppure la funzione può non esserci. Dove c’è «Tipo di dispositivo audio», la voce Cuffie è quella che la guida collega alla misura dell’intensità.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le chiamate e il rumore del bus entrano nel conteggio?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le chiamate possono restare fuori. Lo standard OMS-ITU dice che le chiamate vocali possono essere escluse perché altre norme le trattano a parte, e la nota Apple dice che il limite di 7 giorni vale per l’audio dei contenuti multimediali. Il bus, la palestra, un concerto sono altre sorgenti: la quota del dispositivo ignora l’esposizione che non viene dalle cuffie di quel dispositivo. Una settimana sotto il 100% può essere comunque una settimana rumorosa. Il documento aggiunge che nella stima ci sono incertezze, e che è meglio non segnalare «sicuro» o «nessun rischio» solo perché la lettura sta sotto una soglia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Posso bloccare il cursore, così sul bus non si rialza?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sulla guida dei livelli iPhone, se Tempo di utilizzo è configurato per un membro della famiglia, si può impedire di modificare «Riduci audio suoni intensi»: Impostazioni, Tempo di utilizzo, Restrizioni contenuti e privacy, quella voce, Non consentire. L’etichetta non coincide con «Riduci audio intenso». La guida del volume, nella nota sulla famiglia, blocca «Limite volume altoparlante», che è l’altoparlante, non le cuffie. Se compare Famiglia al posto di Tempo di utilizzo, o se la riga non c’è, vale il nome sullo schermo. Lo standard raccomanda un massimo fissabile e bloccabile, anche con una password: è una richiesta ai produttori, non la prova che ogni Android abbia la stessa riga. Il blocco non legge i messaggi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un fischio dopo una sera a volume alto è già un danno?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo non lo stabilisce. Lo standard serve a ridurre il rischio di una perdita d’udito legata al suono dei dispositivi personali. Non assegna un disturbo a una persona perché una settimana ha superato la quota, e la percentuale non è un esame. Un fischio, un suono che sembra ovattato, la fatica a seguire una frase sono un motivo per abbassare e, se restano, per chiedere a un medico. La conclusione clinica non si legge sul grafico del telefono.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
