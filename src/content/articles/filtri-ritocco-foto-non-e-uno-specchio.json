@@ -1,0 +1,828 @@
+{
+  "slug": "filtri-ritocco-foto-non-e-uno-specchio",
+  "title": "Filtri e ritocco: la foto non è uno specchio",
+  "excerpt": "Lunedì 18 gennaio 2027 le foto delle vacanze sono ancora in chat. Un filtro, un ritocco del corpo e una pubblicità non sono la stessa cosa, e nessuno dei tre è già una diagnosi.",
+  "cover": "",
+  "coverAlt": "",
+  "publishedAt": "2027-01-18T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "social-media"],
+  "readingTime": 18,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Filtri e ritocco: la foto non è lo specchio",
+    "metaDescription": "Filtri, ritocco e pubblicità non sono la stessa foto. Che cosa misurano gli studi, l’APA e la Società Italiana di Pediatria, senza farne una diagnosi.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "Kleemans, Daalmans, Carbaat e Anschütz — Picture Perfect (2018)",
+      "url": "https://repository.ubn.ru.nl/handle/2066/180218",
+      "note": "Media Psychology, 2018, volume 21, numero 1, pagine 93–110. DOI 10.1080/15213269.2016.1257392. Testo aperto nel repository della Radboud University (PDF 180218). Esperimento online fra soggetti: 144 ragazze di 14–18 anni, 72 su dieci selfie originali e 72 sulle stesse foto dopo filtri, effetti e rimodellamento di viso e corpo. Body Image State Scale a 9 punti, punteggio più alto = immagine più positiva. ANCOVA con istruzione come covariata; ipotesi a una coda, alfa 0,05. Effetto della manipolazione: F(1,139) = 4,252, p = 0,021, r = 0,17; medie 4,57 (ES 0,13) contro 4,94 (ES 0,13). Istruzione: F(1,139) = 14,618, p < 0,001, r = 0,31. Interazione con la tendenza al confronto (taglio sulla media, 63 sotto e 81 sopra): F(1,139) = 3,890, p = 0,025, r = 0,16. Post-hoc con Bonferroni, alto confronto: 3,98 contro 4,72, F(1,139) = 9,209, p = 0,002, r = 0,25. Basso confronto: 5,16 contro 5,15, F = 0,001, p = 0,485. Controlli su scala 1–5: filtri 4,51 contro 2,19; effetti 4,44 contro 2,11; rimodellamento del viso p = 0,051; del corpo p = 0,090. Realismo percepito p = 0,829. Stimoli con pelle chiara, scelti per un campione olandese. In discussione: niente gruppo con foto neutre o senza foto; rischio di demand characteristics. Non è un follow-up e non è un disturbo alimentare."
+    },
+    {
+      "title": "Tiggemann e Anderberg — Social media is not real (manoscritto accettato, 2019)",
+      "url": "https://researchnow-admin.flinders.edu.au/ws/portalfiles/portal/32344566/Tiggerman_Social_AM2019.pdf",
+      "note": "Manoscritto accettato archiviato dalla Flinders University, corrispondente a New Media & Society, 2020, volume 22, numero 12, pagine 2183–2199, online il 16 novembre 2019. DOI 10.1177/1461444819888720. 305 donne di 18–30 anni (età media 25,34, deviazione standard 2,98), Mechanical Turk tramite TurkPrime, al computer. Tre condizioni da 15 immagini: lato ideale, lato reale, coppia «Instagram vs reality». Insoddisfazione: media di due scale analogiche 0–100. Interazione immagine per tempo: F(2,297) = 3,43, p = 0,034, eta quadrato parziale 0,02. Confronto pianificato ideale contro reale e coppia: F(1,296) = 4,70, p = 0,031, eta quadrato parziale 0,02. Coppia contro reale: F(1,296) = 0,94, p = 0,333. Apprezzamento del corpo: interazione F(2,297) = 1,55, p = 0,213. Confronto sull’aspetto: F(2,297) = 2,09, p = 0,126. Le autrici scrivono che sull’impatto nel tempo serve altra ricerca. Non è un campione di adolescenti."
+    },
+    {
+      "title": "APA — Health advisory on social media use in adolescence",
+      "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+      "note": "Pagina dell’advisory. Le raccomandazioni riflettono la scienza psicologica all’aprile 2023. La nota b dice che non sono linee guida per la pratica professionale. Punto A: l’uso dei social non è in sé benefico o dannoso. Punto C: non tutti i risultati valgono allo stesso modo per tutti i giovani. Raccomandazione 8: limitare l’uso dei social per il confronto, in particolare sui contenuti di bellezza o di aspetto; l’associazione riportata riguarda immagine del corpo, condotte alimentari problematiche e sintomi depressivi, in particolare fra le ragazze. Punto F: nessi causali rari; follow-up di molti anni spesso assente; pochi studi su gruppi emarginati. Raccomandazione 9: fra le competenze, capire come immagini e contenuti possano essere manipolati. Non fissa minuti."
+    },
+    {
+      "title": "Bozzola, Scarpato e colleghi — Photo editing and the risk of anorexia nervosa among children and adolescents (2024)",
+      "url": "https://ijponline.biomedcentral.com/articles/10.1186/s13052-024-01803-w",
+      "note": "Italian Journal of Pediatrics, articolo aperto, pubblicato il 4 novembre 2024. DOI 10.1186/s13052-024-01803-w. Scoping review del Communication Group della Società Italiana di Pediatria. Ricerca PubMed del 24 aprile 2024: 98 record, 91 esclusi come non pertinenti, 5 perché sugli adulti, 2 inclusi. L’abstract dice che le prove pediatriche sono poche e limitate. La discussione dichiara il limite: solo PubMed, due risultati, niente analisi di sensibilità, campioni in prevalenza australiani, criteri eterogenei. Conclusione: l’eziologia dell’anoressia nervosa non è definita ed è verosimilmente multifattoriale; editing e filtri possono (may) creare standard irrealistici e aumentare l’insoddisfazione in adolescenti vulnerabili. Cinque azioni proposte: studi specifici, campagne, educazione a scuola, visita pediatrica di routine soprattutto in preadolescenza, consapevolezza dei genitori. Non è un trial e non è un campione italiano."
+    },
+    {
+      "title": "Légifrance — Codice della salute pubblica, articolo L2133-2",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032411563",
+      "note": "Articolo in pagina come modificato dall’ordinanza n. 2016-462 del 14 aprile 2016. Fotografie a uso commerciale di modelle e modelli, definiti dall’articolo L7123-2 del codice del lavoro, la cui apparenza corporea è stata modificata da un software per assottigliare o ispessire la silhouette: menzione «Photographie retouchée». L’articolo rimanda a un decreto per le modalità e dice di entrare in vigore alla data di quel decreto, al più tardi il 1° gennaio 2017. Sanzione: 37.500 euro, elevabile al 30% delle spese di pubblicità. Non è una norma italiana e non nomina le storie di una chat di classe."
+    },
+    {
+      "title": "Légifrance — Decreto n. 2017-738 del 4 maggio 2017",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000034580217",
+      "note": "Decreto relativo alle fotografie a uso commerciale di modelle e modelli la cui apparenza corporea è stata modificata. Articolo 1: crea nel codice della salute pubblica la sezione «Photographies de mannequins» e gli articoli R2133-4, R2133-5 e R2133-6. Articolo 2: le disposizioni entrano in vigore il 1° ottobre 2017. La pagina del decreto non riscrive, nel testo visibile dell’articolo 1, il contenuto degli articoli regolamentari: quelli restano nel codice. Qui si usa il decreto per la data di entrata in vigore e per l’esistenza della sezione."
+    },
+    {
+      "title": "ASA — Beauty and cosmetics: the use of production techniques",
+      "url": "https://www.asa.org.uk/advice-online/cosmetics-the-use-of-production-techniques.html",
+      "note": "Guida dell’Advertising Standards Authority (Regno Unito) su tecniche di produzione in cosmetica, sezione sui filtri dei social. I filtri sono strati su foto o video: possono essere evidenti oppure modificare tono e colore. L’uso in pubblicità non è un problema in sé; lo diventa se esagera l’efficacia del prodotto. La guida cita due provvedimenti del 3 febbraio 2021 su autoabbronzanti in Instagram Stories, con filtri che alteravano colore della pelle e carnagione in modo pertinente al prodotto: We Are Luxe con Cinzia Baylis-Zullo e Skinny Tan con Elly Norris. Non è diritto italiano e non è una regola per una foto personale."
+    },
+    {
+      "title": "ASA — Ruling on Skinny Tan Ltd in association with Elly Norris",
+      "url": "https://www.asa.org.uk/rulings/skinny-tan-ltd-in-association-with-elly-norris.html",
+      "note": "Provvedimento del 3 febbraio 2021. Il filtro «Perfect Tan» di Bianca Petry scuriva la pelle in modo significativo ed era pertinente all’effetto promesso dall’autoabbronzante. Le inserzioni esageravano il risultato e violavano le regole 3.1 e 3.11 del CAP Code (edizione 12), su inganno ed esagerazione. Controllo pubblicitario del Regno Unito. Non descrive una storia personale."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Un filtro è già un ritocco del corpo?",
+      "answer": "Nell’esperimento di Kleemans e colleghe sono due controlli diversi. Sui filtri e sugli effetti (colore, luminosità) le ragazze distinguevano le foto manipolate dalle originali, con medie 4,51 contro 2,19 per i filtri e 4,44 contro 2,11 per gli effetti, su una scala da 1 a 5. Sul rimodellamento di viso e corpo la differenza era solo marginale: p = 0,051 per i volti e p = 0,090 per i corpi. Un effetto sulla pelle si può vedere. Uno spostamento della forma, in quello studio, quasi no. A parte, la norma francese sull’etichetta nomina l’assottigliamento o l’ispessimento della silhouette, non qualunque effetto."
+    },
+    {
+      "question": "Vedere foto ritoccate causa un disturbo alimentare?",
+      "answer": "Questo pezzo non lo stabilisce. Kleemans e colleghe hanno misurato l’immagine del corpo in quel momento, dopo dieci foto, su una scala a 9 punti: l’effetto è piccolo (r = 0,17), il test è a una coda, e manca un gruppo senza selfie. Tiggemann e Anderberg hanno misurato l’insoddisfazione del momento in donne di 18–30 anni, con un effetto piccolo e una sola esposizione. La revisione della Società Italiana di Pediatria scrive che la causa dell’anoressia nervosa non è definita ed è verosimilmente multifattoriale, e che le prove in età pediatrica sono scarse: due studi, solo PubMed, campioni in prevalenza australiani. L’APA scrive che il confronto sull’aspetto è associato a un’immagine del corpo peggiore, a condotte alimentari problematiche e a sintomi depressivi, in particolare fra le ragazze, e che i risultati causali sono rari. Una foto in chat non è una diagnosi. Se cibo, peso o umore sono già una preoccupazione che resta, il gruppo della Società Italiana di Pediatria indica l’uso consapevole della tecnologia nella visita pediatrica, soprattutto in preadolescenza: è un loro suggerimento di cura, non la conclusione tratta da un filtro."
+    },
+    {
+      "question": "La scritta «Photographie retouchée» vale su una storia di classe, in Italia?",
+      "answer": "La frase sta nell’articolo L2133-2 del codice della salute pubblica francese. Riguarda le fotografie a uso commerciale di modelle e modelli, definiti dal codice del lavoro francese, quando un software ha assottigliato o ispessito la silhouette. La menzione è «Photographie retouchée». Il decreto 2017-738 mette in vigore le disposizioni il 1° ottobre 2017. Una storia di classe non è quell’oggetto. Non è diritto italiano. Un filtro di colore che non cambia la silhouette sta fuori dalle parole di quell’articolo."
+    },
+    {
+      "question": "Affiancare la foto «vera» sistema il confronto?",
+      "answer": "Nello studio di Tiggemann e Anderberg, donne di 18–30 anni che vedevano la coppia oppure solo il lato reale avevano un’insoddisfazione più bassa di chi vedeva solo il lato ideale. La differenza fra la coppia e la sola foto reale non era significativa (p = 0,333). L’effetto era piccolo, eta quadrato parziale 0,02. L’apprezzamento del corpo non cambiava in modo significativo fra le condizioni. Il campione non è di adolescenti, l’esposizione è una sessione, e le autrici scrivono che sull’effetto nel tempo serve altra ricerca. Una coppia affiancata in classe può mostrare che una foto è costruita. Non è una cura già misurata su un quattordicenne."
+    },
+    {
+      "question": "Un filtro su una pubblicità di un cosmetico è lo stesso caso?",
+      "answer": "Nel Regno Unito l’Advertising Standards Authority scrive che i filtri nelle pubblicità non sono un problema in sé, e diventano ingannevoli quando il filtro fa il lavoro che il prodotto promette. Nel provvedimento Skinny Tan del 3 febbraio 2021, con Elly Norris, il filtro «Perfect Tan» scuriva la pelle ed era pertinente a un autoabbronzante: le inserzioni violavano le regole del CAP Code sulla pubblicità ingannevole e sull’esagerazione. È il controllo pubblicitario britannico, non una regola per una storia personale, e non è la norma italiana. Riconoscere un contenuto sponsorizzato con le regole italiane è l’altro pezzo, su Black Friday e influencer."
+    },
+    {
+      "question": "Che cosa si fa lunedì, in casa o in classe?",
+      "answer": "Tre domande su una foto sola: che cosa è posa o luce, che cosa può essere un effetto sulla pelle, che cosa ha cambiato la forma. Kleemans e colleghe hanno trovato che il primo tipo di modifica si notava e il rimodellamento quasi no, mentre entrambe le versioni erano giudicate realistiche. Se l’immagine vende qualcosa, si tratta come una pubblicità. Se è la foto di un’altra persona usata per ferirla, non si inoltra: quel percorso è il pezzo sul cyberbullismo a scuola. Se il giro è il confronto con pochi profili, silenziare le storie è il gesto del pezzo su FOMO e JOMO, non cancellare ogni app. Le foto dei figli pubblicate dai genitori sono la decisione dello sharenting. L’APA chiede di limitare il confronto sull’aspetto e di capire che le immagini si possono manipolare. Non fissa un numero di minuti."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lunedì 18 gennaio 2027. La scuola è ripresa da circa due settimane, e le foto delle vacanze sono ancora nelle chat e nelle storie. Sul bus la pelle era fredda. Nella foto è liscia. Qualcuno chiede se sia un filtro, se sia «finto», se basti toglierlo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per chi vive con un ragazzo o una ragazza, per chi le foto le pubblica, e per chi le guarda in classe. La domanda è che cosa è stato cambiato nell’immagine, e che cosa quel cambiamento non dimostra. I minuti di schermo, gli orari e la camera stanno negli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui si distinguono un effetto, un rimodellamento del corpo e una pubblicità.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre oggetti diversi, spesso nella stessa immagine",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un filtro, nel senso usato dalle guide pubblicitarie britanniche, è uno strato applicato a una foto o a un video: può essere evidente, può cambiare il colore, può lisciare. Un ritocco della forma è un’altra operazione: si sposta un contorno, si assottiglia una vita, si modifica un viso. Una pubblicità è un terzo oggetto: l’immagine sostiene ciò che un prodotto promette di fare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Kleemans, Daalmans, Carbaat e Anschütz hanno separato questi pezzi in un esperimento. A 144 ragazze di 14–18 anni hanno mostrato dieci selfie: a metà le foto originali, a metà le stesse foto dopo filtri ed effetti di Instagram e dopo un rimodellamento di viso e corpo (borse sotto gli occhi, impurità, gambe più sottili, vita più stretta). Sui filtri l’accordo era alto per le foto manipolate (media 4,51, deviazione standard 0,77) e basso per le originali (media 2,19, deviazione standard 1,21), t(142) = −13,759, p < 0,001. Sugli effetti, per esempio colore e luminosità, le medie erano 4,44 contro 2,11, t(142) = −14,055, p < 0,001. Sul rimodellamento del viso la differenza era solo marginale: media 1,82 contro 1,61, t(142) = −1,674, p = 0,051. Sul corpo, media 1,76 contro 1,60, t(142) = −1,347, p = 0,090. Le scale di questi controlli vanno da 1 a 5.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le stesse ragazze, in entrambi i gruppi, tendevano a dire che le foto davano una vista rappresentativa della realtà: media 3,68 per le originali e 3,72 per le manipolate, t(142) = −0,216, p = 0,829. Le foto manipolate erano anche giudicate più belle, media 4,25 contro 3,75, t(142) = −4,577, p < 0,001. Si può notare un filtro e, insieme, trattare l’immagine come una persona reale. Il rimodellamento, in questo materiale, restava molto meno visibile del filtro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dieci selfie, una sessione, un effetto piccolo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’esito era l’immagine del corpo in quel momento, con la Body Image State Scale: sei voci su una scala a 9 punti, un punteggio più alto indica un’immagine più positiva. Il disegno è fra i soggetti. 72 ragazze vedevano gli originali, 72 le foto manipolate. L’analisi è un’ANCOVA, con il livello di istruzione come covariata. Le ipotesi sono testate a una coda, alfa 0,05.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’ipotesi principale è sostenuta dai dati dello studio: F(1,139) = 4,252, p = 0,021, r = 0,17. Chi vedeva le foto manipolate aveva un’immagine del corpo più bassa (media 4,57, errore standard 0,13) di chi vedeva le originali (media 4,94, errore standard 0,13). È una differenza di pochi decimi su una scala da 1 a 9. La covariata istruzione pesava di più nello stesso modello, F(1,139) = 14,618, p < 0,001, r = 0,31: nello studio, un livello di istruzione più alto si accompagnava a un’immagine del corpo più positiva. L’effetto della manipolazione non è l’unico termine, e non è il più grande.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La tendenza a confrontarsi con gli altri era stata divisa con un taglio sulla media del questionario, non con una soglia clinica: 63 ragazze sotto la media, 81 sopra. L’interazione è F(1,139) = 3,890, p = 0,025, r = 0,16, ancora a una coda. Nei confronti a coppie con correzione di Bonferroni, le ragazze più inclini al confronto stavano peggio dopo le foto manipolate (media 3,98, errore standard 0,17) che dopo le originali (media 4,72, errore standard 0,18): F(1,139) = 9,209, p = 0,002, r = 0,25. Quelle meno inclini al confronto non differivano: media 5,16 contro 5,15, F(1,139) = 0,001, p = 0,485, r = 0,00.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il perimetro è stretto. Sono ragazze, 14–18 anni, una sessione online, dieci foto di una sola adolescente. Le autrici scrivono di aver usato immagini di una ragazza con pelle chiara, per aumentare la somiglianza con la popolazione olandese che descrivono come in maggioranza nativa, con pelle chiara e appartenenza caucasica. Chi sta fuori da quella somiglianza non è il bersaglio per cui gli stimoli sono stati scelti. In discussione segnalano l’assenza di un gruppo con foto neutre, per esempio paesaggi, o senza foto: l’esposizione ai selfie, ritoccati o no, può già muovere l’immagine del corpo. Segnalano anche il rischio di demand characteristics, cioè che le partecipanti intuissero lo scopo. Il confronto pubblicato è fra originali e manipolati, nella stessa sessione. La misura è l’immagine del corpo in quel momento, su ragazze di 14–18 anni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La coppia affiancata, misurata su adulte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un altro gesto, in classe, è mettere due foto vicine: la versione costruita e una versione più ordinaria della stessa persona. Tiggemann e Anderberg lo hanno provato con immagini già pubblicate come «Instagram vs reality»: la stessa donna, stessi vestiti, stesso luogo, da un lato una versione ideale (posa, luce, intervento digitale) e dall’altro una versione più naturale. Il manoscritto accettato, corrispondente all’articolo su New Media & Society del 2020 (22, numero 12, pagine 2183–2199; online il 16 novembre 2019), racconta un esperimento con 305 donne di 18–30 anni, età media 25,34 anni (deviazione standard 2,98), reclutate su Mechanical Turk tramite TurkPrime, al computer. Non sono adolescenti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre gruppi, quindici immagini: solo il lato ideale, solo il lato reale, oppure la coppia così come era stata postata, scritte comprese. L’insoddisfazione del corpo era la media di due scale analogiche visive, da 0 a 100, prima e dopo. L’interazione fra tipo di immagine e tempo è F(2,297) = 3,43, p = 0,034, eta quadrato parziale 0,02. Il confronto pianificato fra il lato ideale e gli altri due, insieme, è F(1,296) = 4,70, p = 0,031, eta quadrato parziale 0,02: coppia e foto reale si accompagnavano a un’insoddisfazione più bassa del solo ideale. Fra coppia e foto reale la differenza non è significativa, F(1,296) = 0,94, p = 0,333. L’apprezzamento del corpo non mostrava un’interazione significativa, F(2,297) = 1,55, p = 0,213. La quantità di confronto sull’aspetto non differiva fra i tre gruppi, F(2,297) = 2,09, p = 0,126: le medie erano anzi più alte per le foto reali e per le coppie. Il confronto sull’aspetto si associava a un aumento dell’insoddisfazione dopo le immagini ideali, non dopo le reali né dopo le coppie.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le autrici concludono che i post «Instagram vs reality» e le immagini reali hanno la potenzialità di sostenere la soddisfazione del corpo delle donne, e che sull’impatto nel tempo serve altra ricerca. L’effetto misurato è piccolo. La coppia non ha battuto, in modo significativo, la foto reale da sola. Usarlo come metodo già pronto per una classe di tredicenni allunga lo studio oltre il campione. Può però servire a una cosa più stretta: far vedere che la versione liscia e la versione ordinaria sono due costruzioni, non due persone.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa chiede l’APA, con i limiti che scrive",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’health advisory dell’American Psychological Association sull’uso dei social in adolescenza raccoglie raccomandazioni sullo stato delle prove all’aprile 2023. La nota in apertura dice che non sono linee guida per la pratica professionale. Il punto A dice che usare i social non è, in sé, benefico o dannoso per i giovani: gli effetti dipendono dalle caratteristiche della persona, da ciò che può fare e vedere, e dal contesto. Il punto C aggiunge che non tutti i risultati valgono allo stesso modo per tutti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La raccomandazione 8 chiede agli adolescenti di limitare l’uso dei social per il confronto sociale, in particolare sui contenuti di bellezza o di aspetto. La pagina scrive che la ricerca suggerisce un’associazione: usare i social per confronti sull’aspetto fisico, e dedicare attenzione eccessiva alle proprie foto e ai riscontri su quelle foto, si collega a un’immagine del corpo peggiore, a condotte alimentari problematiche e a sintomi depressivi, in particolare fra le ragazze. È la parola della pagina: related to, un’associazione. Il punto F elenca tre limiti dell’insieme di studi: i risultati che suggeriscono nessi causali sono rari, anche perché i dati per concludere su causa ed effetto sono difficili da raccogliere o stanno nelle aziende e non sono stati aperti a scienziati indipendenti; la ricerca longitudinale di molti anni spesso manca, quindi i nessi con l’età adulta sono in gran parte sconosciuti; gli studi su ragazzi e ragazze di gruppi emarginati, per razza, etnia, sessualità, genere, condizione economica, disabilità o malattie croniche, sono relativamente pochi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La raccomandazione 9 chiede una literacy prima dell’uso, e fra le competenze elenca il trattenere i confronti eccessivi e il capire come immagini e contenuti possano essere manipolati. È un esercizio di lettura dell’immagine. Non è un tetto di minuti, e non è uno screening.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La revisione italiana: due studi, e una causa non definita",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Bozzola, Scarpato e colleghi, per il Communication Group della Società Italiana di Pediatria, hanno pubblicato il 4 novembre 2024 sull’Italian Journal of Pediatrics una scoping review aperta sul fotoritocco e il rischio di anoressia nervosa in bambini e adolescenti. La ricerca su PubMed è del 24 aprile 2024. Da 98 record ne sono restati 2, dopo l’esclusione di 91 come non pertinenti e di 5 perché sugli adulti. L’abstract dice che per la popolazione pediatrica le prove disponibili sono poche e limitate. In discussione gli autori ripetono il limite: pochi dati, solo PubMed, niente analisi di sensibilità perché i risultati sono due, campioni in prevalenza australiani, criteri di inclusione eterogenei.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quei due studi, nella sintesi della revisione, riguardano comportamenti legati alle foto e preoccupazioni per il corpo o per l’alimentazione in adolescenti. Questo pezzo non ricopia i coefficienti degli originali: li lascia alla revisione, che è il testo letto qui. La stessa revisione, in conclusione, scrive che l’eziologia dell’anoressia nervosa non è definita ed è verosimilmente multifattoriale, e che strumenti di editing e filtri possono creare standard di bellezza irrealistici e aumentare l’insoddisfazione corporea in adolescenti vulnerabili. Nel testo inglese il verbo è may. Non è una causa assegnata a una storia del lunedì.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il gruppo indica poi cinque azioni. Sono proposte, non esiti di un trial:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Studi specifici sull’effetto del fotoritocco e della condivisione di foto modificate fra bambini e adolescenti.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Campagne per aumentare la consapevolezza sui rischi del fotoritocco.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Educazione a scuola su dispositivi e social, con rischi, benefici e strategie.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Includere l’educazione a un uso consapevole della tecnologia nella visita pediatrica di routine, soprattutto in preadolescenza.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Migliorare la consapevolezza dei genitori sulle possibili conseguenze di filtri e fotoritocco sulla salute degli adolescenti.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una visita, in quell’elenco, è un luogo dove l’uso della tecnologia entra nel controllo pediatrico, in particolare prima dell’adolescenza. Non è l’istruzione di mandare in ambulatorio chi ha usato un filtro il 18 gennaio. Se cibo, peso o umore sono già un problema che dura, quel suggerimento resta un motivo per parlarne con il pediatra, portando i fatti, non una diagnosi letta su una foto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Photographie retouchée» non è la storia di un compagno",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "In Francia, l’articolo L2133-2 del codice della salute pubblica dice che le fotografie a uso commerciale di modelle e modelli, definiti dall’articolo L7123-2 del codice del lavoro, la cui apparenza corporea è stata modificata da un software di trattamento dell’immagine per assottigliare o ispessire la silhouette, devono essere accompagnate dalla menzione «Photographie retouchée». Lo stesso articolo rimanda a un decreto per le modalità. Il testo prevede una sanzione di 37.500 euro, che può essere portata al 30% delle spese dedicate alla pubblicità. L’articolo dice di entrare in vigore alla data di quel decreto e al più tardi il 1° gennaio 2017. Il decreto n. 2017-738 del 4 maggio 2017, che crea la sezione regolamentare sulle fotografie di modelle e modelli, mette in vigore le proprie disposizioni il 1° ottobre 2017.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La frase legale nomina un uso commerciale, una persona che rientra nella definizione francese di modella o modello, e una modifica della silhouette in un senso preciso: più sottile o più spessa. Una storia di classe non è una fotografia commerciale di una modella. Un filtro che cambia il colore e non la silhouette sta fuori da quelle parole. La norma non è italiana. Cercare quella scritta sotto la foto delle vacanze di un compagno significa applicare a Milano un obbligo scritto per la pubblicità francese.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quando il filtro fa il lavoro del prodotto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un caso ancora diverso è la pubblicità di un cosmetico. L’Advertising Standards Authority, nel Regno Unito, nella guida sulle tecniche di produzione in cosmetica, descrive i filtri dei social come strati che possono essere comici ed evidenti oppure modificare tono e colore. Scrive che l’uso dei filtri nelle pubblicità non è un problema in sé. Diventa un problema se il filtro esagera l’effetto che il prodotto è in grado di ottenere. Nel 2021 l’Authority ha esaminato due inserzioni di autoabbronzanti su Instagram Stories: i filtri alteravano il colore della pelle e la carnagione, e quell’effetto era pertinente allo scopo del prodotto. Le ha considerate ingannevoli. I casi nominati in quella guida sono We Are Luxe con Cinzia Baylis-Zullo e Skinny Tan con Elly Norris, entrambi del 3 febbraio 2021.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel provvedimento su Skinny Tan il filtro si chiama «Perfect Tan», di Bianca Petry, e scuriva la pelle in modo rilevante. L’Authority ha concluso che le inserzioni esageravano il risultato e violavano le regole 3.1 e 3.11 del CAP Code, sull’inganno e sull’esagerazione. È una decisione britannica su una pubblicità. Non descrive la storia di una quindicenne che si liscia la pelle prima di mandarla agli amici. Per riconoscere, in Italia, un contenuto sponsorizzato, il percorso già scritto è quello su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/black-friday-influencer-pubblicita-ragazzi",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Black Friday e influencer",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Lì stanno le fonti AGCOM e il codice del consumo. Qui resta solo il confine: se l’immagine vende un effetto che il filtro ha già disegnato, si legge come pubblicità, non come specchio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre domande, su una foto sola",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lunedì basta una foto, scelta da chi la guarda, non un repertorio di corpi. Le domande sono tre, e seguono la distinzione che l’esperimento olandese ha misurato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Che cosa è posa o luce. Un mento alzato, una finestra, un braccio che copre il fianco cambiano l’immagine senza un software.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Che cosa può essere un effetto sulla pelle o sul colore. Nello studio, filtri ed effetti si vedevano. Nominarli ad alta voce toglie loro il ruolo di prova.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Che cosa, se c’è, ha cambiato la forma. Nello stesso studio il rimodellamento quasi non si distingueva, eppure le foto manipolate erano giudicate più belle e altrettanto realistiche. È il pezzo da chiedere, non quello da dare per visto.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se l’immagine vende un prodotto, si passa al riconoscimento della pubblicità, non a un voto sul corpo di chi compare. Se la foto è di un’altra persona e serve a metterla in difficoltà, non si inoltra e non si usa come esempio in classe: il percorso, a scuola, è quello del ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/cyberbullismo-a-scuola-oltre-la-denuncia",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "cyberbullismo oltre la denuncia",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Le foto dei figli che pubblicano i genitori sono un’altra decisione, quella dello ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/sharenting-foto-dei-figli-online",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "sharenting",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se il giro è il confronto con pochi profili, il gesto già descritto nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FOMO e JOMO",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " è silenziare le storie di quei profili, non sparire da ogni app. L’APA chiede di limitare proprio quel confronto, sull’aspetto, e di imparare che un’immagine può essere manipolata. Non chiede, in queste raccomandazioni, un numero di minuti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un filtro evidente, usato per gioco e visibile come gioco, non è il rimodellamento che Kleemans e colleghe hanno costruito, e non è l’autoabbronzante del provvedimento britannico. Trattarli come la stessa cosa allarga uno studio fino a coprire qualunque faccia liscia. La frase da tenere è più corta: che cosa è stato spostato, da chi, e per vendere che cosa. Il resto della giornata, sonno e orari compresi, ha già i suoi pezzi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un filtro è già un ritocco del corpo?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nell’esperimento di Kleemans e colleghe sono due controlli diversi. Sui filtri e sugli effetti (colore, luminosità) le ragazze distinguevano le foto manipolate dalle originali, con medie 4,51 contro 2,19 per i filtri e 4,44 contro 2,11 per gli effetti, su una scala da 1 a 5. Sul rimodellamento di viso e corpo la differenza era solo marginale: p = 0,051 per i volti e p = 0,090 per i corpi. Un effetto sulla pelle si può vedere. Uno spostamento della forma, in quello studio, quasi no. A parte, la norma francese sull’etichetta nomina l’assottigliamento o l’ispessimento della silhouette, non qualunque effetto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Vedere foto ritoccate causa un disturbo alimentare?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo non lo stabilisce. Kleemans e colleghe hanno misurato l’immagine del corpo in quel momento, dopo dieci foto, su una scala a 9 punti: l’effetto è piccolo (r = 0,17), il test è a una coda, e manca un gruppo senza selfie. Tiggemann e Anderberg hanno misurato l’insoddisfazione del momento in donne di 18–30 anni, con un effetto piccolo e una sola esposizione. La revisione della Società Italiana di Pediatria scrive che la causa dell’anoressia nervosa non è definita ed è verosimilmente multifattoriale, e che le prove in età pediatrica sono scarse: due studi, solo PubMed, campioni in prevalenza australiani. L’APA scrive che il confronto sull’aspetto è associato a un’immagine del corpo peggiore, a condotte alimentari problematiche e a sintomi depressivi, in particolare fra le ragazze, e che i risultati causali sono rari. Una foto in chat non è una diagnosi. Se cibo, peso o umore sono già una preoccupazione che resta, il gruppo della Società Italiana di Pediatria indica l’uso consapevole della tecnologia nella visita pediatrica, soprattutto in preadolescenza: è un loro suggerimento di cura, non la conclusione tratta da un filtro.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La scritta «Photographie retouchée» vale su una storia di classe, in Italia?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La frase sta nell’articolo L2133-2 del codice della salute pubblica francese. Riguarda le fotografie a uso commerciale di modelle e modelli, definiti dal codice del lavoro francese, quando un software ha assottigliato o ispessito la silhouette. La menzione è «Photographie retouchée». Il decreto 2017-738 mette in vigore le disposizioni il 1° ottobre 2017. Una storia di classe non è quell’oggetto. Non è diritto italiano. Un filtro di colore che non cambia la silhouette sta fuori dalle parole di quell’articolo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Affiancare la foto «vera» sistema il confronto?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nello studio di Tiggemann e Anderberg, donne di 18–30 anni che vedevano la coppia oppure solo il lato reale avevano un’insoddisfazione più bassa di chi vedeva solo il lato ideale. La differenza fra la coppia e la sola foto reale non era significativa (p = 0,333). L’effetto era piccolo, eta quadrato parziale 0,02. L’apprezzamento del corpo non cambiava in modo significativo fra le condizioni. Il campione non è di adolescenti, l’esposizione è una sessione, e le autrici scrivono che sull’effetto nel tempo serve altra ricerca. Una coppia affiancata in classe può mostrare che una foto è costruita. Non è una cura già misurata su un quattordicenne.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un filtro su una pubblicità di un cosmetico è lo stesso caso?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel Regno Unito l’Advertising Standards Authority scrive che i filtri nelle pubblicità non sono un problema in sé, e diventano ingannevoli quando il filtro fa il lavoro che il prodotto promette. Nel provvedimento Skinny Tan del 3 febbraio 2021, con Elly Norris, il filtro «Perfect Tan» scuriva la pelle ed era pertinente a un autoabbronzante: le inserzioni violavano le regole del CAP Code sulla pubblicità ingannevole e sull’esagerazione. È il controllo pubblicitario britannico, non una regola per una storia personale, e non è la norma italiana. Riconoscere un contenuto sponsorizzato con le regole italiane è l’altro pezzo, su Black Friday e influencer.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa si fa lunedì, in casa o in classe?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre domande su una foto sola: che cosa è posa o luce, che cosa può essere un effetto sulla pelle, che cosa ha cambiato la forma. Kleemans e colleghe hanno trovato che il primo tipo di modifica si notava e il rimodellamento quasi no, mentre entrambe le versioni erano giudicate realistiche. Se l’immagine vende qualcosa, si tratta come una pubblicità. Se è la foto di un’altra persona usata per ferirla, non si inoltra: quel percorso è il pezzo sul cyberbullismo a scuola. Se il giro è il confronto con pochi profili, silenziare le storie è il gesto del pezzo su FOMO e JOMO, non cancellare ogni app. Le foto dei figli pubblicate dai genitori sono la decisione dello sharenting. L’APA chiede di limitare il confronto sull’aspetto e di capire che le immagini si possono manipolare. Non fissa un numero di minuti.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
