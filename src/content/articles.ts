@@ -48,6 +48,7 @@ import saferInternetDay2027 from './articles/safer-internet-day-2027-scuola-fami
 import truffaEmergenzaFamiliare from './articles/truffa-emergenza-familiare-voce-clonata.json'
 import notificheSmartphone from './articles/notifiche-smartphone-meno-interruzioni.json'
 import cuffieVolumeGennaio from './articles/cuffie-volume-ascolto-sicuro-gennaio.json'
+import filtriRitoccoFoto from './articles/filtri-ritocco-foto-non-e-uno-specchio.json'
 
 export const articles = [
   brainRot,
@@ -99,4 +100,5 @@ export const articles = [
   truffaEmergenzaFamiliare,
   notificheSmartphone,
   cuffieVolumeGennaio,
+  filtriRitoccoFoto,
 ] as ArticleSource[]
