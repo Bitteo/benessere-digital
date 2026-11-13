@@ -1,0 +1,847 @@
+{
+  "slug": "miopia-schermi-tempo-all-aperto",
+  "title": "Miopia e schermi: il tempo fuori non è un divieto del telefono",
+  "excerpt": "Mercoledì 27 gennaio 2027 la scuola è ripresa da circa tre settimane e fa buio presto. Che cosa stimano le proiezioni al 2050, che cosa ha misurato un trial sul tempo all’aperto, e perché togliere il telefono non è la cura già provata.",
+  "cover": "",
+  "coverAlt": "",
+  "publishedAt": "2027-01-27T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["genitori-e-scuola", "benessere-digitale"],
+  "readingTime": 19,
+  "status": "draft",
+  "seo": {
+    "metaTitle": "Miopia e schermi: tempo fuori, non un divieto",
+    "metaDescription": "Miopia e schermi a fine gennaio: proiezioni al 2050, un trial sul tempo all’aperto, e perché il telefono non è già la causa.",
+    "noIndex": true
+  },
+  "sources": [
+    {
+      "title": "OMS — World report on vision (2019)",
+      "url": "https://www.who.int/publications/i/item/9789241516570",
+      "note": "World report on vision. Ginevra, Organizzazione mondiale della sanità, 2019. Testo letto nel PDF accessibile indicato dalla pagina (World-Vision-Report-Accessible.pdf). Miopia: difficoltà a vedere gli oggetti lontani. Scheda sugli errori di refrazione: presbiopia, ipermetropia e astigmatismo non si prevengono; per la miopia, aumentare il tempo all’aperto dei bambini e ridurre il lavoro da vicino potrebbe (might) ritardare esordio e progressione, e così il rischio di miopia elevata e complicazioni. Riquadro 3.3: occhiali e lenti a contatto sono interventi di funzionamento, non eliminano né curano la causa, compensano errori comuni fra cui la miopia. Interventi ottici, farmacologici, comportamentali e chirurgici: il rapporto dice che serve altra ricerca. 123,7 milioni: ipovisione da lontano moderata o grave, o cecità, da errore di refrazione non corretto (esempio: miopia o ipermetropia), non il totale delle persone miopi."
+    },
+    {
+      "title": "Holden, Fricke, Wilson e colleghi — Global Prevalence of Myopia and High Myopia (2016)",
+      "url": "https://www.aaojournal.org/article/s0161-6420(16)00025-7/fulltext",
+      "note": "Ophthalmology, maggio 2016, volume 123, numero 5, pagine 1036–1042. DOI 10.1016/j.ophtha.2016.01.006. Licenza indicata da Crossref: CC BY-NC-ND 4.0. Revisione sistematica e meta-analisi, dati dal 1995, 145 studi, 2,1 milioni di partecipanti. Miopia standardizzata a −0,50 D o meno, miopia elevata a −5,00 D o meno. Dati mancanti per età e per area urbana o rurale presi dalla regione più simile; poi urbanizzazione, popolazioni UNPD e regressione temporale. Anno 2000: 1406 milioni (22,9%; intervallo 932–1932 milioni, 15,2%–31,5%) e miopia elevata 163 milioni (2,7%; 86–387 milioni, 1,4%–6,3%). Proiezione 2050: 4758 milioni (49,8%; 3620–6056 milioni, 43,4%–55,7%) e miopia elevata 938 milioni (9,8%; 479–2104 milioni, 5,7%–19,4%). Stima su tutte le età, non una classe. La conclusione parla di pianificazione dei servizi e di complicazioni, non di cecità certa per i 938 milioni."
+    },
+    {
+      "title": "He, Xiang, Zeng e colleghi — Effect of Time Spent Outdoors at School on the Development of Myopia Among Children in China (2015)",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2441261",
+      "note": "JAMA, 15 settembre 2015, volume 314, numero 11, pagine 1142–1148. DOI 10.1001/jama.2015.10803. PMID 26372583. Trial a cluster, NCT00848900, 12 scuole primarie di Guangzhou, ottobre 2010–ottobre 2013. Intervento: 952 bambini, controllo: 951, età media 6,6 anni (DS 0,34). Lezione aggiunta di 40 minuti all’aperto a fine giornata, anno scolastico di circa 9 mesi e mezzo; genitori incoraggiati per il dopo-scuola. Mascheramento non fattibile. Esito primario, fra chi non era miope all’inizio, equivalente sferico ≤ −0,50 D, occhio destro: 30,4% (259/853) contro 39,5% (287/726), differenza −9,1 punti (IC 95% −14,1 a −4,1), p < 0,001. Equivalente sferico: −1,42 D contro −1,59 D, differenza 0,17 D (0,01 a 0,33), p = 0,04. Lunghezza assiale: 0,95 mm contro 0,98 mm, differenza −0,03 mm (−0,07 a 0,003), p = 0,07. Soglie alternative: −0,75 D, 24,2% contro 31,1%, differenza −6,8, p = 0,003; −1,00 D, 20,4% contro 25,5%, differenza −5,1, p = 0,02. Genitori miopi: 53,6% contro 59,8%, p < 0,001. Post hoc aggiustato per miopia dei genitori: OR 0,73 (0,57 a 0,92), p = 0,01. Discussione: la campagna ai genitori non ha cambiato il tempo fuori dall’orario di scuola; effetto attribuito a circa 40 minuti nei giorni di scuola. Visite senza preavviso: lezione in corso in 613/734 (83,5%); delle 121 mancate, 64 (52,9%) per pioggia o freddo intenso. Gli autori chiedono follow-up lungo e studi sulla generalizzabilità. Lo sport al chiuso è citato da letteratura precedente, non come esito del trial."
+    },
+    {
+      "title": "Foreman, Salim, Praveen e colleghi — Association between digital smart device use and myopia (2021)",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00135-7/fulltext",
+      "note": "The Lancet Digital Health, pubblicato online il 5 ottobre 2021, volume 3, numero 12, pagine e806–e818. DOI 10.1016/S2589-7500(21)00135-7. Licenza indicata da Crossref: CC BY 4.0. Revisione e meta-analisi, MEDLINE al 2 giugno 2020 ed Embase al 3 giugno 2020, età da 3 mesi a 33 anni. 3325 articoli, 33 nella revisione, 11 nella meta-analisi. Tempo di schermo da questionario in tutti; un solo studio aggiunge il consumo di rete del dispositivo. Smart device da soli: OR 1,26 (IC 95% 1,00–1,60), I² = 77%. Con il computer: OR 1,77 (1,28–2,45), I² = 87%. Associazioni riportate in 5/10 studi della prima categoria e in 6/10 della seconda. Bias: nessuno dei 33 ha una misura affidabile del tempo di schermo; 7/33 (21%) senza misura oggettiva della miopia; 9/33 (27%) senza identificazione o aggiustamento dei confondenti. Campioni della meta-analisi da 155 a 19 934, età media 3–16 anni. Solo studi prospettici: associazione non osservata, numero piccolo. Discussione: l’associazione non è di per sé causale e la direzione può essere inversa; conclusioni forti non si traggono; meno di un terzo degli studi separa lo smartphone dagli altri compiti da vicino; popolazioni in prevalenza asiatiche. La sottostima del tempo di schermo «anche del 40%» è citata da un altro lavoro, non calcolata qui. Conclusione degli autori: letteratura insufficiente e contraddittoria; il tempo di schermo potrebbe essere associato a un rischio più alto; un trial che riduca gli schermi non è in questo paper."
+    },
+    {
+      "title": "Società Italiana di Pediatria — comunicato del 31 maggio 2025, «La miopia cambia volto»",
+      "url": "https://sip.it/2025/06/04/la-miopia-cambia-volto-insorge-prima-e-diventa-piu-grave/",
+      "note": "Pagina pubblicata il 4 giugno 2025, comunicato datato Napoli, 31 maggio 2025, 80° Congresso SIP. Indicazioni per le famiglie usate qui: luce solare quotidiana; gioco e attività all’aperto riducendo i dispositivi; evitare smartphone e tablet prima dei 6 anni; controllo intorno ai tre anni e all’inizio della primaria; attenzione ad avvicinarsi troppo, strizzare gli occhi, vedere male da lontano. Sono indicazioni di un comunicato, non un trial. La pagina afferma anche «metà dei bambini e dei ragazzi» entro il 2050, «36%» tra 5 e 19 anni e «+50%» in trent’anni, e un’efficacia delle terapie «in oltre 6 bambini su 10» e intorno al 70% se combinate, senza citare lo studio sulla pagina: quei numeri non sono usati come risultati. Le frasi sulla dopamina, sull’atropina e sulle lenti a defocus restano nel comunicato e non diventano una raccomandazione di questo pezzo. Non è il testo SIP del 27 gennaio 2026 sullo smartphone personale."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Lo smartphone causa la miopia?",
+      "answer": "Queste fonti non lo stabiliscono. Foreman e colleghi, su The Lancet Digital Health nel 2021, trovano un odds ratio di 1,26 per smartphone e tablet da soli (intervallo di confidenza al 95% da 1,00 a 1,60, I² = 77%) e di 1,77 se si unisce il computer (da 1,28 a 2,45, I² = 87%). L’abstract chiama significative le associazioni. L’intervallo del solo dispositivo smart tocca 1,00. Il tempo di schermo è quasi tutto autodichiarato. Quando restano solo gli studi prospettici, gli autori scrivono che l’associazione non si osserva, e che quei studi sono pochi. La loro conclusione è che la letteratura è insufficiente e contraddittoria, e che conclusioni forti non si possono trarre. La direzione, scrivono, può anche essere inversa: chi vede già male da lontano può usare di più il dispositivo. Il trial di He e colleghi non toglieva il telefono. Aggiungeva una lezione all’aperto."
+    },
+    {
+      "question": "I 40 minuti di Guangzhou valgono in una scuola italiana a gennaio?",
+      "answer": "Il trial vale per ciò che ha misurato: 12 scuole primarie di Guangzhou, bambini di prima con età media 6,6 anni, una lezione di 40 minuti all’aperto in fondo alla giornata scolastica, per circa nove mesi e mezzo l’anno, contro l’attività solita. A tre anni l’incidenza di miopia, fra chi non era miope all’inizio, era 30,4% (259 su 853) contro 39,5% (287 su 726): differenza di 9,1 punti percentuali, intervallo da −14,1 a −4,1, p < 0,001. L’allungamento dell’occhio non era significativo (p = 0,07). Il mascheramento non era possibile. Gli autori chiedono altri studi sulla generalizzabilità. In inverno, 64 delle 121 visite in cui la lezione non risultava fatta erano per pioggia o freddo intenso. Una ricreazione all’aperto, quando il tempo lo permette, sta nella stessa direzione. Non è la copia del protocollo e non promette quei 9 punti a un quindicenne."
+    },
+    {
+      "question": "Gli occhiali che filtrano la luce blu rallentano la miopia?",
+      "answer": "Non in queste fonti. L’Organizzazione mondiale della sanità, nel World report on vision del 2019, descrive occhiali e lenti a contatto come strumenti che compensano l’errore di refrazione, non come un filtro che ne cura la causa. Il rapporto non misura gli occhiali «anti luce blu» come trattamento della miopia. L’affaticamento da schermo e la luce blu stanno nell’altro pezzo, su benessere digitale, salute mentale e fisica. Un filtro sul colore dello schermo non è la lezione all’aperto di Guangzhou."
+    },
+    {
+      "question": "Il 49,8% al 2050 è la mia classe?",
+      "answer": "No. È il punto centrale della proiezione di Holden e colleghi per tutte le età, nel 2050: 4758 milioni di persone, il 49,8% della popolazione mondiale, con intervallo di confidenza al 95% dal 43,4% al 55,7%. Nel 2000 la stessa stima è 22,9%, con intervallo dal 15,2% al 31,5%. Sono 145 studi dal 1995, 2,1 milioni di partecipanti, definizioni fissate a −0,50 e −5,00 diottrie, dati mancanti presi dalla regione più simile, più urbanizzazione e popolazioni delle Nazioni Unite. Non è un conteggio di una sezione. I 123,7 milioni del rapporto OMS sono un’altra cifra: ipovisione da lontano moderata o grave, o cecità, da errore di refrazione non corretto, miopia o ipermetropia. Non sono le persone miopi."
+    },
+    {
+      "question": "Strizzare gli occhi è già una diagnosi?",
+      "answer": "No. Il comunicato della Società Italiana di Pediatria del 4 giugno 2025, sull’80° Congresso, elenca tra i segnali a cui prestare attenzione l’avvicinarsi troppo a schermi o libri, lo strizzare gli occhi e la difficoltà a vedere da lontano. È un elenco di attenzione, non una refrazione. Il passo successivo è una visita oculistica. Sulla stessa pagina il primo controllo è consigliato intorno ai tre anni e poi all’inizio della scuola primaria: è il loro consiglio sulle età precoci, non una ragione per aspettare se più tardi la lavagna non si legge. Gli occhiali, per l’OMS, compensano. Non sostituiscono la visita e non dimostrano che l’occhio abbia smesso di cambiare."
+    },
+    {
+      "question": "Che cosa si fa mercoledì, a casa e a scuola?",
+      "answer": "Si tiene la lezione che è stata misurata, non quella che si immagina. A Guangzhou ha contato una lezione all’aperto dentro l’orario di scuola; la campagna rivolta ai genitori non ha spostato il tempo fuori casa, e d’inverno una parte delle lezioni saltava per il maltempo. Un tratto davvero all’aperto, senza schermo in mano, se il tempo lo consente, va in quella direzione e non copia i 40 minuti. Il libro dei compiti è comunque lavoro da vicino: il rapporto OMS dice che ridurre quel lavoro potrebbe ritardare esordio e progressione, insieme a più tempo fuori, e non fissa minuti né chiede di saltare i compiti. Il divieto del telefono in classe è l’altro pezzo, sugli smartphone a scuola. Se la lavagna è sfocata, si va dall’oculista. Atropina e lenti particolari compaiono nel comunicato della Società Italiana di Pediatria senza lo studio attaccato alla pagina: non sono un consiglio di questo pezzo."
+    }
+  ],
+  "content": {
+    "root": {
+      "type": "root",
+      "direction": "ltr",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mercoledì 27 gennaio 2027. La scuola è ripresa da circa tre settimane. Alle quattro e mezzo è già quasi buio, i compiti sono sul tavolo e il telefono è acceso. Qualcuno dice che gli schermi rovinano gli occhi, e che la cosa da fare è toglierlo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Questo pezzo è per chi vive con un bambino o un ragazzo, per chi i compiti li fa, e per chi organizza la giornata a scuola. La domanda è che cosa si sa sulla miopia, sul tempo passato all’aperto e sull’uso di smartphone e tablet. L’affaticamento, la luce blu e le pause stanno nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/come-il-benessere-digitale-influisce-sulla-salute-mentale-e-fisica",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "benessere digitale, salute mentale e fisica",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". I minuti, la camera e gli orari stanno negli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui si tiene separata un’altra cosa: un errore di refrazione. Non è un mal di testa dopo lo schermo, e non è un regolamento da appendere in cucina.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Vedere male da lontano non è l’occhio stanco",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel World report on vision, pubblicato dall’Organizzazione mondiale della sanità nel 2019, la miopia è definita come la difficoltà a vedere gli oggetti lontani. Nello stesso rapporto, la scheda sugli errori di refrazione scrive che presbiopia, ipermetropia e astigmatismo non si prevengono. Per la miopia il testo è diverso, e il verbo è cauto: aumentare il tempo che i bambini passano all’aperto e ridurre il lavoro da vicino potrebbe ritardare l’esordio e la progressione, e così ridurre il rischio di miopia elevata e delle sue complicazioni. In inglese il rapporto usa might. È una possibilità indicata dal documento, non la promessa di un pomeriggio di gennaio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gli occhiali, nello stesso rapporto, non sono presentati come la cura della causa. Nel riquadro 3.3 l’OMS scrive di considerare occhiali e lenti a contatto interventi di funzionamento: non eliminano e non curano l’errore di refrazione agendo sulle cause. Compensano errori comuni, e la miopia è tra questi. Una lente che rimette a fuoco la lavagna fa quel lavoro. Non dimostra che l’occhio abbia smesso di allungarsi, e non è un argomento per lasciarla nel cassetto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il rapporto aggiunge che esistono interventi ottici, farmacologici, comportamentali e chirurgici per ritardare l’esordio o rallentare la progressione verso forme più avanzate, e che su questi serve altra ricerca. Questo pezzo non consiglia un farmaco, una lente speciale o un intervento. Quella conversazione è dell’oculista, su quell’occhio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un numero dello stesso rapporto va tenuto lontano dalle proiezioni di cui sotto. 123,7 milioni è la stima delle persone con una ipovisione da lontano moderata o grave, o con cecità, dovuta a un errore di refrazione non corretto. L’esempio che il rapporto fa è la miopia o l’ipermetropia. Non è il conteggio di chi ha la miopia. Non è il conteggio di chi porta gli occhiali.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 49,8% del 2050 è una proiezione, con un intervallo largo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Holden, Fricke, Wilson e colleghi, su Ophthalmology nel 2016, hanno stimato la prevalenza della miopia e della miopia elevata e l’hanno proiettata dal 2000 al 2050. Il disegno è una revisione sistematica con meta-analisi. Hanno incluso 145 studi pubblicati dal 1995, per 2,1 milioni di partecipanti. Hanno usato una definizione unica: miopia a −0,50 diottrie o meno, miopia elevata a −5,00 diottrie o meno. Se per una fascia di età, in città o in area rurale, il dato mancava, hanno usato la regione più simile. Poi hanno combinato quelle prevalenze con l’urbanizzazione, con le popolazioni delle Nazioni Unite e con una stima del cambiamento nel tempo ricavata da una regressione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per il 2000 stimano 1406 milioni di persone con miopia, il 22,9% della popolazione mondiale. L’intervallo di confidenza al 95% va da 932 a 1932 milioni, cioè dal 15,2% al 31,5%. Le persone con miopia elevata, nello stesso anno, sono stimate in 163 milioni, il 2,7%, con intervallo da 86 a 387 milioni, dall’1,4% al 6,3%.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per il 2050 la proiezione è 4758 milioni di persone con miopia, il 49,8%, con intervallo da 3620 a 6056 milioni, dal 43,4% al 55,7%. La miopia elevata, nella stessa proiezione, arriva a 938 milioni, il 9,8%, con intervallo da 479 a 2104 milioni, dal 5,7% al 19,4%. La conclusione degli autori riguarda la pianificazione dei servizi, comprese le complicazioni oculari legate alla miopia e la perdita di vista tra le persone con miopia elevata. Non scrivono che quei 938 milioni diventeranno ciechi. L’intervallo, da solo, va da meno di mezzo miliardo a più di due.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Metà del mondo» è il punto centrale, 49,8%, letto come una metà. L’intervallo sta sotto e sopra il 50%. Non è il registro di una classe il 27 gennaio 2027. Non è una previsione sui soli bambini: la stima è su tutte le età, anche dove i dati di partenza mancavano e sono stati presi altrove. Una soglia di −5,00 diottrie per la miopia elevata è la soglia che questo lavoro ha fissato per poter confrontare gli studi. Non è l’unica soglia che si incontra in ambulatorio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quaranta minuti a fine giornata, a Guangzhou, sui sei anni",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il trial che ha messo alla prova il tempo all’aperto a scuola è quello di He, Xiang, Zeng e colleghi, pubblicato su JAMA il 15 settembre 2015. È randomizzato per scuole: 12 primarie di Guangzhou, in Cina, sei di intervento e sei di controllo. I bambini erano in prima. L’età media, nell’abstract, è 6,6 anni, con deviazione standard 0,34. Nel gruppo di intervento erano 952, nel controllo 951. Lo studio è collocato tra ottobre 2010 e ottobre 2013. Il registro è NCT00848900. Gli autori scrivono che il mascheramento non era fattibile: chi stava in una scuola sapeva se la lezione in più c’era.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’intervento aveva due pezzi. Il primo è una lezione aggiunta di 40 minuti di attività all’aperto, in fondo a ogni giornata di scuola, per l’anno scolastico. In quel contesto l’anno di lezione dura circa nove mesi e mezzo, con circa due mesi e mezzo di vacanza. La partecipazione alla lezione era obbligatoria, anche per chi non aveva dato il consenso alla visita. Il secondo pezzo era rivolto ai genitori: erano incoraggiati a far stare i bambini all’aperto dopo la scuola, nel fine settimana e nelle vacanze. Le scuole di controllo continuavano l’attività solita.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’esito primario è l’incidenza cumulativa di miopia a tre anni, fra chi all’inizio non era miope. La definizione è un equivalente sferico di −0,50 diottrie o meno, lo standard del Refractive Error Study in Children, sull’occhio destro. Nel gruppo di intervento: 30,4%, 259 casi su 853 ammessi a quell’analisi. Nel controllo: 39,5%, 287 casi su 726. La differenza è −9,1 punti percentuali. L’intervallo di confidenza al 95% va da −14,1 a −4,1. p < 0,001.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sull’equivalente sferico, il cambiamento a tre anni è −1,42 diottrie nell’intervento e −1,59 nel controllo. La differenza è 0,17 diottrie, intervallo da 0,01 a 0,33, p = 0,04. Sulla lunghezza dell’occhio, l’allungamento è 0,95 millimetri contro 0,98. La differenza è −0,03 millimetri, intervallo da −0,07 a 0,003, p = 0,07. Quella differenza non è statisticamente significativa. Nello stesso trial si può leggere un’incidenza più bassa e, insieme, un allungamento dell’occhio che non si separa in modo chiaro fra i due gruppi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se si stringe la definizione, la direzione resta e i punti scendono. Con la soglia a −0,75 diottrie l’incidenza è 24,2% contro 31,1%, differenza −6,8 punti, p = 0,003. Con la soglia a −1,00 diottria, 20,4% contro 25,5%, differenza −5,1 punti, p = 0,02. Sono analisi di sensibilità sullo stesso trial, non un secondo esperimento.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I genitori miopi non erano distribuiti allo stesso modo. La quota di genitori con miopia era più bassa nell’intervento, 53,6%, che nel controllo, 59,8%, p < 0,001. Un modello fatto dopo, che aggiusta per la miopia dei genitori, dà un odds ratio di 0,73 per l’incidenza a tre anni, intervallo da 0,57 a 0,92, p = 0,01. È un’analisi post hoc, non l’esito primario. Dice che quello sbilanciamento non cancella, da solo, il risultato. Non lo trasforma in una regola per ogni plesso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La discussione aggiunge un fatto che cambia l’uso del trial in famiglia. La parte rivolta ai genitori non risulta aver cambiato il tempo all’aperto fuori dall’orario di scuola: i due gruppi, anno per anno, dichiarano quantità simili. Gli autori attribuiscono quindi l’effetto a circa 40 minuti in più al giorno, per cinque giorni di scuola, nei mesi di lezione. Sulle visite senza preavviso, 613 su 734, l’83,5%, hanno trovato la lezione all’aperto davvero in corso. Delle 121 visite in cui non lo era, 64, il 52,9%, dipendevano dal maltempo: pioggia, o temperature molto basse nei mesi invernali. Il protocollo, d’inverno, a Guangzhou saltava già.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gli autori chiudono sull’oggetto che hanno studiato: fra bambini di sei anni a Guangzhou, aggiungere 40 minuti di attività all’aperto a scuola, rispetto all’attività solita, si è accompagnato a un’incidenza più bassa nei tre anni successivi. Scrivono che servono altri studi sul follow-up lungo e sulla possibilità di estendere il risultato ad altri posti. Non è un quindicenne a fine gennaio, e non è un divieto del telefono. Il telefono non era l’intervento.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nell’introduzione, citando studi precedenti e non un risultato di questo trial, gli autori scrivono che l’associazione protettiva descritta da quella letteratura sembra legata al tempo totale all’aperto, non allo sport in sé: lo sport al chiuso, in quei lavori, non risultava associato a una probabilità più bassa di miopia. Una palestra interna non è la lezione che loro hanno aggiunto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Smartphone e tablet: un’associazione, e una letteratura che gli autori chiamano insufficiente",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Foreman, Salim, Praveen e colleghi hanno pubblicato su The Lancet Digital Health, il 5 ottobre 2021, una revisione sistematica e una meta-analisi sul rapporto fra dispositivi smart — smartphone e tablet — e miopia. La ricerca su MEDLINE arriva al 2 giugno 2020, quella su Embase al 3 giugno. L’età coperta dagli studi va da 3 mesi a 33 anni. Da 3325 articoli ne restano 33 nella revisione e 11 nella meta-analisi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I lavori sono divisi in tre gruppi: dispositivi smart da soli; gli stessi dispositivi insieme al computer; dispositivi smart insieme ad altri compiti da vicino che non sono uno schermo. Il tempo di schermo è misurato con questionari in tutti gli studi. In un solo studio c’è anche il consumo di rete registrato dal dispositivo. La miopia, a seconda del lavoro, è una refrazione oppure una risposta a un questionario.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel riassunto, il tempo su smartphone o tablet da soli è associato alla miopia con un odds ratio di 1,26. L’intervallo di confidenza al 95% va da 1,00 a 1,60. I² = 77%. Se si unisce il computer, l’odds ratio è 1,77, intervallo da 1,28 a 2,45, I² = 87%. L’abstract chiama significative queste associazioni. L’intervallo del solo dispositivo smart arriva a toccare 1,00, il valore in cui la differenza non c’è. L’eterogeneità è alta. Nei modelli della meta-analisi i campioni vanno da 155 a 19 934 persone, e l’età media da 3 a 16 anni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Metà dei dieci studi sul solo dispositivo smart, 5 su 10, e sei su dieci di quelli che lo uniscono al computer, riportano un’associazione con miopia già presente o nuova, con un equivalente sferico più miope o con un occhio più lungo. Gli altri non la riportano. Nella valutazione del bias, tutti i 33 studi mancano di una misura affidabile del tempo di schermo. Sette su 33, il 21%, non misurano la miopia con un criterio oggettivo. Nove su 33, il 27%, non identificano o non aggiustano i fattori che possono confondere il confronto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nella sezione su che cosa aggiunge il lavoro, gli autori scrivono che, mettendo insieme solo gli studi prospettici, l’associazione non si osserva. Aggiungono che quegli studi sono pochi, e che questo limita molto la lettura di quell’assenza. Nella discussione scrivono che un’associazione osservata non è, da sola, un nesso causale. La direzione può essere inversa: una persona già miope può passare più tempo sul dispositivo perché vedere lontano le costa di più. Scrivono anche che conclusioni forti non si possono trarre. Meno di un terzo degli studi separa lo smartphone dagli altri compiti da vicino. La maggior parte degli studi è su popolazioni asiatiche, e non è chiaro se il risultato valga altrove. Ricordano, citando un altro lavoro, che le persone tendono a sottostimare il proprio tempo di schermo, anche del 40%. È un limite di misura che riportano. Non è una cifra calcolata, in questo campione, sulla miopia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La conclusione del paper è diretta. La letteratura sull’associazione fra esposizione a smartphone e tablet e miopia è insufficiente e contraddittoria, e la novità di questi dispositivi rende il fatto poco sorprendente. La meta-analisi suggerisce che il tempo su questi schermi, da soli e insieme al computer, potrebbe essere associato a un rischio più alto. Servono misure oggettive, categorie chiare e popolazioni diverse. Gli autori scrivono che un trial in cui l’intervento sia ridurre il tempo di schermo permetterebbe un’inferenza causale più solida. Quel trial, nel paper, non c’è.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’OMS, nel rapporto del 2019, nomina due leve con lo stesso verbo cauto: più tempo all’aperto e meno lavoro da vicino. Il lavoro da vicino comprende il libro. Il pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/leggere-su-carta-o-su-schermo",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "leggere su carta o su schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " misura la comprensione di un testo, non la refrazione. Un compito su carta resta un compito da vicino. Il rapporto non fissa un minutaggio, e non chiede di saltare i compiti per proteggere l’occhio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa mette per iscritto la Società Italiana di Pediatria",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 31 maggio 2025, all’80° Congresso della Società Italiana di Pediatria a Napoli, la società ha diffuso un comunicato. Sul sito è pubblicato il 4 giugno 2025, con il titolo «La miopia cambia volto: insorge prima e diventa più grave». È un comunicato congressuale. Non è un trial, e non è una cartella clinica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Per le famiglie, la pagina elenca cinque indicazioni:",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Favorire l’esposizione quotidiana alla luce solare.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Promuovere il gioco e l’attività fisica all’aperto, riducendo il tempo trascorso sui dispositivi.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Evitare l’uso di smartphone e tablet prima dei 6 anni.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Visite oculistiche precoci: il primo controllo è consigliato intorno ai tre anni, e poi all’inizio della scuola primaria.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Prestare attenzione se ci si avvicina troppo a schermi o libri, se si strizzano gli occhi, se si vede male da lontano.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sono frasi della società, nel tono di un comunicato. Non sono l’odds ratio di Foreman e colleghi e non sono i 9,1 punti di Guangzhou. «Evitare smartphone e tablet prima dei 6 anni» sta su questa pagina. Il pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/primo-smartphone-eta-e-regole",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "primo smartphone",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " segue un altro testo della stessa società, quello sullo smartphone personale. Sono due documenti e due frasi. Nessuna delle due è la misura di un divieto sperimentato in una classe italiana, e nessuna è l’intervento di He e colleghi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il comunicato afferma anche che, senza un intervento, entro il 2050 metà dei bambini e dei ragazzi potrebbe essere miope, e che oggi la miopia riguarda il 36% dei bambini tra 5 e 19 anni, con un aumento del 50% in trent’anni. Sulla pagina non è indicato lo studio da cui escono questi tre numeri. Non coincidono con Holden e colleghi, che stimano tutte le età e, per il 2050, un 49,8% con un intervallo dal 43,4% al 55,7%. Per questo quei tre numeri del comunicato non sono usati qui come risultati.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La stessa pagina parla di atropina a basso dosaggio e di lenti che modificano il fuoco periferico, e riporta una frase sull’efficacia in oltre 6 bambini su 10 e, in combinazione, intorno al 70%. Anche in quel passaggio lo studio non è citato sulla pagina. L’OMS, nel rapporto del 2019, scrive che sugli interventi ottici e farmacologici serve altra ricerca. Questo pezzo non trasforma il comunicato in una ricetta. Il comunicato contiene anche frasi sui meccanismi, fra cui la dopamina. Sulla pagina non portano lo studio, e qui non sono ripetute come fatti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mercoledì, con il buio alle quattro e mezzo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La frase che regge la giornata è corta. Ciò che un trial ha misurato, a Guangzhou, è tempo all’aperto dentro la scuola, circa 40 minuti, su bambini di sei anni: incidenza più bassa di 9,1 punti, allungamento dell’occhio non significativo, lezione che d’inverno a volte non si faceva. La parte affidata ai genitori, nello stesso trial, non ha spostato il tempo fuori dall’orario scolastico.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A fine gennaio, in Italia, un tratto fuori che sia davvero fuori — senza uno schermo in mano, se pioggia e freddo lo consentono — sta in quella direzione. Non copia il protocollo. Non promette quei 9 punti, e non li promette a un adolescente: il campione aveva sei anni, e gli autori chiedono studi prima di estendere il risultato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "A scuola, la ricreazione all’aperto quando il cortile è praticabile è più vicina a ciò che è stato provato di una predica sul telefono. Il divieto dello smartphone in classe è un’altra domanda, già scritta nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/smartphone-a-scuola-cosa-funziona",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "smartphone a scuola",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Togliere il telefono non è l’intervento di He e colleghi. Non è nemmeno ciò che Foreman e colleghi dicono di aver dimostrato: la loro conclusione è che la letteratura non basta per una conclusione forte.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Se un bambino o un ragazzo si avvicina molto, strizza gli occhi o dice che la lavagna è sfocata, il comunicato della Società Italiana di Pediatria mette quei segni tra le cose a cui prestare attenzione. Il passo successivo è una visita oculistica. I controlli intorno ai tre anni e all’inizio della primaria sono il consiglio di quel comunicato sulle età precoci. Non sono una ragione per aspettare, se a quattordici anni la lavagna non si legge.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gli occhiali che compensano la refrazione fanno il lavoro descritto dall’OMS: compensano. Un filtro sulla luce blu non compare, in queste fonti, come trattamento della miopia. L’affaticamento da schermo resta l’altro pezzo. Atropina e lenti particolari restano una conversazione clinica, non un paragrafo da applicare il 27 gennaio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Domande corte",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo smartphone causa la miopia?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Queste fonti non lo stabiliscono. Foreman e colleghi, su The Lancet Digital Health nel 2021, trovano un odds ratio di 1,26 per smartphone e tablet da soli (intervallo di confidenza al 95% da 1,00 a 1,60, I² = 77%) e di 1,77 se si unisce il computer (da 1,28 a 2,45, I² = 87%). L’abstract chiama significative le associazioni. L’intervallo del solo dispositivo smart tocca 1,00. Il tempo di schermo è quasi tutto autodichiarato. Quando restano solo gli studi prospettici, gli autori scrivono che l’associazione non si osserva, e che quei studi sono pochi. La loro conclusione è che la letteratura è insufficiente e contraddittoria, e che conclusioni forti non si possono trarre. La direzione, scrivono, può anche essere inversa: chi vede già male da lontano può usare di più il dispositivo. Il trial di He e colleghi non toglieva il telefono. Aggiungeva una lezione all’aperto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I 40 minuti di Guangzhou valgono in una scuola italiana a gennaio?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il trial vale per ciò che ha misurato: 12 scuole primarie di Guangzhou, bambini di prima con età media 6,6 anni, una lezione di 40 minuti all’aperto in fondo alla giornata scolastica, per circa nove mesi e mezzo l’anno, contro l’attività solita. A tre anni l’incidenza di miopia, fra chi non era miope all’inizio, era 30,4% (259 su 853) contro 39,5% (287 su 726): differenza di 9,1 punti percentuali, intervallo da −14,1 a −4,1, p < 0,001. L’allungamento dell’occhio non era significativo (p = 0,07). Il mascheramento non era possibile. Gli autori chiedono altri studi sulla generalizzabilità. In inverno, 64 delle 121 visite in cui la lezione non risultava fatta erano per pioggia o freddo intenso. Una ricreazione all’aperto, quando il tempo lo permette, sta nella stessa direzione. Non è la copia del protocollo e non promette quei 9 punti a un quindicenne.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gli occhiali che filtrano la luce blu rallentano la miopia?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Non in queste fonti. L’Organizzazione mondiale della sanità, nel World report on vision del 2019, descrive occhiali e lenti a contatto come strumenti che compensano l’errore di refrazione, non come un filtro che ne cura la causa. Il rapporto non misura gli occhiali «anti luce blu» come trattamento della miopia. L’affaticamento da schermo e la luce blu stanno nell’altro pezzo, su benessere digitale, salute mentale e fisica. Un filtro sul colore dello schermo non è la lezione all’aperto di Guangzhou.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 49,8% al 2050 è la mia classe?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. È il punto centrale della proiezione di Holden e colleghi per tutte le età, nel 2050: 4758 milioni di persone, il 49,8% della popolazione mondiale, con intervallo di confidenza al 95% dal 43,4% al 55,7%. Nel 2000 la stessa stima è 22,9%, con intervallo dal 15,2% al 31,5%. Sono 145 studi dal 1995, 2,1 milioni di partecipanti, definizioni fissate a −0,50 e −5,00 diottrie, dati mancanti presi dalla regione più simile, più urbanizzazione e popolazioni delle Nazioni Unite. Non è un conteggio di una sezione. I 123,7 milioni del rapporto OMS sono un’altra cifra: ipovisione da lontano moderata o grave, o cecità, da errore di refrazione non corretto, miopia o ipermetropia. Non sono le persone miopi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Strizzare gli occhi è già una diagnosi?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. Il comunicato della Società Italiana di Pediatria del 4 giugno 2025, sull’80° Congresso, elenca tra i segnali a cui prestare attenzione l’avvicinarsi troppo a schermi o libri, lo strizzare gli occhi e la difficoltà a vedere da lontano. È un elenco di attenzione, non una refrazione. Il passo successivo è una visita oculistica. Sulla stessa pagina il primo controllo è consigliato intorno ai tre anni e poi all’inizio della scuola primaria: è il loro consiglio sulle età precoci, non una ragione per aspettare se più tardi la lavagna non si legge. Gli occhiali, per l’OMS, compensano. Non sostituiscono la visita e non dimostrano che l’occhio abbia smesso di cambiare.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h3",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa si fa mercoledì, a casa e a scuola?",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si tiene la lezione che è stata misurata, non quella che si immagina. A Guangzhou ha contato una lezione all’aperto dentro l’orario di scuola; la campagna rivolta ai genitori non ha spostato il tempo fuori casa, e d’inverno una parte delle lezioni saltava per il maltempo. Un tratto davvero all’aperto, senza schermo in mano, se il tempo lo consente, va in quella direzione e non copia i 40 minuti. Il libro dei compiti è comunque lavoro da vicino: il rapporto OMS dice che ridurre quel lavoro potrebbe ritardare esordio e progressione, insieme a più tempo fuori, e non fissa minuti né chiede di saltare i compiti. Il divieto del telefono in classe è l’altro pezzo, sugli smartphone a scuola. Se la lavagna è sfocata, si va dall’oculista. Atropina e lenti particolari compaiono nel comunicato della Società Italiana di Pediatria senza lo studio attaccato alla pagina: non sono un consiglio di questo pezzo.",
+              "version": 1
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

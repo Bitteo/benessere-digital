@@ -270,6 +270,20 @@ test('january 18 2027 filters draft stays off listings, sitemap, index and the p
   assert.equal(isIndexableArticle(article, after), false)
 })
 
+test('january 27 2027 myopia draft stays off listings, sitemap, index and the public page', () => {
+  const article = loadArticle('miopia-schermi-tempo-all-aperto')
+  assert.equal(article.status, 'draft')
+  assert.equal(article.publishedAt, '2027-01-27T09:00:00.000+01:00')
+  assert.equal(article.seo?.noIndex, true)
+  assert.equal(article.cover, '')
+  const atPublishedAt = new Date('2027-01-27T09:00:00.000+01:00')
+  const after = new Date('2027-02-01T09:00:00.000+01:00')
+  assert.equal(isPubliclyAvailable(article, atPublishedAt), false)
+  assert.equal(isPubliclyAvailable(article, after), false)
+  assert.equal(isIndexableArticle(article, atPublishedAt), false)
+  assert.equal(isIndexableArticle(article, after), false)
+})
+
 test('january 2027 notification draft stays off listings, sitemap, index and the public page', () => {
   const article = loadArticle('notifiche-smartphone-meno-interruzioni')
   assert.equal(article.status, 'draft')
