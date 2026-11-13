@@ -66,6 +66,7 @@ test('llms.txt lists the indexable inventory on www and keeps smartphone-a-scuol
   assert.doesNotMatch(text, /parental-control-console-switch-playstation-xbox/)
   assert.doesNotMatch(text, /cuffie-volume-ascolto-sicuro-gennaio/)
   assert.doesNotMatch(text, /filtri-ritocco-foto-non-e-uno-specchio/)
+  assert.doesNotMatch(text, /miopia-schermi-tempo-all-aperto/)
   assert.doesNotMatch(text, /telefono-a-tavola-feste-phubbing/)
   assert.doesNotMatch(text, /smartwatch-gps-bambini-privacy-e-alternative/)
   assert.doesNotMatch(text, /eta-minima-social-australia-under-16/)

@@ -49,6 +49,7 @@ import truffaEmergenzaFamiliare from './articles/truffa-emergenza-familiare-voce
 import notificheSmartphone from './articles/notifiche-smartphone-meno-interruzioni.json'
 import cuffieVolumeGennaio from './articles/cuffie-volume-ascolto-sicuro-gennaio.json'
 import filtriRitoccoFoto from './articles/filtri-ritocco-foto-non-e-uno-specchio.json'
+import miopiaSchermiTempoAperto from './articles/miopia-schermi-tempo-all-aperto.json'
 
 export const articles = [
   brainRot,
@@ -101,4 +102,5 @@ export const articles = [
   notificheSmartphone,
   cuffieVolumeGennaio,
   filtriRitoccoFoto,
+  miopiaSchermiTempoAperto,
 ] as ArticleSource[]
