@@ -1,10 +1,11 @@
 {
   "slug": "brain-rot",
-  "title": "Brain Rot: La parola dell'anno che sta cambiando il modo di pensare ai contenuti digitali",
-  "excerpt": "Il \"brain rot\" descrive il deterioramento cognitivo causato dal consumo eccessivo di contenuti digitali di bassa qualità. Oxford lo ha eletto parola dell'anno 2024.",
+  "title": "Brain rot: che cosa significa (e che cosa no)",
+  "excerpt": "Oxford l’ha scelta come parola dell’anno 2024: un deterioramento presunto, non misurato. Il +230% riguarda l’uso della parola, e le prove non chiudono il discorso sulla salute.",
   "cover": "/images/covers/brain-rot.png",
-  "coverAlt": "Copertina: Brain Rot: La parola dell'anno che sta cambiando il modo di pensare ai contenuti digitali",
+  "coverAlt": "Illustrazione editoriale: persona seduta di profilo che guarda lo smartphone, con linee e punti colorati intorno alla testa.",
   "publishedAt": "2025-01-08T14:38:25.581Z",
+  "updatedAt": "2026-11-19T09:00:00.000+01:00",
   "authorSlugs": [
     "matteo-foroni"
   ],
@@ -15,183 +16,409 @@
   "readingTime": 5,
   "status": "published",
   "seo": {
-    "metaTitle": "Brain Rot: comprendere la parola dell’anno 2024",
-    "metaDescription": "Scopri cosa significa 'brain rot', la parola dell'anno 2024, e il suo impatto sui consumatori digitali e la salute mentale."
+    "metaTitle": "Brain rot: che cosa significa (e che cosa no)",
+    "metaDescription": "Brain rot, parola dell’anno Oxford 2024: deterioramento presunto da contenuti banali. Il +230% è la frequenza della parola. Non è una diagnosi."
   },
+  "sources": [
+    {
+      "title": "Oxford University Press — ‘Brain rot’ named Oxford Word of the Year 2024 (2 dicembre 2024)",
+      "url": "https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/",
+      "note": "Comunicato del 2 dicembre 2024. Voto pubblico di oltre 37.000 persone. Definizione: «the supposed deterioration of a person’s mental or intellectual state», soprattutto per eccesso di materiale considerato banale o poco impegnativo, oggi in particolare online; anche qualcosa descritto come capace di portare a quel deterioramento. Il termine è aumentato in frequenza d’uso del 230% tra il 2023 e il 2024. Prima attestazione indicata: Walden, 1854. Uso spesso ironico o autoironico, in particolare su TikTok tra Gen Z e Gen Alpha. Casper Grathwohl, presidente di Oxford Languages, parla di consapevolezza autoironica e del «luogo che si dice causi» il brain rot. Il comunicato registra una conversazione sul possibile impatto sulla salute mentale e non allega uno studio. Non è una misura clinica."
+    },
+    {
+      "title": "Wikisource — Walden; or, Life in the Woods, pagina 348 (Ticknor and Fields, 1854)",
+      "url": "https://en.wikisource.org/wiki/Page:Walden,_or,_Life_in_the_Woods.djvu/354",
+      "note": "Pagina 348 dell’edizione di Boston del 1854, file djvu pagina 354. Wikisource segna la trascrizione come validata: è un controllo del testo, non una validazione scientifica. Frase sul testo: «While England endeavors to cure the potato-rot, will not any endeavor to cure the brain-rot, which prevails so much more widely and fatally?» Subito prima: è motivo di lamentela se uno scritto ammette più di un’interpretazione. Metafora sull’impegno intellettuale, non sui social. Oxford cita la stessa frase con l’ortografia britannica «endeavours»."
+    },
+    {
+      "title": "APA — Health advisory on social media use in adolescence (aprile 2023)",
+      "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+      "note": "Advisory dell’American Psychological Association, aprile 2023. Punto A: usare i social non è di per sé benefico o dannoso per i giovani; gli effetti dipendono in genere dalla persona, dai contenuti, dalle funzioni della piattaforma e dal contesto. Limite esplicito: i risultati che suggeriscono nessi causali sono rari; la ricerca longitudinale pluriennale spesso manca, quindi le associazioni fino all’età adulta sono in gran parte sconosciute. Raccomandazione 6, tra gli indicatori di uso problematico: continuare anche volendo smettere o quando l’uso interferisce con impegni necessari; passare ripetutamente più tempo del previsto; perdere relazioni significative o occasioni scolastiche. Raccomandazione 7: l’uso non dovrebbe interferire con sonno e attività fisica; la tecnologia nell’ora prima di dormire, e i social in particolare, è associata a interruzioni del sonno. Non nomina il brain rot e non misura i meme."
+    },
+    {
+      "title": "Cambridge Dictionary — doomscrolling",
+      "url": "https://dictionary.cambridge.org/dictionary/english/doomscrolling",
+      "note": "Voce: passare molto tempo al telefono o al computer a leggere notizie brutte o negative. Marcata humorous. Le frasi di esempio («experts warn that doomscrolling can be harmful») illustrano l’uso della parola e non sono usate qui come prova di un danno. La voce non definisce il brain rot né lo «zombie scrolling»."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Il brain rot è una diagnosi?",
+      "answer": "No. Oxford, il 2 dicembre 2024, lo ha scelto come parola dell’anno e lo definisce un deterioramento presunto, legato soprattutto a contenuti considerati banali. L’American Psychological Association, nell’advisory dell’aprile 2023, scrive che i social non sono di per sé benefici o dannosi e che gli studi capaci di suggerire un nesso causale sono rari. Sentirsi svuotati dopo un feed lungo è un’esperienza. Non è un esame."
+    },
+    {
+      "question": "Che cosa misura il +230% tra il 2023 e il 2024?",
+      "answer": "La frequenza con cui si è usata la parola, nei dati linguistici citati da Oxford University Press. Non è una conta di danni cognitivi e non dice quante persone «abbiano il brain rot»."
+    },
+    {
+      "question": "Thoreau nel 1854 parlava di social network?",
+      "answer": "No. La frase è nella Conclusion di Walden, pagina 348 dell’edizione Ticknor and Fields. Sta accanto a una critica di chi si lamenta se uno scritto ammette più di un’interpretazione: è una metafora sull’impegno intellettuale, accanto al marciume delle patate nominato nella frase. Oxford la indica come prima attestazione del termine, non come prova su feed o meme."
+    },
+    {
+      "question": "Doomscrolling e brain rot sono la stessa cosa?",
+      "answer": "No. Nel Cambridge Dictionary il doomscrolling è passare molto tempo a leggere notizie negative. Per Oxford il brain rot è un’etichetta sul deterioramento presunto da contenuti banali, e anche il nome di quei contenuti. Possono capitare nella stessa serata. Non condividono la definizione. La FOMO, la paura di restare fuori da quello che fanno gli altri, è un terzo nome ancora."
+    },
+    {
+      "question": "I contenuti banali riducono l’attenzione e la capacità di decidere?",
+      "answer": "Le fonti di questa pagina non lo dimostrano. Oxford parla di un deterioramento presunto e di un impatto percepito, e non allega uno studio. L’advisory APA lega gli effetti dei social alla persona, ai contenuti e alle funzioni della piattaforma, e ricorda che i nessi causali sono rari. Non c’è qui una misura dei meme sull’attenzione o sulle decisioni."
+    },
+    {
+      "question": "Un digital detox cura il brain rot?",
+      "answer": "No. Una pausa può tenere il telefono fuori dal sonno: l’APA associa la tecnologia nell’ora prima di dormire, e i social in particolare, a interruzioni del sonno, e dice che l’uso non dovrebbe togliere sonno e movimento. Non è un trattamento, e non ripara una diagnosi che queste fonti non formulano. Se l’uso continua anche quando vorresti smettere, o toglie scuola e relazioni, l’APA elenca quei segnali tra gli indicatori di uso problematico: è un motivo per parlarne con un professionista."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",
       "children": [
         {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Che cos’è il Brain Rot?",
-              "version": 1
-            }
-          ]
-        },
-        {
           "type": "paragraph",
           "version": 1,
           "children": [
             {
               "type": "text",
-              "text": "'Brain rot' è una locuzione che descrive un fenomeno sempre più comune nella nostra era digitale: il deterioramento mentale percepito come conseguenza del consumo eccessivo di contenuti banali e superficiali, specialmente attraverso i social media. In un momento storico in cui siamo inondati di informazioni, il termine solleva interrogativi significativi sulla qualità degli stimoli cognitivi a cui ci esponiamo quotidianamente.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Le origini del termine",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Sebbene di recente coniazione come parola dell’anno, l'espressione 'brain rot' ha radici profonde. Fu utilizzata per la prima volta nel 1854 da Henry David Thoreau nel suo celebre libro \"Walden\". Thoreau utilizzò la locuzione per criticare ciò che percepiva come una tendenza della società a svalutare i pensieri complessi e a lasciarsi trascinare dal banale.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "La crescita della popolarità del Brain Rot",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "L'uso del termine 'brain rot' è salito alla ribalta negli ultimi tempi, con un aumento del 230% tra il 2023 e il 2024. Tra i principali fautori di questa diffusione ci sono le generazioni più giovani, come la Gen Z e la Gen Alpha. Sui social media, queste generazioni hanno reso virale il termine, riflettendo un irrequieto senso di insoddisfazione per la qualità dei contenuti digitali cui sono esposte.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Impatto sulla salute mentale",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Non sorprende che il 'brain rot' sia associato a vari effetti negativi sulla salute mentale. Lo stato di affaticamento mentale che acuisce, la riduzione dell'attenzione e le difficoltà nel prendere decisioni sono solo alcune delle manifestazioni di questo fenomeno. L'accesso continuo a contenuti non stimolanti erode progressivamente la nostra capacità di riflessione critica.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Comportamenti associati al Brain Rot",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Tra i comportamenti più comuni legati al brain rot emergono pratiche come il 'doomscrolling', che significa scorrere continuamente attraverso notizie spesso negative, e lo 'zombie scrolling', ovvero navigare senza uno scopo preciso. Questi comportamenti creano un'esperienza di sovraccarico cognitivo, che contribuisce significativamente all'impressione di stasi mentale e stanchezza.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Riflessione culturale e bisogno di Digital Detox",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "'Brain rot' non è solo un fenomeno isolato, ma una critica culturale incisiva del nostro tempo. Illustra le ansie che permeano la società riguardo all'impatto che i contenuti digitali esercitano sulla nostra capacità di elaborare pensieri complessi. Come reazione a queste preoccupazioni, molte persone stanno optando per un digital detox, ovvero la disconnessione temporanea dai dispositivi digitali per rigenerarsi mentalmente.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Conclusione",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "La nomina di 'brain rot' come parola dell’anno 2024 è più che mai significativa. Mette in luce una preoccupazione crescente per la nostra salute mentale e la qualità dei contenuti digitali che scegliamo di consumare. Esplora la tua relazione con il digitale e considera di fare una pausa ogni tanto.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Hai notato sintomi di brain rot nella tua vita quotidiana? Raccontaci la tua esperienza per discutere di più su come una strategia di digital detox possa fare la differenza per te.",
+              "text": "Nota: ",
               "version": 1,
-              "format": 1
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": "non è un testo medico e non sostituisce un professionista. Se l’uso degli schermi toglie sonno, scuola o relazioni e non riesci a fermarlo, parlane con un medico o uno psicologo.",
+              "version": 1,
+              "format": 2
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa ha detto Oxford",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 2 dicembre 2024 Oxford University Press ha annunciato la parola dell’anno: brain rot. Al voto avevano partecipato oltre 37.000 persone. La definizione inglese usa «supposed deterioration»: il deterioramento presunto dello stato mentale o intellettuale, visto soprattutto come effetto di un consumo eccessivo di materiale ritenuto banale o poco impegnativo. Oggi quel materiale è, in particolare, contenuto online. La stessa voce ha un secondo senso: qualcosa descritto come capace di portare a quel deterioramento.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel comunicato la parola copre due usi. Indica i contenuti di basso valore che circolano sui social e in rete, e indica l’impatto negativo che chi li consuma percepisce. Ha preso piede soprattutto su TikTok, tra Gen Z e Gen Alpha, spesso in tono ironico o autoironico. Casper Grathwohl, presidente di Oxford Languages, osserva che proprio quelle comunità hanno amplificato l’espressione sui social, il luogo che — scrive — si dice causi il brain rot, e ci legge una consapevolezza autoironica sull’impatto dannoso dei social che, scrive, hanno ereditato. È il commento di chi presenta la parola dell’anno. Non è un risultato di ricerca.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il testo registra anche una conversazione più seria sul possibile impatto di un consumo eccessivo di questi contenuti sulla salute mentale, in particolare di bambini e ragazzi. Resta formulata così: una conversazione, un impatto possibile. Il comunicato non allega uno studio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il +230% riguarda la parola",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tra il 2023 e il 2024 la frequenza d’uso del termine, nei dati linguistici di Oxford, è aumentata del 230%. Il dato conta le occorrenze della parola. Non conta quante persone abbiano un deficit cognitivo e non dice quanti ragazzi abbiano «il brain rot».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La frase del 1854",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Oxford indica come prima attestazione un passo del 1854, nella Conclusion di Walden di Henry David Thoreau. Sulla pagina 348 dell’edizione Ticknor and Fields, riprodotta su Wikisource, si legge: «While England endeavors to cure the potato-rot, will not any endeavor to cure the brain-rot, which prevails so much more widely and fatally?»",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La frase sta subito dopo un’altra. Thoreau scrive che, da quelle parti, è motivo di lamentela se uno scritto ammette più di un’interpretazione. Il «brain-rot» è una metafora sull’impegno intellettuale, appoggiata al potato-rot, il marciume delle patate nominato nella stessa frase. Non descrive un feed, un meme o un sintomo. Oxford la cita come prima occorrenza della parola. Il comunicato usa l’ortografia britannica «endeavours»; la pagina del 1854 porta «endeavors».",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa si può dire sulla salute",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dire che i contenuti banali erodono la riflessione critica, accorciano l’attenzione o rendono difficile decidere va oltre le fonti di questa pagina.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’advisory dell’American Psychological Association sui social in adolescenza, datato aprile 2023, scrive che usarli non è di per sé benefico o dannoso per i giovani. Nella maggior parte dei casi gli effetti dipendono dalla persona, da ciò che vede e può fare sulla piattaforma, e dal contesto in cui cresce. Lo stesso testo avverte che i risultati capaci di suggerire un nesso causale sono rari: i dati per parlare di causa ed effetto sono difficili da raccogliere, oppure restano nelle aziende e non arrivano ai ricercatori indipendenti. Le associazioni tra l’uso dei social in adolescenza e gli esiti in età adulta, aggiunge, sono in gran parte sconosciute.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’advisory non nomina il brain rot e non misura i meme. Parla di social. Tra le indicazioni pratiche: l’uso non dovrebbe togliere sonno e movimento. I dati che cita associano la tecnologia nell’ora prima di dormire, e i social in particolare, a interruzioni del sonno. È un’associazione. Luce, letto e notifiche sono trattati a parte nell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il quadro più largo — umore, sonno, occhi, sedentarietà — è raccolto con le stesse cautele nell’articolo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/come-il-benessere-digitale-influisce-sulla-salute-mentale-e-fisica",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "benessere digitale e salute",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un uso che l’APA chiama problematico è un elenco di comportamenti, non il nome di un video sciocco. Tra gli indicatori: continuare anche quando si vorrebbe smettere, o quando ci si accorge che l’uso interferisce con impegni necessari; passare più tempo del previsto; perdere relazioni significative o occasioni scolastiche. Se ti riconosci in quel quadro, il passo è un professionista. La lista completa è nell’advisory, non in un test fai-da-te.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La spiegazione chimica — dopamina esaurita, recettori da ripulire con un digiuno — non è ciò che Oxford ha contato. Quella tesi è discussa, fonti alla mano, nella ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/dopamina-la-guida-completa",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "guida sulla dopamina",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tre nomi, tre cose diverse",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il Cambridge Dictionary definisce doomscrolling come passare molto tempo al telefono o al computer a leggere notizie brutte o negative. La voce è marcata come scherzosa. Non è una diagnosi, e le frasi di esempio del dizionario non sono una rassegna di studi. Come si interrompe quel loop, senza cancellare le app, è nell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/doomscrolling-perche-il-pollice-non-si-ferma",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "doomscrolling",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La FOMO è la paura di restare fuori da quello che fanno gli altri. Ha un altro meccanismo, descritto in ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FOMO e JOMO",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Si può incontrarla nella stessa serata del brain rot. Non è la stessa definizione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "«Zombie scrolling» è un modo di dire per lo scorrere senza una meta. In questa pagina non ha una voce di dizionario e non ha un effetto misurato. Chiamarlo sovraccarico cognitivo, o stasi mentale, sarebbe un’aggiunta senza fonte.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una pausa è un confine",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Stare un po’ senza schermo può essere un confine concreto: l’ora prima di dormire, un pasto, i compiti. L’APA lega quel limite al sonno e al movimento, non a una riparazione del cervello. Nelle fonti usate qui il brain rot resta il nome di una preoccupazione e, spesso, di una battuta. Una pausa non è il trattamento di una malattia che queste fonti non formulano.",
+              "version": 1
             }
           ]
         }
