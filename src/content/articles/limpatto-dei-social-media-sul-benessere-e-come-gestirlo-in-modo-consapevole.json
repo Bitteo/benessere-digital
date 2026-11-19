@@ -1,20 +1,79 @@
 {
   "slug": "limpatto-dei-social-media-sul-benessere-e-come-gestirlo-in-modo-consapevole",
-  "title": "L'impatto dei social media sul benessere e come gestirlo in modo consapevole",
-  "excerpt": "I social media hanno effetti sia positivi (connessione, comunità) che negativi (ansia, depressione, FOMO). Otto strategie per un uso consapevole.",
+  "title": "Social media e benessere: che cosa è associato (e che cosa no)",
+  "excerpt": "Ansia, sonno, confronto e sedentarietà: che cosa associano APA, JAMA Psychiatry e OMS ai social. La versione del 2024 chiudeva troppo in fretta.",
   "cover": "/images/covers/social-media.jpg",
-  "coverAlt": "Copertina: L'impatto dei social media sul benessere e come gestirlo in modo consapevole",
+  "coverAlt": "Copertina dell’articolo sui social media e sul benessere.",
   "publishedAt": "2024-12-20T17:27:13.817Z",
+  "updatedAt": "2026-11-19T10:30:00.000+01:00",
   "authorSlugs": [],
   "categorySlugs": [
     "social-media"
   ],
-  "readingTime": 7,
+  "readingTime": 8,
   "status": "published",
   "seo": {
-    "metaTitle": "Social media e benessere: impatto e strategie consapevoli",
-    "metaDescription": "Come i social media influenzano il benessere psicologico e otto strategie concrete per un uso consapevole e sano dei social."
+    "metaTitle": "Social e benessere: associazioni, non cause",
+    "metaDescription": "Social media, ansia e depressione: APA 2023 e JAMA Psychiatry 2019. Sonno, luce blu e sedentarietà secondo AAO e OMS. Associazione, non causa."
   },
+  "sources": [
+    {
+      "title": "APA — Health advisory on social media use in adolescence (aprile 2023)",
+      "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+      "note": "Advisory dell’American Psychological Association. Le considerazioni sono datate aprile 2023; la pagina indica «Date created: May 2023». Punto A: usare i social non è di per sé benefico o dannoso; gli effetti dipendono in genere dalla persona, dai contenuti, dalle funzioni e dal contesto. I risultati che suggeriscono nessi causali sono rari; le associazioni fino all’età adulta sono in gran parte sconosciute. Raccomandazione 1: funzioni di sostegno, compagnia e intimità emotiva possono favorire una socializzazione sana, in particolare in isolamento o per chi cerca coetanei con condizioni simili. Raccomandazione 5: l’esposizione a discriminazione e odio online predice un aumento di sintomi ansiosi e depressivi anche a parità di esperienze offline. Raccomandazione 6: indicatori di uso problematico (continuare anche volendo smettere, più tempo del previsto, perdere relazioni o scuola), non una diagnosi di dipendenza. Raccomandazione 7: la tecnologia nell’ora prima di dormire, e i social in particolare, è associata a interruzioni del sonno; l’uso non dovrebbe togliere sonno e movimento; la ricerca richiamata indica almeno otto ore di sonno per gli adolescenti. Raccomandazione 8: limitare il confronto sociale, soprattutto su bellezza e aspetto; il confronto sull’aspetto e l’attenzione alle proprie foto sono legati a immagine corporea peggiore, condotte alimentari disturbate e sintomi depressivi, in particolare tra le ragazze."
+    },
+    {
+      "title": "U.S. Department of Health and Human Services — Social Media and Youth Mental Health (pagina dell’advisory, revisione indicata 19 febbraio 2025)",
+      "url": "https://www.hhs.gov/surgeongeneral/reports-and-publications/youth-mental-health/social-media/index.html",
+      "note": "Pagina pubblica dell’advisory del Surgeon General del 2023. Il PDF su hhs.gov da questo ambiente risponde 403: i passaggi usati sono quelli della pagina HTML, ultimo aggiornamento indicato 19 febbraio 2025. Non si può concludere che i social siano abbastanza sicuri per bambini e adolescenti. Fino al 95% dei 13–17 anni dichiara di usare una piattaforma; quasi due terzi ogni giorno; un terzo «quasi di continuo». Più di 3 ore al giorno: la pagina scrive un rischio doppio di problemi di salute mentale, sintomi di depressione e ansia compresi, e rimanda a Riehm e colleghi, 2019. Il 46% dei 13–17 anni, sull’immagine del corpo, dice che i social li fanno sentire peggio (Bickham e colleghi, 2022, nel riassunto della pagina): è una risposta dichiarata. Alle famiglie: un piano per i media, zone senza tecnologia, amicizie di persona, dare l’esempio. Benefici e rischi sono nominati insieme."
+    },
+    {
+      "title": "Riehm e colleghi — Associations Between Time Spent Using Social Media and Internalizing and Externalizing Problems Among US Youth (JAMA Psychiatry, 2019)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6739732/",
+      "note": "JAMA Psychiatry, 11 settembre 2019, 76(12), 1266–1273. DOI 10.1001/jamapsychiatry.2019.2325. Testo aperto su PMC. Coorte PATH, 6.595 adolescenti statunitensi, 12–15 anni alla prima ondata (settembre 2013–dicembre 2014). Esposizione alla seconda ondata: tempo dichiarato sui social in un giorno tipico. Esiti alla terza: problemi internalizzanti, esternalizzanti o entrambi nell’anno precedente, con il GAIN-SS. Analisi aggiustate per la storia di problemi di salute mentale, più di 3 ore rispetto a nessun uso: problemi internalizzanti da soli, RRR 1.60 (oltre 3 ore e fino a 6; IC 95% 1.11–2.31) e 1.78 (oltre 6 ore; 1.15–2.77); quadro combinato, RRR 2.01 (1.51–2.66) e 2.44 (1.73–3.43). Non per i soli problemi esternalizzanti. Gli autori scrivono che superare le 3 ore può comportare un rischio più alto, in particolare internalizzante, e che servirà altra ricerca per sapere se un limite giornaliero riduca quel carico. Associazione prospettica, non una causa dimostrata."
+    },
+    {
+      "title": "OMS — Physical activity (scheda, 26 giugno 2024)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity",
+      "note": "Scheda del 26 giugno 2024. Comportamento sedentario: veglia a basso dispendio, da seduti, reclinati o sdraiati. Trasporti motorizzati e più schermi per lavoro, studio e svago rendono le vite più sedentarie. Quantità alte di sedentarietà sono associate, nei bambini e negli adolescenti, a più adiposità, peggiore salute cardiometabolica e fitness, condotta e comportamento prosociale peggiori, sonno più corto; negli adulti, a più mortalità per tutte le cause, mortalità cardiovascolare e per tumore, e a incidenza di malattie cardiovascolari, tumore e diabete di tipo 2. Tutte le età dovrebbero limitare il tempo da seduti. La scheda non attribuisce quelle malattie a una piattaforma sociale e non fissa un tetto di minuti di social. I 150 minuti riguardano l’attività fisica moderata degli adulti, non una quota di feed."
+    },
+    {
+      "title": "Bull e colleghi — World Health Organization 2020 guidelines on physical activity and sedentary behaviour (British Journal of Sports Medicine, 2020)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/",
+      "note": "British Journal of Sports Medicine, 23 novembre 2020, 54(24), 1451–1462. DOI 10.1136/bjsports-2020-102955. Prima autrice Fiona C. Bull. Testo aperto su PMC. Ridurre la sedentarietà è raccomandato a tutte le età; le prove non bastavano a fissare una soglia in minuti. Adulti: 150–300 minuti a settimana di attività moderata, oppure 75–150 di attività vigorosa. Bambini e adolescenti: in media 60 minuti al giorno di attività da moderata a vigorosa, e limitare il tempo da seduti, in particolare lo schermo ricreativo. Raccomandazione forte su questi punti. Non è un nesso «questo social ha causato il diabete»."
+    },
+    {
+      "title": "American Academy of Ophthalmology — Should You Be Worried About Blue Light? (10 marzo 2021)",
+      "url": "https://www.aao.org/eye-health/tips-prevention/should-you-be-worried-about-blue-light",
+      "note": "Pagina pubblicata il 10 marzo 2021, rivista da Rahul N. Khurana. Nessuna evidenza scientifica che la luce blu dei dispositivi danneggi l’occhio. Il fastidio è inquadrato come affaticamento visivo digitale: si sbatte meno le palpebre, gli occhi si seccano. L’affaticamento non lascia un danno duraturo. Regola 20-20-20: ogni 20 minuti, guardare un oggetto ad almeno 20 piedi per almeno 20 secondi. L’Academy non raccomanda occhiali che filtrano la luce blu per il computer. Troppa luce blu la sera, da telefono, tablet o computer, può rendere più difficile addormentarsi: il portavoce suggerisce di limitare gli schermi nelle due o tre ore prima di dormire. La pagina non misura la melatonina e non nomina un disturbo del sonno."
+    }
+  ],
+  "faq": [
+    {
+      "question": "I social media causano ansia e depressione?",
+      "answer": "Non come regola, e non per tutti. L’advisory APA dell’aprile 2023 scrive che i social non sono di per sé benefici o dannosi e che i nessi causali sono rari. Nello studio di Riehm e colleghi (JAMA Psychiatry, 2019) su 6.595 adolescenti statunitensi di 12–15 anni, più di 3 ore al giorno di social rispetto a nessun uso resta associato, dopo correzione per i problemi già presenti, a problemi internalizzanti: RRR 1,60 oltre le 3 ore e fino a 6, e 1,78 oltre le 6. È la classe di sintomi che comprende quelli ansiosi e depressivi. Non è la prova che guardare vite altrui causi una depressione."
+    },
+    {
+      "question": "È vero che oltre le 3 ore il rischio raddoppia?",
+      "answer": "La pagina dell’advisory del Surgeon General lo riassume così: più di 3 ore al giorno e rischio doppio di problemi di salute mentale, sintomi di depressione e ansia compresi. Nel paper di Riehm il rapporto vicino a 2 è quello del quadro combinato, problemi internalizzanti ed esternalizzanti insieme: RRR 2,01 (oltre 3 ore e fino a 6) e 2,44 (oltre le 6), rispetto a nessun uso. Per i soli problemi internalizzanti i rapporti aggiustati sono 1,60 e 1,78. Non è un raddoppio di diagnosi in chiunque usi un social."
+    },
+    {
+      "question": "La luce blu degli schermi rovina gli occhi e il sonno?",
+      "answer": "Gli occhi, per l’American Academy of Ophthalmology, no: non c’è evidenza che la luce blu dei dispositivi danneggi l’occhio, e l’affaticamento non lascia un danno duraturo. La regola indicata è la 20-20-20. Il sonno è un altro discorso. La stessa pagina dice che troppa luce blu la sera può rendere più difficile addormentarsi, e suggerisce di limitare gli schermi nelle due o tre ore prima di dormire. L’APA associa la tecnologia nell’ora prima di dormire, e i social in particolare, a interruzioni del sonno. I due testi non indicano lo stesso numero di minuti. Gli occhiali filtranti non sono raccomandati per il computer."
+    },
+    {
+      "question": "Stare sui social causa obesità, diabete o malattie di cuore?",
+      "answer": "La scheda OMS del 26 giugno 2024 associa quantità alte di comportamento sedentario, negli adulti, a più mortalità e all’incidenza di malattie cardiovascolari, tumori e diabete di tipo 2. Gli schermi sono uno dei modi di stare seduti, insieme ai trasporti motorizzati. Non è la prova che un’ora di feed produca quelle malattie. Le linee guida OMS 2020 non fissano una soglia di minuti da non superare da seduti."
+    },
+    {
+      "question": "Controllare like e commenti è una dipendenza?",
+      "answer": "L’APA non la chiama così. Elenca indicatori di uso problematico: continuare anche quando si vorrebbe smettere, passare più tempo del previsto, perdere relazioni o occasioni scolastiche. Sono segnali per cui ha senso parlarne con un professionista, non una diagnosi fatta in casa dal numero di like."
+    },
+    {
+      "question": "Un digital detox cancella gli effetti dei social?",
+      "answer": "No. Un limite di minuti, una cena senza telefono o un feed con meno confronti sull’aspetto sono confini, in linea con sonno, movimento e raccomandazione APA sul confronto. Riehm e colleghi scrivono che altra ricerca dovrà dire se un limite giornaliero riduca il carico di problemi. Non è un trattamento di cui queste fonti abbiano misurato l’esito."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",
@@ -25,25 +84,27 @@
           "children": [
             {
               "type": "text",
-              "text": "I social media sono diventati una parte integrante della nostra vita quotidiana. Da Facebook a Instagram, passando per TikTok e Twitter, queste piattaforme ci permettono di connetterci con amici, condividere esperienze, e accedere a una quantità infinita di informazioni in tempo reale.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Tuttavia, l'uso eccessivo e incontrollato dei social media può avere un impatto significativo sul nostro benessere mentale e fisico. ",
-              "version": 1
+              "text": "Nota: ",
+              "version": 1,
+              "format": 2
             },
             {
               "type": "text",
-              "text": "Come possiamo, quindi, gestire i social media in modo consapevole e ridurre i loro effetti negativi sulla nostra salute?",
+              "text": "non è un testo medico e non sostituisce un professionista. Se l’uso degli schermi toglie sonno, scuola o relazioni e non riesci a fermarlo, parlane con un medico o uno psicologo.",
               "version": 1,
-              "format": 1
+              "format": 2
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Che cosa la versione del 2024 chiudeva troppo in fretta",
+              "version": 1
             }
           ]
         },
@@ -53,38 +114,20 @@
           "children": [
             {
               "type": "text",
-              "text": "In questo articolo, analizzeremo l'impatto dei social media sul benessere e forniremo consigli pratici per gestire l'uso delle piattaforme digitali in modo equilibrato e sano.",
+              "text": "La versione pubblicata il 20 dicembre 2024 trattava ansia, depressione, invidia, dipendenza, disturbi del sonno, obesità, diabete e malattie cardiovascolari come effetti dei social. «Studi hanno dimostrato» non nominava studi. Qui una frase sulla salute resta solo se una fonte aperta la regge, con il verbo di quella fonte. Un’associazione non è una causa.",
               "version": 1
             }
           ]
         },
         {
           "type": "heading",
-          "tag": "h3",
+          "tag": "h2",
           "version": 1,
           "children": [
             {
               "type": "text",
-              "text": "L'Impatto dei Social Media sul Benessere",
+              "text": "Non sono, di per sé, un bene o un danno",
               "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "1. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Effetti Positivi dei Social Media",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -94,113 +137,274 @@
           "children": [
             {
               "type": "text",
-              "text": "I social media non sono del tutto negativi. Anzi, offrono numerosi vantaggi:",
+              "text": "L’health advisory dell’American Psychological Association sui social in adolescenza — considerazioni datate aprile 2023, pagina indicata a maggio 2023 — scrive che usarli non è di per sé benefico o dannoso per i giovani. Nella maggior parte dei casi gli effetti dipendono dalla persona, da ciò che vede e può fare sulla piattaforma, e dal contesto in cui cresce. Lo stesso testo avverte che i risultati capaci di suggerire un nesso causale sono rari: i dati per parlare di causa ed effetto sono difficili da raccogliere, oppure restano nelle aziende e non arrivano ai ricercatori indipendenti. Le associazioni tra l’uso in adolescenza e gli esiti in età adulta, aggiunge, sono in gran parte sconosciute.",
               "version": 1
             }
           ]
         },
         {
-          "type": "list",
-          "tag": "ul",
-          "listType": "bullet",
+          "type": "paragraph",
           "version": 1,
           "children": [
             {
-              "type": "listitem",
+              "type": "text",
+              "text": "Tra i benefici che l’advisory riconosce ci sono funzioni che creano sostegno sociale, compagnia e intimità emotiva, e che possono favorire una socializzazione sana: in particolare in periodi di isolamento o di stress, per chi cerca coetanei con una condizione di salute simile, e per gruppi che offline sono isolati. Non è l’elenco del 2024, fatto di ricette, idee per la casa e carriera. Non vale per ogni feed.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Più di tre ore: un rischio più alto, non una sentenza",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina dell’advisory del Surgeon General degli Stati Uniti su social e salute mentale dei giovani, con ultimo aggiornamento indicato al 19 febbraio 2025, riassume le prove così: non si può concludere che i social siano abbastanza sicuri per bambini e adolescenti. Nella stessa pagina, fino al 95% dei 13–17 anni dichiara di usare una piattaforma, quasi due terzi la usano ogni giorno e un terzo «quasi di continuo». Sono cifre statunitensi citate dall’advisory, non una fotografia dell’Italia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sui sintomi, la pagina scrive che bambini e adolescenti che passano più di 3 ore al giorno sui social affrontano un rischio doppio di problemi di salute mentale, compresi sintomi di depressione e ansia. È il riassunto dell’advisory. Lo studio che indica è quello di Riehm e colleghi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Riehm e colleghi, su JAMA Psychiatry nel 2019, seguono 6.595 adolescenti statunitensi, di 12–15 anni alla prima ondata. Il tempo sui social in un giorno tipico, alla seconda ondata, è messo in relazione con i problemi dell’anno precedente alla terza. Dopo la correzione per la storia di problemi di salute mentale, più di 3 ore al giorno rispetto a nessun uso resta associato a problemi internalizzanti da soli, la classe che comprende sintomi ansiosi e depressivi. I rapporti di rischio relativo sono 1,60 per la fascia oltre le 3 ore e fino a 6 (intervallo di confidenza al 95% 1,11–2,31) e 1,78 oltre le 6 ore (1,15–2,77). Per il quadro combinato, internalizzanti ed esternalizzanti insieme, i rapporti sono 2,01 (1,51–2,66) e 2,44 (1,73–3,43). Non c’è la stessa associazione per i soli problemi esternalizzanti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il «doppio» della pagina del Surgeon General si avvicina al 2,01 del quadro combinato, non a una depressione diagnosticata in chiunque scrolli. Gli autori concludono che superare le 3 ore può voler dire un rischio più alto, in particolare di problemi internalizzanti, e scrivono che altra ricerca dovrà dire se un limite giornaliero riduca quel carico. È un’associazione prospettica, già corretta per i problemi precedenti. Non dimostra che osservare la vita degli altri causi la depressione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Confronto sul corpo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’advisory APA, alla raccomandazione 8, chiede agli adolescenti di limitare l’uso dei social per il confronto sociale, in particolare sui contenuti di bellezza e di aspetto. La ricerca che richiama lega il confronto sull’aspetto fisico, e l’attenzione eccessiva alle proprie foto e ai commenti che ricevono, a un’immagine corporea peggiore, a condotte alimentari disturbate e a sintomi depressivi, soprattutto tra le ragazze. È una relazione. La versione del 2024 ne faceva un crollo di autostima per i giovani in generale, e ci aggiungeva l’invidia. L’invidia non è in quella raccomandazione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sull’immagine del corpo, la pagina del Surgeon General riporta un sondaggio: il 46% degli adolescenti di 13–17 anni, alla domanda sull’impatto dei social sull’immagine corporea, ha detto che i social li fanno sentire peggio. È una risposta dichiarata, non una scala clinica.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Odio in rete, e la FOMO",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La raccomandazione 5 dell’APA chiede di ridurre l’esposizione all’odio in rete, alla discriminazione e al cyberbullismo. Scrive che l’esposizione degli adolescenti alla discriminazione e all’odio online predice un aumento di sintomi ansiosi e depressivi, anche a parità di esperienze simili offline. Come se ne parla a scuola, oltre la sola denuncia, è nell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/cyberbullismo-a-scuola-oltre-la-denuncia",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "Connessioni Sociali",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Le piattaforme come Facebook, WhatsApp, e Instagram permettono di mantenere i contatti con amici e familiari, anche a distanza. Questo è particolarmente utile per chi vive lontano dalle persone care.",
+                  "text": "cyberbullismo",
                   "version": 1
                 }
               ]
             },
             {
-              "type": "listitem",
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La paura di restare fuori da quello che fanno gli altri, la FOMO, nella versione del 2024 produceva inadeguatezza e stress. Nessuna fonte di questa pagina lo misura in quel modo. Nome e limiti stanno nell’articolo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "Opportunità di Networking",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Social come LinkedIn offrono grandi opportunità per la crescita professionale e il networking.",
+                  "text": "FOMO e JOMO",
                   "version": 1
                 }
               ]
             },
             {
-              "type": "listitem",
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Uso problematico, non una dipendenza da like",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La versione del 2024 parlava di una dipendenza vera e propria, fatta di like e commenti. L’APA parla di uso problematico e ne elenca degli indicatori: continuare anche quando si vorrebbe smettere, o quando l’uso interferisce con impegni necessari; fare uno sforzo eccessivo per restare sempre connessi; un desiderio forte, o la giornata scombinata se i social mancano; passare ripetutamente più tempo del previsto; mentire per conservare l’accesso; perdere relazioni significative o occasioni scolastiche. L’uso non dovrebbe togliere le occasioni di vedersi di persona. Sono indicatori, non una diagnosi emessa dal numero di notifiche.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Occhi e sonno",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’American Academy of Ophthalmology, in una pagina del 10 marzo 2021 rivista da Rahul N. Khurana, scrive che non c’è evidenza scientifica che la luce blu dei dispositivi danneggi l’occhio. Il fastidio dopo ore di schermo è, per l’Academy, affaticamento visivo: si sbatte meno le palpebre, gli occhi si seccano. L’affaticamento non lascia un danno duraturo. La regola che indica è la 20-20-20: ogni 20 minuti, guardare un oggetto ad almeno 20 piedi, circa 6 metri, per almeno 20 secondi. L’Academy non raccomanda occhiali che filtrano la luce blu per il computer.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il sonno è un altro capitolo della stessa pagina. Troppa luce blu la sera, da telefono, tablet o computer, può rendere più difficile addormentarsi, e il portavoce suggerisce di limitare gli schermi nelle due o tre ore prima di dormire. La pagina non misura la melatonina e non diagnostica un disturbo del sonno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’APA è più stretta sul dato e indica un’altra finestra: la tecnologia nell’ora prima di dormire, e i social in particolare, è associata a interruzioni del sonno. L’uso non dovrebbe interferire con il sonno né con il movimento. La ricerca che richiama indica almeno otto ore a notte per gli adolescenti. I due testi non dicono lo stesso numero di minuti. Luce, letto e notifiche sono nell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "Supporto Sociale e Comunità",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Esistono gruppi e comunità su temi specifici che forniscono supporto, motivazione e senso di appartenenza.",
+                  "text": "telefono in camera",
                   "version": 1
                 }
               ]
             },
             {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Condivisione di Informazioni e Ispirazione",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": I social media sono una fonte inesauribile di informazioni e ispirazione. Da nuove ricette a idee di decorazione, c'è sempre qualcosa di nuovo da imparare.",
-                  "version": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
               "type": "text",
-              "text": "Ma cosa succede quando i social media iniziano a diventare un problema?",
+              "text": ".",
               "version": 1
             }
           ]
         },
         {
           "type": "heading",
-          "tag": "h4",
+          "tag": "h2",
           "version": 1,
           "children": [
             {
               "type": "text",
-              "text": "2. ",
+              "text": "Stare seduti non è «i social causano il diabete»",
               "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Effetti Negativi dei Social Media sul Benessere Mentale",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -210,166 +414,98 @@
           "children": [
             {
               "type": "text",
-              "text": "Un uso eccessivo o inconsapevole dei social media può portare a diversi problemi di salute mentale:",
+              "text": "La scheda dell’OMS sull’attività fisica, del 26 giugno 2024, definisce il comportamento sedentario come veglia a basso dispendio, da seduti, reclinati o sdraiati. Le vite diventano più sedentarie con i trasporti motorizzati e con più schermi per lavoro, studio e svago. Quantità alte di sedentarietà sono associate, nei bambini e negli adolescenti, a più adiposità, a una salute cardiometabolica e a una forma fisica peggiori, a una condotta e a un comportamento prosociale peggiori, e a un sonno più corto. Negli adulti, a più mortalità per tutte le cause, per malattie cardiovascolari e per tumori, e all’incidenza di malattie cardiovascolari, tumori e diabete di tipo 2.",
               "version": 1
             }
           ]
         },
         {
-          "type": "list",
-          "tag": "ul",
-          "listType": "bullet",
+          "type": "paragraph",
           "version": 1,
           "children": [
             {
-              "type": "listitem",
+              "type": "text",
+              "text": "Gli schermi, social compresi, sono uno dei modi di stare seduti. La scheda non scrive che un’ora di feed produca quelle malattie e non fissa un tetto di minuti di social. I 150 minuti della stessa scheda sono attività fisica moderata per gli adulti, non una quota di scroll.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le linee guida OMS del 2020, nell’articolo di Bull e colleghi, raccomandano di ridurre la sedentarietà a tutte le età e scrivono che le prove non bastavano a fissare una soglia in minuti. Ai bambini e agli adolescenti chiedono di limitare il tempo da seduti, in particolare lo schermo ricreativo, e in media 60 minuti al giorno di attività da moderata a vigorosa. Agli adulti, 150–300 minuti a settimana di attività moderata, oppure 75–150 di attività vigorosa. Il quadro più largo, con le stesse cautele, è nell’articolo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/come-il-benessere-digitale-influisce-sulla-salute-mentale-e-fisica",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "Ansia e Depressione",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Studi hanno dimostrato che passare troppo tempo sui social media, soprattutto osservando le vite perfette altrui, può alimentare sentimenti di ansia, depressione e invidia. Questo fenomeno, noto come \"confronto sociale\", porta le persone a paragonare la propria vita con quella che vedono online, spesso filtrata e non rappresentativa della realtà.",
+                  "text": "benessere digitale e salute",
                   "version": 1
                 }
               ]
             },
             {
-              "type": "listitem",
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lo scroll senza una meta",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Passare da un contenuto all’altro senza una ragione è un’abitudine. Queste fonti non le assegnano un effetto clinico misurato. Come si interrompe quel giro, senza cancellare le app, è nell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/doomscrolling-perche-il-pollice-non-si-ferma",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "FOMO (Fear of Missing Out)",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": La \"paura di essere tagliati fuori\" è un fenomeno comune tra gli utenti dei social media. Sentirsi esclusi da eventi, feste o conversazioni può creare un senso di inadeguatezza e stress.",
+                  "text": "doomscrolling",
                   "version": 1
                 }
               ]
             },
             {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Dipendenza Digitale",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Molte persone sviluppano una vera e propria dipendenza dai social media, controllando costantemente il telefono per aggiornamenti, like, e commenti. Questa dipendenza può interferire con la vita quotidiana, riducendo la produttività e la qualità del sonno.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Problemi di Autostima",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": L'esposizione continua a immagini idealizzate di corpi, stili di vita e successi può avere un impatto negativo sull'autostima, soprattutto tra i giovani. Le persone possono sentirsi inadeguate o insoddisfatte della propria vita.",
-                  "version": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
               "type": "text",
-              "text": "3. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Effetti Negativi dei Social Media sul Benessere Fisico",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Anche la salute fisica può risentire dell'uso eccessivo dei social media:",
+              "text": ".",
               "version": 1
             }
           ]
         },
         {
-          "type": "list",
-          "tag": "ul",
-          "listType": "bullet",
-          "version": 1,
-          "children": [
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Affaticamento Visivo e Disturbi del Sonno",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Passare troppo tempo davanti agli schermi, specialmente prima di andare a dormire, può causare affaticamento visivo e disturbi del sonno a causa dell'esposizione alla luce blu.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Sedentarietà",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Un utilizzo eccessivo dei social media spesso significa trascorrere molte ore seduti, il che può portare a uno stile di vita sedentario e aumentare il rischio di problemi di salute come obesità, diabete e malattie cardiovascolari.",
-                  "version": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
           "type": "heading",
-          "tag": "h3",
+          "tag": "h2",
           "version": 1,
           "children": [
             {
               "type": "text",
-              "text": "Come Gestire i Social Media in Modo Consapevole",
+              "text": "Gestirli: confini, non una cura",
               "version": 1
             }
           ]
@@ -380,251 +516,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Per godere dei benefici dei social media senza compromettere la tua salute, è fondamentale gestirli in modo consapevole. Ecco alcuni suggerimenti pratici:",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "1. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Imposta Limiti di Tempo",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Definisci quanto tempo vuoi trascorrere sui social media ogni giorno. Utilizza le funzionalità di benessere digitale presenti sui tuoi dispositivi per monitorare il tempo di utilizzo e impostare dei limiti giornalieri. Ad esempio, puoi limitare l'uso di Instagram a 30 minuti al giorno o evitare di controllare Facebook durante l'orario di lavoro.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "2. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Crea Momenti di “Disconnessione”",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Pianifica dei momenti durante la giornata in cui ti disconnetti completamente dai social media. Può essere durante i pasti, prima di dormire, o nelle prime ore del mattino. Utilizza questo tempo per attività che non coinvolgono schermi, come leggere un libro, meditare, fare una passeggiata o passare del tempo con i tuoi cari.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "3. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Pratica la Mindfulness Digitale",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "La mindfulness digitale consiste nell’essere consapevoli di come e perché utilizziamo i social media. Prima di aprire un'app, chiediti: \"Perché sto facendo questo?\" \"È davvero necessario?\" Questa consapevolezza ti aiuterà a ridurre l’uso impulsivo e a concentrarti su ciò che è davvero importante.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "4. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Filtra i Contenuti e Segui Solo Ciò che Ti Fa Bene",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Ripulisci i tuoi feed social e segui solo persone, pagine o gruppi che aggiungono valore alla tua vita. Elimina o disattiva i contenuti che ti fanno sentire negativo, ansioso o stressato. Cerca di circondarti di positività e di fonti di ispirazione.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "5. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Utilizza App di Digital Detox",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Esistono diverse app progettate per aiutarti a ridurre il tempo trascorso sui social media, come \"Forest\", \"Freedom\", o \"Offtime\". Queste app possono bloccare temporaneamente l'accesso ai social o incoraggiare pause regolari.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "6. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Partecipa a Sfide di Digital Detox",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Prova a partecipare a sfide di digital detox, come ad esempio disconnettersi dai social per un fine settimana o una settimana intera. Queste sfide possono aiutarti a renderti conto di quanto tempo dedichi ai social media e quanto sia possibile vivere senza di essi.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "7. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Rendi il Tempo sui Social Media Intenzionale",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Utilizza i social media con un intento chiaro. Invece di fare scrolling infinito, stabilisci obiettivi specifici, come aggiornare il tuo profilo LinkedIn, contattare un vecchio amico, o cercare ispirazione per un progetto creativo. Questo ti aiuterà a utilizzare le piattaforme digitali in modo più produttivo e meno passivo.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "8. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Incoraggia le Interazioni Faccia a Faccia",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Non lasciare che i social media sostituiscano le relazioni reali. Dedica del tempo a incontrare amici e familiari di persona. Le interazioni faccia a faccia sono essenziali per il benessere emotivo e la costruzione di relazioni autentiche.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Considerazioni Finali",
+              "text": "Un limite di minuti, una cena senza telefono o un feed con meno confronti sull’aspetto sono confini. Non sono un trattamento di cui queste fonti abbiano misurato l’esito. Riehm e colleghi lasciano aperto proprio questo punto: se un tetto giornaliero riduca il carico, va ancora studiato.",
               "version": 1
             }
           ]
@@ -635,7 +527,29 @@
           "children": [
             {
               "type": "text",
-              "text": "I social media possono essere sia una benedizione che una maledizione. Sebbene offrano molte opportunità di connessione e apprendimento, un uso eccessivo e inconsapevole può compromettere il nostro benessere mentale e fisico. Gestire i social media in modo consapevole, limitando il tempo di utilizzo e filtrando i contenuti negativi, può aiutarti a trovare un equilibrio sano e godere dei benefici senza pagarne il prezzo. Inizia oggi stesso a essere più consapevole del tuo tempo sui social e a utilizzarli per arricchire la tua vita, non per appesantirla.",
+              "text": "Qualche confine coincide con richieste già scritte. L’APA: l’uso non dovrebbe togliere sonno e movimento, e il confronto sull’aspetto andrebbe limitato. Il Surgeon General, rivolto alle famiglie: zone senza tecnologia, amicizie di persona, e un esempio degli adulti. Tempo di utilizzo, su iPhone, e Benessere digitale, su Android, contano i minuti. Contarli non cura.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La versione del 2024 indicava app come Forest, Freedom e Offtime, e sfide di una settimana offline, come se il distacco dimostrasse un recupero. Un blocco orario può tenere chiusa un’app. Non è una terapia, e nessuna fonte di questa pagina ne misura l’effetto su ansia o sonno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prima di aprire un’app si può chiedere che cosa si sta cercando: un messaggio, un dato, un confronto. È una pausa. Non è una tecnica clinica. Le relazioni di persona restano un’indicazione dell’APA: i social non dovrebbero sostituire gli scambi dal vivo, né diventare il modo per evitarli.",
               "version": 1
             }
           ]

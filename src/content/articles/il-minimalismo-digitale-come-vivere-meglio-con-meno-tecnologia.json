@@ -1,21 +1,80 @@
 {
   "slug": "il-minimalismo-digitale-come-vivere-meglio-con-meno-tecnologia",
-  "title": "Il minimalismo digitale: come vivere meglio con meno tecnologia",
-  "excerpt": "Cal Newport ha reso famoso il concetto di digital minimalism. Ecco i sette passi per applicarlo e recuperare attenzione, tempo e benessere.",
+  "title": "Minimalismo digitale: meno tecnologia, senza miracoli",
+  "excerpt": "La filosofia di Cal Newport, annunciata nel 2018 e collocata nel 2019: poche attività digitali che contano. Ansia, melatonina e detox «miracolosi» non restano come fatti.",
   "cover": "/images/covers/minimalismo.jpg",
-  "coverAlt": "Copertina: Il minimalismo digitale: come vivere meglio con meno tecnologia",
+  "coverAlt": "Copertina dell’articolo sul minimalismo digitale.",
   "publishedAt": "2024-09-03T00:00:00.000Z",
+  "updatedAt": "2026-11-19T10:30:00.000+01:00",
   "authorSlugs": [],
   "categorySlugs": [
     "benessere-digitale",
     "app-e-strumenti"
   ],
-  "readingTime": 7,
+  "readingTime": 5,
   "status": "published",
   "seo": {
-    "metaTitle": "Minimalismo digitale: vivere meglio con meno tecnologia",
-    "metaDescription": "Cos'è il minimalismo digitale secondo Cal Newport e come applicarlo in sette passi concreti per recuperare attenzione e benessere."
+    "metaTitle": "Minimalismo digitale: che cosa è, senza miracoli",
+    "metaDescription": "Minimalismo digitale di Cal Newport (2019): poche attività che contano. Ansia, melatonina e detox miracoloso, con APA, AAO e ISS. Senza promesse."
   },
+  "sources": [
+    {
+      "title": "Cal Newport — My New Book: Digital Minimalism (4 dicembre 2018)",
+      "url": "https://calnewport.com/my-new-book-digital-minimalism/",
+      "note": "Post del 4 dicembre 2018, modificato il 26 gennaio 2023 secondo i dati della pagina. Annuncia Digital Minimalism: Choosing a Focused Life in a Noisy World, in uscita il 5 febbraio (l’anno non è in quella frase). Definizione usata qui: una filosofia d’uso della tecnologia in cui si riduce in modo radicale il tempo passato a fissare gli schermi, ci si concentra su un piccolo numero di attività digitali che sostengono ciò a cui si tiene davvero, e si ignora volentieri il resto. Newport argomenta che le tecnologie nuove sono state adottate con troppa disinvoltura e che per questo la qualità della vita starebbe diminuendo: è la sua tesi, il post non allega uno studio. Cita un esperimento di declutter per la ricerca del libro, cresciuto oltre 1.600 partecipanti, e una copertura sul New York Times. Non riporta un esito di salute."
+    },
+    {
+      "title": "Cal Newport — pagina dei libri",
+      "url": "https://www.calnewport.com/books/digital-minimalism/",
+      "note": "La trilogia è elencata così: Deep Work (2016), Digital Minimalism (2019), A World Without Email (2021). Serve a collocare il libro nel 2019. Non contiene la definizione usata nel post del 2018 e non riporta dati di salute."
+    },
+    {
+      "title": "APA — Health advisory on social media use in adolescence (aprile 2023)",
+      "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+      "note": "Considerazioni datate aprile 2023. I social non sono di per sé benefici o dannosi; i nessi causali sono rari. Raccomandazione 8: limitare il confronto sociale, soprattutto su bellezza e aspetto; il confronto sull’aspetto è legato a immagine corporea peggiore, condotte alimentari disturbate e sintomi depressivi, in particolare tra le ragazze. Non scrive che «passare troppo tempo sui social porta ad ansia e depressione» come effetto generale, e non misura un giorno di minimalismo."
+    },
+    {
+      "title": "American Academy of Ophthalmology — Should You Be Worried About Blue Light? (10 marzo 2021)",
+      "url": "https://www.aao.org/eye-health/tips-prevention/should-you-be-worried-about-blue-light",
+      "note": "Pagina del 10 marzo 2021, rivista da Rahul N. Khurana. Nessuna evidenza che la luce blu dei dispositivi danneggi l’occhio. L’affaticamento non lascia un danno duraturo. Troppa luce blu la sera può rendere più difficile addormentarsi; il portavoce suggerisce di limitare gli schermi nelle due o tre ore prima di dormire. Non parla di melatonina. Non raccomanda occhiali filtranti per il computer."
+    },
+    {
+      "title": "ISS — FAQ di benessereinrete",
+      "url": "https://benessereinrete.iss.it/faq",
+      "note": "Alla domanda sul perché gli schermi la sera possano rendere più difficile addormentarsi, l’ISS scrive che la luce a breve lunghezza d’onda, spesso chiamata luce blu, può contribuire alla soppressione della melatonina, e che l’effetto dipende da intensità, durata, distanza dallo schermo e sensibilità individuale. Non è un effetto automatico a ogni sera davanti a un telefono. La stessa pagina non valuta il minimalismo digitale di Newport."
+    },
+    {
+      "title": "HealthyChildren (American Academy of Pediatrics) — How to Make a Family Media Plan (aggiornata il 20 gennaio 2026)",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Aggiornata il 20 gennaio 2026. Zone senza schermo, un solo schermo alla volta, autoplay e notifiche spenti, alternative offline già scritte nel piano. È un piano familiare, non una prova che cancellare le app migliori l’umore o la concentrazione. Usata qui per i confini pratici, non per un beneficio clinico del minimalismo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Che cos’è il minimalismo digitale?",
+      "answer": "Nel post del 4 dicembre 2018 Cal Newport lo definisce come una filosofia d’uso della tecnologia: ridurre in modo radicale il tempo passato a fissare gli schermi, tenere poche attività digitali che sostengono ciò a cui si tiene davvero, e ignorare volentieri il resto. Il libro Digital Minimalism: Choosing a Focused Life in a Noisy World è annunciato per il 5 febbraio; la pagina dei libri lo colloca nel 2019. È una proposta di Newport, non una diagnosi e non un protocollo sanitario."
+    },
+    {
+      "question": "È la stessa cosa di un digital detox?",
+      "answer": "No. Un detox, in questi articoli, è una pausa o un confine: un pasto, una sera, un giorno. Il minimalismo di Newport è una scelta stabile su quali strumenti tenere. Il post del 2018 cita un esperimento di declutter con oltre 1.600 partecipanti e non riporta un esito di salute. Nessuna fonte di questa pagina misura un giorno offline come cura."
+    },
+    {
+      "question": "Ridurre i social diminuisce ansia e depressione?",
+      "answer": "Non come effetto generale. L’APA scrive che i social non sono di per sé benefici o dannosi e che i nessi causali sono rari. Il confronto sull’aspetto è legato a immagine corporea peggiore, condotte alimentari disturbate e sintomi depressivi, soprattutto tra le ragazze. La versione del 2024 diceva che troppo tempo sui social porta ad ansia e depressione: quella frase non ha una fonte in questa pagina."
+    },
+    {
+      "question": "La luce blu blocca la melatonina e rovina il sonno?",
+      "answer": "Non in modo automatico, e non agli occhi. L’American Academy of Ophthalmology scrive che non c’è evidenza di un danno all’occhio dalla luce blu dei dispositivi, e che troppa luce blu la sera può rendere più difficile addormentarsi. L’ISS scrive che la luce blu può contribuire alla soppressione della melatonina, con un effetto che dipende da intensità, durata, distanza e sensibilità della persona. La versione del 2024 ne faceva un’interferenza certa."
+    },
+    {
+      "question": "Disinstallare le app migliora la concentrazione?",
+      "answer": "Le fonti di questa pagina non lo misurano. Togliere le app che non si usano è ordine, nel senso del filtro di Newport: tenere ciò che serve a qualcosa a cui si tiene. La versione del 2024 scriveva che troppe informazioni causano confusione e rendono difficile decidere. Newport argomenta un’adozione troppo disinvolta. Non c’è qui una misura di quell’effetto sulle decisioni."
+    },
+    {
+      "question": "Un giorno offline a settimana fa miracoli?",
+      "answer": "No. La versione del 2024 lo scriveva. Una pausa può tenere il telefono fuori da un pasto o dall’ora prima di dormire: è un confine, in linea con il piano AAP e con l’associazione dell’APA tra tecnologia serale e sonno interrotto. Non è un risultato clinico e non «ripulisce» nulla. La metafora della dopamina da svuotare è un altro articolo."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",
@@ -26,30 +85,71 @@
           "children": [
             {
               "type": "text",
-              "text": "Nell’era digitale, la tecnologia ci circonda ovunque. Siamo costantemente connessi, bombardati da notifiche, e sempre alla ricerca dell'ultimo aggiornamento. Sebbene gli strumenti digitali offrano molteplici benefici, come l'accesso rapido all'informazione e la possibilità di connetterci con persone di tutto il mondo, l'uso eccessivo della tecnologia può portare a stress, ansia e affaticamento mentale. È qui che entra in gioco il concetto di ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "minimalismo digitale",
+              "text": "Nota: ",
               "version": 1,
-              "format": 1
+              "format": 2
             },
             {
               "type": "text",
-              "text": " — un approccio che propone di ridurre l'uso della tecnologia solo all'essenziale per vivere una vita più semplice e soddisfacente. Ma come funziona davvero il minimalismo digitale? E come può aiutarci a vivere meglio con meno tecnologia?",
+              "text": "non è un testo medico e non sostituisce un professionista. Se l’uso degli schermi toglie sonno, scuola o relazioni e non riesci a fermarlo, parlane con un medico o uno psicologo.",
+              "version": 1,
+              "format": 2
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La frase di Newport",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il 4 dicembre 2018 Cal Newport annuncia il libro Digital Minimalism: Choosing a Focused Life in a Noisy World, in uscita il 5 febbraio. In quella frase l’anno non c’è. Sulla pagina dei suoi libri il volume è collocato nel 2019, tra Deep Work (2016) e A World Without Email (2021).",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel post lo definisce come una filosofia d’uso della tecnologia: ridurre in modo radicale il tempo passato a fissare gli schermi, concentrarsi su un piccolo numero di attività digitali che sostengono ciò a cui si tiene davvero, e ignorare volentieri il resto. Argomenta che le tecnologie nuove sono state adottate con troppa disinvoltura e che, per questo, la qualità della vita starebbe diminuendo. È la sua tesi. Il post non allega uno studio.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Cita un esperimento di declutter digitale, fatto per la ricerca del libro, cresciuto oltre i 1.600 partecipanti, e una copertura sul New York Times. Non riporta un risultato di salute: niente ansia, niente sonno, niente concentrazione misurata.",
               "version": 1
             }
           ]
         },
         {
           "type": "heading",
-          "tag": "h3",
+          "tag": "h2",
           "version": 1,
           "children": [
             {
               "type": "text",
-              "text": "Cos'è il Minimalismo Digitale?",
+              "text": "Che cosa il testo del 2024 aggiungeva",
               "version": 1
             }
           ]
@@ -60,41 +160,19 @@
           "children": [
             {
               "type": "text",
-              "text": "Il ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "minimalismo digitale",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": " è una filosofia di vita che invita a usare la tecnologia in modo intenzionale, scegliendo con cura quali strumenti digitali mantenere nella propria vita e eliminando quelli superflui. L'obiettivo è migliorare la qualità della vita riducendo il rumore e le distrazioni digitali, favorendo invece esperienze più significative e autentiche.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Cal Newport, uno dei principali promotori di questa filosofia, descrive il minimalismo digitale come \"l’arte di concentrarsi solo su un numero limitato di attività digitali che supportano i tuoi valori e obiettivi personali\". In altre parole, si tratta di usare la tecnologia come uno strumento e non come una fonte di dipendenza.",
+              "text": "La versione del 3 settembre 2024 metteva tra gli effetti comuni dell’uso eccessivo l’ansia e la depressione da social, l’insonnia da luce blu che interferisce con la melatonina, e un giorno di detox che può fare miracoli per il benessere. Quelle frasi non stanno nelle pagine di Newport usate qui.",
               "version": 1
             }
           ]
         },
         {
           "type": "heading",
-          "tag": "h3",
+          "tag": "h2",
           "version": 1,
           "children": [
             {
               "type": "text",
-              "text": "Perché il Minimalismo Digitale è Importante?",
+              "text": "Ansia e depressione",
               "version": 1
             }
           ]
@@ -105,491 +183,88 @@
           "children": [
             {
               "type": "text",
-              "text": "Il minimalismo digitale è importante perché l'eccessivo uso della tecnologia può avere effetti negativi sulla nostra salute mentale e fisica. Alcuni degli impatti più comuni includono:",
+              "text": "L’advisory dell’American Psychological Association dell’aprile 2023 scrive che i social non sono di per sé benefici o dannosi, e che i nessi causali sono rari. Il confronto sull’aspetto è legato, nella raccomandazione 8, a un’immagine corporea peggiore, a condotte alimentari disturbate e a sintomi depressivi, soprattutto tra le ragazze. Non è la frase «passare troppo tempo sui social porta ad ansia e depressione». La coorte e i rapporti di rischio sono nell’articolo sui ",
               "version": 1
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "tag": "ul",
-          "listType": "bullet",
-          "version": 1,
-          "children": [
+            },
             {
-              "type": "listitem",
+              "type": "link",
+              "url": "/articoli/limpatto-dei-social-media-sul-benessere-e-come-gestirlo-in-modo-consapevole",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "Sovraccarico di informazioni",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Troppe informazioni possono causare confusione e stress, rendendo difficile prendere decisioni e concentrarsi su ciò che conta davvero.",
+                  "text": "social e il benessere",
                   "version": 1
                 }
               ]
             },
             {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Dipendenza dai social media",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Passare troppo tempo sui social può portare a sentimenti di inadeguatezza, ansia e depressione.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Insonnia e cattiva qualità del sonno",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": L'esposizione alla luce blu degli schermi può interferire con la produzione di melatonina, l'ormone del sonno.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Affaticamento mentale",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Essere costantemente connessi può causare esaurimento mentale e ridurre la nostra capacità di concentrazione e produttività.",
-                  "version": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
               "type": "text",
-              "text": "I Benefici del Minimalismo Digitale",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Adottare un approccio minimalista all'uso della tecnologia offre numerosi benefici:",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "tag": "ul",
-          "listType": "bullet",
-          "version": 1,
-          "children": [
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Maggiore produttività",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Eliminando le distrazioni digitali, è più facile concentrarsi su compiti importanti e raggiungere i propri obiettivi.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Migliore salute mentale",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Riducendo il tempo trascorso davanti agli schermi e il consumo di contenuti stressanti, si può diminuire l'ansia e migliorare l'umore.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Relazioni più significative",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Meno tempo sui dispositivi digitali significa più tempo per interazioni faccia a faccia e connessioni più profonde con le persone a cui tieni.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Più tempo per hobby e passioni",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Eliminando il tempo sprecato online, puoi dedicare più ore ad attività che ami, come leggere, fare sport, o praticare un hobby creativo.",
-                  "version": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Come Iniziare con il Minimalismo Digitale",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Adottare il minimalismo digitale non significa abbandonare completamente la tecnologia, ma piuttosto utilizzarla in modo più intenzionale. Ecco alcuni suggerimenti per iniziare:",
+              "text": ".",
               "version": 1
             }
           ]
         },
         {
           "type": "heading",
-          "tag": "h4",
+          "tag": "h2",
           "version": 1,
           "children": [
             {
               "type": "text",
-              "text": "1. ",
+              "text": "Luce, occhi, melatonina",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’American Academy of Ophthalmology, il 10 marzo 2021, scrive che non c’è evidenza che la luce blu dei dispositivi danneggi l’occhio. L’affaticamento non lascia un danno duraturo. Troppa luce blu la sera può rendere più difficile addormentarsi; il portavoce suggerisce di limitare gli schermi nelle due o tre ore prima di dormire. La pagina non parla di melatonina e non raccomanda occhiali filtranti per il computer.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le FAQ dell’Istituto Superiore di Sanità scrivono che la luce a breve lunghezza d’onda, spesso chiamata luce blu, può contribuire alla soppressione della melatonina, e che l’effetto dipende da intensità, durata, distanza dallo schermo e sensibilità individuale. Non è un interruttore che scatta a ogni sera davanti a un telefono. Sonno e notifiche in camera sono nell’articolo sul ",
               "version": 1
             },
             {
-              "type": "text",
-              "text": "Identifica i Tuoi Obiettivi Digitali",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Prima di tutto, rifletti su cosa vuoi ottenere dalla tecnologia. Chiediti: \"Quali strumenti digitali mi aiutano a raggiungere i miei obiettivi personali e professionali?\" e \"Quali applicazioni o piattaforme digitali aggiungono realmente valore alla mia vita?\". Questo ti aiuterà a identificare quali strumenti digitali mantenere e quali eliminare.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "2. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Fai un \"Decluttering\" Digitale",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Così come si fa con gli oggetti fisici, è utile fare una pulizia digitale. Disinstalla le app che non usi, elimina i profili sui social media che non ti portano valore, e cancella le email inutili. Meno disordine digitale hai, più sarà facile concentrarsi su ciò che è importante.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "3. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Limita il Tempo di Schermo",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Stabilisci dei limiti di tempo per l'uso dei dispositivi. Puoi utilizzare app come \"Tempo di utilizzo\" su iOS o \"Benessere digitale\" su Android per monitorare il tempo trascorso online e impostare dei limiti giornalieri. Dedica anche dei momenti specifici della giornata per essere completamente offline, come la mattina presto o la sera prima di dormire.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "4. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Stabilisci Regole per l'uso della Tecnologia",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Decidi come e quando vuoi usare la tecnologia. Ad esempio, potresti stabilire regole come \"niente smartphone al tavolo da pranzo\" o \"nessun controllo delle email dopo le 19\". Definire confini chiari ti aiuterà a mantenere un uso sano della tecnologia.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "5. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Pianifica delle Pause Digitali",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Programma regolarmente delle pause dalla tecnologia. Un “digital detox” di un giorno alla settimana o qualche ora al giorno può fare miracoli per il tuo benessere. Utilizza questo tempo per riconnetterti con te stesso, praticare attività fisiche o semplicemente rilassarti.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "6. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Sii Selettivo con i Social Media",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "I social media possono essere fonte di distrazione e stress. Considera di ridurre il numero di piattaforme che utilizzi e segui solo persone o pagine che aggiungono valore alla tua vita. Sii consapevole del tempo trascorso sui social e cerca di evitare lo scrolling senza fine.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h4",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "7. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Coltiva Attività Offline",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Trova hobby e attività che non coinvolgono la tecnologia, come la lettura, la pittura, il giardinaggio, o lo sport. Queste attività ti aiutano a staccare la spina e a goderti la vita nel mondo reale.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Come Mantenere il Minimalismo Digitale nel Tempo",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Adottare il minimalismo digitale richiede un impegno continuo. Ecco alcune idee per mantenere questa filosofia nel tempo:",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "tag": "ul",
-          "listType": "bullet",
-          "version": 1,
-          "children": [
-            {
-              "type": "listitem",
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "Rivedi Regolarmente le Tue Abitudini Digitali",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Ogni mese, fai un check-up delle tue abitudini digitali e vedi cosa funziona e cosa potrebbe essere migliorato.",
+                  "text": "telefono in camera",
                   "version": 1
                 }
               ]
             },
             {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Sii Consapevole",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Cerca di essere consapevole di quando e perché utilizzi la tecnologia. Sei veramente motivato o stai solo cercando di riempire un vuoto o evitare qualcosa?",
-                  "version": 1
-                }
-              ]
-            },
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
             {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Condividi il Tuo Percorso",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Parla con amici e familiari del tuo viaggio verso il minimalismo digitale. Potresti ispirarli a fare lo stesso e creare un gruppo di supporto.",
-                  "version": 1
-                }
-              ]
+              "type": "text",
+              "text": "I passi, come scelte",
+              "version": 1
             }
           ]
         },
@@ -599,7 +274,147 @@
           "children": [
             {
               "type": "text",
-              "text": "Il minimalismo digitale non riguarda il rifiuto della tecnologia, ma piuttosto il suo uso intelligente e consapevole per vivere una vita più equilibrata e significativa. In un mondo sempre più dominato da schermi e notifiche, trovare un modo per ridurre il rumore digitale può migliorare notevolmente la tua qualità di vita. Inizia oggi stesso a vivere meglio con meno tecnologia!",
+              "text": "I sette passi del 2024 possono restare come decisioni. Non come cura, e non come effetto già misurato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il primo è il filtro di Newport: quali strumenti servono a un obiettivo che c’è già, e quali no. Poche attività che sostengono ciò a cui si tiene. Non è una diagnosi.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il secondo è ordine: disinstallare app che non si aprono, chiudere profili che non si usano, svuotare la posta inutile. Nessuna fonte di questa pagina ne misura l’effetto sull’umore. La versione del 2024 scriveva anche che troppe informazioni causano confusione e rendono difficile decidere. Newport argomenta un’adozione troppo disinvolta. Non c’è, tra queste fonti, una misura di quell’effetto sulle decisioni.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un tetto di minuti, con Tempo di utilizzo o Benessere digitale, rende visibile il tempo. Vederlo non dimostra un beneficio clinico. Regole di luogo e di ora — niente telefono a tavola, niente posta dopo un orario scelto — sono confini personali. Il piano con le fonti istituzionali è nell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/digital-detox-in-famiglia-consigli-per-ridurre-luso-della-tecnologia-a-casa",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "detox in famiglia",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una pausa — un’ora, una sera, un giorno — può tenere il telefono fuori da un pasto o dal sonno. La pagina dell’AAP, aggiornata il 20 gennaio 2026, mette tavola, compiti e momento prima di dormire tra le zone senza schermo, e chiede di spegnere autoplay e notifiche perché tengono agganciati più a lungo. La versione del 2024 scriveva che un giorno alla settimana può fare miracoli. Nessuna fonte di questa pagina misura un miracolo, un umore o una produttività. Dieci confini quotidiani, senza quella promessa, sono nell’articolo sulle ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/10-semplici-strategie-per-un-digital-detox-quotidiano",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "dieci strategie",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sui social, meno piattaforme e meno confronto sull’aspetto seguono la raccomandazione 8 dell’APA. Non è un obbligo di cancellare gli account. Lo scroll senza fine non è, qui, una prova di un danno cognitivo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lettura, movimento, un hobby senza schermo occupano il tempo che il feed non occupa più. Sono sostituti. Non sono una terapia. La spiegazione chimica — una dopamina da ripulire con il digiuno digitale — non è nel post di Newport e non è ciò che queste fonti misurano. È discussa nella ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/dopamina-la-guida-completa",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "guida sulla dopamina",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Tenerlo nel tempo",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Rivedere le app ogni tanto è manutenzione. Chiedersi perché si apre il telefono è la stessa pausa del primo passo. Newport, nel post del 2018, non prescrive un gruppo di sostegno. L’APA, sull’età evolutiva, parla di discussione, non di un percorso chiamato minimalismo.",
               "version": 1
             }
           ]
