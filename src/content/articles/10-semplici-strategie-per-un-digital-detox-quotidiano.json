@@ -1,10 +1,11 @@
 {
   "slug": "10-semplici-strategie-per-un-digital-detox-quotidiano",
-  "title": "10 semplici strategie per un digital detox quotidiano",
-  "excerpt": "Dieci strategie pratiche e concrete per ridurre la dipendenza da smartphone e social media nella vita di tutti i giorni.",
+  "title": "10 strategie per un digital detox quotidiano",
+  "excerpt": "Dieci confini pratici: minuti, notifiche, coprifuoco e regola 20-20-20. Non è una terapia e non misura una dipendenza.",
   "cover": "/images/covers/digital-detox-quotidiano.jpg",
-  "coverAlt": "Copertina: 10 semplici strategie per un digital detox quotidiano",
+  "coverAlt": "Copertina dell’articolo sul digital detox quotidiano.",
   "publishedAt": "2024-12-20T17:27:13.817Z",
+  "updatedAt": "2026-11-19T10:30:00.000+01:00",
   "authorSlugs": [],
   "categorySlugs": [
     "digital-detox",
@@ -13,9 +14,62 @@
   "readingTime": 5,
   "status": "published",
   "seo": {
-    "metaTitle": "10 strategie per il digital detox quotidiano | benessere.digital",
-    "metaDescription": "Dieci tecniche pratiche per ridurre lo screen time e iniziare un digital detox sostenibile nella vita di tutti i giorni."
+    "metaTitle": "Digital detox quotidiano: 10 strategie concrete",
+    "metaDescription": "10 strategie di digital detox quotidiano: limiti, notifiche, coprifuoco e regola 20-20-20. Fonti AAO, APA, SIP e AAP. Non è una terapia."
   },
+  "sources": [
+    {
+      "title": "American Academy of Ophthalmology — Should You Be Worried About Blue Light? (10 marzo 2021)",
+      "url": "https://www.aao.org/eye-health/tips-prevention/should-you-be-worried-about-blue-light",
+      "note": "Pagina del 10 marzo 2021, rivista da Rahul N. Khurana. Nessuna evidenza che la luce blu dei dispositivi danneggi l’occhio. L’affaticamento, da meno ammiccamento e occhi secchi, non lascia un danno duraturo. Regola 20-20-20: ogni 20 minuti, guardare un oggetto ad almeno 20 piedi per almeno 20 secondi. L’Academy non raccomanda occhiali filtranti per il computer. Troppa luce blu la sera può rendere più difficile addormentarsi; il portavoce suggerisce di limitare gli schermi nelle due o tre ore prima di dormire."
+    },
+    {
+      "title": "APA — Health advisory on social media use in adolescence (aprile 2023)",
+      "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+      "note": "Considerazioni datate aprile 2023. La tecnologia nell’ora prima di dormire, e i social in particolare, è associata a interruzioni del sonno. L’uso non dovrebbe interferire con sonno e attività fisica. La ricerca richiamata indica almeno otto ore a notte per gli adolescenti. I social non sono di per sé benefici o dannosi; i nessi causali sono rari. L’advisory non misura l’effetto di un «digital detox quotidiano» su ansia o umore."
+    },
+    {
+      "title": "HealthyChildren (American Academy of Pediatrics) — How to Make a Family Media Plan (aggiornata il 20 gennaio 2026)",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Aggiornata il 20 gennaio 2026. Zone senza schermo (tavola, compiti, prima di dormire), un solo schermo alla volta, autoplay e notifiche spenti perché progettati per tenere i ragazzi agganciati più a lungo, alternative già scelte (lettura, gioco all’aperto, giochi, hobby), piano che include gli adulti. La pagina è scritta per le famiglie. Le stesse mosse, per un adulto, restano confini. Non è la prova che spegnere le notifiche riduca lo stress."
+    },
+    {
+      "title": "Società Italiana di Pediatria — Digitale e bambini: le nuove raccomandazioni SIP (27 gennaio 2026)",
+      "url": "https://sip.it/2026/01/27/digitale-e-bambini-le-nuove-raccomandazioni-sip/",
+      "note": "Pagina del 27 gennaio 2026. Tra le raccomandazioni: evitare i dispositivi durante i pasti e prima di dormire; incentivare attività all’aperto, sport, lettura e gioco creativo. Le ore per età (niente dispositivi sotto i 2 anni, meno di 1 ora tra i 2 e i 5, meno di 2 dopo i 5) riguardano bambini e ragazzi, non un tetto quotidiano per gli adulti. Non descrivono un detox come terapia."
+    },
+    {
+      "title": "ISS — FAQ di benessereinrete",
+      "url": "https://benessereinrete.iss.it/faq",
+      "note": "L’uso serale dei dispositivi può ritardare l’addormentamento, ridurre la durata del sonno e peggiorarne la qualità. Il rischio aumenta se il telefono resta in camera, se arrivano notifiche di notte o se l’attività è molto coinvolgente (social, videogiochi, video, chat). La luce blu può contribuire alla soppressione della melatonina, con un effetto che dipende da intensità, durata, distanza e sensibilità individuale. I segnali di un uso problematico guardano il funzionamento e non significano da soli una dipendenza."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Il digital detox quotidiano è una terapia?",
+      "answer": "No. È un insieme di confini: minuti visibili, stanze senza schermo, notifiche spente, un orario serale. L’APA associa la tecnologia nell’ora prima di dormire a interruzioni del sonno e scrive che i nessi causali sui social sono rari. Nessuna fonte di questa pagina misura un detox quotidiano come cura di ansia, umore o «dipendenza»."
+    },
+    {
+      "question": "Qual è la regola del 20-20-20?",
+      "answer": "Quella dell’American Academy of Ophthalmology, pagina del 10 marzo 2021: ogni 20 minuti, guardare un oggetto ad almeno 20 piedi — circa 6 metri — per almeno 20 secondi. Serve all’affaticamento visivo, che l’Academy attribuisce al battere meno le palpebre e non considera un danno duraturo. Non c’è evidenza, scrive, che la luce blu dei dispositivi danneggi l’occhio. Gli occhiali filtranti non sono raccomandati per il computer."
+    },
+    {
+      "question": "A che ora vanno spenti gli schermi la sera?",
+      "answer": "Le fonti non indicano un solo orario. L’APA associa la tecnologia nell’ora prima di dormire, e i social in particolare, a interruzioni del sonno. Il portavoce dell’American Academy of Ophthalmology suggerisce di limitare gli schermi nelle due o tre ore precedenti. SIP e AAP chiedono di evitare i dispositivi prima di dormire, senza fissare i minuti. L’ISS aggiunge che l’uso serale può ritardare l’addormentamento, e che il rischio cresce se il telefono resta in camera o vibra di notte."
+    },
+    {
+      "question": "Le notifiche causano stress?",
+      "answer": "Non è ciò che scrive la pagina dell’AAP. Autoplay e notifiche, dice, sono progettati per tenere i ragazzi agganciati più a lungo: per questo il piano familiare le spegne. L’ISS collega le notifiche notturne a un rischio maggiore per il sonno, non a una misura dello stress diurno. Spegnere ciò che non è una chiamata è un confine. Non è un esito clinico."
+    },
+    {
+      "question": "Devo cancellare i social per fare detox?",
+      "answer": "No. Si può lasciare l’account e togliere l’aggancio: notifiche, riproduzione automatica, telefono fuori dal letto e dal tavolo. Cancellare un’app è una scelta pratica, dello stesso tipo del minimalismo digitale. Non è la condizione per un beneficio che queste fonti non hanno misurato."
+    },
+    {
+      "question": "Il telefono fuori dalla camera a che cosa serve?",
+      "answer": "A non tenere in camera lo schermo dell’ultima ora e le notifiche della notte. L’APA associa la tecnologia in quell’ora, e i social in particolare, a interruzioni del sonno. L’ISS scrive che il rischio per il sonno aumenta se il telefono resta in camera. Non è la cura di un disturbo del sonno: se il sonno non torna, la domanda è per un medico."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",
@@ -26,7 +80,25 @@
           "children": [
             {
               "type": "text",
-              "text": "Viviamo in un mondo sempre più connesso, dove la tecnologia è diventata una parte essenziale della nostra vita quotidiana. Tuttavia, l'uso eccessivo di dispositivi digitali può influenzare negativamente il nostro benessere mentale e fisico. È qui che entra in gioco il \"digital detox\" — una pratica che mira a ridurre il tempo trascorso davanti agli schermi per promuovere una vita più sana e bilanciata. Ma come possiamo fare un detox digitale senza abbandonare completamente la tecnologia? Scopriamo insieme 10 semplici strategie per un digital detox quotidiano.",
+              "text": "Nota: ",
+              "version": 1,
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": "non è un testo medico e non sostituisce un professionista. Se l’uso degli schermi toglie sonno, scuola o relazioni e non riesci a fermarlo, parlane con un medico o uno psicologo.",
+              "version": 1,
+              "format": 2
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La versione del 20 dicembre 2024 apriva dicendo che l’uso eccessivo dei dispositivi influisce in negativo sul benessere mentale e fisico, e proponeva dieci strategie per una vita più sana. Le dieci mosse possono restare. Gli effetti sulla salute restano solo dove una fonte li scrive, e con il suo verbo. Un digital detox quotidiano, qui, è un confine ripetuto. Non è una terapia e non dimostra una dipendenza.",
               "version": 1
             }
           ]
@@ -38,14 +110,8 @@
           "children": [
             {
               "type": "text",
-              "text": "1. ",
+              "text": "1. Un limite di minuti, senza un effetto promesso",
               "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Stabilisci Limiti di Tempo per l'Uso dei Dispositivi",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -55,7 +121,7 @@
           "children": [
             {
               "type": "text",
-              "text": "La prima e più semplice strategia per un digital detox è impostare limiti di tempo per l'uso di smartphone, tablet e computer. Puoi utilizzare le funzionalità integrate nei dispositivi, come il \"Tempo di utilizzo\" su iPhone o \"Benessere digitale\" su Android, per monitorare il tempo trascorso online e fissare obiettivi giornalieri per ridurlo. Imposta un timer o una sveglia per ricordarti di fare una pausa ogni 30-60 minuti.",
+              "text": "Tempo di utilizzo su iPhone e Benessere digitale su Android contano il tempo e possono chiudere un’app a una soglia scelta. La soglia la decide chi usa il telefono. L’advisory dell’American Psychological Association non misura l’effetto di quel tetto sull’umore: scrive che i nessi causali sui social sono rari, e che l’uso non dovrebbe togliere sonno e movimento. Contare i minuti li rende visibili. Non li cura.",
               "version": 1
             }
           ]
@@ -67,14 +133,8 @@
           "children": [
             {
               "type": "text",
-              "text": "2. ",
+              "text": "2. Zone della casa senza schermo",
               "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Crea Zone Libere dalla Tecnologia",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -84,7 +144,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Designa alcune aree della tua casa come “zone libere dalla tecnologia”. Ad esempio, il tavolo da pranzo, la camera da letto o il bagno possono diventare spazi in cui gli smartphone, tablet e laptop sono proibiti. Questo ti aiuterà a disconnetterti dal mondo digitale e a concentrarti sul presente.",
+              "text": "La pagina dell’American Academy of Pediatrics, aggiornata il 20 gennaio 2026, indica come esempi la tavola, i compiti e il momento prima di dormire. La Società Italiana di Pediatria, il 27 gennaio 2026, lo chiede per bambini e ragazzi: niente dispositivi durante i pasti e prima di dormire. Tavolo e letto sono lo stesso confine anche per un adulto. Non diventano, per questo, una soglia pediatrica. La camera da letto, con luce e notifiche, è nell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
@@ -96,14 +173,8 @@
           "children": [
             {
               "type": "text",
-              "text": "3. ",
+              "text": "3. Notifiche: meno agganci",
               "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Spegni le Notifiche Non Necessarie",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -113,7 +184,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Le notifiche push possono essere fonte di grande distrazione e stress. Un modo efficace per ridurre il sovraccarico digitale è disattivare le notifiche per tutte le app non essenziali. Mantieni attive solo quelle che sono davvero importanti, come le chiamate o i messaggi urgenti, e disabilita tutto il resto.",
+              "text": "La versione del 2024 chiamava le notifiche una fonte di stress. La pagina AAP dice un’altra cosa: autoplay e notifiche sono progettati per tenere i ragazzi agganciati più a lungo, e nel piano familiare si spengono. Restano chiamate e messaggi che servono davvero. Spegnere il resto è un confine. Non è una misura dello stress.",
               "version": 1
             }
           ]
@@ -125,14 +196,8 @@
           "children": [
             {
               "type": "text",
-              "text": "4. ",
+              "text": "4. Una domanda prima di aprire l’app",
               "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Pratica la Mindfulness Digitale",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -142,7 +207,7 @@
           "children": [
             {
               "type": "text",
-              "text": "La mindfulness digitale consiste nel diventare consapevoli di come e perché utilizziamo i nostri dispositivi. Invece di afferrare automaticamente il telefono ogni volta che hai un momento libero, cerca di essere più presente e chiediti: \"Perché sto facendo questo?\" \"È necessario?\". Prendere coscienza delle tue abitudini digitali è il primo passo per cambiarle.",
+              "text": "Prima di sbloccare lo schermo: che cosa sto cercando, e mi serve adesso? Un messaggio, un orario, un confronto. La versione del 2024 chiamava questo gesto mindfulness digitale. Qui è una pausa. Non è una tecnica clinica e non ha, in queste fonti, un esito sull’ansia.",
               "version": 1
             }
           ]
@@ -154,14 +219,8 @@
           "children": [
             {
               "type": "text",
-              "text": "5. ",
+              "text": "5. Il coprifuoco serale, con orari diversi",
               "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Stabilisci un \"Coprifuoco Digitale\"",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -171,7 +230,18 @@
           "children": [
             {
               "type": "text",
-              "text": "Un’altra strategia utile è stabilire un “coprifuoco digitale” — un’ora specifica della sera in cui spegnere tutti i dispositivi elettronici. Questo ti aiuterà a rilassarti prima di andare a dormire e migliorare la qualità del tuo sonno. Gli esperti consigliano di interrompere l'uso dello schermo almeno un'ora prima di andare a letto.",
+              "text": "Non c’è un solo «gli esperti dicono un’ora». L’APA associa la tecnologia nell’ora prima di dormire, e i social in particolare, a interruzioni del sonno, e richiama almeno otto ore a notte per gli adolescenti. L’American Academy of Ophthalmology, per bocca del portavoce Rahul N. Khurana, suggerisce di limitare gli schermi nelle due o tre ore prima di dormire, perché troppa luce blu la sera può rendere più difficile addormentarsi. SIP e AAP chiedono di evitare i dispositivi prima di dormire, senza fissare i minuti.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’Istituto Superiore di Sanità scrive che l’uso serale può ritardare l’addormentamento, accorciare il sonno e peggiorarne la qualità, e che il rischio aumenta se il telefono resta in camera, se le notifiche arrivano di notte o se l’attività è coinvolgente. Sulla melatonina è cauto: la luce blu può contribuire a sopprimerla, con un effetto che dipende da intensità, durata, distanza e sensibilità. Non è un interruttore certo. Un orario scelto in casa — e il telefono fuori dal letto — è il confine. Se il sonno non torna, si chiede a un medico.",
               "version": 1
             }
           ]
@@ -183,14 +253,8 @@
           "children": [
             {
               "type": "text",
-              "text": "6. ",
+              "text": "6. Un giorno offline, senza miracoli",
               "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Programma Giorni di Detox Digitale",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -200,7 +264,41 @@
           "children": [
             {
               "type": "text",
-              "text": "Dedica un giorno alla settimana o al mese a un vero e proprio detox digitale. Può essere una domenica offline o una giornata senza social media. Utilizza questo tempo per connetterti con amici e familiari, fare una passeggiata nella natura, leggere un libro, o semplicemente goderti la calma lontano dagli schermi.",
+              "text": "Una domenica senza social, o un pomeriggio, mostra quanto spesso si apre il telefono. Non è un risultato di salute. Farlo in famiglia, con un piano e non con un divieto improvviso, è nell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/digital-detox-in-famiglia-consigli-per-ridurre-luso-della-tecnologia-a-casa",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "detox in famiglia",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". La filosofia di tenere poche attività digitali, invece di una pausa sola, è nell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/il-minimalismo-digitale-come-vivere-meglio-con-meno-tecnologia",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "minimalismo digitale",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
@@ -212,14 +310,8 @@
           "children": [
             {
               "type": "text",
-              "text": "7. ",
+              "text": "7. La regola 20-20-20 per gli occhi",
               "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Fai Pause Frequenti dal Lavoro al Computer",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -229,7 +321,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Se trascorri molte ore al computer per lavoro, assicurati di fare pause regolari. La regola del 20-20-20 può aiutare: ogni 20 minuti, guarda qualcosa a 20 piedi (circa 6 metri) di distanza per almeno 20 secondi. Questo ridurrà l'affaticamento degli occhi e ti aiuterà a staccare dal flusso continuo di informazioni digitali.",
+              "text": "L’American Academy of Ophthalmology, pagina del 10 marzo 2021: ogni 20 minuti, guardare qualcosa ad almeno 20 piedi, circa 6 metri, per almeno 20 secondi. L’affaticamento viene dal battere meno le palpebre e dagli occhi secchi. Non lascia un danno duraturo. Non c’è evidenza che la luce blu dei dispositivi danneggi l’occhio. L’Academy non raccomanda occhiali che la filtrano per il computer. La regola è una pausa per gli occhi. Non è una cura del sonno.",
               "version": 1
             }
           ]
@@ -241,14 +333,8 @@
           "children": [
             {
               "type": "text",
-              "text": "8. ",
+              "text": "8. Non disturbare, e i blocchi orari",
               "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Usa App di Digital Detox e Modalità \"Non Disturbare\"",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -258,7 +344,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Ci sono molte app progettate per aiutarti a ridurre il tempo di schermo e incoraggiare abitudini digitali più sane. Alcune app bloccano l'accesso a social media e giochi durante periodi specifici, mentre altre ti ricordano di fare pause regolari. Sfrutta anche la modalità \"Non Disturbare\" del tuo telefono per evitare distrazioni durante il lavoro o mentre sei impegnato in attività importanti.",
+              "text": "La modalità Non disturbare silenzia ciò che non è una chiamata, nel tratto di lavoro o di sonno. Alcune app chiudono social e giochi per un intervallo. La versione del 2024 le presentava come aiuto al detox. Sono interruttori. Non sono un trattamento, e queste fonti non ne misurano l’effetto sull’umore. Lo scroll che continua da solo, senza una notifica, è un altro meccanismo, descritto nell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/doomscrolling-perche-il-pollice-non-si-ferma",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "doomscrolling",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
@@ -270,14 +373,8 @@
           "children": [
             {
               "type": "text",
-              "text": "9. ",
+              "text": "9. Un’attività senza schermo, già scelta",
               "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Organizza Attività Offline",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -287,7 +384,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Trova hobby e attività che ti piacciono e che non coinvolgono la tecnologia, come la lettura, il giardinaggio, la pittura, o lo sport. Queste attività ti aiutano a staccare la spina e a trovare piacere e soddisfazione fuori dal mondo digitale.",
+              "text": "La pagina AAP chiede di scrivere nel piano i sostituti: lettura, gioco all’aperto, giochi, hobby. La SIP, per bambini e ragazzi, indica attività all’aperto, sport, lettura e gioco creativo. Il sostituto si sceglie prima, non nel momento in cui il feed è già aperto. Carta e schermo, quando l’attività è leggere, sono confrontati nell’articolo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/leggere-su-carta-o-su-schermo",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "leggere su carta o su schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
@@ -299,14 +413,8 @@
           "children": [
             {
               "type": "text",
-              "text": "10. ",
+              "text": "10. Vedere le persone di persona",
               "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Connetti con le Persone nel Mondo Reale",
-              "version": 1,
-              "format": 1
             }
           ]
         },
@@ -316,7 +424,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Niente può sostituire le connessioni umane reali. Organizza incontri con amici e familiari, cena fuori, fai una passeggiata insieme o partecipa a eventi locali. Queste esperienze arricchiranno la tua vita e ti permetteranno di staccarti dal costante bisogno di controllare il tuo dispositivo.",
+              "text": "L’AAP mette le amicizie e il faccia a faccia tra le ragioni delle zone senza schermo. L’APA scrive che i social non dovrebbero sostituire gli scambi reciproci dal vivo. Un pranzo, una passeggiata, un invito sono l’alternativa concreta. Non sono la prova che «niente possa sostituire» la presenza: sono il tempo in cui il telefono non è il terzo commensale.",
               "version": 1
             }
           ]

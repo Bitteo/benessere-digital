@@ -1,20 +1,74 @@
 {
   "slug": "digital-detox-in-famiglia-consigli-per-ridurre-luso-della-tecnologia-a-casa",
-  "title": "Digital detox in famiglia: consigli per ridurre l'uso della tecnologia a casa",
-  "excerpt": "Dieci strategie per famiglie che vogliono ritrovare spazio per la comunicazione reale, riducendo la dipendenza dai dispositivi digitali.",
+  "title": "Digital detox in famiglia: un piano condiviso, non una cura",
+  "excerpt": "Regole, zone senza schermo ed età dello smartphone: che cosa raccomandano SIP, AAP e APA. Ridurre gli schermi non è un esito clinico già misurato.",
   "cover": "/images/covers/detox-famiglia.jpg",
-  "coverAlt": "Copertina: Digital detox in famiglia: consigli per ridurre l'uso della tecnologia a casa",
+  "coverAlt": "Copertina dell’articolo sul digital detox in famiglia.",
   "publishedAt": "2024-09-03T00:00:00.000Z",
+  "updatedAt": "2026-11-19T10:30:00.000+01:00",
   "authorSlugs": [],
   "categorySlugs": [
     "genitori-e-scuola"
   ],
-  "readingTime": 7,
+  "readingTime": 5,
   "status": "published",
   "seo": {
-    "metaTitle": "Digital detox in famiglia: 10 consigli pratici",
-    "metaDescription": "Strategie concrete per famiglie che vogliono ridurre l'uso della tecnologia a casa e migliorare la qualità della vita digitale."
+    "metaTitle": "Digital detox in famiglia: un piano, non una cura",
+    "metaDescription": "Digital detox in famiglia: ore della SIP 2026, piano dei media AAP e regole APA. Non è una soglia dell’OMS. Sonno e stress non sono un esito misurato."
   },
+  "sources": [
+    {
+      "title": "Società Italiana di Pediatria — Digitale e bambini: le nuove raccomandazioni SIP (27 gennaio 2026)",
+      "url": "https://sip.it/2026/01/27/digitale-e-bambini-le-nuove-raccomandazioni-sip/",
+      "note": "Pagina del 27 gennaio 2026. La SIP scrive di basarsi sulla revisione più recente della letteratura e di confermare, rafforzandole, le raccomandazioni del 2018: nessun dispositivo sotto i 2 anni; meno di 1 ora al giorno tra i 2 e i 5 anni; meno di 2 ore al giorno dopo i 5 anni; sempre con la supervisione di un adulto. Rinviare lo smartphone personale almeno fino ai 13 anni, con la motivazione scritta di prevenire conseguenze sullo sviluppo cognitivo, emotivo e relazionale. Evitare Internet non supervisionato prima dei 13 anni, per il rischio di contenuti inappropriati. Ritardare i social il più possibile, anche se la legge li consente. Evitare i dispositivi durante i pasti e prima di dormire. Attività all’aperto, sport, lettura, gioco creativo. Supervisione, dialogo e strumenti di controllo a tutte le età. I pediatri dovrebbero valutare con regolarità le abitudini digitali. Sono raccomandazioni della società, non una soglia in cui al minuto successivo compare un danno."
+    },
+    {
+      "title": "Bull e colleghi — World Health Organization 2020 guidelines on physical activity and sedentary behaviour (British Journal of Sports Medicine, 2020)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/",
+      "note": "British Journal of Sports Medicine, 23 novembre 2020, 54(24), 1451–1462. DOI 10.1136/bjsports-2020-102955. Prima autrice Fiona C. Bull. Testo aperto su PMC. Ridurre la sedentarietà è raccomandato a tutte le età; le prove non bastavano a fissare una soglia in minuti. Per questo le ore indicate dalla SIP non sono qui riportate come un tetto dell’OMS. Bambini e adolescenti: in media 60 minuti al giorno di attività da moderata a vigorosa, e limitare il tempo da seduti, in particolare lo schermo ricreativo."
+    },
+    {
+      "title": "HealthyChildren (American Academy of Pediatrics) — How to Make a Family Media Plan (aggiornata il 20 gennaio 2026)",
+      "url": "https://www.healthychildren.org/English/family-life/Media/Pages/How-to-Make-a-Family-Media-Use-Plan.aspx",
+      "note": "Pagina per le famiglie, ultimo aggiornamento 20 gennaio 2026. Le regole si adattano alla famiglia e si discutono con i figli. Esempi: zone senza schermo (tavola, compiti, prima di dormire) per il faccia a faccia, lo studio e il sonno; un solo schermo alla volta; autoplay e notifiche spenti perché tengono i ragazzi agganciati più a lungo; contenuti scelti, con attenzione a pubblicità, violenza e materiali non adatti all’età; alternative già nel piano (lettura, gioco all’aperto, giochi in famiglia, hobby); controlli parentali su tempi, download, contatti e acquisti. Il piano include gli adulti, come modello, e si rivede, per esempio a inizio scuola, d’estate e nelle vacanze. La pagina indica lo scopo delle zone senza schermo. Non riporta uno studio in cui quelle zone hanno ridotto lo stress familiare."
+    },
+    {
+      "title": "APA — Health advisory on social media use in adolescence (aprile 2023)",
+      "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+      "note": "Considerazioni datate aprile 2023; la pagina indica maggio 2023. Per i 10–14 anni: monitoraggio adulto (revisione, discussione, coaching) bilanciato con la privacy; l’autonomia può crescere con l’età e le competenze. L’uso dei social da parte degli adulti davanti ai ragazzi può influire sull’uso dei ragazzi. Una ricerca preliminare suggerisce esiti migliori da limiti e discussione insieme. Raccomandazione 7: la tecnologia nell’ora prima di dormire, e i social in particolare, è associata a interruzioni del sonno; l’uso non dovrebbe togliere sonno e movimento. I social non sono di per sé benefici o dannosi; i nessi causali sono rari."
+    },
+    {
+      "title": "ISS — FAQ di benessereinrete",
+      "url": "https://benessereinrete.iss.it/faq",
+      "note": "Centro Nazionale Dipendenze e Doping, Istituto Superiore di Sanità. FAQ usate qui: prevenire un uso problematico con regole condivise, coerenti e spiegate, più utili dei divieti rigidi; togliere telefono o computer all’improvviso come punizione di solito non è la strategia più utile; i segnali (fatica a interrompere, sonno o scuola trascurati, irritazione se si limita l’accesso) guardano il funzionamento e non significano da soli una dipendenza; a chi chiedere aiuto (pediatra, medico, psicologo). Non è un trial sul detox familiare."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Un digital detox in famiglia migliora sonno e stress?",
+      "answer": "Non risulta dalle fonti di questa pagina. La versione del 2024 lo dava per fatto. La pagina AAP del 20 gennaio 2026 dice che le zone senza schermo — tavola, compiti, prima di dormire — servono al faccia a faccia, allo studio e al sonno. È lo scopo scritto nel piano, non un risultato misurato su una famiglia. L’APA associa la tecnologia nell’ora prima di dormire, e i social in particolare, a interruzioni del sonno."
+    },
+    {
+      "question": "Quante ore di schermo indica la Società Italiana di Pediatria?",
+      "answer": "Nella pagina del 27 gennaio 2026: nessun dispositivo sotto i 2 anni; meno di 1 ora al giorno tra i 2 e i 5 anni; meno di 2 ore al giorno dopo i 5 anni; sempre con un adulto. Sono raccomandazioni della SIP, in continuità con il 2018. Non sono una soglia oltre la quale le linee guida OMS del 2020 abbiano fissato un danno: Bull e colleghi scrivono che le prove non bastavano a quantificare un tetto di minuti da seduti."
+    },
+    {
+      "question": "A che età la SIP colloca lo smartphone personale?",
+      "answer": "Almeno a 13 anni. La pagina motiva il rinvio con la prevenzione di conseguenze sullo sviluppo cognitivo, emotivo e relazionale: è la ragione scritta dalla SIP, non un effetto misurato in questo articolo. Prima dei 13 anni la stessa pagina chiede di evitare Internet senza supervisione, per il rischio di contenuti inappropriati, e di ritardare i social anche quando la legge li consentirebbe."
+    },
+    {
+      "question": "I genitori devono entrare nel piano?",
+      "answer": "Sì, nelle fonti usate qui. La pagina AAP chiede un piano per ogni membro della famiglia, adulti compresi, perché l’adulto è un modello. L’APA aggiunge che l’uso dei social da parte degli adulti, davanti ai ragazzi, può influire sull’uso dei ragazzi. Per i 10–14 anni consiglia monitoraggio e discussione, con spazio alla privacy."
+    },
+    {
+      "question": "Serve togliere il telefono come punizione?",
+      "answer": "L’ISS scrive che toglierlo all’improvviso, senza spiegazioni e senza un accordo, di solito non è la strategia più utile: può aumentare il conflitto e spingere a nascondere l’uso. Preferisce regole condivise e spiegate. Una sospensione ha senso se è proporzionata e prevedibile, per esempio quando l’uso interferisce con sonno, scuola, relazioni o sicurezza."
+    },
+    {
+      "question": "Tante ore online significano una dipendenza?",
+      "answer": "Non da sole. L’ISS chiede di guardare il funzionamento: fatica a interrompere, irritazione se si limita l’accesso, sonno o scuola trascurati, attività offline abbandonate. Quei segnali non sono una diagnosi. Se restano e pesano sulla giornata, la pagina indica il pediatra, il medico o uno psicologo."
+    }
+  ],
   "content": {
     "root": {
       "type": "root",
@@ -25,25 +79,248 @@
           "children": [
             {
               "type": "text",
-              "text": "Viviamo in un mondo iperconnesso, dove la tecnologia è parte integrante delle nostre vite quotidiane. Se da un lato i dispositivi digitali offrono praticità e divertimento, dall’altro un uso eccessivo può influenzare negativamente la qualità delle nostre relazioni familiari e il nostro benessere. I bambini, in particolare, sono spesso attratti da smartphone, tablet e videogiochi, mentre gli adulti possono sentirsi sopraffatti da notifiche costanti e obblighi lavorativi anche fuori dall'orario d'ufficio. ",
+              "text": "Nota: ",
+              "version": 1,
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": "non è un testo medico e non sostituisce un professionista. Se l’uso degli schermi toglie sonno, scuola o relazioni e non riesci a fermarlo, parlane con un medico o uno psicologo.",
+              "version": 1,
+              "format": 2
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un piano, non un esito",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La versione del 3 settembre 2024 scriveva che ridurre gli schermi in famiglia migliora il sonno, riduce lo stress e favorisce attività fisiche più salutari, e inquadrava i dispositivi come una dipendenza da ridurre. Nessuna fonte di questa pagina misura quegli esiti. Qui un digital detox familiare è un piano condiviso: chi usa che cosa, in quale stanza, e che cosa si fa quando lo schermo sta spento.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le ore che indica la SIP",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La Società Italiana di Pediatria, nella pagina del 27 gennaio 2026, pubblica raccomandazioni «sulla base della più recente revisione della letteratura» e scrive di confermare e rafforzare quelle del 2018. Il testo dice: nessun dispositivo sotto i 2 anni; meno di 1 ora al giorno tra i 2 e i 5 anni; meno di 2 ore al giorno dopo i 5 anni; sempre con la supervisione di un adulto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sullo smartphone la pagina è netta. Rinviare quello personale almeno fino ai 13 anni: la SIP motiva il rinvio con la prevenzione di conseguenze sullo sviluppo cognitivo, emotivo e relazionale. È la ragione scritta lì, non un effetto misurato in questo articolo. Evitare Internet non supervisionato prima dei 13 anni, per il rischio di contenuti inappropriati. Ritardare il più possibile i social, anche quando la legge li consentirebbe. Durante i pasti e prima di dormire, evitare i dispositivi. Accanto, attività all’aperto, sport, lettura e gioco creativo, e supervisione, dialogo e strumenti di controllo a tutte le età. I pediatri, scrive, dovrebbero valutare con regolarità le abitudini digitali.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il «meno di 2 ore dopo i 5 anni» è una raccomandazione della SIP. Non è un tetto dell’Organizzazione mondiale della sanità. Le linee guida OMS del 2020, nell’articolo di Bull e colleghi, raccomandano di ridurre la sedentarietà a tutte le età e scrivono che le prove non bastavano a fissare una soglia in minuti. Il numero della SIP è un riferimento pediatrico italiano. Non è la prova che al minuto 121 succeda un danno.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il piano dell’AAP, adulti compresi",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina dell’American Academy of Pediatrics su come fare un piano familiare per i media, aggiornata il 20 gennaio 2026, parte da un’altra frase: ogni famiglia è diversa, e le regole si discutono con i figli. Tra gli esempi ci sono zone senza schermo, come la tavola, i compiti e il momento prima di dormire, per il faccia a faccia, lo studio e il sonno. Un solo schermo alla volta: si spengono i dispositivi che non si stanno usando. Autoplay e notifiche spenti, perché sono progettati per tenere i ragazzi agganciati più a lungo. Contenuti scelti, con un occhio a pubblicità, violenza e materiali non adatti all’età.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel piano stanno già le alternative: lettura, gioco all’aperto, giochi in famiglia, hobby. I controlli parentali riguardano tempi, download, contatti e acquisti. Il piano include gli adulti, come modello, e si rivede. La pagina indica l’inizio della scuola, l’estate e le vacanze. Dice a che cosa dovrebbero servire le zone senza schermo. Non riporta uno studio in cui quelle zone hanno ridotto lo stress di una famiglia.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Dai 10 ai 14 anni, e l’esempio degli adulti",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’advisory dell’American Psychological Association dell’aprile 2023, sui social in adolescenza, per i 10–14 anni consiglia un monitoraggio adulto: revisione, discussione e coaching, bilanciati con la privacy. L’autonomia può crescere con l’età e con le competenze. L’uso dei social da parte degli adulti davanti ai ragazzi — distrarsi durante uno scambio di persona — può influire sull’uso dei ragazzi. Una ricerca preliminare, scrive l’advisory, suggerisce che gli esiti migliori arrivano da due cose insieme: limiti, e discussione. Non dal solo divieto.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’uso non dovrebbe interferire con sonno e movimento. La tecnologia nell’ora prima di dormire, e i social in particolare, è associata a interruzioni del sonno. Il telefono acceso di notte è trattato a parte nell’articolo sul ",
               "version": 1
             },
             {
-              "type": "text",
-              "text": "Come possiamo trovare un equilibrio?",
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
               "version": 1,
-              "format": 1
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
             },
             {
               "type": "text",
-              "text": " La risposta potrebbe essere un ",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Regole spiegate",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le FAQ dell’Istituto Superiore di Sanità, sul sito benessereinrete, dicono che regole condivise, coerenti e spiegate sono più utili dei divieti rigidi. Togliere telefono o computer all’improvviso, come punizione e senza un accordo, di solito non è la strategia più utile: può aumentare il conflitto e spingere a nascondere l’uso. Una sospensione ha senso, scrive la pagina, se è proporzionata e prevedibile, per esempio quando l’uso interferisce con sonno, scuola, relazioni o sicurezza.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sui segnali, l’ISS chiede di guardare il funzionamento più che le sole ore: fatica a interrompere, irritazione se si limita l’accesso, sonno o scuola trascurati, perdita di attività che prima piacevano. Quei segnali non significano da soli una dipendenza. Se restano, pediatra, medico o psicologo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Metterlo in casa",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Si scrive il piano, non si appende un manifesto. Pasti e ora prima del sonno senza dispositivi, come chiedono la SIP e l’AAP. Un solo schermo acceso. Notifiche e riproduzione automatica spente. Le alternative — una passeggiata, una partita, un libro — stanno nel piano prima della discussione. Un giorno senza social può essere una prova di famiglia. Non è un obbligo della pagina AAP e non ha, qui, un esito misurato.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "L’età dello smartphone personale è il punto in cui la SIP indica almeno 13 anni, e chiede di non usare Internet da soli prima di quell’età. Come si decide in una casa, con i passaggi e le eccezioni, è nell’articolo sul ",
               "version": 1
             },
             {
-              "type": "text",
-              "text": "digital detox in famiglia",
+              "type": "link",
+              "url": "/articoli/primo-smartphone-eta-e-regole",
               "version": 1,
-              "format": 1
+              "children": [
+                {
+                  "type": "text",
+                  "text": "primo smartphone",
+                  "version": 1
+                }
+              ]
             },
             {
               "type": "text",
@@ -58,569 +335,69 @@
           "children": [
             {
               "type": "text",
-              "text": "Scopriamo insieme come ridurre l'uso della tecnologia a casa e migliorare la comunicazione, la connessione e il benessere di tutta la famiglia con semplici ma efficaci strategie.",
+              "text": "Tra gli 8 e i 14 anni il monitoraggio dell’APA e le ore della SIP vanno tradotti in accordi da rileggere. Un modello è nell’articolo sugli ",
               "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
+            },
             {
-              "type": "text",
-              "text": "Perché Fare un Digital Detox in Famiglia?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Un digital detox in famiglia non significa abbandonare del tutto la tecnologia, ma piuttosto utilizzarla in modo più consapevole e intenzionale. Ecco perché potrebbe essere una buona idea:",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "tag": "ul",
-          "listType": "bullet",
-          "version": 1,
-          "children": [
-            {
-              "type": "listitem",
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "Migliora la Comunicazione",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Trascorrere meno tempo davanti agli schermi permette di dedicare più tempo alla conversazione e all'interazione reale con i membri della famiglia.",
+                  "text": "accordi di schermo",
                   "version": 1
                 }
               ]
             },
             {
-              "type": "listitem",
+              "type": "text",
+              "text": ".",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I videogiochi non sono, in queste fonti, una dipendenza automatica. Quando l’uso preoccupa è un altro pezzo, sui ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/videogiochi-e-ragazzi-quando-preoccuparsi",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "Promuove il Benessere Mentale e Fisico",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Ridurre il tempo di schermo aiuta a migliorare la qualità del sonno, ridurre lo stress e favorire attività fisiche più salutari.",
+                  "text": "videogiochi",
                   "version": 1
                 }
               ]
             },
             {
-              "type": "listitem",
+              "type": "text",
+              "text": ". I controlli su tempi, acquisti e contatti sono nell’elenco dell’AAP. Tenerli senza trasformarli in un controllo continuo è il tema dell’articolo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "Favorisce Relazioni Più Forti",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Con meno distrazioni digitali, i membri della famiglia possono trascorrere più tempo di qualità insieme, creando ricordi preziosi.",
+                  "text": "proteggere senza spiare",
                   "version": 1
                 }
               ]
             },
             {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Insegna l’Equilibrio ai Bambini",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Un digital detox può aiutare i bambini a imparare a gestire meglio il loro tempo e a sviluppare abitudini sane riguardo all'uso della tecnologia.",
-                  "version": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
               "type": "text",
-              "text": "1. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Stabilire Regole Familiari sull'Uso della Tecnologia",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Il primo passo per un digital detox in famiglia è stabilire delle ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "regole chiare",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": " riguardo all’uso della tecnologia. Potrebbe essere utile creare insieme una \"carta della famiglia\" in cui si delineano i limiti, come ad esempio:",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "tag": "ul",
-          "listType": "bullet",
-          "version": 1,
-          "children": [
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Nessun utilizzo di smartphone o tablet durante i pasti.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Limiti giornalieri o settimanali per l'uso dei videogiochi.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "\"Coprifuoco digitale\" serale, ad esempio, spegnere tutti i dispositivi almeno un'ora prima di andare a letto.",
-                  "version": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Queste regole devono essere rispettate da tutti i membri della famiglia, compresi gli adulti, per dare il buon esempio.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "2. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Creare Spazi “Free-Tech” a Casa",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Un altro modo efficace per ridurre l’uso della tecnologia è designare alcune aree della casa come ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "spazi “free-tech”",
-              "version": 1,
-              "format": 1
-            },
-            {
-              "type": "text",
-              "text": ". La cucina, la sala da pranzo o la camera da letto possono diventare luoghi dove gli schermi non sono ammessi. Questi spazi liberi dalla tecnologia incoraggiano la conversazione, la lettura, i giochi da tavolo e altre attività che non coinvolgono schermi digitali.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "3. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Introdurre Attività Familiari Senza Tecnologia",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Organizzare attività familiari che non richiedono dispositivi digitali è un ottimo modo per trascorrere del tempo di qualità insieme. Alcune idee possono includere:",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "tag": "ul",
-          "listType": "bullet",
-          "version": 1,
-          "children": [
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Giochi da Tavolo o Carte",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Un'attività classica che unisce divertimento e interazione.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Passeggiate all'Aperto",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Andare a fare una passeggiata nel parco o in natura offre un’ottima opportunità per parlare e connettersi.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Cucinare Insieme",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Preparare un pasto insieme può diventare un’esperienza divertente e educativa.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Progetti Creativi",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": ": Dipingere, fare bricolage o costruire qualcosa insieme sono ottime attività per stimolare la creatività.",
-                  "version": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "4. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Scegliere Un Giorno di Digital Detox Settimanalmente",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Scegliere un giorno alla settimana in cui tutta la famiglia si disconnette dai dispositivi digitali è una pratica potente per promuovere la consapevolezza e il benessere. Può essere una domenica offline o un sabato senza schermi. Durante questa giornata, dedicati ad attività che incoraggiano l’interazione faccia a faccia, come giocare, cucinare, leggere o fare escursioni.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "5. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Utilizzare la Tecnologia con Intenzione",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Non tutta la tecnologia è cattiva, quindi insegnare ai membri della famiglia a usarla in modo consapevole e intenzionale è essenziale. Per esempio, utilizza le app di monitoraggio del tempo di schermo per capire quanto tempo viene trascorso online e fissare obiettivi per ridurlo. Incoraggia l’uso della tecnologia per scopi educativi, creativi o per mantenere le relazioni, piuttosto che per un consumo passivo.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "6. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Incoraggiare la Comunicazione Aperta",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "È importante parlare apertamente con i tuoi familiari, soprattutto con i bambini, sull’importanza di un equilibrio digitale. Discuti degli effetti dell'uso eccessivo della tecnologia sulla salute, sulle emozioni e sulle relazioni. Coinvolgi tutti nel processo decisionale per stabilire regole e limiti, rendendo il digital detox una pratica condivisa.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "7. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Dare l'Esempio come Genitori",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "I bambini imparano osservando il comportamento degli adulti, quindi è fondamentale dare l'esempio come genitori. Se vuoi che i tuoi figli riducano l'uso della tecnologia, devi mostrare loro come fare. Evita di utilizzare il telefono durante i pasti o quando sei in compagnia della famiglia. Mostra come si può vivere bene anche senza essere costantemente connessi.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "8. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Sostituisci la Tecnologia con Altre Fonti di Intrattenimento",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Anziché affidarti alla tecnologia per intrattenere i bambini, proponi altre opzioni. Porta i tuoi figli al parco, organizza una giornata di attività fisica all'aperto, o visita una libreria locale per scegliere nuovi libri da leggere insieme. Queste attività non solo riducono il tempo di schermo, ma arricchiscono anche le esperienze di apprendimento e crescita.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "9. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Utilizza App di Controllo Parentale e Filtri di Contenuto",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Per i genitori di bambini più piccoli, l'uso di app di controllo parentale e filtri di contenuto può essere un modo utile per monitorare e limitare l'accesso a contenuti inappropriati e per tenere traccia del tempo di schermo. Questi strumenti possono aiutare a garantire che i bambini utilizzino la tecnologia in modo sicuro e responsabile.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "10. ",
-              "version": 1
-            },
-            {
-              "type": "text",
-              "text": "Riconosci i Successi e Festeggia i Progressi",
-              "version": 1,
-              "format": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Infine, è importante riconoscere e celebrare i successi nel ridurre l'uso della tecnologia. Che sia una settimana senza televisione durante i pasti o una giornata intera senza smartphone, riconosci gli sforzi di ogni membro della famiglia. Questo rafforza l'idea che un digital detox è una pratica positiva e benefica per tutti.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "In Sintesi",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Il digital detox in famiglia è un modo efficace per ristabilire l'equilibrio tra il mondo digitale e le relazioni personali. Con semplici regole, spazi liberi dalla tecnologia e attività coinvolgenti, la tua famiglia può imparare a vivere meglio con meno tecnologia. Inizia oggi stesso a fare un piccolo passo verso una vita più connessa nel mondo reale!",
+              "text": ".",
               "version": 1
             }
           ]
