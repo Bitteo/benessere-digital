@@ -1,53 +1,100 @@
 {
   "slug": "videogiochi-e-ragazzi-quando-preoccuparsi",
   "title": "Videogiochi e ragazzi: quando preoccuparsi davvero (e quando no)",
-  "excerpt": "Gaming disorder nell’ICD-11: i criteri dell’OMS, la differenza tra passione e problema, e cosa guardare in famiglia prima di togliere la console.",
+  "excerpt": "Tre tratti nell’ICD-11, un danno al funzionamento e, di norma, dodici mesi. L’OMS non fissa le ore e non dà una percentuale. Nel DSM-5-TR il gioco non è una diagnosi.",
   "cover": "/images/covers/videogiochi-e-ragazzi-quando-preoccuparsi.png",
   "coverAlt": "Illustrazione editoriale a linee: ragazzo seduto sul pavimento con il controller, genitore tranquillo sulla porta, accenti corallo su fondo off-white — senza testo leggibile.",
   "publishedAt": "2026-10-12T09:00:00.000+02:00",
-  "authorSlugs": ["matteo-foroni"],
-  "categorySlugs": ["genitori-e-scuola", "schermo-e-tempo"],
-  "readingTime": 9,
+  "updatedAt": "2026-11-20T09:30:00.000+01:00",
+  "authorSlugs": [
+    "matteo-foroni"
+  ],
+  "categorySlugs": [
+    "genitori-e-scuola",
+    "schermo-e-tempo"
+  ],
+  "readingTime": 15,
   "status": "published",
   "seo": {
     "metaTitle": "Videogiochi e ragazzi: quando preoccuparsi",
-    "metaDescription": "Gaming disorder nell’ICD-11: criteri OMS, differenza tra passione e problema, segnali concreti e cosa fare in famiglia senza allarmismo.",
+    "metaDescription": "Quando preoccuparsi per i videogiochi: tre tratti ICD-11, di norma 12 mesi, nessuna soglia di ore. Nel DSM-5-TR non è una diagnosi.",
     "noIndex": false
   },
   "sources": [
     {
       "title": "OMS — Gaming disorder (FAQ sulle classificazioni)",
       "url": "https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder",
-      "note": "Definizione ICD-11, compromissione del funzionamento, durata di norma di almeno 12 mesi, quota piccola di chi gioca."
+      "note": "Definizione ICD-11: modo di giocare («digital-gaming» o «video-gaming») con controllo compromesso, priorità crescente fino a passare davanti ad altri interessi e alle attività quotidiane, continuazione o escalation nonostante le conseguenze negative. Per la diagnosi: compromissione significativa del funzionamento personale, familiare, sociale, scolastico, lavorativo o in un’altra area importante, di norma da almeno 12 mesi. Inclusione basata su revisioni delle prove e sul consenso di esperti nelle consultazioni tecniche. L’inclusione segue programmi di trattamento già esistenti e, scrive la pagina, porterà più attenzione dei professionisti sui rischi e quindi su prevenzione e trattamento. Gli studi suggeriscono una quota piccola di chi gioca. Nessuna percentuale e nessuna soglia di ore. Invito a stare attenti al tempo quando esclude le altre attività, e ai cambiamenti di salute fisica, psicologica e sociale che si possono ricondurre a quel modo di giocare. La pagina rimanda in nota a un PDF Springer: quel file non è stato usato qui."
     },
     {
-      "title": "OMS — Addictive behaviours: Gaming disorder (domande e risposte)",
+      "title": "OMS — Addictive behaviours: Gaming disorder (domande e risposte, 22 ottobre 2020)",
       "url": "https://www.who.int/news-room/questions-and-answers/item/addictive-behaviours-gaming-disorder",
-      "note": "Stessa definizione, 22 ottobre 2020. Non indica una soglia di ore."
+      "note": "Pagina del 22 ottobre 2020. Stessa definizione e stesso requisito: gravità sufficiente a una compromissione significativa del funzionamento, di norma da almeno 12 mesi. Non usa, in quel paragrafo, la formula «disagio marcato oppure compromissione» della nota del 2018. L’ICD è lo standard internazionale per riportare malattie e condizioni; l’inclusione di un disturbo è un elemento che i Paesi considerano nel pianificare le strategie di salute pubblica. L’OMS ha pubblicato l’ICD-11 a metà del 2018. Stessa frase sulla quota piccola, senza percentuale e senza tetto di ore. Il titolo della pagina è «Addictive behaviours»: è la collocazione della scheda, non una misura su chiunque giochi."
+    },
+    {
+      "title": "OMS — Inclusion of “gaming disorder” in ICD-11 (14 settembre 2018)",
+      "url": "https://www.who.int/news-room/detail/14-09-2018-inclusion-of-gaming-disorder-in-icd-11",
+      "note": "Aggiornamento di dipartimento, Ginevra, 14 settembre 2018. Casi clinici di gioco con disagio o compromissione significativa riportati da anni nella stampa accademica e nella pratica clinica. Nel 2013 l’Internet Gaming Disorder è entrato nel DSM-5 come condizione per ulteriori studi. Il gaming disorder, varianti online e offline, è incluso come sindrome clinicamente riconoscibile e clinicamente significativa quando il modo di giocare produce disagio marcato o compromissione significativa nel funzionamento personale, familiare, sociale, scolastico o lavorativo. Quel paragrafo non indica i 12 mesi. ICD-11 pubblicato a metà 2018. Le preoccupazioni di salute associate al gioco non si limitano al disturbo e includono, come esempi, attività fisica insufficiente, dieta non sana, problemi di vista o udito, problemi muscoloscheletrici, deprivazione di sonno, comportamento aggressivo e depressione, oltre al funzionamento psicosociale. Il verbo è «associated». Stessa frase sulla quota piccola, senza percentuale."
+    },
+    {
+      "title": "American Psychiatric Association — Internet Gaming (revisione di James Sherer, gennaio 2023)",
+      "url": "https://www.psychiatry.org/patients-families/internet-gaming",
+      "note": "Pagina per pazienti e famiglie. Revisione indicata: James Sherer, M.D., gennaio 2023. Nel DSM-5-TR l’Internet Gaming Disorder sta nella sezione delle condizioni raccomandate per ulteriori ricerche, insieme al disturbo da uso di caffeina. Il disturbo da gioco d’azzardo è l’unica dipendenza comportamentale identificata nel DSM-5-TR. La condizione proposta è limitata al gioco: non include internet in generale, gioco d’azzardo online, social o smartphone. Deve causare «significant impairment or distress». Nove sintomi proposti; per la proposta ne servirebbero cinque o più entro un anno. Tra questi, l’astinenza (tristezza, ansia, irritabilità) quando il gioco è tolto o non è possibile. La pagina riferisce lo studio di Przybylski, Weinstein e Murayama, American Journal of Psychiatry, marzo 2017: la maggior parte di chi giocava non riportava sintomi; 0,3–1,0% della popolazione generale avrebbe potuto qualificarsi; adulti in USA, Regno Unito, Canada e Germania; oltre l’86% dei 18–24 anni e oltre il 65% di tutti gli adulti avevano giocato online di recente; ricerca mista su una salute peggiore. Gli autori, secondo la pagina, distinguono impegno appassionato e patologia. Uno studio del 2022 citato in bibliografia (Gao, Wang e Dong, Journal of Psychiatric Research) è riassunto così: la prevalenza può essere piuttosto alta, soprattutto rispetto ad altre dipendenze comportamentali, senza una cifra. Aumento marcato dell’incidenza in pandemia, senza un numero. Il dibattito se sia dipendenza o disturbo resta aperto; alcuni lo leggono come sintomo di depressione o ansia. L’apertura («one of the most addicting technologies») e la frase sulle somiglianze neurologiche con le sostanze non citano uno studio e non sono usate come prova. Gli studi del 2017 e del 2022 non sono stati aperti per questo articolo: le cifre restano quelle che la pagina APA riporta."
+    },
+    {
+      "title": "Società Italiana di Pediatria — Digitale e bambini: le nuove raccomandazioni SIP (27 gennaio 2026)",
+      "url": "https://sip.it/2026/01/27/digitale-e-bambini-le-nuove-raccomandazioni-sip/",
+      "note": "Pagina pubblicata il 27 gennaio 2026. Raccomandazioni presentate sulla base di una revisione recente della letteratura: la pagina non riporta i risultati di quegli studi. Evitare l’accesso a internet non supervisionato prima dei 13 anni. Rinviare lo smartphone personale almeno fino ai 13 anni, con la motivazione scritta di prevenire conseguenze sullo sviluppo cognitivo, emotivo e relazionale. Ritardare i social il più possibile. Evitare i dispositivi durante i pasti e prima di dormire. Incentivare attività all’aperto, sport, lettura e gioco creativo. Supervisione, dialogo e strumenti di controllo in tutte le età. I pediatri dovrebbero valutare con regolarità le abitudini digitali e offrire consulenza preventiva. In continuità con le raccomandazioni SIP 2018: nessun dispositivo sotto i 2 anni, meno di 1 ora al giorno tra i 2 e i 5, meno di 2 ore al giorno dopo i 5, sempre sotto la supervisione dell’adulto. Sono limiti sui dispositivi, non una soglia di gaming disorder e non un tetto OMS."
     }
   ],
   "faq": [
     {
       "question": "Quante ore di gioco sono troppe?",
-      "answer": "Le pagine dell’OMS sul gaming disorder non fissano una soglia di ore. Descrivono un modo di giocare che toglie il controllo, passa davanti al resto della giornata e continua nonostante le conseguenze, con un danno chiaro al funzionamento. Un pomeriggio lungo, da solo, non è quel quadro."
+      "answer": "Le pagine dell’OMS sul gaming disorder non fissano una soglia di ore. Descrivono un modo di giocare con controllo compromesso, priorità sulle altre attività e continuazione nonostante le conseguenze, abbastanza grave da compromettere il funzionamento e, di norma, evidente da almeno 12 mesi. La Società Italiana di Pediatria, il 27 gennaio 2026, indica ore per i dispositivi in generale: nessuno sotto i 2 anni, meno di un’ora al giorno tra i 2 e i 5, meno di due dopo i 5. È una raccomandazione pediatrica. Non è la definizione del disturbo."
     },
     {
       "question": "Giocare tanto è già un gaming disorder?",
-      "answer": "No. L’OMS scrive che gli studi suggeriscono un disturbo solo in una quota piccola di chi gioca. La passione intensa, se lascia spazio a sonno, scuola e rapporti, non coincide con la definizione clinica. L’etichetta non si applica a tavola."
+      "answer": "No. L’OMS scrive che gli studi suggeriscono un disturbo solo in una quota piccola di chi gioca, e non dà la percentuale. La pagina dell’APA, revisione di gennaio 2023, riferisce uno studio del 2017 con una stima dello 0,3–1,0% della popolazione generale, su adulti in quattro Paesi, e nella stessa pagina studi più recenti secondo cui la prevalenza possa essere piuttosto alta, senza quella seconda cifra. Un pomeriggio lungo, se lascia in piedi sonno, scuola e rapporti, non coincide con la definizione."
+    },
+    {
+      "question": "Il DSM ha riconosciuto la dipendenza da videogiochi?",
+      "answer": "No, non come diagnosi. La nota OMS del 14 settembre 2018 ricorda che nel 2013 l’Internet Gaming Disorder è entrato nel DSM-5 come condizione per ulteriori studi. La pagina APA sul DSM-5-TR, gennaio 2023, lo tiene nella sezione per ulteriori ricerche. In quel manuale l’unica dipendenza comportamentale identificata è il gioco d’azzardo. Il gaming disorder è una categoria dell’ICD-11. Non è la stessa frase."
+    },
+    {
+      "question": "I videogiochi causano depressione, aggressività o danni agli occhi?",
+      "answer": "Non è ciò che scrivono queste pagine. La nota OMS del 2018 elenca, tra le preoccupazioni associate al gioco, attività fisica scarsa, dieta, vista o udito, problemi muscoloscheletrici, poco sonno, comportamento aggressivo e depressione. Il verbo è «associate». Non è una causa dimostrata in chiunque giochi, e non sono i tre tratti della diagnosi. Alcuni, scrive l’APA, sostengono che il gioco possa essere un sintomo di depressione o ansia, e non un disturbo a sé. È un’ipotesi dentro un dibattito, non un esame fatto in casa."
     },
     {
       "question": "Devo togliere la console?",
-      "answer": "Un divieto secco, senza aver detto che cosa protegge, sposta spesso il conflitto. Prima conviene un bordo visibile: orario di stop, ricarica fuori dalla camera, una data in cui rivedere la regola. Il gioco si toglie se quel bordo non regge e il resto della vita si è già ristretto."
+      "answer": "Un divieto secco, senza aver detto che cosa protegge, sposta il conflitto sulla console e non sul fatto. Prima un bordo visibile: orario di stop, ricarica fuori dalla camera, una data in cui rivedere la regola. Togliere il gioco non è, in queste fonti, la cura di un disturbo. Se il bordo non regge e il resto della vita si è ristretto, il passo è un professionista."
     },
     {
       "question": "Quando ha senso parlarne con un pediatra?",
-      "answer": "Quando, per un periodo lungo, il gioco passa davanti a scuola, sonno o rapporti e i tentativi di fermarsi non tengono. Non è una diagnosi fatta in casa. È un motivo per chiedere a un professionista qualificato di guardare il quadro, non solo i minuti."
+      "answer": "Quando, per un periodo lungo, il gioco passa davanti a scuola, sonno o rapporti e i tentativi di fermarsi non tengono. Non è una diagnosi fatta in casa. La SIP chiede ai pediatri di valutare le abitudini digitali e offrire una consulenza preventiva. L’OMS collega l’inclusione nell’ICD-11 a più attenzione dei professionisti su rischi, prevenzione e trattamento. Non è un mandato su ogni console. I dodici mesi sono un criterio clinico, non un consiglio di aspettare in silenzio."
     }
   ],
   "content": {
     "root": {
       "type": "root",
       "children": [
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nota: ",
+              "version": 1,
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": "non è un testo medico e non sostituisce un professionista. Se il gioco toglie sonno, scuola o rapporti e i tentativi di fermarsi non tengono, parlane con un medico o uno psicologo. Contare i sintomi a tavola non è una diagnosi.",
+              "version": 1,
+              "format": 2
+            }
+          ]
+        },
         {
           "type": "paragraph",
           "version": 1,
@@ -65,7 +112,7 @@
           "children": [
             {
               "type": "text",
-              "text": "La risposta utile non sta nel tono della serata. Sta in che cosa il gioco sta spostando, da quanto tempo, e se la persona riesce ancora a fermarsi quando la vita lo chiede. Questo pezzo è per chi vive con un ragazzo che gioca, e per il ragazzo che vuole un criterio diverso da «smettila». Non è una diagnosi. È una mappa per non confondere una passione con un disturbo, e per non fare il contrario.",
+              "text": "La risposta utile non sta nel tono della serata. Sta in che cosa il gioco sta spostando, da quanto tempo, e se la persona riesce ancora a fermarsi quando la vita lo chiede. Le pagine dell’Organizzazione mondiale della sanità non fissano un numero di ore. E il manuale che molti chiamano «il DSM» non ha fatto, su questo punto, la stessa scelta dell’ICD-11.",
               "version": 1
             }
           ]
@@ -88,7 +135,7 @@
           "children": [
             {
               "type": "text",
-              "text": "L’Organizzazione mondiale della sanità descrive il ",
+              "text": "Nelle FAQ sulle classificazioni e nelle domande e risposte del 22 ottobre 2020, l’OMS definisce il ",
               "version": 1
             },
             {
@@ -99,7 +146,7 @@
             },
             {
               "type": "text",
-              "text": " nell’undicesima revisione della Classificazione internazionale delle malattie, l’ICD-11. Nelle pagine ufficiali di domande e risposte lo definisce come un modo di giocare — ai videogiochi, online o meno — caratterizzato da tre tratti insieme.",
+              "text": " nell’undicesima revisione della Classificazione internazionale delle malattie, l’ICD-11. È un modo di giocare — «digital-gaming» o «video-gaming» — descritto da tre tratti insieme.",
               "version": 1
             }
           ]
@@ -122,7 +169,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Il gioco parte, dura, si interrompe o cambia contesto in un modo che la persona non governa più. «Ancora una» non è una frase: è la serata.",
+                  "text": "Il controllo sul gioco è compromesso. Le due pagine non trasformano questa frase in un elenco di minuti, né in una soglia di «ancora una partita».",
                   "version": 1
                 }
               ]
@@ -139,7 +186,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Il gioco passa davanti ad altri interessi e alle attività della giornata. Non è «gli piace tanto». È «il resto aspetta».",
+                  "text": "Il gioco riceve una priorità crescente, fino a passare davanti agli altri interessi e alle attività della giornata. Non è «gli piace tanto». È «il resto aspetta».",
                   "version": 1
                 }
               ]
@@ -156,7 +203,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Un voto, un litigio, un sonno rotto, un allenamento saltato non cambiano il ritmo. Il costo c’è, e il modo di giocare resta o aumenta.",
+                  "text": "Il gioco continua o aumenta nonostante le conseguenze negative. Un voto, un litigio o una notte persa, da soli, non bastano: nella definizione è il modo di giocare che non cambia, o che si intensifica, nonostante quel costo.",
                   "version": 1
                 }
               ]
@@ -169,7 +216,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Per parlare di disturbo, l’OMS aggiunge due condizioni. Il quadro deve essere abbastanza grave da produrre una compromissione significativa del funzionamento: personale, familiare, sociale, scolastico, lavorativo o in un’altra area importante. E, di norma, deve essere evidente da almeno dodici mesi. Non è una brutta settimana dopo un torneo. È un quadro che resta.",
+              "text": "Per parlare di diagnosi, le FAQ e la pagina del 22 ottobre 2020 chiedono entrambe un’altra condizione. Il quadro deve essere abbastanza grave da produrre una compromissione significativa del funzionamento: personale, familiare, sociale, scolastico, lavorativo o in un’altra area importante. E, di norma, deve essere evidente da almeno dodici mesi. Non è una brutta settimana dopo un torneo.",
               "version": 1
             }
           ]
@@ -180,7 +227,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Le stesse pagine dicono una cosa che in casa si perde spesso. Gli studi suggeriscono che il disturbo riguardi solo una quota piccola di chi gioca. In quelle risposte non c’è una percentuale, e non c’è un tetto di ore. Invita chi gioca a stare attento al tempo soprattutto quando esclude le altre attività della giornata, e ai cambiamenti di salute fisica, psicologica e di vita sociale che si possono ricondurre a quel modo di giocare.",
+              "text": "La nota del 14 settembre 2018, un aggiornamento di dipartimento da Ginevra, usa una formula vicina e non identica. Il gaming disorder, con le varianti online e offline, è incluso come sindrome clinicamente riconoscibile e clinicamente significativa quando il modo di giocare, per natura e intensità, produce un disagio marcato oppure una compromissione significativa nel funzionamento personale, familiare, sociale, scolastico o lavorativo. In quel paragrafo non compaiono i dodici mesi, e non compare «un’altra area importante». I dodici mesi stanno nelle FAQ e nella pagina del 22 ottobre 2020. Il disagio marcato, in alternativa alla compromissione, sta nella nota del 2018. Non vanno fusi in una sola regola.",
               "version": 1
             }
           ]
@@ -191,7 +238,148 @@
           "children": [
             {
               "type": "text",
-              "text": "Questa è una categoria clinica, pensata per chi ha gli strumenti per usarla. Un genitore che vede un sabato lungo non ha fatto una diagnosi. Un ragazzo che vince una stagione con la squadra non ha «un disturbo» perché ne parla a cena. La definizione serve a tenere stretto il criterio, non a distribuire etichette.",
+              "text": "Le FAQ aggiungono perché la categoria è entrata nell’ICD-11: revisioni delle prove disponibili e un consenso di esperti di discipline e regioni diverse, nelle consultazioni tecniche dell’OMS. La stessa pagina, e quella del 22 ottobre 2020, scrivono che l’inclusione segue programmi di trattamento già avviati, in varie parti del mondo, per condizioni di salute identiche a quelle caratteristiche del gaming disorder, e che porterà più attenzione dei professionisti sui rischi di sviluppare il disturbo e, di conseguenza, su prevenzione e trattamento. È un’attenzione clinica. Non è un mandato a trattare ogni console come un caso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nessuna soglia di ore, e nessuna percentuale sola",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le tre pagine dell’OMS — FAQ, domande e risposte del 22 ottobre 2020, nota del 14 settembre 2018 — scrivono la stessa cautela. Gli studi suggeriscono che il disturbo riguardi solo una quota piccola di chi gioca. In quelle pagine non c’è una percentuale. Non c’è un tetto di ore. C’è un invito a stare attenti al tempo soprattutto quando il gioco esclude le altre attività della giornata, e ai cambiamenti di salute fisica, psicologica e di vita sociale che si possono ricondurre a quel modo di giocare. «Si possono ricondurre» è il verbo dell’OMS: è un’attribuzione possibile, non una causa già dimostrata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Una cifra circola lo stesso, e non viene da quelle pagine. La pagina dell’American Psychiatric Association dedicata all’internet gaming, con la revisione del medico indicata in calce — James Sherer, gennaio 2023 — riferisce uno studio del marzo 2017 sull’American Journal of Psychiatry (Przybylski, Weinstein e Murayama). Tra chi giocava, la maggior parte non riportava sintomi. La stima riportata è lo 0,3–1,0% della popolazione generale che avrebbe potuto rientrare in una diagnosi potenziale. Lo studio, scrive la pagina, riguardava adulti negli Stati Uniti, nel Regno Unito, in Canada e in Germania: più dell’86% dei giovani adulti di 18–24 anni e più del 65% di tutti gli adulti avevano giocato online di recente. Non sono ragazzi italiani, e «aver giocato» non è il disturbo.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La stessa pagina non si ferma a quella stima. Scrive che la ricerca è mista sul fatto che chi rientrava nei criteri avesse una salute emotiva, fisica e mentale peggiore di chi non vi rientrava. Aggiunge che studi più recenti, tra cui uno del 2022 citato in bibliografia sul Journal of Psychiatric Research, trovano che la prevalenza possa essere piuttosto alta, soprattutto rispetto ad altre dipendenze comportamentali: la pagina non riporta quella seconda percentuale. Più studi, scrive ancora, hanno segnalato un aumento marcato dell’incidenza durante la pandemia, di nuovo senza un numero. Lo 0,3–1,0% è ciò che la pagina APA attribuisce allo studio del 2017. Non è la cifra dell’OMS, non è un tasso sui ragazzi italiani, e non è l’unica lettura che quella pagina lascia aperta.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "ICD-11 e DSM-5-TR non sono la stessa diagnosi",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La nota OMS del 2018 ricorda un fatto che in casa si perde. Nel 2013 l’«Internet Gaming Disorder» è entrato nella classificazione dell’American Psychiatric Association, il DSM-5, come condizione per ulteriori studi. La pagina APA del 2023, sul DSM-5-TR, lo conferma: sta nella sezione che raccomanda condizioni per ulteriori ricerche, insieme al disturbo da uso di caffeina e ad altre. Il disturbo da gioco d’azzardo è, in quel manuale, l’unica dipendenza comportamentale identificata. Il videogioco non lo è.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "I criteri che la pagina elenca sono proposti, non una diagnosi da spuntare. Ne nomina nove, e scrive che per la proposta ne servirebbero cinque o più entro un anno, con una compromissione o un disagio significativi in vari aspetti della vita. La condizione proposta riguarda il gioco, con altri o da soli. Non include l’uso generale di internet, il gioco d’azzardo online, i social o lo smartphone. Tra i sintomi proposti c’è l’astinenza quando il gioco viene tolto o non è possibile: tristezza, ansia, irritabilità. C’è il mentire a familiari o ad altri sul tempo di gioco. C’è l’uso del gioco per alleggerire umori negativi, come colpa o disperazione. La lista intera sta sulla pagina APA. Non è un test da fare in cucina, e cinque voci spuntate non sono il gaming disorder dell’ICD-11.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La pagina APA dice anche che la domanda se i videogiochi possano creare dipendenza è ancora dibattuta tra ricercatori e professionisti, e che classificare o no il gioco come dipendenza o disturbo mentale è oggetto di dibattito e di una ricerca che cresce. Alcuni sostengono che il gioco possa essere un sintomo di un problema sottostante, come depressione o ansia, e non un disturbo a sé. L’OMS, dal canto suo, lo ha incluso nell’ICD-11. Le due frasi possono stare insieme: una classificazione lo ha inserito, l’altra lo tiene tra le condizioni da studiare, e la pagina APA non presenta il dibattito come chiuso. In apertura scrive che prove iniziali suggeriscono che i videogiochi siano tra le tecnologie più capaci di creare dipendenza. Più sotto parla di ricerche neurologiche con somiglianze tra il gioco e le sostanze. Nessuna delle due frasi cita lo studio. Qui non sono usate come prova.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Le preoccupazioni di salute del 2018 non sono cause",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La nota del 14 settembre 2018 dice che le preoccupazioni di salute associate al comportamento di gioco non si limitano al gaming disorder. Nell’elenco, come esempi: attività fisica insufficiente, dieta non sana, problemi di vista o di udito, problemi muscoloscheletrici, deprivazione di sonno, comportamento aggressivo e depressione, oltre al funzionamento psicosociale. Il verbo della nota è «associated»: sono associate. «Include» introduce gli esempi. Non è «il gioco causa la depressione», e non è un effetto descritto in chiunque giochi. Quegli esempi non sono i tre tratti della definizione.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il sonno è il punto in cui la casa se ne accorge prima. La nota nomina la deprivazione di sonno tra le preoccupazioni associate. Non misura, in quel testo, un orario e non dimostra un meccanismo. Il bordo pratico — ricarica fuori dalla stanza, detto prima — è lo stesso dell’articolo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Non perché il gioco sia un veleno. Perché un dispositivo acceso accanto al cuscino rende lo stop una trattativa, e quella nota non trasforma la trattativa in una diagnosi.",
               "version": 1
             }
           ]
@@ -214,7 +402,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Una passione può essere rumorosa. Si parla di personaggi, di classifiche, di un compagno di squadra che abita in un’altra città. Si resta svegli un venerdì. Si rifiuta una passeggiata perché «siamo in finale». Vista da fuori, assomiglia a un problema. Vista da dentro i criteri dell’OMS, può essere ancora un hobby: intenso, stagionale, condiviso.",
+              "text": "Una passione può essere rumorosa. Si parla di personaggi, di classifiche, di un compagno di squadra che abita in un’altra città. Si resta svegli un venerdì. Si rifiuta una passeggiata perché «siamo in finale». Vista da fuori, assomiglia a un problema.",
               "version": 1
             }
           ]
@@ -225,7 +413,7 @@
           "children": [
             {
               "type": "text",
-              "text": "La differenza pratica sta in quello che resta in piedi intorno al gioco. Il sonno, nella maggior parte delle sere, ha un orario. La scuola non è una voce facoltativa, da negoziare solo dopo la partita. Esiste almeno un pezzo di vita — uno sport, un amico, un pasto, un compito — che non deve chiedere permesso alla console. E quando si spegne, la casa non entra in ostaggio.",
+              "text": "La pagina APA riferisce il suggerimento degli autori dello studio del 2017: distinguere un impegno appassionato — entusiasmo e concentrazione sul gioco — da una patologia, e considerare il disagio della persona verso il proprio gioco come il fattore che può separare le due cose. È il riassunto che fa la pagina. Non è una scala da applicare a tavola, e questo articolo non ha riletto lo studio.",
               "version": 1
             }
           ]
@@ -236,7 +424,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il problema, nella descrizione dell’OMS, non è l’affetto per il gioco. È il restringimento. Il gioco prende il primo posto in modo stabile. Le altre cose escono di scena. I tentativi di ridurre non tengono. Le conseguenze negative ci sono, e non correggono la rotta. Se manca questo insieme, un pomeriggio lungo resta un pomeriggio lungo.",
+              "text": "In casa, il confronto pratico con le pagine OMS è un altro. Il sonno, nella maggior parte delle sere, ha un orario. La scuola non è una voce facoltativa, da negoziare solo dopo la partita. Esiste almeno un pezzo di vita — uno sport, un amico, un pasto, un compito — che non deve chiedere permesso alla console. Se mancano insieme i tre tratti, la compromissione del funzionamento e la durata di cui parlano le FAQ, un pomeriggio lungo resta un pomeriggio lungo.",
               "version": 1
             }
           ]
@@ -247,7 +435,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Due trappole sono simmetriche. La prima è chiamare disturbo ogni ora che non approvi. La seconda è chiamare passione anche un anno in cui scuola, sonno e amicizie fuori dallo schermo si sono assottigliati, purché «almeno non è in strada». Il tempo da solo non decide. L’assenza di danno, da sola, non si dichiara: si guarda.",
+              "text": "Due trappole sono simmetriche. La prima è chiamare disturbo ogni ora che non approvi. La seconda è chiamare passione anche un anno in cui scuola, sonno e rapporti fuori dallo schermo si sono assottigliati, purché «almeno non è in strada». Il tempo da solo non decide. L’assenza di un danno non si dichiara: si guarda, ed è un professionista a dire se il quadro è quello dell’ICD-11.",
               "version": 1
             }
           ]
@@ -259,7 +447,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Segnali concreti, non un sospetto permanente",
+              "text": "Segnali da guardare, senza fare la diagnosi",
               "version": 1
             }
           ]
@@ -270,7 +458,7 @@
           "children": [
             {
               "type": "text",
-              "text": "I segnali utili sono osservabili. Non chiedono un test. Chiedono qualche settimana di attenzione, detta ad alta voce, non una lettura di nascosto delle chat di gioco.",
+              "text": "I segnali utili sono osservabili. Non chiedono un test. Chiedono qualche settimana di attenzione, detta ad alta voce, non una lettura di nascosto delle chat di gioco. Vanno letti accanto ai criteri, non al posto dei criteri.",
               "version": 1
             }
           ]
@@ -293,7 +481,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Non un venerdì. Più sere di fila, con la sveglia che il giorno dopo non regge. Il gioco è l’ultima cosa accesa e la prima scusa.",
+                  "text": "Non un venerdì. Più sere di fila, con la sveglia che il giorno dopo non regge. La nota del 2018 elenca la deprivazione di sonno tra le preoccupazioni associate. Non è, da sola, il disturbo.",
                   "version": 1
                 }
               ]
@@ -310,7 +498,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "I compiti esistono «dopo questa partita», e la partita non finisce. Non è un compito difficile. È un ordine del tempo che non si rinegozia.",
+                  "text": "I compiti esistono «dopo questa partita», e la partita non finisce. È il territorio della priorità e del funzionamento scolastico, se dura e se il resto ne risente.",
                   "version": 1
                 }
               ]
@@ -327,24 +515,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "L’orario era chiaro. Alle dieci la console è ancora accesa, e la frase è sempre «solo il finale». Il finale è un genere, non un minuto.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Gli appuntamenti offline saltano per abitudine. ",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": "Un allenamento, una cena, un amico alla porta. Una volta è un imprevisto. Un mese è una priorità.",
+                  "text": "L’orario era chiaro. Alle dieci la console è ancora accesa, e la frase è sempre «solo il finale». È il territorio del controllo compromesso, non una prova già chiusa.",
                   "version": 1
                 }
               ]
@@ -361,7 +532,24 @@
                 },
                 {
                   "type": "text",
-                  "text": "Un voto, una lite, una notte persa. Il giorno dopo il ritmo è lo stesso, o più stretto. Qui la definizione dell’OMS parla di continuazione nonostante le conseguenze.",
+                  "text": "Un voto, una lite, una notte persa, e il giorno dopo il ritmo è lo stesso o più stretto. Qui le pagine OMS parlano di continuazione o escalation nonostante le conseguenze. Se il costo è denaro — monete, casse, un prezzo che non sembra un euro — il contesto è quello degli ",
+                  "version": 1
+                },
+                {
+                  "type": "link",
+                  "url": "/articoli/acquisti-in-app-microtransazioni-loot-box",
+                  "version": 1,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "acquisti in-app e delle loot box",
+                      "version": 1
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": ". Il denaro, da solo, non è la diagnosi.",
                   "version": 1
                 }
               ]
@@ -372,13 +560,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Spento, l’umore della casa è quello. ",
+                  "text": "Spento, l’umore si incrina. ",
                   "version": 1,
                   "format": 1
                 },
                 {
                   "type": "text",
-                  "text": "Irritazione, vuoto, o un ritorno immediato allo schermo come unica regolazione. Non un broncio di dieci minuti. Una chiave che manca.",
+                  "text": "Irritazione, tristezza, un ritorno immediato allo schermo. L’APA mette tristezza, ansia e irritabilità tra i sintomi proposti di astinenza, quando il gioco viene tolto o non è possibile. Non è uno dei tre tratti delle pagine OMS. Un broncio di dieci minuti non è quel sintomo, e quel sintomo non è una diagnosi.",
                   "version": 1
                 }
               ]
@@ -402,7 +590,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Nessuno di questi punti, da solo, è una diagnosi. Insieme, e per mesi, descrivono il territorio in cui la preoccupazione è ragionevole. Sparsi, e legati a una stagione o a un esame, descrivono un ragazzo che gioca.",
+              "text": "Nessuno di questi punti, da solo, è una diagnosi. Insieme, e per mesi, descrivono il territorio in cui ha senso parlarne con un professionista. Sparsi, e legati a una stagione o a un esame, descrivono un ragazzo che gioca.",
               "version": 1
             }
           ]
@@ -425,7 +613,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il primo gesto non è il verdetto. È una frase su un fatto. «Da tre settimane i compiti slittano dopo mezzanotte e la sveglia non regge.» Non «sei dipendente». La seconda frase è un’accusa mascherata da cura. La prima si può discutere.",
+              "text": "Il primo gesto non è il verdetto. È una frase su un fatto. «Da tre settimane i compiti slittano dopo mezzanotte e la sveglia non regge.» Non «sei dipendente». La seconda frase chiude la conversazione. La prima si può discutere.",
               "version": 1
             }
           ]
@@ -464,24 +652,24 @@
           "children": [
             {
               "type": "text",
-              "text": "La notte è il punto in cui il gioco morde di più il giorno dopo. Vale lo stesso criterio del ",
+              "text": "Le ore che si leggono in giro non sono il criterio dell’OMS. La Società Italiana di Pediatria, nella pagina del 27 gennaio 2026, raccomanda limiti per i dispositivi in generale, in continuità con le sue indicazioni del 2018: nessun dispositivo sotto i 2 anni, meno di un’ora al giorno tra i 2 e i 5, meno di due ore al giorno dopo i 5, sempre con la supervisione di un adulto. Chiede anche di evitare i dispositivi durante i pasti e prima di dormire, e di rinviare lo smartphone personale almeno fino ai 13 anni, con la motivazione che scrive: prevenire conseguenze sullo sviluppo cognitivo, emotivo e relazionale. La pagina presenta queste frasi come raccomandazioni basate su una revisione recente della letteratura. Non riporta, nel testo, i risultati di quegli studi. Non sono una soglia di gaming disorder e non sono un tetto dell’OMS. Due ore di dispositivi dopo i 5 anni non diventano, in quella pagina, la definizione di un disturbo. L’età del primo telefono, e che cosa configurare il primo giorno, è nell’articolo sul ",
               "version": 1
             },
             {
               "type": "link",
-              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "url": "/articoli/primo-smartphone-eta-e-regole",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "telefono in camera",
+                  "text": "primo smartphone",
                   "version": 1
                 }
               ]
             },
             {
               "type": "text",
-              "text": ": la ricarica sta fuori dalla stanza, detto prima, non scoperto alle undici. Non perché il gioco sia un veleno. Perché un dispositivo acceso accanto al cuscino rende lo stop una trattativa infinita, e il sonno non tratta.",
+              "text": ".",
               "version": 1
             }
           ]
@@ -492,7 +680,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Con un ragazzo più grande il tono cambia, il bordo no. Può dire lui come organizza il pomeriggio. Non può decidere da solo che la scuola e il sonno sono facoltativi, se in quella casa non lo sono. Il controllo nascosto — leggere i messaggi di squadra, spegnere il router senza dirlo — compra un’occhiata e vende la conversazione. Se c’è un filtro sull’orario, si dice che c’è.",
+              "text": "Con un ragazzo più grande il tono cambia, il bordo no. Può dire lui come organizza il pomeriggio. Non può decidere da solo che la scuola e il sonno sono facoltativi, se in quella casa non lo sono. Leggere di nascosto i messaggi di squadra, o spegnere il router senza dirlo, non è uno dei criteri. Se c’è un filtro sull’orario, si dice che c’è: è il tema dei ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/controllo-genitori-smartphone-proteggere-senza-spiare",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "controlli dei genitori, senza spiare",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
@@ -503,7 +708,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Se il quadro assomiglia a quello descritto dall’OMS, e i tentativi ordinari non tengono, il passo successivo non è una diagnosi pronunciata in cucina. È parlarne con il pediatra o con un professionista qualificato, portando i fatti: da quando, che cosa è uscito di scena, che cosa avete già provato. L’inclusione del disturbo nell’ICD-11 serve proprio a questo, scrive l’OMS: più attenzione di chi cura, prevenzione e trattamento quando servono. Non è un mandato a trattare ogni console come un caso clinico.",
+              "text": "Se il quadro assomiglia a quello descritto dalle FAQ dell’OMS, e i tentativi ordinari non tengono, il passo successivo non è una diagnosi pronunciata in cucina. È parlarne con il pediatra o con un professionista qualificato, portando i fatti: da quando, che cosa è uscito di scena, che cosa avete già provato. La SIP chiede ai pediatri di valutare con regolarità le abitudini digitali e di offrire alle famiglie una consulenza preventiva. È prevenzione. Non è la diagnosi già fatta. I dodici mesi dell’OMS sono un criterio per chi ha gli strumenti per usarlo, non un consiglio di aspettare un anno in silenzio prima di chiedere.",
               "version": 1
             }
           ]
@@ -515,7 +720,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Che cosa il gioco può essere, quando non prende il posto del resto",
+              "text": "Che cosa il gioco può essere, senza un beneficio misurato",
               "version": 1
             }
           ]
@@ -526,7 +731,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Se la quota descritta dall’OMS è piccola, il caso ordinario è un altro. Il gioco può essere un posto in cui una cosa difficile si riprova senza che l’errore sia definitivo. Può essere una lingua in comune con la classe. Può essere una squadra in cui si aspetta il compagno, si perde, si rifà la chiamata. Può essere una storia lunga, seguita con la stessa fedeltà con cui un altro segue un campionato.",
+              "text": "Se la quota descritta dall’OMS è piccola, il caso ordinario è un altro. Si può vedere un posto in cui una cosa difficile si riprova, una lingua in comune con la classe, una squadra in cui si aspetta il compagno. Non è un esito misurato dalle fonti di questa pagina. La pagina APA scrive che i giochi possono essere molto divertenti e che è facile restare assorbiti nella competizione. In quella frase non allega un guadagno clinico, e la frase più larga sulla «dipendenza» non è usata qui come prova.",
               "version": 1
             }
           ]
@@ -537,18 +742,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Non è una promessa clinica. È quello che si vede quando il gioco sta dentro la giornata invece di mangiarla. Un ragazzo che spiega una meccanica a tavola sta facendo una cosa sociale. Un ragazzo che non alza gli occhi da settimane sta facendo un’altra cosa, anche se il titolo è lo stesso.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Il lato vivo del gioco spiega anche perché il divieto come primo gesto spesso manca il bersaglio. Stai discutendo con una competenza e con una compagnia, non solo con un vizio. Se quelle due cose hanno un posto — un orario, amici anche fuori, un modo per fermarsi — la passione non ha bisogno di essere curata. Ha bisogno di un bordo. Se non hanno più un posto, il bordo da solo può non bastare, e dirlo presto è meglio che aspettare l’anno intero per avere ragione.",
+              "text": "Un ragazzo che spiega una meccanica a tavola sta parlando. Un ragazzo che non alza gli occhi da settimane sta facendo un’altra cosa, anche se il titolo è lo stesso. Se la competenza e la compagnia hanno un posto — un orario, amici anche fuori, un modo per fermarsi — la passione non è una malattia da dichiarare in cucina. Ha un bordo. Se non hanno più un posto, il bordo può non bastare, e il passo è quello del professionista.",
               "version": 1
             }
           ]
@@ -623,111 +817,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Se le risposte sono noiose, è una buona notizia. Un hobby noioso da descrivere è spesso un hobby che lascia spazio. Se le risposte sono tutte «dopo questa partita», avete già il fatto da portare in una conversazione più seria. In entrambi i casi il criterio è lo stesso: non quanti punti ha fatto. Che cosa, intorno a lui, è ancora in piedi.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Domande corte",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Quante ore di gioco sono troppe?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Le pagine dell’OMS sul gaming disorder non fissano una soglia di ore. Descrivono un modo di giocare che toglie il controllo, passa davanti al resto della giornata e continua nonostante le conseguenze, con un danno chiaro al funzionamento. Un pomeriggio lungo, da solo, non è quel quadro.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Giocare tanto è già un gaming disorder?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "No. L’OMS scrive che gli studi suggeriscono un disturbo solo in una quota piccola di chi gioca. La passione intensa, se lascia spazio a sonno, scuola e rapporti, non coincide con la definizione clinica. L’etichetta non si applica a tavola.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Devo togliere la console?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Un divieto secco, senza aver detto che cosa protegge, sposta spesso il conflitto. Prima conviene un bordo visibile: orario di stop, ricarica fuori dalla camera, una data in cui rivedere la regola. Il gioco si toglie se quel bordo non regge e il resto della vita si è già ristretto.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Quando ha senso parlarne con un pediatra?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Quando, per un periodo lungo, il gioco passa davanti a scuola, sonno o rapporti e i tentativi di fermarsi non tengono. Non è una diagnosi fatta in casa. È un motivo per chiedere a un professionista qualificato di guardare il quadro, non solo i minuti.",
+              "text": "Se le risposte sono noiose, è una buona notizia. Un hobby che si racconta senza allarme, in quelle sere, è un hobby che lascia spazio. Se le risposte sono tutte «dopo questa partita», avete già il fatto da portare in una conversazione più seria, anche con il pediatra. In entrambi i casi il criterio non è quanti punti ha fatto. È se il quadro assomiglia a quello che l’OMS descrive, e per quanto tempo. A dirlo non è la cucina.",
               "version": 1
             }
           ]
