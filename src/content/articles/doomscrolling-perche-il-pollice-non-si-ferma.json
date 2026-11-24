@@ -1,57 +1,71 @@
 {
   "slug": "doomscrolling-perche-il-pollice-non-si-ferma",
   "title": "Doomscrolling: perché il pollice non si ferma (e cosa interrompe il loop)",
-  "excerpt": "Doomscrolling: perché il pollice continua a scorrere le cattive notizie, e quali attriti concreti interrompono il loop senza cancellare le app.",
+  "excerpt": "Scorrere notizie negative sui social è un’abitudine con un nome. Gli studi la associano ad ansia e distress. Non è una diagnosi e non è una causa dimostrata.",
   "cover": "/images/covers/doomscrolling-perche-il-pollice-non-si-ferma.png",
   "coverAlt": "Illustrazione editoriale a linee: giovane a letto di notte che scorre lo smartphone, arco di card e bolle coral dal display, lampada, charcoal su off-white — senza testo leggibile.",
   "publishedAt": "2026-10-21T09:00:00.000+02:00",
+  "updatedAt": "2026-11-24T09:30:00+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["social-media", "salute-mentale"],
   "readingTime": 8,
   "status": "published",
   "seo": {
-    "metaTitle": "Doomscrolling: perché il pollice non si ferma",
-    "metaDescription": "Doomscrolling: perché il feed di cattive notizie non si chiude da solo e quali attriti interrompono il loop, senza cancellare le app.",
+    "metaTitle": "Doomscrolling: abitudine, non una diagnosi",
+    "metaDescription": "Il doomscrolling non è una diagnosi. Sharma e Satici associano la scala ad ansia e distress. Price misura l’accesso alle notizie, non una causa.",
     "noIndex": false
   },
   "sources": [
     {
+      "title": "Sharma, Lee e Johnson — The dark at the end of the tunnel: Doomscrolling on social media newsfeeds (Technology, Mind, and Behavior, 2022)",
+      "url": "https://tmb.apaopen.org/pub/nn9uaqsz/release/2",
+      "note": "Articolo open access, DOI 10.1037/tmb0000059, Volume 3, Issue 1, 2022. Pagina HTML letta per intero. Definizione formale: scansione abituale e immersiva, sui newsfeed dei social, di informazioni negative e tempestive. Il termine, scrivono, è emerso all’inizio del 2020, è stato coniato nel 2018 e poi reso noto dalla giornalista Karen Ho. Scala unidimensionale di 15 item (α = .960 nello studio 3; forma breve di 4 item). Studio 2: 401 panelist in 23 Paesi (Polonia 29,7%, Portogallo 20,2%, Regno Unito 13,0%, Italia 10,0%): è la composizione del campione, non una prevalenza italiana. Media 2,80 su scala 1–7. Studio 3: 502 panelist Prolific, in larga parte europei, marzo 2021. Media 2,10 (SD 1,16), distribuzione asimmetrica a destra. Meno diffuso di quanto gli autori si aspettassero. Il 75% non conosceva la parola, il 13% sì, il 12% era incerto. Uomini leggermente sopra le donne (M 2,19 contro 1,97). Associazione negativa con l’età, r = −.147. Validità di criterio: l’unica correlazione nella fascia moderata attesa (|r| .30–.50) è l’ansia generalizzata delle due settimane precedenti, GAD-7, r = .307, p < .001. WHO-5, benessere psicologico: r = −.005, p = .909, nessun legame. Affetto (SPANE) r = −.185; autocontrollo r = −.181. Gli autori riassumono associazioni piccole e positive con interesse politico, nevroticismo, cinismo, sensation-seeking e negativity bias, e piccole e negative con coscienziosità, autocontrollo e affetto positivo. FOMO r = .438. Associazioni moderate o alte con vigilanza online, uso problematico di internet e social, FOMO; il concetto resta distinto. Nessuna associazione con l’uso (sì/no) di Twitter o Facebook. Il tempo sul compito comportamentale (titoli che non finiscono) non correla con la scala: r = −.007, p = .874. Gli autori scrivono che l’abitudine è probabilmente mossa dall’ansia e che potrebbe anche produrne altra, e che questa dinamica non è stata testata. Dati trasversali, autodichiarati. Nella discussione, un commento peer-reviewed (Anand e colleghi) è indicato come speculazione senza dati: non è usato. La nota su Price e colleghi 2021 dice che un conteggio giorno sì/giorno no dell’esposizione non misura durata, qualità, né lo stato soggettivo del doomscrolling."
+    },
+    {
+      "title": "Satici, Gocet Tekin, Deniz e Satici — Doomscrolling Scale: its Association with Personality Traits, Psychological Distress, Social Media Use, and Wellbeing (Applied Research in Quality of Life, 2022)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9580444/",
+      "note": "Testo aperto su PMC, PMC9580444, PMID 36275044, DOI 10.1007/s11482-022-10110-7. Pubblicato online il 19 ottobre 2022. Tre studi in Türkiye, questionari autodichiarati. Studio I, N = 378: conferma della scala di Sharma, 15 item e forma breve di 4. Studio II, N = 419: associazioni con i cinque grandi, dipendenza da social, FOMO, ore giornaliere di social; relazione positiva con Twitter e, in quel campione, nessuna con le altre piattaforme testate. Studio III, N = 460, campione non clinico: doomscrolling e distress psicologico r = .391, p < .01. Il distress è la DASS-21, somma di voci di depressione, ansia e stress: il coefficiente pubblicato è della somma, non delle sottoscale. Soddisfazione di vita r = −.290, benessere mentale r = −.296, armonia nella vita r = −.290, tutti p < .01. Un modello di equazioni strutturali, sugli stessi dati, tratta il distress come mediatore. Gli autori scrivono che il disegno trasversale rende difficile trarre conclusioni causali e che servono studi sperimentali e longitudinali. La frase conclusiva «may lead» non supera quel limite. Non è una diagnosi."
+    },
+    {
+      "title": "Price e colleghi — Doomscrolling during COVID-19 (Psychological Trauma, 2022)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10074257/",
+      "note": "Testo aperto su PMC, PMC10074257, PMID 35157484, DOI 10.1037/tra0001202. Psychological Trauma, 2022, 14(8), 1338–1346. Diario di 30 giorni, 1.117 osservazioni, 61 giovani adulti di 18–20 anni (M = 18,89), Vermont, valutazioni dal 3 al 9 aprile 2020 e poi un mese. Reclutati in uno studio sul maltrattamento: 41 con storia elevata, 20 di confronto. Nella tabella, 53 su 61 sono indicate come femmine. La misura è la risposta del giorno a «How did you get any news about the coronavirus today?», dicotomizzata in accesso sì/no. Non sono i minuti e non è la scala di Sharma. I social legati al coronavirus risultano aperti nel 44,6% delle rilevazioni, i media tradizionali nel 34,3%. Nel giorno, l’accesso ai social è associato a sintomi più alti di depressione (PHQ-9) e di PTSD (PCL-5); l’aumento è maggiore se il punteggio di maltrattamento (CTQ) è più alto. Effetto medio dell’accesso ai social: d = 0,44 sulla depressione (IC 95% 0,31–0,57) e d = 0,36 sul PTSD (0,21–0,52). Nessun effetto principale significativo, né interazione con il maltrattamento, per i media tradizionali. Depressione e PTSD di partenza sono associati a più giorni di social (b = 0,58 e b = 0,17). La somma dei giorni, social o tradizionali, non ha un effetto significativo sul cambiamento di depressione o PTSD nel mese. Gli autori scrivono che il nesso è probabilmente bidirezionale e, in discussione, che l’esposizione «may have exacerbated» i sintomi in chi aveva vulnerabilità pregresse: è la loro lettura, non un verso unico dimostrato. Limiti scritti da loro: la durata del consumo non è stata misurata; il campione è di giovani adulti, in larga parte donne; la finestra è l’inizio della pandemia negli Stati Uniti. Nel testo, doomscrolling nomina il fenomeno di affetto negativo elevato dopo le notizie sulla pandemia. Non è la scala a 15 voci."
+    },
+    {
+      "title": "APA Monitor — Media overload is hurting our mental health (1° novembre 2022)",
+      "url": "https://www.apa.org/monitor/2022/11/strain-media-overload",
+      "note": "Articolo di Charlotte Huff, Date created: November 1, 2022. Pagina letta. Non c’è un disturbo formalmente riconosciuto né criteri diagnostici. Doomscrolling, headline anxiety e headline stress disorder sono nomi recenti. Stosny dice che il «headline stress disorder» di cui ha scritto non è formale. Price, citato qui, descrive il doomscrolling come la sensazione transitoria di un picco di affetto negativo mentre si scorrono gli articoli, e dice che i social sono progettati per uno scroll senza fine. È il resoconto della pagina, non un coefficiente. La stessa pagina riassume lo studio di Price (61 giovani adulti, 30 giorni) come associazione tra esposizione alle notizie sui social e più sintomi di depressione e PTSD: i dettagli di misura, campione e null sul cumulato stanno nel paper aperto, non in questo riassunto. Hwang e colleghi, 2.251 adulti nella primavera 2020: più ricerca di informazioni sul Covid, più distress emotivo. Brauer, coautore, dice sulla pagina che lo studio non è disegnato per la causa e che chi è in distress può rivolgersi alle notizie. Quel paper non è stato aperto: vale la frase del Monitor. Le percentuali Stress in America sulla pagina (83% a giugno 2020 sullo stress per il futuro del Paese; 73% a marzo 2022 sopraffatti dal numero di crisi; un terzo, ottobre 2021, con la fatica pandemica che toglie decisioni di base) non misurano il doomscrolling e non sono usate. Il campione spagnolo di Fullana (5.545 adulti, due terzi con ansia o sintomi depressivi) mescola il limite alle notizie sul Covid con dieta, hobby e tempo all’aperto: non è usato come effetto del solo scorrimento. Suggerimenti di Grant, sulla pagina: spegnere le notifiche, periodi senza tecnologia, niente telefoni a tavola, controlli dei social limitati a 15 minuti. I 15 minuti sono un suo suggerimento, non una soglia diagnostica. Stosny sconsiglia il cold turkey: l’immaginazione di ciò che starebbe succedendo tende a essere peggiore dei fatti. La sua frase su un avviso del telefono che libererebbe dopamina non indica lo studio: non è usata."
+    },
+    {
       "title": "Cambridge Dictionary — doomscrolling",
       "url": "https://dictionary.cambridge.org/dictionary/english/doomscrolling",
-      "note": "Voce di dizionario: passare molto tempo al telefono o al computer a leggere notizie brutte o negative. Non è una diagnosi."
-    },
-    {
-      "title": "NPR — Your ‘Doomscrolling’ Breeds Anxiety (19 luglio 2020)",
-      "url": "https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle",
-      "note": "Pezzo del 19 luglio 2020. Racconta la diffusione della parola e un uso su Twitter già nell’ottobre 2018. Non è uno studio clinico e non misura un danno permanente."
-    },
-    {
-      "title": "Oxford University Press — ‘Brain rot’ Word of the Year 2024",
-      "url": "https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/",
-      "note": "2 dicembre 2024. Definizione: il presunto deterioramento dello stato mentale o intellettuale, soprattutto per eccesso di contenuti online banali. Etichetta culturale, non clinica."
-    },
-    {
-      "title": "Baumeister, Bratslavsky, Finkenauer e Vohs — Bad Is Stronger Than Good (2001)",
-      "url": "https://fbaum.unc.edu/teaching/articles/Baumeister_2001.pdf",
-      "note": "Review of General Psychology, 5(4), 323–370. Le informazioni negative sono elaborate di più; prestare attenzione alle minacce è descritto come adattivo. Non è uno studio sul feed."
+      "note": "Voce letta. Nome non numerabile, marcato humorous: passare molto tempo al telefono o al computer a leggere notizie brutte o negative. Le frasi di esempio («Experts warn that doomscrolling can be harmful to your mental health», mezz’ora al giorno, due ore ogni notte) illustrano l’uso della parola. Non sono uno studio e non sono usate come prova di un danno, di una soglia oraria o di una diagnosi."
     }
   ],
   "faq": [
     {
+      "question": "Il doomscrolling è depressione o un disturbo d’ansia?",
+      "answer": "No. Il Monitor dell’APA, 1° novembre 2022, scrive che non c’è un disturbo riconosciuto né criteri diagnostici. Sharma, Lee e Johnson misurano un’abitudine: scansione abituale di notizie negative sui feed. Satici e colleghi associano la scala al distress psicologico in un campione non clinico, e scrivono che il disegno non permette conclusioni causali. Price e colleghi associano l’accesso del giorno alle notizie sul coronavirus sui social a sintomi di depressione e PTSD in 61 giovani adulti. È un’altra misura, un altro campione, e non è la diagnosi di doomscrolling."
+    },
+    {
+      "question": "Gli studi dicono che causa ansia o depressione?",
+      "answer": "Dicono associazioni. Nello studio di Sharma, 502 adulti in un solo momento, l’ansia delle due settimane precedenti correla in modo moderato con la scala (r = 0,307). Con il benessere WHO-5 non c’è legame (r = −0,005). Gli autori scrivono che un circolo con l’ansia è plausibile e non è stato testato. Nello studio di Satici, 460 persone, il distress psicologico — somma di voci di depressione, ansia e stress — correla con r = 0,391, e tre indicatori di benessere sono associati in negativo. Gli autori scrivono che da un disegno trasversale non si trae una causa. Nello studio di Price l’associazione è nel giorno, più forte se la storia di maltrattamento è più severa; la somma dei giorni nel mese non ha un effetto significativo sul cambiamento dei sintomi. Gli autori ritengono il nesso probabilmente bidirezionale."
+    },
+    {
       "question": "Leggere le notizie ogni giorno è già doomscrolling?",
-      "answer": "No. La differenza è lo stop e come ne esci. Venti minuti con una domanda, e poi la giornata, non sono un loop. Un’ora senza ricordare che cosa hai letto, sì. Non misurare la virtù. Misura se chiudi."
+      "answer": "No. Il Cambridge Dictionary parla di passare molto tempo su notizie negative, e marca la voce come scherzosa. Sharma definisce una scansione abituale e immersiva di informazioni negative e tempestive sui feed dei social. Un controllo con una domanda e uno stop non è quella scala. I 15 minuti citati nel Monitor sono un suggerimento di Don Grant per i controlli dei social, non il confine tra informarsi e doomscrolling."
+    },
+    {
+      "question": "Lo fanno quasi tutti?",
+      "answer": "Nello studio 3 di Sharma, no. La media è 2,10 su una scala da 1 a 7, la distribuzione pende verso i valori bassi, e gli autori scrivono che era meno diffuso di quanto si aspettassero. In quel campione il 75% non conosceva la parola. Non è una prevalenza italiana: l’Italia compare solo come il 10% dei 401 partecipanti dello studio in cui la scala è stata ridotta."
     },
     {
       "question": "Devo cancellare le app di notizie o i social?",
-      "answer": "Di solito no, non come primo gesto. Cancellare senza una finestra sposta il loop nel browser. Se un’app è solo il tubo, puoi toglierla dal telefono e lasciarla dove serve un passo in più. Non è sparire. È attrito."
+      "answer": "Steven Stosny, nel Monitor dell’APA, non lo consiglia. Chi prova a sparire del tutto, dice, immagina spesso qualcosa di peggiore di quello che sta succedendo. Meglio moderare. Nella stessa pagina Don Grant indica notifiche spente, periodi senza schermo, niente telefono a tavola e un tetto ai controlli dei social. Sono suggerimenti di quei clinici, non il risultato di una sperimentazione negli studi sul doomscrolling."
     },
     {
-      "question": "Il doomscrolling rovina l’attenzione per sempre?",
-      "answer": "Non c’è un buon motivo per dirlo così. Lo slogan del danno permanente è più forte delle prove. Il punto solido è più piccolo, e basta: il loop tiene l’attivazione alta, ruba sonno e ruba la sera. Ridurlo migliora quelle ore. Non devi credere a una sentenza sul cervello per posare il telefono."
-    },
-    {
-      "question": "Mi serve restare informato per lavoro o per lo studio.",
-      "answer": "Allora è un compito, e i compiti hanno un orario. Una lista corta di fonti, una finestra, un appunto con che cosa è cambiato. «Restare informati» senza fine non è più professionale. È lo stesso tubo con una giustificazione migliore."
+      "question": "Rovina il sonno o l’attenzione per sempre?",
+      "answer": "Queste pagine non lo dicono. Una voce della scala di Sharma descrive il restare alzati a cercare altre notizie negative: è un comportamento incluso nell’abitudine, non una misura del sonno o dell’attenzione. Price e colleghi non hanno misurato la durata dello scroll né il sonno, e scrivono che la durata non è stata valutata. Il telefono a letto si legge nel pezzo su telefono, notifiche e sonno."
     }
   ],
   "content": {
@@ -64,8 +78,15 @@
           "children": [
             {
               "type": "text",
-              "text": "Sono le 00:17. Non stai «informandoti». Stai scorrendo. Un titolo su una guerra, un video di un incendio, un thread di commenti che si insultano sotto una notizia che avevi già capito al terzo rigo. Il pollice sale. Prometti che questo è l’ultimo. Non lo è. Non perché tu sia rotto. Perché il feed non ha un fondo, e la notizia brutta non ha un punto in cui si chiude.",
-              "version": 1
+              "text": "Nota: ",
+              "version": 1,
+              "format": 2
+            },
+            {
+              "type": "text",
+              "text": "non è una diagnosi e non sostituisce un colloquio. Le frasi sotto stanno nelle pagine aperte per questo aggiornamento.",
+              "version": 1,
+              "format": 2
             }
           ]
         },
@@ -75,7 +96,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il doomscrolling è questo gesto: restare su contenuti che ti agitano, più a lungo di quanto avessi deciso, spesso di sera, spesso senza una domanda a cui serviva una risposta. La parola si è diffusa intorno al 2020, quando un’emergenza lunga e i feed infiniti hanno reso il gesto riconoscibile. Non è una diagnosi. Non è la prova che «sei dipendente». È il nome di un loop: contenuto negativo, nessun fine pagina, un dito che cerca una conclusione che non arriva.",
+              "text": "Sono le 00:17. Non stai chiudendo una domanda. Stai scorrendo. Un titolo, un video, i commenti sotto una notizia che avevi già letto. Il pollice sale. Prometti che questo è l’ultimo.",
               "version": 1
             }
           ]
@@ -87,7 +108,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Informarsi non è scorrere",
+              "text": "Un nome, due perimetri",
               "version": 1
             }
           ]
@@ -98,7 +119,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Informarsi ha una domanda e uno stop. «È chiusa la linea domani?» Apri, leggi, chiudi. Il doomscrolling ha una sensazione — inquietudine, rabbia, il bisogno di non essere colto di sorpresa — e nessuno stop. Esci peggio di come sei entrato, e non sapresti dire che cosa hai imparato. Sapresti dire solo che era brutto, e che forse c’era ancora un pezzo.",
+              "text": "Il Cambridge Dictionary chiama doomscrolling il passare molto tempo al telefono o al computer a leggere notizie brutte o negative. La voce è marcata humorous, scherzosa. Le frasi di esempio sulla pagina illustrano la parola. Non sono uno studio, e non fissano un’ora oltre la quale il gesto diventa un danno.",
               "version": 1
             }
           ]
@@ -109,18 +130,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Tre segnali, più utili di un test online. Apri «solo per vedere» e chiudi più teso. Non ricordi un fatto, ricordi un tono. Il pezzo successivo sembra quello che finalmente metterà ordine. Se ti riconosci, non etichettarti. Nota l’orario. Il loop ama la notte, quando il giudizio è stanco e il letto è già un posto da cui è faticoso alzarsi a posare il telefono.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Non è lo stesso di «mi interessa il mondo». Interessarsi è una cosa che puoi fare in venti minuti, con una fonte, e poi vivere la serata. Scorrere è un modo per restare in allerta senza agire. Sembra responsabilità.",
+              "text": "Sharma, Lee e Johnson, su Technology, Mind, and Behavior nel 2022, stringono il perimetro: scansione abituale e immersiva, sui feed dei social, di informazioni negative e tempestive su crisi, disastri e tragedie. Scrivono che il termine è emerso all’inizio del 2020, che è stato coniato nel 2018 e poi reso noto dalla giornalista Karen Ho. Il lavoro è una scala di 15 voci, più una forma breve di 4. Nello studio di validazione la scala non risulta associata ai secondi passati a scorrere una pagina di titoli che non finisce (r = −0,007). Misura quello che le persone dichiarano, non i minuti osservati.",
               "version": 1
             }
           ]
@@ -132,7 +142,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Perché il pollice non si ferma",
+              "text": "Nessuna diagnosi in queste pagine",
               "version": 1
             }
           ]
@@ -143,19 +153,30 @@
           "children": [
             {
               "type": "text",
-              "text": "Il loop non è magia e non è, da solo, «mancanza di volontà». È un ambiente con tre ganci che si rinforzano. Toglierne uno basta più che giurare di diventare un’altra persona.",
+              "text": "L’American Psychological Association, nel Monitor del 1° novembre 2022, scrive che non c’è un disturbo formalmente riconosciuto e non ci sono criteri diagnostici. Doomscrolling, headline anxiety e headline stress disorder compaiono come nomi recenti. Steven Stosny, citato nella stessa pagina, dice che il «headline stress disorder» di cui ha scritto non è un disturbo formale.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Il doomscrolling non è la depressione e non è un disturbo d’ansia. Le pagine aperte mettono accanto all’abitudine, o accanto all’accesso del giorno alle notizie, dei punteggi di sintomi. Non assegnano quella etichetta a chi scorre.",
               "version": 1
             }
           ]
         },
         {
           "type": "heading",
-          "tag": "h3",
+          "tag": "h2",
           "version": 1,
           "children": [
             {
               "type": "text",
-              "text": "Il negativo pesa di più",
+              "text": "Ansia: un’associazione, nello stesso momento",
               "version": 1
             }
           ]
@@ -166,7 +187,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Da decenni la psicologia descrive un bias di negatività: minacce, perdite e notizie brutte catturano l’attenzione più degli aggiornamenti neutri. Non è un difetto morale. È un sistema antico, utile quando ignorare un pericolo costava caro. Un feed che tiene in cima ciò che ti ferma non resterà sul meteo. Tu non sei «morboso» se non riesci a staccarti da un titolo grave. Stai usando un’attenzione fatta per non perdere il pericolo, dentro un’interfaccia che non dice mai «basta, per stasera hai visto».",
+              "text": "Nello studio 3 di Sharma, 502 adulti e un solo questionario, chi riportava più ansia generalizzata nelle due settimane precedenti aveva punteggi di doomscrolling più alti. La correlazione con il GAD-7 è r = 0,307. Per gli autori è l’unica, tra quelle che si aspettavano di entità media, a cadere in quella fascia. Nello stesso momento ci sono associazioni piccole e negative con l’affetto positivo e con l’autocontrollo, e un’associazione piccola e positiva con il negativity bias.",
               "version": 1
             }
           ]
@@ -177,19 +198,30 @@
           "children": [
             {
               "type": "text",
-              "text": "Questo non significa che le notizie brutte siano un’invenzione del telefono. Sono vere, e alcune vanno sapute. Il telefono, però, non distingue «devo saperlo» da «sto usando il dolore degli altri come un rubinetto di attivazione». Quella distinzione la fai tu, e solo se c’è un punto in cui ti fermi.",
+              "text": "Con l’indice di benessere WHO-5 non c’è legame: r = −0,005. Gli autori lo scrivono: i dati trasversali non mostrano un nesso con il benessere psicologico misurato così. Aggiungono che l’abitudine è probabilmente mossa dall’ansia e che potrebbe anche produrne altra, e che questa dinamica non è stata messa alla prova.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La media, su una scala da 1 a 7, è 2,10 in quello studio e 2,80 nello studio precedente, su 401 persone. La distribuzione pende verso i valori bassi. Il doomscrolling, scrivono, era meno diffuso di quanto si aspettassero. Il 75% di quel campione di 502 non conosceva la parola.",
               "version": 1
             }
           ]
         },
         {
           "type": "heading",
-          "tag": "h3",
+          "tag": "h2",
           "version": 1,
           "children": [
             {
               "type": "text",
-              "text": "Nessun fondo, ricompensa incerta",
+              "text": "Distress: la stessa scala, ancora senza una causa",
               "version": 1
             }
           ]
@@ -200,7 +232,125 @@
           "children": [
             {
               "type": "text",
-              "text": "Lo scroll infinito toglie il fine pagina. A volte la card dopo è peggio. A volte è una pausa. A volte è una faccia che conosci. Quell’incertezza — non un premio ogni volta — tiene in vita il gesto. È la stessa famiglia di design delle storie che scadono e dei badge che dicono «il gruppo è andato avanti», di cui parliamo in ",
+              "text": "Satici, Gocet Tekin, Deniz e Satici hanno riprovato la scala in Türkiye. Nel terzo studio, 460 persone e un campione che gli autori definiscono non clinico, il doomscrolling è associato positivamente al distress psicologico (r = 0,391). La scala, la DASS-21, somma voci di depressione, ansia e stress. Il numero pubblicato è quello della somma. Non è una correlazione a parte per la sola depressione. Il punteggio è associato negativamente alla soddisfazione di vita (r = −0,290), al benessere mentale (r = −0,296) e all’armonia nella vita (r = −0,290).",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un modello statistico, sugli stessi questionari, tratta il distress come anello tra doomscrolling e quegli indicatori. Gli autori scrivono che il disegno è trasversale e che da lì è difficile trarre conclusioni causali. Servono, dicono, studi sperimentali e longitudinali. Il modello non è una causa dimostrata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Depressione e PTSD: un altro oggetto",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Price e colleghi, su Psychological Trauma nel 2022, usano la parola doomscrolling per l’affetto negativo elevato dopo le notizie sulla pandemia. La misura non è la scala di Sharma e non sono i minuti. Per 30 giorni, 61 giovani adulti di 18–20 anni, nel Vermont all’inizio di aprile 2020, hanno detto se quel giorno avevano ricevuto notizie sul coronavirus dai social. Molti erano stati reclutati per una storia di maltrattamento.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nel singolo giorno, l’accesso ai social è associato a sintomi più alti di depressione, misurati con il PHQ-9, e di PTSD, misurati con il PCL-5. L’aumento è maggiore se la storia di maltrattamento è più severa. Per giornali, televisione, radio e podcast quell’associazione non risulta. Chi all’inizio del mese aveva depressione o PTSD più alti ha poi aperto i social in più giorni. Sulla somma dei giorni, social o tradizionali, non c’è un effetto significativo sul cambiamento di depressione o PTSD nel mese.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Gli autori scrivono che il nesso è probabilmente bidirezionale: chi all’inizio stava peggio ha usato i social in più giorni, e il quadro che richiamano — l’amplificazione sociale del rischio — rende plausibile anche la direzione opposta. È la loro lettura. La durata dello scorrimento non è stata misurata. Sharma, a proposito di un conteggio giorno sì / giorno no, nota che non coglie durata, qualità, né lo stato soggettivo del doomscrolling. I due lavori non stanno in una frase sola.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Associazioni tra uso dei social, ansia e depressione su altri campioni stanno nel pezzo sull’",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/limpatto-dei-social-media-sul-benessere-e-come-gestirlo-in-modo-consapevole",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "impatto dei social",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Non sono questo diario e non sono questa scala.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "tag": "h2",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Perché il pollice continua",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Sharma descrive un’abitudine che parte da un motivo: restare aggiornati, soprattutto sulle notizie negative che potrebbero toccare sé e le persone vicine. Da lì, scrivono, il gesto diventa uno scorrimento compulsivo. Come altre abitudini, nasce da un comportamento con uno scopo e nel tempo diventa più automatico. L’autocontrollo più basso compare come associazione piccola. Quell’associazione non è una sentenza sul carattere e non isola il design del feed come causa.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "La FOMO, nello stesso studio, correla in modo moderato (r = 0,438). Gli autori la distinguono dalla paura di perdersi una festa: qui si tratterebbe, scrivono, di perdersi il disastro. È un costrutto vicino. Il pezzo su ",
               "version": 1
             },
             {
@@ -217,7 +367,7 @@
             },
             {
               "type": "text",
-              "text": ". Lì l’emozione è l’esclusione. Qui è il timore, o l’incapacità di lasciare una cosa brutta a metà. Manca lo stesso oggetto: uno stop.",
+              "text": " sta a parte.",
               "version": 1
             }
           ]
@@ -228,19 +378,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Se «ancora uno» è la frase che dici da venti minuti, non stai cercando informazione. Stai cercando la card che ti autorizzi a chiudere. Quella card non è nel feed. Il feed è costruito per non essere l’ultima.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Il corpo chiede un altro pezzo",
+              "text": "Nel Monitor, Price dice che i social sono progettati per uno scroll senza fine e che, quando un tema negativo domina, può sembrare l’unica cosa che succede. È una descrizione in quella pagina. Non è un coefficiente del diario.",
               "version": 1
             }
           ]
@@ -251,69 +389,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Dopo un contenuto che agita, il corpo è già acceso. Il pollice cerca o un sollievo o «ancora un dato, così mi preparo». Spesso il pezzo dopo alza di nuovo l’attivazione. Non stai risolvendo la notizia. Stai provando a calmarti con la cosa che ti agita. Di notte si incastra col sonno: luce, letto come redazione, «smetto quando ho capito». Capire una crisi del mondo alle 00:17 non è un compito realistico. È un modo per non posare il telefono.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Se il loop vive soprattutto a letto, il pezzo da spostare non è la tua forza di volontà a mezzanotte. È dove dorme l’apparecchio. Una presa in un’altra stanza batte un discorso.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Doomscrolling, FOMO e brain rot",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Tre nomi finiscono nella stessa serata e non sono la stessa cosa. Confonderli produce il rimedio sbagliato: cancellare tutto, per tre giorni, e poi ricominciare peggio.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "La FOMO è la paura di perdersi la vita degli altri. Il doomscrolling è la paura di perdersi la cosa brutta, o il non riuscire a lasciarla. Il ",
+              "text": "Nessuna di queste pagine misura la dopamina. Nel Monitor, Stosny dice che un avviso del telefono ne libererebbe, e non indica lo studio. Quella frase non è usata. La domanda sul reward è nel pezzo sulla ",
               "version": 1
             },
             {
               "type": "link",
-              "url": "/articoli/brain-rot",
+              "url": "/articoli/dopamina-la-guida-completa",
               "version": 1,
               "children": [
                 {
                   "type": "text",
-                  "text": "brain rot",
+                  "text": "dopamina",
                   "version": 1
                 }
               ]
             },
             {
               "type": "text",
-              "text": " — espressione che Oxford ha eletto parola dell’anno 2024 — nomina la sensazione di una testa consumata da contenuti veloci e di bassa qualità. È un’etichetta culturale, non una diagnosi clinica. Non «ti marcisce il cervello» in senso letterale. Descrive un dopo: ti alzi dal feed e non resta niente, solo stanchezza.",
+              "text": ".",
               "version": 1
             }
           ]
@@ -324,7 +417,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Possono stare in fila. Storie (FOMO), un buco di notizie (doomscrolling), poi una pila di clip che ti lascia vuoto. Stasera chiediti quale dei tre è acceso. Se è il radar sugli amici, silenziare le storie serve. Se è la notizia, serve una finestra e una fonte. Se è il vuoto dopo i clip, serve uno stop prima del «tanto sono già qui». Un solo divieto per tutti e tre è un manifesto, non un intervento.",
+              "text": "Una voce della scala di Sharma è restare alzati la notte per cercare altre notizie negative. Descrive l’abitudine che la scala vuole cogliere. Non è un risultato sul sonno, sulla melatonina o sull’attenzione. Se il loop vive a letto, le fonti su luce, letto e notifiche sono nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/telefono-in-camera-notifiche-e-sonno",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "telefono in camera",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Qui non c’è una prova che il doomscrolling rovini il sonno, né che rovini l’attenzione per sempre.",
               "version": 1
             }
           ]
@@ -336,7 +446,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Cosa interrompe il loop",
+              "text": "Che cosa si può spostare",
               "version": 1
             }
           ]
@@ -347,7 +457,7 @@
           "children": [
             {
               "type": "text",
-              "text": "L’obiettivo non è una versione di te che «non guarda le notizie». È ridurre i minuti in cui sei in allerta senza una domanda. Scegline due. Otto regole insieme durano un martedì.",
+              "text": "Non è una cura. Non è un protocollo testato in questi studi. Sono suggerimenti scritti nelle pagine.",
               "version": 1
             }
           ]
@@ -364,13 +474,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Una finestra, non un fiume.",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": " Esempio: dopo colazione, e non dopo le 21. Fuori da lì le app possono restare. Le notifiche delle news no. Se succede qualcosa che ti riguarda davvero, quasi sempre arriva anche da un’altra parte: una persona, un messaggio, il giorno dopo.",
+                  "text": "Don Grant, nel Monitor: spegnere le notifiche, mettere periodi senza tecnologia, non portare il telefono a tavola, limitare i controlli dei social a 15 minuti. I 15 minuti sono un tetto che propone lui. Non sono la soglia che separa informarsi e doomscrolling.",
                   "version": 1
                 }
               ]
@@ -381,13 +485,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Una domanda prima di aprire.",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": " Scrivila, anche in una nota. «Che cosa è cambiato su questo». Se non sai formularla, non ti stai informando. Stai entrando nel tubo.",
+                  "text": "Steven Stosny, nella stessa pagina: non tagliare ogni notizia. Chi prova a sparire del tutto immagina spesso qualcosa di peggiore di quello che sta succedendo. Meglio moderare.",
                   "version": 1
                 }
               ]
@@ -398,64 +496,7 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Una fonte, non dieci tab.",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": " Dieci aperture della stessa notizia non la rendono più vera. La rendono più lunga. Scegli un posto che corregge gli errori e che ha un orario. Poi chiudi.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Il telefono che dorme altrove.",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": " Non come punizione. Come attrito. Il loop di notte muore più spesso per una presa lontana che per un’app di benessere.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Niente thread «per capire».",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": " I commenti sotto una notizia sono un secondo scroll infinito vestito da dovere civile. Se vuoi un contesto, è un articolo. Se vuoi avere ragione, è un’altra serata persa.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Un finale già deciso.",
-                  "version": 1,
-                  "format": 1
-                },
-                {
-                  "type": "text",
-                  "text": " Gli ultimi venti minuti sono il punto debole. Un finale noioso e fisso — lavarsi, una pagina di carta, una puntata che conosci già — batte «smetto quando si calma». Non si calma.",
+                  "text": "Price, sul lavoro clinico con chi ha una storia di maltrattamento e riporta depressione o PTSD: valutare quanto social legato alla pandemia si consuma, spegnere le notifiche, fare qualcosa senza telefono, prevedere pause dalle notizie. Scrive che possono essere utili. Non è un esito misurato nel diario, e non è una ricetta per chiunque chiuda tardi un feed.",
                   "version": 1
                 }
               ]
@@ -468,7 +509,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Se le notizie ti servono per lavoro o per lo studio, la finestra è lo strumento. L’astinenza solenne, no: di solito il loop torna dal browser, con più fretta.",
+              "text": "Sharma scrive che la scala può servire a fare l’inventario, e che accorgersi dell’abitudine può aiutare l’autoregolazione. Cita, come esempio discusso in un altro paper, porzioni più piccole di notizie sul telefono. Quello studio non è stato aperto: qui non se ne riportano i numeri. Scegliere meno attività digitali, senza trattarle come un miracolo, è il tema del pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/il-minimalismo-digitale-come-vivere-meglio-con-meno-tecnologia",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "minimalismo digitale",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
@@ -479,7 +537,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Se cedi, non azzeri la settimana. Torni alla finestra successiva. Il senso di colpa è un altro feed: ti tiene acceso e non ti informa.",
+              "text": "Se le notizie servono per il lavoro o per lo studio, il perimetro è lo stesso suggerimento: una finestra, non l’astinenza. Sharma dice che il motivo di partenza è restare aggiornati, e che da lì il gesto può diventare compulsivo. In queste pagine una finestra non è la prova che il lavoro renda il loop innocuo.",
               "version": 1
             }
           ]
@@ -491,7 +549,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Cinque giorni, non un voto",
+              "text": "Se non è solo il feed",
               "version": 1
             }
           ]
@@ -502,93 +560,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Cinque giorni bastano per vedere se l’allerta scende. Non è una cura e non è un challenge da postare.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "list",
-          "tag": "ul",
-          "listType": "bullet",
-          "version": 1,
-          "children": [
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Giorno 1: non cambiare nulla. Segna quante volte apri senza una domanda.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Giorno 2: spegni le notifiche delle app di notizie e dei social che te le spingono.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Giorno 3: due finestre. Fuori, il telefono può stare in tasca. Non in mano «nel frattempo».",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Giorno 4: la ricarica non è sul cuscino. Un’altra stanza, o almeno non nel letto.",
-                  "version": 1
-                }
-              ]
-            },
-            {
-              "type": "listitem",
-              "version": 1,
-              "children": [
-                {
-                  "type": "text",
-                  "text": "Giorno 5: una frase, «che cosa mi serviva sapere». Se è vuota, il loop non era informazione.",
-                  "version": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Se al giorno 5 sei solo un po’ meno in tubo, è un risultato. Non serve un prima-e-dopo.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Quando non è solo un’abitudine",
+              "text": "Se da settimane non dormi, se il panico resta con il telefono in un’altra stanza, se le notizie sono l’unico posto in cui ti senti dentro qualcosa, questi studi non sono la risposta clinica. Satici è esplicito: campione non clinico. Sharma è un questionario su un panel. Price è un diario di 61 giovani adulti all’inizio della pandemia, non una terapia.",
               "version": 1
             }
           ]
@@ -599,122 +571,7 @@
           "children": [
             {
               "type": "text",
-              "text": "A volte il loop è un’abitudine agganciata al design. A volte è un segnale che il resto della giornata non tiene. Se da settimane non dormi perché controlli, se il panico resta anche con il telefono in un’altra stanza, se le notizie sono l’unico posto in cui ti senti «dentro» qualcosa, gli attriti servono ancora, ma non sono tutta la risposta.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Parlane con una persona, non con un feed: un amico, un adulto di fiducia, un servizio scolastico o, se serve, un professionista. Questo pezzo non è clinico. Il doomscrolling non è depressione e non è un disturbo d’ansia. Possono però occupare lo stesso mese. Nessun trucco di notifiche sostituisce quel passaggio, e nessun articolo deve convincerti che «è solo il telefono». Se invece il loop è solo sera e solo un’app, parti dagli attriti. Non trasformare un’abitudine in un’identità.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Domande corte",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Leggere le notizie ogni giorno è già doomscrolling?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "No. La differenza è lo stop e come ne esci. Venti minuti con una domanda, e poi la giornata, non sono un loop. Un’ora senza ricordare che cosa hai letto, sì. Non misurare la virtù. Misura se chiudi.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Devo cancellare le app di notizie o i social?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Di solito no, non come primo gesto. Cancellare senza una finestra sposta il loop nel browser. Se un’app è solo il tubo, puoi toglierla dal telefono e lasciarla dove serve un passo in più. Non è sparire. È attrito.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Il doomscrolling rovina l’attenzione per sempre?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Non c’è un buon motivo per dirlo così. Lo slogan del danno permanente è più forte delle prove. Il punto solido è più piccolo, e basta: il loop tiene l’attivazione alta, ruba sonno e ruba la sera. Ridurlo migliora quelle ore. Non devi credere a una sentenza sul cervello per posare il telefono.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Mi serve restare informato per lavoro o per lo studio.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Allora è un compito, e i compiti hanno un orario. Una lista corta di fonti, una finestra, un appunto con che cosa è cambiato. «Restare informati» senza fine non è più professionale. È lo stesso tubo con una giustificazione migliore.",
+              "text": "Parlane con una persona: un amico, un adulto di fiducia, un servizio, o un professionista se serve. Spegnere una notifica non sostituisce quel passaggio. L’abitudine, da sola, non è un’identità.",
               "version": 1
             }
           ]
@@ -737,18 +594,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Interrompere il doomscrolling non è diventare qualcuno che non sa che cosa succede. È smettere di usare le cattive notizie come un rubinetto che non chiude. Una domanda prima di aprire. Una finestra. Una presa che non è nel letto. Niente thread come dovere. Niente giuramenti.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Se stasera l’unico cambiamento è spegnere le notifiche di un’app di notizie e scrivere su un foglietto che cosa volevi sapere prima di sbloccare lo schermo, il pollice ha già trovato un ostacolo. Domani non dovrai essere una persona «disconnessa». Dovrai solo arrivare in fondo a una domanda, e poi fare altro.",
+              "text": "Una domanda prima di aprire. Un orario. Le notifiche di quel tubo spente. Il telefono che di notte sta fuori dal letto, per le ragioni dell’altro pezzo, non perché questa scala abbia misurato il sonno. Nessun giuramento di sparire.",
               "version": 1
             }
           ]
