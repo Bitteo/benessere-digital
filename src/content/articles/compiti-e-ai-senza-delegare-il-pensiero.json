@@ -1,57 +1,76 @@
 {
   "slug": "compiti-e-ai-senza-delegare-il-pensiero",
   "title": "Compiti e AI: usare ChatGPT e i chatbot senza delegare il pensiero",
-  "excerpt": "Spiegare, interrogare, rivedere: come usare un chatbot sui compiti senza consegnare un testo che non è il tuo. Cosa dicono UNESCO e le linee guida del MIM.",
+  "excerpt": "Spiegare, farsi interrogare, rivedere: come usare un chatbot sui compiti senza consegnare un testo che non è il tuo. Cosa dicono UNESCO, il Ministero e un esperimento in classe.",
   "cover": "/images/covers/compiti-e-ai-senza-delegare-il-pensiero.png",
   "coverAlt": "Illustrazione editoriale a linee: ragazzo alla scrivania che scrive a mano accanto al portatile, con un fumetto di chat, accenti corallo su fondo off-white — senza testo leggibile.",
   "publishedAt": "2026-10-19T09:00:00.000+02:00",
+  "updatedAt": "2026-11-25T09:30:00.000+01:00",
   "authorSlugs": ["matteo-foroni"],
   "categorySlugs": ["genitori-e-scuola", "app-e-strumenti"],
-  "readingTime": 9,
+  "readingTime": 10,
   "status": "published",
   "seo": {
-    "metaTitle": "Compiti e AI: chatbot senza delegare il pensiero",
-    "metaDescription": "Usare ChatGPT per spiegare, interrogare e rivedere i compiti senza consegnare un testo non proprio. Cosa dicono la Guidance UNESCO 2023 e le linee guida MIM.",
+    "metaTitle": "Compiti e AI: ChatGPT senza delegare il pensiero",
+    "metaDescription": "Come usare ChatGPT sui compiti per capire, non per consegnare il suo testo. Spiegare, farsi interrogare, rivedere: UNESCO, Ministero e un esperimento.",
     "noIndex": false
   },
   "sources": [
     {
       "title": "UNESCO — Guidance for generative AI in education and research (2023)",
       "url": "https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research",
-      "note": "Pagina istituzionale, 7 settembre 2023: approccio centrato sulla persona, privacy, limite di età per le conversazioni autonome, uso pedagogico."
+      "note": "Pagina istituzionale aperta (HTTP 200). Data in pagina: 7 settembre 2023; ultimo aggiornamento indicato: 16 gennaio 2026. Presenta la prima Guidance globale UNESCO sull’IA generativa in educazione e ricerca: approccio centrato sulla persona, protezione dei dati, soglia di età per le conversazioni autonome, uso pedagogico. Non è il testo integrale: le frasi citate nell’articolo stanno nel PDF."
     },
     {
       "title": "UNESCO — Guidance for generative AI in education and research (PDF, 2023)",
       "url": "https://unesco.org.uk/site/assets/files/10375/guidance_for_generative_ai_in_education_and_research.pdf",
-      "note": "Testo della Guidance (ISBN 978-92-3-100612-8). Agenzia umana, età minima indicata a 13 anni, compiti, integrità, dialogo socratico."
+      "note": "PDF aperto (HTTP 200, 48 pagine). ISBN 978-92-3-100612-8, DOI 10.54675/EWZM9535. È il testo della Guidance, ospitato dalla Commissione nazionale UNESCO del Regno Unito. La scheda UNESDOC (https://unesdoc.unesco.org/ark:/48223/pf0000386693) da questo ambiente risponde 403 per una verifica anti-bot; il PDF qui sopra è stato letto. Frasi usate: i sistemi possono mettere alla prova ed estendere il pensiero umano e non dovrebbe essere consentito che ne prendano il posto («should not be allowed to usurp human thinking»); nel tempo l’appoggio all’IA generativa «may have profound effects» su pensiero critico e creatività, effetti da valutare; uso a scuola per ridurre, non aumentare, la pressione di compiti e verifiche; età minima 13 anni per le conversazioni autonome; al momento della Guidance le condizioni di ChatGPT chiedevano almeno 13 anni e il permesso di un genitore o tutore sotto i 18; la maggior parte delle applicazioni è pensata per adulti, con rischi per i minori (contenuti inadatti, manipolazione); i Paesi devono discutere in pubblico la soglia. Plagio: uno studente può presentare come proprio un testo che non ha scritto, «a new type of plagiarism»; filigrane e strumenti di rilevamento avevano «little evidence» di efficacia; strategia immediata, integrità e verifica umana; strategia lunga, cambiare le consegne. I modelli sono «black boxes»: difficile o impossibile sapere perché è uscito quel contenuto; anche il fornitore di ChatGPT, citato nella Guidance, scrive che risposte di tono ragionevole non sono affidabili. Il dialogo socratico è un uso possibile (tabella degli usi), da disegnare nella didattica; senza quello, la Guidance dice che gli strumenti tendono al plagio o a un output superficiale. Non è una legge italiana e non è una soglia clinica."
     },
     {
       "title": "MIM — Linee guida per l’introduzione dell’IA nelle istituzioni scolastiche (DM 166/2025)",
       "url": "https://www.mim.gov.it/documents/20182/0/MIM_Linee+guida+IA+nella+Scuola_09_08_2025-signed.pdf",
-      "note": "Versione 1.0, 2025. L’IA non sostituisce impegno, riflessione e autonomia; i modelli linguistici possono essere assertivi e inesatti."
+      "note": "PDF aperto (HTTP 200, 34 pagine). Versione 1.0, 2025, Ministero dell’istruzione e del merito. Principio letto: l’IA deve sostenere competenze autentiche e un apprendimento critico e creativo «senza sostituire l’impegno, la riflessione e l’autonomia». Trasparenza: molti strumenti, come i grandi modelli linguistici, producono output in modo apparentemente sicuro e autorevole, ma spesso mancano di rigore o si basano su informazioni errate, con il rischio di «falsi riferimenti». Studenti, sezione delle applicazioni: approfondimento in tempo reale (articoli, libri, materiali) con l’avvertenza che le fonti «non sono sempre aggiornate o attendibili», da collegare al valutare le fonti (DigComp 2.2, competenza 1.2); feedback immediati come «strumento aggiuntivo al feedback più strutturato del docente»; chatbot o piattaforme fuori dall’orario come assistenza che il testo presenta come promozione dell’autonomia, autogestione, pensiero critico e problem solving. Quell’ultima frase non riporta una misura: nell’articolo non è trattata come esito dimostrato. Paragrafo 4.4: studentesse e studenti vanno guidati a valutare le informazioni dei sistemi di IA, anche rispetto alle «allucinazioni» intese come risultati che non corrispondono alla realtà. Comunicazione: se l’IA entra nella didattica, informare studenti e famiglie, anche tramite consigli di classe. AI Act: per i sistemi a rischio limitato che interagiscono con persone, dovere di trasparenza (il testo richiama l’art. 50). Vale per i sistemi adottati dalla scuola, non come obbligo dello studente di dichiarare il compito. Un secondo URL dello stesso PDF, https://www.mim.gov.it/documents/8099600/8784171/MIM_Linee+guida+IA+nella+Scuola_09_08_2025-signed.pdf, risponde anch’esso 200: è la stessa versione, non una fonte in più."
     },
     {
-      "title": "MIM — Comunicazione di pubblicazione delle Linee guida (29 agosto 2025)",
-      "url": "https://www.mim.gov.it/-/pubblicate-le-linee-guida-per-l-introduzione-dell-intelligenza-artificiale-nelle-istituzioni-scolastiche-allegato-al-dm-n-166-del-09-08-2025",
-      "note": "Annuncio del documento allegato al DM n. 166 del 9 agosto 2025."
+      "title": "MIM — Registrazione del DM n. 166/2025 e linee guida in allegato (5 settembre 2025)",
+      "url": "https://www.mim.gov.it/web/basilicata/-/dm-n-166-2025-concernente-l-implementazione-di-un-servizio-digitale-in-materia-di-intelligenza-artificiale-nell-ambito-della-piattaforma-unica",
+      "note": "Pagina dell’Ufficio scolastico regionale per la Basilicata sul sito del Ministero, aperta (HTTP 200). Data in pagina: venerdì 5 settembre 2025. Dice che il DM n. 166 del 9 agosto 2025 è stato registrato, che riguarda un servizio digitale sull’IA nella piattaforma Unica e che in allegato ci sono le linee guida. La pagina nazionale del 29 agosto 2025, ancora online, annunciava le stesse linee guida «in attesa della registrazione» e ricordava il parere favorevole del Garante per la protezione dei dati personali: https://www.mim.gov.it/-/pubblicate-le-linee-guida-per-l-introduzione-dell-intelligenza-artificiale-nelle-istituzioni-scolastiche-allegato-al-dm-n-166-del-09-08-2025 (HTTP 200). Il decreto, 13 pagine, è il PDF https://www.mim.gov.it/documents/20182/0/m_pi.AOOGABMI.Registro+Decreti%28R%29.0000166.09-08-2025.pdf (HTTP 200): adotta le linee guida previo parere del Garante e istituisce il servizio su Unica. Non è da lì che escono i consigli sul compito."
+    },
+    {
+      "title": "OCSE — Emerging governance of generative AI in education, Digital Education Outlook 2023",
+      "url": "https://www.oecd.org/en/publications/oecd-digital-education-outlook-2023_c74f03de-en/full-report/emerging-governance-of-generative-ai-in-education_3cbd6269.html",
+      "note": "Capitolo 10, pagina datata 13 dicembre 2023, Quentin Vidal, Stéphan Vincent-Lancrin, Hyunkyeong Yun. Testo del capitolo letto. Una richiesta diretta da questo ambiente ha ricevuto 403 da una verifica anti-bot, come per altre pagine OCSE. Fotografia all’inizio del 2024 su 18 Paesi e giurisdizioni: nessuno aveva in vigore un regolamento specifico sull’IA generativa in educazione; Francia e Corea ne avevano uno in attesa; nove avevano pubblicato orientamenti non vincolanti; in nove la regola, dentro la protezione dei dati, la scriveva la scuola. L’Italia non è nel gruppo (Austria, Canada, Cechia, Finlandia, Francia, Ungheria, Islanda, Giappone, Corea, Lettonia, Lussemburgo, Nuova Zelanda, Slovacchia, Spagna, Svezia, Türkiye, Inghilterra, Comunità fiamminga del Belgio). Nel testo, la sola guida che vieta l’IA generativa sui compiti è quella svedese. Non descrive le linee guida italiane dell’agosto 2025, che sono successive. I conteggi restano in questa nota."
+    },
+    {
+      "title": "Bastani e colleghi — Generative AI without guardrails can harm learning (PNAS, 2025)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/",
+      "note": "Testo aperto su PMC, PMC12232635, PMID 40560616, DOI 10.1073/pnas.2422633122. PNAS, volume 122, numero 26, pubblicato il 25 giugno 2025. Ricevuto il 3 novembre 2024, accettato il 5 maggio 2025. Pagina PMC aperta (HTTP 200). La pagina PNAS da questo ambiente risponde 403 a una verifica anti-bot. Esperimento sul campo in una scuola superiore in Türkiye, semestre autunnale 2023-2024, matematica. Quattro sessioni da 90 minuti, circa cinquanta classi di prima, seconda e terza superiore, quasi mille studenti; per ogni anno, circa il 15% del programma del semestre. Le classi honors, non assegnate a caso, sono fuori dal campione principale. Randomizzazione per classe. Controllo: libro e appunti, senza dispositivi. Due chat su GPT-4: «GPT Base», interfaccia simile a ChatGPT; «GPT Tutor», istruita a dare indizi e non la soluzione, con soluzioni corrette e errori tipici inseriti dai docenti. Gli studenti non vedevano il prompt di sistema. In classe c’erano un docente e un membro dello staff, perché non si aprissero altri siti. Esercizi e prova successiva contavano sul voto. Con la chat aperta, rispetto al controllo (media degli esercizi 0,28 su 1): GPT Base +0,137 (+48%), GPT Tutor +0,361 (+127%). Sulla prova senza aiuto: GPT Base −0,054 su 1, cioè −17% rispetto alla media del controllo, calo che gli autori chiamano statisticamente significativo; GPT Tutor −0,004, statisticamente non distinguibile dal controllo, e gli autori scrivono di non osservare un effetto positivo. Leggono il calo della chat libera come uso «da stampella», non come travaso degli errori logici del modello sulla prova: quegli errori pesavano sugli esercizi, non in modo chiaro sulla prova corrispondente. Limiti scritti da loro: una scuola, una materia, esiti di breve periodo, autunno 2023 quando lo strumento era nuovo, modelli migliorati dopo, niente prova sulla scrittura. Non è un compito a casa e non collauda i gesti descritti in questo articolo."
     }
   ],
   "faq": [
     {
       "question": "Posso farmi spiegare un capitolo da un chatbot?",
-      "answer": "Sì, se poi chiudi la chat e riscrivi con parole tue che cosa hai capito. La spiegazione è un uso. La consegna di quella spiegazione come compito tuo è un altro gesto. La Guidance UNESCO dice che questi strumenti possono estendere il pensiero, e che non devono sostituirlo."
+      "answer": "Sì, se poi chiudi la chat e riscrivi con parole tue che cosa hai capito. La spiegazione è un uso. Consegnare quella spiegazione come compito tuo è un altro gesto. La Guidance UNESCO dice che questi strumenti possono mettere alla prova il pensiero, e che non devono prenderne il posto."
     },
     {
       "question": "Devo dire al docente che l’ho usato?",
-      "answer": "Sì, prima della consegna, e nel modo in cui la scuola lo ha chiesto. Se la regola non c’è ancora, una frase basta: che cosa hai chiesto, che cosa hai tenuto, che cosa hai scartato. Nascondere lo strumento trasforma un aiuto in un testo che non è il tuo."
+      "answer": "Sì, prima della consegna, nel modo in cui la scuola lo ha chiesto. Se la regola non c’è ancora, basta una frase: che cosa hai chiesto, che cosa hai tenuto, che cosa hai scartato. Nascondere lo strumento fa sembrare tuo un testo che non lo è."
     },
     {
       "question": "Il chatbot può sbagliare anche se sembra sicuro?",
-      "answer": "Sì. Le linee guida del Ministero dell’istruzione e del merito ricordano che molti modelli linguistici producono risposte in tono sicuro e autorevole, ma possono mancare di rigore o poggiare su informazioni errate, compresi riferimenti falsi. Una frase ben scritta non è una fonte."
+      "answer": "Sì. Le linee guida del Ministero ricordano che molti modelli linguistici rispondono con tono sicuro, ma possono mancare di rigore o poggiare su informazioni sbagliate, compresi riferimenti che non esistono. Una frase ben scritta non è una fonte. Se non torna con il libro, vince il libro."
     },
     {
       "question": "A che età si può usare da soli?",
-      "answer": "La Guidance UNESCO del 2023 indica come soglia minima 13 anni per le conversazioni autonome con piattaforme di IA generativa, e ricorda che a quella data le condizioni di ChatGPT chiedevano almeno 13 anni e il permesso di un genitore sotto i 18. Non è una legge italiana sui compiti. La regola dell’istituto e le condizioni del servizio restano da leggere."
+      "answer": "La Guidance UNESCO del 2023 indica 13 anni come soglia minima per le conversazioni autonome, e ricorda che allora le condizioni di ChatGPT chiedevano almeno 13 anni e il permesso di un genitore sotto i 18. Non è una legge italiana sui compiti. Contano la regola dell’istituto e le condizioni del servizio, da rileggere: possono cambiare."
+    },
+    {
+      "question": "Se lo uso per esercitarmi, imparo lo stesso?",
+      "answer": "Non è automatico. In un esperimento di matematica, in una sola scuola superiore, una chat libera alzava i voti finché era aperta e, a chat chiusa, quel gruppo faceva peggio di chi non l’aveva avuta. Una versione che dava indizi e non la soluzione non mostrava quel calo, e non mostrava neppure un vantaggio sulla prova senza aiuto. Non è la prova che a casa funzioni così per ogni materia."
+    },
+    {
+      "question": "Che cosa può fare un genitore, senza leggere la cronologia?",
+      "answer": "Chiedere di vedere la versione del ragazzo prima di quella della chat, come si chiedeva il foglio di brutta. Se diventa un interrogatorio, aggiungi sospetto e non pensiero. Se la scuola ha vietato lo strumento su quella prova, la regola si rispetta."
     }
   ],
   "content": {
@@ -75,7 +94,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Questo pezzo è per chi insegna e per chi studia. Non è un divieto di aprire una chat. È la differenza tra usare un modello per capire e consegnare un modello al posto del proprio ragionamento. Le linee pubbliche che si possono verificare — la Guidance UNESCO del 2023 sull’IA generativa in educazione e ricerca, e le linee guida del Ministero dell’istruzione e del merito del 2025 — vanno nella stessa direzione: lo strumento può servire, se la persona resta al centro.",
+              "text": "Questo pezzo è per chi studia, per chi insegna e per chi a casa chiede se il compito è proprio. Non è un divieto di aprire una chat. È la differenza tra usare un modello per capire e consegnare un modello al posto del proprio ragionamento. Le linee che si possono aprire — la Guidance UNESCO del 2023 sull’IA generativa in educazione e ricerca, e le linee guida del Ministero dell’istruzione e del merito dell’agosto 2025 — vanno nella stessa direzione: lo strumento può servire, se la persona resta al centro.",
               "version": 1
             }
           ]
@@ -98,7 +117,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Un uso buono ha un prima e un dopo che sono tuoi. Prima hai letto, o almeno hai provato. Poi chiedi. Poi chiudi. Poi scrivi tu la cosa che consegnerai, o la dici a voce.",
+              "text": "Un uso che resta tuo ha un prima e un dopo. Prima hai letto, o almeno hai provato. Poi chiedi. Poi chiudi. Poi scrivi tu la cosa che consegnerai, o la dici a voce. Non è un metodo misurato. È il modo in cui si vede se il passaggio è tuo.",
               "version": 1
             }
           ]
@@ -138,7 +157,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "Chiedi domande, non il tema svolto. La Guidance UNESCO indica, tra gli usi che tengono alta la qualità del pensiero, il dialogo in stile socratico: il modello fa da controparte, tu rispondi. Funziona se la consegna è la tua risposta, non la sua.",
+                  "text": "Chiedi domande, non il tema svolto. La Guidance UNESCO indica, tra gli usi possibili, un dialogo in cui il modello fa da controparte e le risposte le dai tu. È un potenziale, e la stessa Guidance dice che senza un uso pensato per far ragionare, la chat tende a un testo superficiale. Resta studio solo se la consegna è la tua risposta.",
                   "version": 1
                 }
               ]
@@ -166,13 +185,13 @@
               "children": [
                 {
                   "type": "text",
-                  "text": "Cercare dove approfondire, e controllare. ",
+                  "text": "Cercare dove approfondire, e aprire. ",
                   "version": 1,
                   "format": 1
                 },
                 {
                   "type": "text",
-                  "text": "Le linee guida del MIM descrivono l’approfondimento in tempo reale: articoli, libri, materiali. Aggiungono che quelle indicazioni non sono sempre aggiornate né attendibili, e collegano l’esercizio al saper valutare fonti e contenuti. Un titolo suggerito si apre. Non si cita a memoria della chat.",
+                  "text": "Le linee guida del Ministero descrivono l’approfondimento in tempo reale: articoli, libri, materiali. Aggiungono che quei suggerimenti non sono sempre aggiornati né attendibili, e collegano l’esercizio al saper valutare una fonte. Un titolo si apre. Non si cita a memoria della chat.",
                   "version": 1
                 }
               ]
@@ -185,7 +204,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Il Ministero, nello stesso documento, parla di feedback e spiegazioni degli errori come strumento in più rispetto al feedback del docente, non al posto suo. E descrive chatbot e piattaforme che possono accompagnare lo studio fuori dall’orario, a patto che crescano autonomia, pensiero critico e capacità di risolvere problemi. La frase chiave, tra i principi, è netta: l’IA deve sostenere competenze autentiche e un apprendimento critico e creativo, senza sostituire l’impegno, la riflessione e l’autonomia.",
+              "text": "Lo stesso documento parla di correzioni e spiegazioni degli errori come strumento in più, accanto al feedback del docente, non al posto suo. Descrive anche chatbot che possono dare una mano fuori dall’orario di scuola, e presenta quell’uso come un modo per gestire da soli tempo e risorse. Non misura se il pensiero critico cresca. La frase che fa da paletto, tra i principi, è un’altra: l’IA deve sostenere competenze autentiche e un apprendimento critico e creativo, senza sostituire l’impegno, la riflessione e l’autonomia.",
               "version": 1
             }
           ]
@@ -196,7 +215,7 @@
           "children": [
             {
               "type": "text",
-              "text": "L’UNESCO, dal canto suo, chiede che l’uso a scuola riduca la pressione di compiti e verifiche, invece di aumentarla. Un chatbot aperto «per fare prima» e poi ricontrollato tre volte non ha alleggerito nulla. Ha aggiunto un passaggio. Un chatbot usato per sbloccare un punto, e poi chiuso, può togliere un’ora di blocco. La differenza si vede nel foglio, non nella buona intenzione.",
+              "text": "L’UNESCO, dal canto suo, chiede che l’uso a scuola riduca la pressione di compiti e verifiche, invece di aumentarla. Un chatbot aperto «per fare prima» e poi ricontrollato tre volte non ha alleggerito nulla. Ha aggiunto un passaggio. Un chatbot usato per sbloccare un punto, e poi chiuso, può togliere un’ora di blocco. La differenza si vede sul foglio, non nella buona intenzione.",
               "version": 1
             }
           ]
@@ -219,7 +238,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Delegare è chiedere il prodotto finito e metterci il nome. Il tema, la relazione, la traduzione, l’analisi del testo, l’esercizio di matematica con i passaggi già scritti. A volte si cambia una parola, per sentire di aver partecipato. Il ragionamento non è passato di lì.",
+              "text": "Delegare è chiedere il prodotto finito e metterci il nome. Il tema, la relazione, la traduzione, l’analisi del testo, l’esercizio con i passaggi già scritti. A volte si cambia una parola, per sentire di aver partecipato. Il ragionamento non è passato di lì.",
               "version": 1
             }
           ]
@@ -230,7 +249,18 @@
           "children": [
             {
               "type": "text",
-              "text": "La Guidance UNESCO lo dice senza giri: questi strumenti possono essere usati per mettere alla prova ed estendere il pensiero umano, e non dovrebbe essere consentito che lo usurpano. Più avanti avverte che, nel tempo, appoggiarsi all’IA generativa può incidere su capacità come il pensiero critico e la creatività: effetti da valutare, non una sentenza già scritta. Il punto operativo è più semplice. Se il compito misura una cosa che il modello fa al posto tuo, tu non l’hai misurata.",
+              "text": "La Guidance UNESCO lo dice senza giri: questi strumenti possono essere usati per mettere alla prova ed estendere il pensiero umano, e non dovrebbe essere consentito che ne prendano il posto. Più avanti avverte che, nel tempo, appoggiarsi all’IA generativa può incidere su capacità come il pensiero critico e la creatività. Sono effetti da valutare, non una sentenza già scritta. Il punto, sul banco, è più semplice. Se il compito misura una cosa che il modello fa al posto tuo, tu non l’hai misurata.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Un esperimento in classe rende concreto il rischio, e va letto nei suoi limiti. In una scuola superiore, durante ore di matematica, gli studenti facevano esercizi e poi una prova senza aiuti. Chi aveva una chat libera, sullo stampo di quelle già usate anche fuori da scuola, prendeva voti più alti finché la chat era aperta. A chat chiusa, sulla prova, faceva peggio di chi non l’aveva mai avuta. Una seconda chat, istruita a dare indizi e non la soluzione, e riempita dai docenti con le risposte giuste, sulla prova senza aiuto non mostrava quel calo. Non mostrava neppure un vantaggio rispetto a chi aveva solo libro e appunti. Finché era aperta, anche quella alzava i voti degli esercizi: il punto è la prova dopo, non il foglio fatto con l’aiuto acceso. È un solo istituto, una sola materia, poche sessioni, nell’autunno 2023. Non è il tema di italiano sul tavolo della cucina, e non è una ricetta. Gli autori leggono il calo come l’uso della chat da stampella. I dettagli stanno nella fonte.",
               "version": 1
             }
           ]
@@ -252,7 +282,41 @@
           "children": [
             {
               "type": "text",
-              "text": "Il tono sicuro inganna. Il MIM scrive che molti strumenti, come i grandi modelli linguistici, producono output in modo apparentemente sicuro e autorevole, ma spesso mancano di rigore o si basano su informazioni errate, con il rischio di diffondere riferimenti falsi. L’UNESCO aggiunge che i sistemi sono in larga parte opachi: è difficile, a volte impossibile, sapere perché è uscito proprio quel contenuto. Una bibliografia inventata con grazia resta inventata. Un passaggio di storia plausibile resta da controllare sul libro.",
+              "text": "Il tono sicuro inganna. Il Ministero scrive che molti strumenti, come i grandi modelli linguistici, producono output in modo apparentemente sicuro e autorevole, ma spesso mancano di rigore o si basano su informazioni errate, con il rischio di diffondere riferimenti falsi. Nella parte sulla responsabilità chiede che studentesse e studenti imparino a riconoscere anche le risposte che non corrispondono alla realtà. L’UNESCO aggiunge che i sistemi sono in larga parte opachi: è difficile, a volte impossibile, sapere perché è uscito proprio quel contenuto. Una bibliografia inventata con grazia resta inventata. Un passaggio di storia plausibile si controlla sul capitolo, non sulla chat. Il capitolo resta l’arbitro, ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/leggere-su-carta-o-su-schermo",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "su carta o su schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Un riferimento che non hai aperto non si cita: è lo scrupolo con cui ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/verificare-una-notizia-prima-di-inoltrarla",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "si verifica una notizia prima di inoltrarla",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
@@ -263,7 +327,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Delegare non è solo barare a una verifica. È saltare il punto in cui la fatica insegna. Se ogni ostacolo viene risolto a monte, il compito torna «fatto» e la competenza no. Il giorno della interrogazione, o del problema leggermente diverso, la chat non è nel banco.",
+              "text": "Delegare non è solo barare a una verifica. Nell’esperimento di matematica, il foglio degli esercizi risultava fatto e la prova senza chat no. Non è una legge per ogni compito. È il motivo per non saltare il punto in cui ti inceppi.",
               "version": 1
             }
           ]
@@ -314,7 +378,7 @@
             },
             {
               "type": "text",
-              "text": ": visibile, prevedibile, senza un processo morale. Gli studenti distinguono «non ti sostituire» da «non accendere nulla».",
+              "text": ": visibile, prevedibile, senza un processo morale. Un confronto dell’OCSE, chiuso all’inizio del 2024 e senza l’Italia nel gruppo, trovava soprattutto orientamenti non vincolanti: spesso la regola la scriveva la scuola. Le linee guida italiane dell’agosto 2025 arrivano dopo quella fotografia. Non sono un codice del singolo compito. Sono il quadro dentro cui l’istituto decide.",
               "version": 1
             }
           ]
@@ -325,7 +389,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Sul piano della scuola, non del singolo compito, il MIM chiede trasparenza anche sugli strumenti adottati dall’istituto. Se l’IA entra nella didattica, studenti e famiglie vanno informati, attraverso i canali già previsti, consigli di classe compresi. L’AI Act, richiamato nelle stesse linee guida, impone per i sistemi che interagiscono con le persone un dovere di trasparenza: chi parla con un sistema deve poterlo sapere. Vale per una piattaforma scelta dalla scuola. Vale, come abitudine, anche per un testo che arriva in cattedra.",
+              "text": "Sul piano della scuola, non del singolo foglio, il Ministero chiede trasparenza anche sugli strumenti adottati dall’istituto. Se l’IA entra nella didattica, studenti e famiglie vanno informati, attraverso i canali già previsti, consigli di classe compresi. L’AI Act, richiamato nelle stesse linee guida, impone per i sistemi che interagiscono con le persone un dovere di trasparenza: chi parla con un sistema scelto dalla scuola deve poterlo sapere. Non è una norma che obblighi lo studente a firmare il compito. La frase in cima al foglio è la regola dell’istituto, o un’abitudine onesta quando la regola ancora non c’è.",
               "version": 1
             }
           ]
@@ -336,7 +400,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Sull’età, la Guidance UNESCO del 2023 è esplicita e va letta per quello che è: un orientamento, non il regolamento del tuo liceo. La maggior parte delle applicazioni di IA generativa è pensata per adulti e comporta rischi per i minori, compresi contenuti inadatti e manipolazione. La Guidance raccomanda restrizioni di età e indica come soglia minima 13 anni per le conversazioni autonome. Riporta inoltre che, allora, le condizioni d’uso di ChatGPT chiedevano almeno 13 anni e il permesso di un genitore o tutore sotto i 18. I Paesi, scrive, devono discutere in pubblico la soglia giusta. Nel frattempo, un account aperto di nascosto non è un uso pedagogico. È un salto delle condizioni del servizio.",
+              "text": "Sull’età, la Guidance UNESCO del 2023 è esplicita e va letta per quello che è: un orientamento, non il regolamento del tuo liceo. La maggior parte delle applicazioni di IA generativa è pensata per adulti e comporta rischi per i minori, compresi contenuti inadatti e manipolazione. La Guidance raccomanda restrizioni di età e indica come soglia minima 13 anni per le conversazioni autonome. Riporta inoltre che, allora, le condizioni d’uso di ChatGPT chiedevano almeno 13 anni e il permesso di un genitore o tutore sotto i 18. I Paesi, scrive, devono discutere in pubblico la soglia giusta. Nel frattempo, un account aperto di nascosto non è un uso pedagogico. È un salto delle condizioni del servizio, che vanno rilette: possono cambiare.",
               "version": 1
             }
           ]
@@ -348,7 +412,7 @@
           "children": [
             {
               "type": "text",
-              "text": "In classe e sul tavolo di casa, lo stesso filo",
+              "text": "In classe e sul tavolo di casa",
               "version": 1
             }
           ]
@@ -387,7 +451,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Chi insegna può disegnare la consegna in modo che la delega si veda. Non solo «scrivi 400 parole su». Anche: che domanda hai fatto, che risposta hai scartato e perché, quale fonte hai aperto dopo il suggerimento, che cosa cambieresti se il modello ha contraddetto il manuale. Sono tracce del pensiero. Un testo liscio, senza una di queste tracce, oggi può essere di chiunque, macchina compresa.",
+              "text": "Non è la stessa cosa di un ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/chatbot-amici-compagni-ai-adolescenti",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "chatbot tenuto come compagno",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", quello a cui si racconta la giornata. Lì il tema è la relazione, non la verifica. Qui il tema è il foglio.",
               "version": 1
             }
           ]
@@ -398,7 +479,105 @@
           "children": [
             {
               "type": "text",
-              "text": "Chi studia può usare una prova piccola, questa settimana. Scegli un esercizio. Fallo senza chat per dieci minuti, anche storto. Poi chiedi solo dove ti sei inceppato, non la soluzione intera. Confronta. Segna in una riga che cosa hai tenuto. Se la riga è vuota, perché hai copiato il finale, hai già la risposta: non era un aiuto. Era un sostituto.",
+              "text": "Quello che segue non è un protocollo, e non è la versione «sicura» dimostrata dall’esperimento. In quello studio gli indizi al posto della soluzione evitavano il calo sulla prova, e non battevano il libro. A casa, senza un docente che ha caricato le risposte giuste nel modello, un indizio può essere sbagliato lo stesso. Restano gesti di buon senso.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "tag": "ul",
+          "listType": "bullet",
+          "version": 1,
+          "children": [
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Prova prima. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Anche storto, per un po’, senza aprire la chat. Se il foglio resta bianco, la chat non ha ancora un punto su cui aiutarti: ha solo il compito intero.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chiedi il punto, non il finale. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "«Dove si inceppa questo passaggio» è una domanda. «Scrivimi la versione da consegnare» è una sostituzione.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Chiudi e riscrivi. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "La parte che consegni si scrive a chat chiusa. Se non la sapresti rifare a voce, non era tua.",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "listitem",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Il capitolo vince il disaccordo. ",
+                  "version": 1,
+                  "format": 1
+                },
+                {
+                  "type": "text",
+                  "text": "Se la chat e il libro non dicono la stessa cosa, tieni il libro e segna il dubbio. Una frase sicura non è una fonte.",
+                  "version": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chi studia può provarci su un esercizio, questa settimana, senza farne un rito. Segna in una riga che cosa hai chiesto, che cosa hai tenuto, che cosa hai scartato. Se la riga è vuota, perché hai copiato il finale, hai già la risposta: non era un aiuto. Era un sostituto. Non è una cura misurata. È il modo in cui si capisce se il pensiero è passato di lì.",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "version": 1,
+          "children": [
+            {
+              "type": "text",
+              "text": "Chi insegna può disegnare la consegna in modo che la delega si veda. Non solo «scrivi 400 parole su». Anche: che domanda hai fatto, che risposta hai scartato e perché, quale fonte hai aperto dopo il suggerimento, che cosa cambieresti se il modello ha contraddetto il manuale. Sono tracce del pensiero. Un testo liscio, senza una di queste tracce, oggi può essere di chiunque, macchina compresa.",
               "version": 1
             }
           ]
@@ -444,110 +623,6 @@
             {
               "type": "text",
               "text": "Dillo in una riga in cima al foglio, quando la regola lo consente. Butta i riferimenti che non hai aperti. Tieni il libro come arbitro quando la chat e il capitolo non dicono la stessa cosa. Il modello è veloce. La verifica è il compito.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Domande corte",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Posso farmi spiegare un capitolo da un chatbot?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Sì, se poi chiudi la chat e riscrivi con parole tue che cosa hai capito. La spiegazione è un uso. La consegna di quella spiegazione come compito tuo è un altro gesto. La Guidance UNESCO dice che questi strumenti possono estendere il pensiero, e che non devono sostituirlo.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Devo dire al docente che l’ho usato?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Sì, prima della consegna, e nel modo in cui la scuola lo ha chiesto. Se la regola non c’è ancora, una frase basta: che cosa hai chiesto, che cosa hai tenuto, che cosa hai scartato. Nascondere lo strumento trasforma un aiuto in un testo che non è il tuo.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Il chatbot può sbagliare anche se sembra sicuro?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Sì. Le linee guida del Ministero dell’istruzione e del merito ricordano che molti modelli linguistici producono risposte in tono sicuro e autorevole, ma possono mancare di rigore o poggiare su informazioni errate, compresi riferimenti falsi. Una frase ben scritta non è una fonte.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "A che età si può usare da soli?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "La Guidance UNESCO del 2023 indica come soglia minima 13 anni per le conversazioni autonome con piattaforme di IA generativa, e ricorda che a quella data le condizioni di ChatGPT chiedevano almeno 13 anni e il permesso di un genitore sotto i 18. Non è una legge italiana sui compiti. La regola dell’istituto e le condizioni del servizio restano da leggere.",
               "version": 1
             }
           ]
