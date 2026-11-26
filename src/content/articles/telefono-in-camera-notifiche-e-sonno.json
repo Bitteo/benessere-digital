@@ -1,11 +1,11 @@
 {
   "slug": "telefono-in-camera-notifiche-e-sonno",
   "title": "Telefono in camera: non sono (solo) le notifiche a rovinarti il sonno",
-  "excerpt": "Dormire col telefono in camera non è solo questione di ping. Luce, abitudini a letto e FOMO: cosa dicono AASM e CDC, e un protocollo concreto, senza colpe.",
+  "excerpt": "Dormire col telefono in camera non è solo questione di ping. Luce, abitudini a letto e FOMO: cosa dicono AASM e CDC, e gesti concreti in camera, senza colpe.",
   "cover": "/images/covers/telefono-in-camera-notifiche-e-sonno.png",
   "coverAlt": "Illustrazione editoriale a linee: una persona dorme nel letto, telefono sul comodino e pianta accanto.",
   "publishedAt": "2026-09-23T09:00:00.000+02:00",
-  "updatedAt": "2026-10-12T09:00:00.000+02:00",
+  "updatedAt": "2026-11-26T09:30:00.000+01:00",
   "authorSlugs": [
     "matteo-foroni"
   ],
@@ -13,11 +13,11 @@
     "schermo-e-tempo",
     "salute-mentale"
   ],
-  "readingTime": 10,
+  "readingTime": 9,
   "status": "published",
   "seo": {
     "metaTitle": "Telefono in camera e sonno: non sono solo le notifiche",
-    "metaDescription": "Telefono in camera e sonno, anche con Non disturbare: cosa dicono AASM e CDC su luce, letto e notifiche, e un protocollo pratico senza colpe."
+    "metaDescription": "Telefono in camera e sonno, anche con Non disturbare: cosa dicono AASM e CDC su luce, letto e notifiche, e gesti pratici in camera, senza colpe."
   },
   "sources": [
     {
@@ -87,6 +87,14 @@
     {
       "question": "Una settimana «andata male» rovina il sonno?",
       "answer": "No. Non è una sentenza. AASM e CDC insistono sulla regolarità: stesso orario, anche dopo una notte corta. Queste pagine non dicono che una notte corta si recuperi da sola. Non serve punirti il giorno dopo. Serve tornare alla stazione di ricarica stasera, senza bilancio morale."
+    },
+    {
+      "question": "Avere il telefono in camera, anche senza usarlo, conta?",
+      "answer": "Può entrare nel conto, e non è la prova che causi l’insonnia. Nella meta-analisi su bambini e adolescenti, il solo accesso notturno — senza usare il dispositivo — si associa a sonno insufficiente, qualità peggiore e più sonnolenza di giorno. Gli autori giudicano bassa la certezza: non sono esperimenti. L’AASM chiede di tenere il telefono lontano dal letto. I CDC chiedono di spegnere i dispositivi almeno 30 minuti prima e non scrivono «toglilo dalla stanza»."
+    },
+    {
+      "question": "Se non posso uscire dalla camera, dove lo metto?",
+      "answer": "Non sul comodino. Un cassetto chiuso, uno zaino o un’altra stanza allungano il percorso tra «è lì» e «lo apro». Se in casa c’è un posto comune, una presa fuori dalla camera fa lo stesso, senza un discorso a mezzanotte. Non è una cura del sonno: è un confine da ripetere, anche dopo una settimana storta."
     }
   ],
   "content": {
@@ -133,7 +141,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Il consenso sull’igiene del sonno è sobrio, e non è una frase unica. L’American Academy of Sleep Medicine chiede di usare il letto per dormire, di spegnere i dispositivi almeno 30 minuti prima, di silenziare le notifiche e di tenere il telefono lontano dal letto. Per gli adolescenti aggiunge di tenere fuori dalla camera TV, console, computer e tablet, e un orario dopo il quale non si scrivono messaggi né si aprono i social. I CDC, nella pagina sul sonno aggiornata al 15 maggio 2024, chiedono un orario stabile, una camera quieta e fresca, e di spegnere i dispositivi elettronici almeno 30 minuti prima di dormire. Non scrivono «togli il telefono dalla stanza».",
+              "text": "Il consenso sull’igiene del sonno è sobrio, e non è una frase unica. L’American Academy of Sleep Medicine chiede di usare il letto per dormire, di spegnere i dispositivi almeno 30 minuti prima, di silenziare le notifiche e di tenere il telefono lontano dal letto. Per gli adolescenti aggiunge di tenere fuori dalla camera TV, console, computer e tablet, e un orario dopo il quale non si scrivono messaggi né si aprono i social. Con i ragazzi di 8–14 anni, quel confine di camera si scrive negli ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/accordi-di-schermo-ragazzi-8-14",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "accordi di schermo",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": non è una prescrizione. I CDC, nella pagina sul sonno aggiornata al 15 maggio 2024, chiedono un orario stabile, una camera quieta e fresca, e di spegnere i dispositivi elettronici almeno 30 minuti prima di dormire. Non scrivono «togli il telefono dalla stanza».",
               "version": 1
             }
           ]
@@ -224,7 +249,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Il telefono a portata di mano non deve suonare per interromperti. Basta sapere che potrebbe esserci un messaggio, una storia, un voto. Il controllo «veloce» è un’abitudine, non un’emergenza. In uno studio su 101 adolescenti di 12–18 anni, la paura di perdersi qualcosa andava insieme all’uso dei social di notte, a orari di letto più tardi, a una mente più accesa prima di dormire e a un sonno più corto. È un questionario, non un esperimento: nel modello la FOMO si collega a un sonno più corto attraverso due vie, l’uso notturno e l’attivazione prima del sonno, ma non dimostra che la FOMO «causi» il sonno corto. Non è una diagnosi, e non è un difetto di carattere. Per molti è anche sociale: se gli altri sono online, chiudere il feed sembra perdere qualcosa.",
+              "text": "Il telefono a portata di mano non deve suonare per interromperti. Basta sapere che potrebbe esserci un messaggio, una storia, un voto. Il controllo «veloce» è un’abitudine, non un’emergenza. In uno studio su 101 adolescenti di 12–18 anni, la paura di perdersi qualcosa andava insieme all’uso dei social di notte, a orari di letto più tardi, a una mente più accesa prima di dormire e a un sonno più corto. È un questionario, non un esperimento: nel modello la FOMO si collega a un sonno più corto attraverso due vie, l’uso notturno e l’attivazione prima del sonno, ma non dimostra che la FOMO «causi» il sonno corto. Non è una diagnosi, e non è un difetto di carattere. Per molti è anche sociale: se gli altri sono online, chiudere il feed sembra perdere qualcosa. Il loop sui social, senza sparire, sta nel pezzo su ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/fomo-jomo-social-senza-sparire",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FOMO e JOMO",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
@@ -373,7 +415,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Separare i pezzi serve a scegliere il gesto. Se il problema sono i ping, Non disturbare e le eccezioni (solo chiamate di un contatto) bastano. Se il problema è lo scrolling a letto, il silenzio da solo è un cerotto.",
+              "text": "Separare i pezzi serve a scegliere il gesto. Se il problema sono i ping, Non disturbare e le eccezioni (solo chiamate di un contatto) bastano. Se il problema è lo scrolling a letto — anche il ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/doomscrolling-perche-il-pollice-non-si-ferma",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "doomscrolling",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " sulle cattive notizie — il silenzio da solo è un cerotto.",
               "version": 1
             }
           ]
@@ -385,7 +444,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Un protocollo di stanza, non di colpa",
+              "text": "Gesti di stanza, non di colpa",
               "version": 1
             }
           ]
@@ -419,7 +478,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Il gesto che le guide ripetono, tradotto in casa, è banale: il telefono si carica in cucina, in salotto o nel corridoio, non sul comodino. Non è «l’intervento più efficace» misurato in uno studio. È un modo per tenere il telefono lontano dal letto, come chiede l’AASM. Se condividi la casa, una ciabatta comune riduce la negoziazione ogni sera («stasera lo lascio qui, tanto…»). Fuori dalla stanza il controllo notturno costa un’alzata. Quel costo è il confine.",
+              "text": "Il gesto che le guide ripetono, tradotto in casa, è banale: il telefono si carica in cucina, in salotto o nel corridoio, non sul comodino. Non è «l’intervento più efficace» misurato in uno studio. È un modo per tenere il telefono lontano dal letto, come chiede l’AASM. Se condividi la casa, una ciabatta comune riduce la negoziazione ogni sera («stasera lo lascio qui, tanto…»), nello stesso spirito di un ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/digital-detox-in-famiglia-consigli-per-ridurre-luso-della-tecnologia-a-casa",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "piano condiviso in famiglia",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Fuori dalla stanza il controllo notturno costa un’alzata. Quel costo è il confine.",
               "version": 1
             }
           ]
@@ -535,110 +611,6 @@
             {
               "type": "text",
               "text": "I CDC e l’AASM indicano almeno 30 minuti senza dispositivi elettronici prima di dormire. Luce più calda, niente contenuto che chiede risposta (chat di gruppo, commenti, news in loop). Un libro, una serie già vista, una playlist, una doccia. Non deve essere «wellness»: deve essere meno interattivo del feed. I primi giorni il corpo protesta: «e se succede qualcosa?». La chat, di solito, può aspettare. Se ti serve una via di uscita, le chiamate ripetute di una persona di fiducia possono restare attive.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Domande corte",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Se metto Non disturbare, il telefono in camera non è un problema?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "No. Non disturbare toglie i suoni, non lo schermo e non l’abitudine di sbloccare. L’AASM separa tre gesti: spegnere gli schermi almeno 30 minuti prima, silenziare le notifiche, tenere il telefono lontano dal letto. Se il problema sono i ping, il silenzio con poche eccezioni è il pezzo giusto. Se il problema è lo scrolling a letto, il silenzio da solo non basta.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Il telefono come sveglia è un disastro?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "No. È una scusa frequente, non una condanna. Se è l’unico orologio che hai, tieni il telefono fuori portata e usa solo l’app orologio. Meglio una sveglia separata. Il problema non è l’allarme delle 7:00: è quello che succede alle 00:40, quando «controllo solo l’ora» diventa un reel.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Night Shift, Dark Mode e occhiali «anti luce blu» bastano?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Da soli, no. Per gli occhiali «anti luce blu», una review Cochrane del 2023 non stabilisce se migliorino il sonno: sei studi, esiti misti, certezza molto bassa. Night Shift e Dark Mode non sono quella review. Possono rendere lo schermo meno fastidioso. Non spezzano l’abitudine di controllare, né il fatto che il letto sia anche il posto del feed. Se ti fanno stare meglio, usali. Non confonderli con il telefono lontano dal letto.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Una settimana «andata male» rovina il sonno?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "No. Non è una sentenza. AASM e CDC insistono sulla regolarità: stesso orario, anche dopo una notte corta. Queste pagine non dicono che una notte corta si recuperi da sola. Non serve punirti il giorno dopo. Serve tornare alla stazione di ricarica stasera, senza bilancio morale.",
               "version": 1
             }
           ]
