@@ -5,13 +5,9 @@
   "cover": "/images/covers/fomo-jomo-social-senza-sparire.png",
   "coverAlt": "Illustrazione editoriale a linee: giovane in passeggiata al parco che guarda in alto, telefono ignorato o fuori fuoco, accenti corallo, charcoal su off-white — senza testo leggibile.",
   "publishedAt": "2026-10-14T09:00:00.000+02:00",
-  "authorSlugs": [
-    "matteo-foroni"
-  ],
-  "categorySlugs": [
-    "social-media",
-    "salute-mentale"
-  ],
+  "updatedAt": "2026-11-27T09:00:00.000+01:00",
+  "authorSlugs": ["matteo-foroni"],
+  "categorySlugs": ["social-media", "salute-mentale"],
   "readingTime": 6,
   "status": "published",
   "seo": {
@@ -22,7 +18,7 @@
     {
       "title": "Cambridge Dictionary — FOMO",
       "url": "https://dictionary.cambridge.org/dictionary/english/fomo",
-      "note": "Voce informale: sigla di fear of missing out, la preoccupazione di perdersi eventi che altri stanno vivendo, soprattutto per ciò che si vede sui social. Non è una diagnosi."
+      "note": "Voce informale: sigla di fear of missing out, la preoccupazione di perdersi eventi interessanti a cui altri stanno andando, soprattutto per ciò che si vede sui social. Non è una diagnosi."
     },
     {
       "title": "Przybylski, Murayama, DeHaan e Gladwell — Motivational, emotional, and behavioral correlates of fear of missing out (2013)",
@@ -42,12 +38,12 @@
     {
       "title": "Oxford Advanced Learner’s Dictionary — JOMO",
       "url": "https://www.oxfordlearnersdictionaries.com/definition/english/jomo",
-      "note": "Voce informale: joy of missing out, il piacere di usare il proprio tempo libero senza l’ansia che altrove stia succedendo qualcosa di più interessante."
+      "note": "Voce informale: joy of missing out, il piacere di passare il tempo libero come si vuole, senza la preoccupazione che altrove stia succedendo qualcosa di più interessante."
     },
     {
       "title": "Barry, Smith, Murphy, Halter e Briggs — JOMO (2023)",
       "url": "https://www.sciencedirect.com/science/article/pii/S2772503023000142",
-      "note": "Telematics and Informatics Reports, 10, 100054. DOI 10.1016/j.teler.2023.100054, open access. Gli autori partono dalla scarsità di ricerca empirica sulla JOMO rispetto alla FOMO. I risultati sono misti: così misurata, si accompagna sia a soddisfazione di vita sia ad ansia sociale, e chiedono altro lavoro. Non è la prova che «perdersi le cose» faccia stare meglio."
+      "note": "Telematics and Informatics Reports, 10, 100054. DOI 10.1016/j.teler.2023.100054, open access. Due campioni di adulti, 18–59 anni. I punteggi JOMO si associano in modo moderato a soddisfazione di vita e ad ansia sociale, e anche a FOMO e all’uso dei social durante la giornata. Un gruppo con JOMO alta riporta difficoltà internalizzanti e, insieme, alta soddisfazione di vita. Gli autori chiedono altro lavoro. Non è la prova che «perdersi le cose» faccia stare meglio."
     },
     {
       "title": "Carter, Rees, Hale, Bhattacharjee e Paradkar — Portable screen-based media devices and sleep (2016)",
@@ -71,6 +67,14 @@
     {
       "question": "Controllare le storie a letto è già un problema?",
       "answer": "È un segnale, non una condanna. Se è tre minuti e dormi, guardala. Se «l’ultimo video» diventa mezz’ora, il pezzo da muovere è la stanza, non la volontà a mezzanotte."
+    },
+    {
+      "question": "Silenziare le storie vuol dire ignorare gli amici?",
+      "answer": "No. Silenzi il radar, non la chat. Chi ti scrive resta raggiungibile. Non è un taglio sociale: smetti di scorrere vite che non stai vivendo, e tieni i messaggi."
+    },
+    {
+      "question": "Due finestre al giorno non mi fanno perdere un piano vero?",
+      "answer": "Quasi tutto quello che conta aspetta. Una chiamata e un messaggio diretto restano fuori da quelle finestre. Le storie scadono perché sono fatte così: non sono un’emergenza. Se temi di perderti un piano, chiedilo a una persona, non al feed."
     }
   ],
   "content": {
@@ -128,7 +132,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Sui social ha una forma precisa: le storie scadono, le chat si muovono, i like arrivano adesso. Il contenuto è fatto per sembrare incompleto. Il consenso è cauto: l’associazione tra social, confronto e malessere c’è in molta letteratura, ma non è «Instagram causa ansia». Contano quanto ti misuri, l’ansia che ci sta accanto — anche sociale — e se il telefono ti segue a letto. Tre segnali, più utili di un test online: apri senza scopo e chiudi peggio; controlli «tanto per»; dopo il feed la tua serata sembra un residuo. Non etichettarti. Nota quando il feed è diventato un radar.",
+              "text": "Sui social ha una forma precisa: le storie scadono, le chat si muovono, i like arrivano adesso. Il contenuto è fatto per sembrare incompleto. Il consenso è cauto: l’associazione tra social, confronto e malessere c’è in molta letteratura, ma non è «Instagram causa ansia». I limiti di quelle prove stanno nel pezzo sull’",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/limpatto-dei-social-media-sul-benessere-e-come-gestirlo-in-modo-consapevole",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "impatto dei social",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ". Contano quanto ti misuri, l’ansia che ci sta accanto — anche sociale — e se il telefono ti segue a letto. Tre segnali, più utili di un test online: apri senza scopo e chiudi peggio; controlli «tanto per»; dopo il feed la tua serata sembra un residuo. Non etichettarti. Nota quando il feed è diventato un radar.",
               "version": 1
             }
           ]
@@ -174,7 +195,24 @@
           "children": [
             {
               "type": "text",
-              "text": "Il loop non è magia e non è (solo) «mancanza di volontà». È un ambiente con tre ganci che si rinforzano.",
+              "text": "Il loop non è magia e non è (solo) «mancanza di volontà». È un ambiente con tre ganci che si rinforzano. Se il feed è di notizie e non di serate, è il parente descritto nel pezzo sul ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/doomscrolling-perche-il-pollice-non-si-ferma",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "doomscrolling",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
@@ -284,7 +322,24 @@
           "children": [
             {
               "type": "text",
-              "text": "L’obiettivo non è una versione migliore di te. È ridurre i momenti in cui sei in ascolto di una vita che non stai vivendo. Scegline due, non otto.",
+              "text": "L’obiettivo non è una versione migliore di te. È ridurre i momenti in cui sei in ascolto di una vita che non stai vivendo. Scegline due, non otto. Un elenco più largo di confini quotidiani, da trattare come attrito e non come cura, sta nelle ",
+              "version": 1
+            },
+            {
+              "type": "link",
+              "url": "/articoli/10-semplici-strategie-per-un-digital-detox-quotidiano",
+              "version": 1,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "dieci strategie per un digital detox quotidiano",
+                  "version": 1
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ".",
               "version": 1
             }
           ]
@@ -383,7 +438,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Un protocollo di 7 giorni, non un addio",
+              "text": "Sette giorni, non un addio",
               "version": 1
             }
           ]
@@ -394,7 +449,7 @@
           "children": [
             {
               "type": "text",
-              "text": "Sette giorni bastano per vedere se il radar si abbassa. Non è una cura e non è un challenge da postare.",
+              "text": "Sette giorni servono a vedere se il radar si abbassa. Non è una cura e non è un challenge da postare.",
               "version": 1
             }
           ]
@@ -492,110 +547,6 @@
             {
               "type": "text",
               "text": "A volte il loop è abitudine, a volte un segnale. Se da settimane dormi poco perché controlli, se il confronto ti svuota ogni sera, se eviti uscite vere «tanto vedo dalle storie», o se l’ansia non scende a app chiusa, non serve un altro trucco di notifica. Chiedi a qualcuno di fiducia — un adulto, un amico, un servizio scolastico — senza etichettare. Questo non è un pezzo clinico: la FOMO non è depressione. Possono però stare nello stesso periodo. Se il feed è l’unico posto in cui ti senti «dentro», tieni le abitudini piccole e parla con qualcuno che non è un profilo.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h2",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Domande corte",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Devo cancellare Instagram per togliermi la FOMO?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Di solito no. Cancellare senza cambiare orari sposta il loop altrove. Se Instagram è solo radar, puoi toglierlo. Se è anche messaggi e gruppi, silenzia e rimpicciolisci: non sparire.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "La JOMO non è solo un modo per sentirsi superiori?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Può, se la usi per raccontare quanto sei «disconnesso». Come pratica privata — meno storie, due check — è un grado in meno di allerta. Non va postata.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "E se gli amici si offendono se non rispondo subito?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Un messaggio chiaro vale più di una scomparsa: «Rispondo la sera, non a ogni giro di storie.» Chi ti cerca per te aspetta un’ora. Non è un motivo per restare di guardia.",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "heading",
-          "tag": "h3",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "Controllare le storie a letto è già un problema?",
-              "version": 1
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "version": 1,
-          "children": [
-            {
-              "type": "text",
-              "text": "È un segnale, non una condanna. Se è tre minuti e dormi, guardala. Se «l’ultimo video» diventa mezz’ora, il pezzo da muovere è la stanza, non la volontà a mezzanotte.",
               "version": 1
             }
           ]
